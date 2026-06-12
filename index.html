@@ -1167,14 +1167,18 @@ const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod
 const BUCKETS = ['Portátiles', 'Móviles', 'Monitores', 'Periféricos', 'Componentes', 'Gaming', 'TV y Audio', 'Hogar'];
 
 const NAME_RULES = [
-  ['Monitores',   /monitor/i],
+  // Order matters: specific product types first, generic spec keywords last.
+  // "Smart TV ... Procesador AiPQ" must hit TV y Audio before Componentes
+  // sees "procesador"; "27'' IPS QHD 200Hz" without the word "monitor" still
+  // lands in Monitores via panel/refresh-spec patterns.
+  ['Monitores',   /monitor|adaptive sync|freesync|g-?sync|\b(ips|va|tn)\b.*\d+\s?hz|\d+\s?hz.*\b(ips|va|tn)\b/i],
   ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
-  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|volante/i],
-  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|impresora|\bnas\b|router/i],
+  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|volante|trackir/i],
   ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|\bmando\b|gamepad|videojuego|figura|amiibo/i],
   ['Móviles',     /iphone|galaxy [szam]|smartphone|redmi|\bpoco [xfmc]|pixel \d|oneplus|smartwatch|pulsera de actividad|\btel[eé]fono\b/i],
-  ['TV y Audio',  /televisor|televisi[oó]n|\btv\b \d|barra de sonido|altavoz|soundbar|proyector|home cinema|auriculares bluetooth/i],
+  ['TV y Audio',  /smart tv|\btv\b|televisor|televisi[oó]n|barra de sonido|altavoz|soundbar|proyector|home cinema/i],
   ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|cafetera|microondas|horno|secadora|freidora|congelador|campana|plancha|batidora/i],
+  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|impresora|\bnas\b|router|ventilador|\brpm\b|\bpwm\b|pasta t[eé]rmica|thermal|disipador|pcie/i],
 ];
 
 const STORE_CATEGORY_RULES = [
