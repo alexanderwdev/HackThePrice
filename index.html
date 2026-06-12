@@ -1157,20 +1157,24 @@ const STORE_COLORS = {
 
 const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod', 'Worten'];
 
-// deals.json carries no category field, so we infer one from the product name
+// Category comes from the store when available (deals.json "category" field);
+// we classify using product name + store category combined, so products whose
+// name lacks an obvious keyword still land in the right bucket.
 const CATEGORY_RULES = [
   ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
-  ['Móviles',     /\bm[oó]vil\b|smartphone|iphone|galaxy [szam]|redmi|\bpoco\b|pixel \d|oneplus/i],
-  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim/i],
-  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming/i],
+  ['Móviles',     /\bm[oó]vil(es)?\b|smartphone|tel[eé]fono|iphone|galaxy [szam]|redmi|\bpoco\b|pixel \d|oneplus|smartwatch|pulsera/i],
   ['Monitores',   /monitor/i],
-  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|switch|\bmando\b|gamepad|videojuego|\bjuego\b/i],
-  ['TV y Audio',  /\btv\b|televisor|barra de sonido|altavoz|soundbar|proyector|\bled\b.*pulgadas|oled|qled/i],
-  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|robot|cafetera|microondas|horno|secadora|freidora|congelador|campana/i],
+  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|perif[eé]rico/i],
+  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|gr[aá]ficas?\b|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|\bcaja\b.*(pc|torre)|componente/i],
+  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|switch|\bmando\b|gamepad|videojuego|\bjuegos?\b|gaming|figura|merchandising/i],
+  ['TV y Audio',  /\btv\b|televisor|televisi[oó]n|barra de sonido|altavoz|soundbar|proyector|oled|qled|sonido|audio|home cinema/i],
+  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|robot|cafetera|microondas|horno|secadora|freidora|congelador|campana|electrodom[eé]stico|plancha|batidora|cocina/i],
+  ['Componentes', /inform[aá]tica|impresora|almacenamiento|\bnas\b|router|wifi/i],
 ];
 
-function inferCategory(name) {
-  for (const [cat, re] of CATEGORY_RULES) if (re.test(name)) return cat;
+function inferCategory(deal) {
+  const haystack = deal.name + ' ' + (deal.category || '');
+  for (const [cat, re] of CATEGORY_RULES) if (re.test(haystack)) return cat;
   return 'Otros';
 }
 
@@ -1310,7 +1314,7 @@ function buildStoreFilters() {
 
 function buildCategoryFilters() {
   const present   = [...new Set(allDeals.map(d => d._category))];
-  const order     = [...CATEGORY_RULES.map(r => r[0]), 'Otros'];
+  const order     = [...new Set([...CATEGORY_RULES.map(r => r[0]), 'Otros'])];
   const cats      = ['all', ...order.filter(c => present.includes(c))];
   const container = document.getElementById('category-filters');
   container.innerHTML = cats.map(c => {
@@ -1438,7 +1442,7 @@ fetch('./deals.json?t=' + Date.now())
       return;
     }
 
-    allDeals = data.deals.map(d => ({ ...d, _category: inferCategory(d.name) }));
+    allDeals = data.deals.map(d => ({ ...d, _category: inferCategory(d) }));
 
     document.getElementById('hero-deal-count').textContent = allDeals.length;
 
