@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T14:11:30.606059+00:00",
+  "updated": "2026-06-12T14:35:46.677034+00:00",
   "total_products": 306,
   "deals": [
     {
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781274902",
       "category": "Racores"
     },
     {
@@ -19,7 +19,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781274902",
       "category": "Racores"
     },
     {
@@ -33,23 +33,13 @@
       "category": "Móviles"
     },
     {
-      "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
-      "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 7.95,
-      "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1781269359",
-      "category": "Racores"
-    },
-    {
       "name": "Bitspower No Chafán Rigído Latón 16MM AD 300mm Rojo - Tubo",
       "url": "https://www.coolmod.com/bitspower-no-chafan-rigido-laton-16mm-ad-300mm-rojo-tubo/",
       "store": "Coolmod",
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781274902",
       "category": "Tubos"
     },
     {
@@ -59,7 +49,17 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781274902",
+      "category": "Racores"
+    },
+    {
+      "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
+      "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
+      "store": "Coolmod",
+      "current_price": 2.95,
+      "original_price": 7.95,
+      "discount_pct": 62.89,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1781274902",
       "category": "Racores"
     },
     {
@@ -79,7 +79,7 @@
       "current_price": 349.95,
       "original_price": 799.95,
       "discount_pct": 56.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781274902",
       "category": "Monitores"
     },
     {
@@ -110,7 +110,7 @@
       "original_price": 893.75,
       "discount_pct": 52.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1105/11056346/193-tv-hisense-qled-65e7s-65-4k-ultrahd-120hz-smart-tv-vidaa-hdr10-dolby-atmos.jpg",
-      "category": "Hisense"
+      "category": null
     },
     {
       "name": "Smart TV MiniLED 65\"(165,1 cm) TCL 65C61K 65\", 4K UHD, 144 Hz, Procesador AiPQ Pro, Quantum Dot",
@@ -189,7 +189,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781274902",
       "category": "Compuestos Térmicos"
     },
     {
@@ -229,7 +229,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781274902",
       "category": "Codos/Adaptadores"
     },
     {
@@ -239,7 +239,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781274902",
       "category": "Compuestos Térmicos"
     },
     {
@@ -249,7 +249,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781274902",
       "category": "Compuestos Térmicos"
     },
     {
@@ -269,7 +269,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781274902",
       "category": "Simulación"
     },
     {
@@ -329,7 +329,7 @@
       "current_price": 13.95,
       "original_price": 21.95,
       "discount_pct": 36.45,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781274902",
       "category": "Compuestos Térmicos"
     },
     {
@@ -359,7 +359,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781274902",
       "category": "Tarjetas PCI"
     },
     {
@@ -439,7 +439,7 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781274902",
       "category": "Almacenamiento"
     },
     {
@@ -449,7 +449,7 @@
       "current_price": 69.95,
       "original_price": 99.95,
       "discount_pct": 30.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781274902",
       "category": "Monitores"
     },
     {
@@ -499,7 +499,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781274902",
       "category": "Ventiladores"
     },
     {
@@ -569,18 +569,8 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781274902",
       "category": "Hubs/Switchs"
-    },
-    {
-      "name": "Portátil - HP OmniBook 3 Laptop 16-by0016ns, 16\" DCI 2K, AMD Ryzen™ 5 40, 16GB RAM, 512GB SSD, Radeon™ 610M, Windows 11 Home, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-by0016ns-16-dci-2k-amd-ryzentm-5-40-16gb-ram-512gb-ssd-radeontm-610m-windows-11-home-sin-cargador-1618456.html",
-      "store": "MediaMarkt",
-      "current_price": 599.0,
-      "original_price": 799.0,
-      "discount_pct": 25.03,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175469083",
-      "category": null
     },
     {
       "name": "Intenso Top 128GB SATA3",
@@ -593,14 +583,14 @@
       "category": "Almacenamiento HDD y SSD"
     },
     {
-      "name": "JBL Quantum 100P White Blue PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
-      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100p-white-blue-pc-ps5-ps4-xbox-switch-auriculares-gaming/244622",
-      "store": "GAME",
-      "current_price": 29.99,
-      "original_price": 39.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/244/244622.png",
-      "category": "Gaming"
+      "name": "Portátil - HP OmniBook 3 Laptop 16-by0016ns, 16\" DCI 2K, AMD Ryzen™ 5 40, 16GB RAM, 512GB SSD, Radeon™ 610M, Windows 11 Home, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-by0016ns-16-dci-2k-amd-ryzentm-5-40-16gb-ram-512gb-ssd-radeontm-610m-windows-11-home-sin-cargador-1618456.html",
+      "store": "MediaMarkt",
+      "current_price": 599.0,
+      "original_price": 799.0,
+      "discount_pct": 25.03,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175469083",
+      "category": null
     },
     {
       "name": "JBL Quantum 100 M2 Black PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
@@ -610,6 +600,16 @@
       "original_price": 39.99,
       "discount_pct": 25.01,
       "image_url": "https://media.game.es/COVERV2/3D_L/244/244613.png",
+      "category": "Gaming"
+    },
+    {
+      "name": "JBL Quantum 100P White Blue PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100p-white-blue-pc-ps5-ps4-xbox-switch-auriculares-gaming/244622",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 39.99,
+      "discount_pct": 25.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/244/244622.png",
       "category": "Gaming"
     },
     {
@@ -659,7 +659,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781274902",
       "category": "Repetidores"
     },
     {
@@ -729,7 +729,7 @@
       "current_price": 3.94,
       "original_price": 4.95,
       "discount_pct": 20.4,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781274902",
       "category": "Modding PC"
     },
     {
@@ -759,7 +759,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781274902",
       "category": "Sais"
     },
     {
@@ -1119,7 +1119,7 @@
       "current_price": 17.95,
       "original_price": 20.95,
       "discount_pct": 14.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781274902",
       "category": "Fuentes de Alimentación"
     },
     {
@@ -1309,7 +1309,7 @@
       "current_price": 97.95,
       "original_price": 108.95,
       "discount_pct": 10.1,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781274902",
       "category": "Modding PC"
     },
     {
@@ -1319,7 +1319,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781274902",
       "category": "Alfombrillas"
     },
     {
@@ -1349,7 +1349,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781274902",
       "category": "Hubs/Switchs"
     },
     {
@@ -1359,7 +1359,7 @@
       "current_price": 103.95,
       "original_price": 114.95,
       "discount_pct": 9.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781272900",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781274902",
       "category": "Modding PC"
     },
     {
@@ -1461,6 +1461,26 @@
       "discount_pct": 5.71,
       "image_url": "https://www.worten.es/i/b7f0b98228f31a12599b039da3c3854c921deb23",
       "category": null
+    },
+    {
+      "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
+      "store": "Carrefour",
+      "current_price": 15.43,
+      "original_price": 16.36,
+      "discount_pct": 5.68,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
+      "category": "Componentes"
+    },
+    {
+      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
+      "store": "Carrefour",
+      "current_price": 14.87,
+      "original_price": 15.76,
+      "discount_pct": 5.65,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
+      "category": "Componentes"
     },
     {
       "name": "GamePc Sobremesa Gaming Pro-A R7-7500/32gb/1tb/Rtx 5070Nv/750W/Ref Liquida+/FreeDos",
