@@ -1157,24 +1157,43 @@ const STORE_COLORS = {
 
 const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod', 'Worten'];
 
-// Category comes from the store when available (deals.json "category" field);
-// we classify using product name + store category combined, so products whose
-// name lacks an obvious keyword still land in the right bucket.
-const CATEGORY_RULES = [
-  ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
-  ['Móviles',     /\bm[oó]vil(es)?\b|smartphone|tel[eé]fono|iphone|galaxy [szam]|redmi|\bpoco\b|pixel \d|oneplus|smartwatch|pulsera/i],
+// Classification priority:
+//   1. High-precision keyword match on the product NAME only (ordered: most
+//      specific first, so "auriculares para móvil" hits Periféricos, not Móviles)
+//   2. The category the scraper assigned (Carrefour tags by source page,
+//      GAME is always Gaming, Worten/Coolmod expose their own category)
+//   3. Keyword match on the store category text
+//   4. Otros
+const BUCKETS = ['Portátiles', 'Móviles', 'Monitores', 'Periféricos', 'Componentes', 'Gaming', 'TV y Audio', 'Hogar'];
+
+const NAME_RULES = [
   ['Monitores',   /monitor/i],
-  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|perif[eé]rico/i],
-  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|gr[aá]ficas?\b|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|\bcaja\b.*(pc|torre)|componente/i],
-  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|switch|\bmando\b|gamepad|videojuego|\bjuegos?\b|gaming|figura|merchandising/i],
-  ['TV y Audio',  /\btv\b|televisor|televisi[oó]n|barra de sonido|altavoz|soundbar|proyector|oled|qled|sonido|audio|home cinema/i],
-  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|robot|cafetera|microondas|horno|secadora|freidora|congelador|campana|electrodom[eé]stico|plancha|batidora|cocina/i],
-  ['Componentes', /inform[aá]tica|impresora|almacenamiento|\bnas\b|router|wifi/i],
+  ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
+  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|volante/i],
+  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|impresora|\bnas\b|router/i],
+  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|\bmando\b|gamepad|videojuego|figura|amiibo/i],
+  ['Móviles',     /iphone|galaxy [szam]|smartphone|redmi|\bpoco [xfmc]|pixel \d|oneplus|smartwatch|pulsera de actividad|\btel[eé]fono\b/i],
+  ['TV y Audio',  /televisor|televisi[oó]n|\btv\b \d|barra de sonido|altavoz|soundbar|proyector|home cinema|auriculares bluetooth/i],
+  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|cafetera|microondas|horno|secadora|freidora|congelador|campana|plancha|batidora/i],
+];
+
+const STORE_CATEGORY_RULES = [
+  ['Móviles',     /m[oó]vil|foto/i],
+  ['Hogar',       /electrodom[eé]stico|hogar/i],
+  ['Gaming',      /gaming|videojuego|consola/i],
+  ['TV y Audio',  /tv|sonido|audio/i],
+  ['Componentes', /inform[aá]tica|componente|almacenamiento/i],
+  ['Periféricos', /perif[eé]rico/i],
+  ['Portátiles',  /port[aá]til/i],
+  ['Monitores',   /monitor/i],
 ];
 
 function inferCategory(deal) {
-  const haystack = deal.name + ' ' + (deal.category || '');
-  for (const [cat, re] of CATEGORY_RULES) if (re.test(haystack)) return cat;
+  for (const [cat, re] of NAME_RULES) if (re.test(deal.name)) return cat;
+  if (BUCKETS.includes(deal.category)) return deal.category;
+  if (deal.category) {
+    for (const [cat, re] of STORE_CATEGORY_RULES) if (re.test(deal.category)) return cat;
+  }
   return 'Otros';
 }
 
@@ -1314,7 +1333,7 @@ function buildStoreFilters() {
 
 function buildCategoryFilters() {
   const present   = [...new Set(allDeals.map(d => d._category))];
-  const order     = [...new Set([...CATEGORY_RULES.map(r => r[0]), 'Otros'])];
+  const order     = [...BUCKETS, 'Otros'];
   const cats      = ['all', ...order.filter(c => present.includes(c))];
   const container = document.getElementById('category-filters');
   container.innerHTML = cats.map(c => {
