@@ -3,54 +3,72 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HackThePrice — Ofertas tech para España</title>
+<title>HackThePrice — Ofertas tech verificadas en España</title>
+<meta name="description" content="Agregador automático de ofertas tech en España. Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten cada hora.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
   :root {
     --bg: #0a0a0a;
-    --surface: #111111;
-    --border: #1f1f1f;
+    --bg-soft: #0d0d0d;
+    --surface: #111113;
+    --surface-2: #16161a;
+    --border: rgba(255,255,255,0.07);
+    --border-strong: rgba(255,255,255,0.13);
     --accent: #00ff88;
-    --text: #f0f0f0;
-    --muted: #555;
+    --accent-dim: rgba(0,255,136,0.12);
+    --accent-border: rgba(0,255,136,0.35);
+    --text: #f2f2f2;
+    --text-soft: #b8b8b8;
+    --muted: #6b6b6b;
     --mono: 'Space Mono', monospace;
     --sans: 'Syne', sans-serif;
-    --nav-h: 68px;
+    --nav-h: 64px;
+    --radius: 12px;
+    --ease: cubic-bezier(0.22, 1, 0.36, 1);
   }
+
   html { scroll-behavior: smooth; }
+
   body {
     background: var(--bg);
     color: var(--text);
     font-family: var(--sans);
     min-height: 100vh;
     overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
   }
-  body::before {
-    content: '';
+
+  /* ── BACKGROUND LAYERS ── */
+  .bg-grid {
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,255,136,0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0,255,136,0.03) 1px, transparent 1px);
-    background-size: 40px 40px;
+      linear-gradient(rgba(0,255,136,0.025) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,255,136,0.025) 1px, transparent 1px);
+    background-size: 48px 48px;
+    mask-image: radial-gradient(ellipse 90% 60% at 50% 0%, black 30%, transparent 80%);
+    -webkit-mask-image: radial-gradient(ellipse 90% 60% at 50% 0%, black 30%, transparent 80%);
     pointer-events: none;
     z-index: 0;
   }
-  body::after {
-    content: '';
+  .bg-glow {
     position: fixed;
-    top: -20%;
+    top: -25%;
     left: 50%;
     transform: translateX(-50%);
-    width: 700px;
-    height: 700px;
-    background: radial-gradient(circle, rgba(0,255,136,0.07) 0%, transparent 70%);
+    width: 900px;
+    height: 900px;
+    background: radial-gradient(circle, rgba(0,255,136,0.08) 0%, rgba(0,255,136,0.02) 40%, transparent 70%);
     pointer-events: none;
     z-index: 0;
+    filter: blur(20px);
   }
+
+  [id] { scroll-margin-top: calc(var(--nav-h) + 24px); }
 
   /* ── NAV ── */
   nav {
@@ -58,295 +76,443 @@
     top: 0; left: 0; right: 0;
     z-index: 100;
     height: var(--nav-h);
-    padding: 0 40px;
+    padding: 0 32px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid var(--border);
-    backdrop-filter: blur(20px);
-    background: rgba(10,10,10,0.8);
+    backdrop-filter: blur(24px) saturate(1.4);
+    -webkit-backdrop-filter: blur(24px) saturate(1.4);
+    background: rgba(10,10,10,0.72);
   }
   .logo {
     font-family: var(--mono);
     font-size: 1rem;
     font-weight: 700;
     color: var(--accent);
+    text-decoration: none;
+    letter-spacing: -0.02em;
   }
   .logo span { color: var(--text); }
-  .nav-tag {
-    font-family: var(--mono);
-    font-size: 0.7rem;
-    color: var(--muted);
-    border: 1px solid var(--border);
-    padding: 4px 10px;
-    border-radius: 2px;
-  }
-
-  [id] { scroll-margin-top: calc(var(--nav-h) + 20px); }
-
-  /* ── HERO ── */
-  .hero {
-    position: relative;
-    z-index: 1;
-    min-height: 100vh;
+  .nav-links {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 120px 24px 80px;
+    gap: 28px;
   }
-  .badge {
+  .nav-links a {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.2s;
+    letter-spacing: 0.02em;
+  }
+  .nav-links a:hover { color: var(--accent); }
+  .nav-status {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 7px;
     font-family: var(--mono);
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     color: var(--accent);
-    border: 1px solid rgba(0,255,136,0.3);
-    padding: 6px 14px;
-    border-radius: 2px;
-    margin-bottom: 40px;
-    animation: fadeUp 0.6s ease both;
+    border: 1px solid var(--accent-border);
+    background: var(--accent-dim);
+    padding: 5px 12px;
+    border-radius: 100px;
   }
-  .badge::before {
+  .nav-status::before {
     content: '';
     width: 6px; height: 6px;
     background: var(--accent);
     border-radius: 50%;
-    animation: blink 1.2s infinite;
+    box-shadow: 0 0 8px var(--accent);
+    animation: blink 1.6s ease-in-out infinite;
   }
   @keyframes blink {
     0%, 100% { opacity: 1; }
-    50% { opacity: 0.2; }
+    50% { opacity: 0.25; }
   }
-  h1 {
-    font-family: var(--sans);
-    font-size: clamp(2.8rem, 8vw, 6rem);
-    font-weight: 800;
-    line-height: 0.95;
-    letter-spacing: -0.04em;
-    margin-bottom: 28px;
-    animation: fadeUp 0.6s 0.1s ease both;
-  }
-  h1 em { font-style: normal; color: var(--accent); }
-  .subtitle {
-    font-family: var(--mono);
-    font-size: clamp(0.8rem, 2vw, 0.95rem);
-    color: var(--muted);
-    max-width: 480px;
-    line-height: 1.7;
-    margin-bottom: 52px;
-    animation: fadeUp 0.6s 0.2s ease both;
-  }
-  .cta-group {
-    display: flex;
-    gap: 12px;
-    flex-wrap: wrap;
-    justify-content: center;
-    animation: fadeUp 0.6s 0.3s ease both;
-  }
-  .btn-primary {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background: var(--accent);
-    color: #000;
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    font-weight: 700;
-    padding: 14px 28px;
-    border-radius: 2px;
-    text-decoration: none;
-    transition: all 0.2s;
-  }
-  .btn-primary:hover {
-    background: #fff;
-    transform: translateY(-2px);
-    box-shadow: 0 0 30px rgba(0,255,136,0.3);
-  }
-  .btn-secondary {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background: transparent;
-    color: var(--text);
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    padding: 14px 28px;
-    border-radius: 2px;
-    text-decoration: none;
-    border: 1px solid var(--border);
-    transition: all 0.2s;
-  }
-  .btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
 
   /* ── TICKER ── */
   .ticker-wrap {
     position: relative;
     z-index: 1;
+    margin-top: var(--nav-h);
     overflow: hidden;
-    border-top: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
-    background: var(--surface);
-    padding: 14px 0;
-    margin-bottom: 80px;
+    background: var(--bg-soft);
+    padding: 11px 0;
   }
+  .ticker-wrap::before, .ticker-wrap::after {
+    content: '';
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 80px;
+    z-index: 2;
+    pointer-events: none;
+  }
+  .ticker-wrap::before { left: 0; background: linear-gradient(90deg, var(--bg) 0%, transparent 100%); }
+  .ticker-wrap::after { right: 0; background: linear-gradient(-90deg, var(--bg) 0%, transparent 100%); }
   .ticker-wrap:hover .ticker { animation-play-state: paused; }
   .ticker {
     display: flex;
-    gap: 60px;
-    animation: scroll 22s linear infinite;
-    white-space: nowrap;
+    gap: 56px;
+    width: max-content;
+    animation: ticker-scroll 28s linear infinite;
   }
   .ticker-item {
     font-family: var(--mono);
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     color: var(--muted);
     display: flex;
     align-items: center;
     gap: 10px;
     flex-shrink: 0;
+    white-space: nowrap;
   }
-  .ticker-item .pct { color: var(--accent); font-weight: 700; }
-  @keyframes scroll {
+  .ticker-item .pct {
+    color: var(--accent);
+    font-weight: 700;
+    background: var(--accent-dim);
+    padding: 1px 7px;
+    border-radius: 4px;
+  }
+  @keyframes ticker-scroll {
     0%   { transform: translateX(0); }
     100% { transform: translateX(-50%); }
   }
+
+  /* ── HERO ── */
+  .hero {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 110px 24px 90px;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    color: var(--text-soft);
+    border: 1px solid var(--border-strong);
+    background: rgba(255,255,255,0.03);
+    padding: 6px 16px;
+    border-radius: 100px;
+    margin-bottom: 36px;
+    animation: heroUp 0.7s var(--ease) both;
+  }
+  .hero-badge b { color: var(--accent); font-weight: 700; }
+  h1 {
+    font-family: var(--sans);
+    font-size: clamp(2.6rem, 7.5vw, 5.6rem);
+    font-weight: 800;
+    line-height: 1.0;
+    letter-spacing: -0.045em;
+    margin-bottom: 26px;
+    animation: heroUp 0.7s 0.08s var(--ease) both;
+  }
+  h1 em {
+    font-style: normal;
+    color: var(--accent);
+    position: relative;
+    text-shadow: 0 0 60px rgba(0,255,136,0.4);
+  }
+  .subtitle {
+    font-family: var(--mono);
+    font-size: clamp(0.78rem, 1.8vw, 0.92rem);
+    color: var(--muted);
+    max-width: 520px;
+    line-height: 1.8;
+    margin-bottom: 44px;
+    animation: heroUp 0.7s 0.16s var(--ease) both;
+  }
+  .hero-search {
+    display: flex;
+    width: min(520px, 100%);
+    gap: 0;
+    margin-bottom: 18px;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: border-color 0.25s, box-shadow 0.25s;
+    animation: heroUp 0.7s 0.24s var(--ease) both;
+  }
+  .hero-search:focus-within {
+    border-color: var(--accent-border);
+    box-shadow: 0 0 0 3px rgba(0,255,136,0.08), 0 8px 40px rgba(0,255,136,0.06);
+  }
+  .hero-search input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 0.82rem;
+    padding: 16px 20px;
+  }
+  .hero-search input::placeholder { color: var(--muted); }
+  .hero-search button {
+    background: var(--accent);
+    color: #000;
+    border: none;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 0 26px;
+    cursor: pointer;
+    transition: filter 0.2s;
+  }
+  .hero-search button:hover { filter: brightness(1.15); }
+  .hero-meta {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    color: var(--muted);
+    animation: heroUp 0.7s 0.32s var(--ease) both;
+  }
+  .hero-meta b { color: var(--accent); font-weight: 700; }
+  @keyframes heroUp {
+    from { opacity: 0; transform: translateY(26px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── SCROLL REVEAL ── */
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.7s var(--ease), transform 0.7s var(--ease);
+  }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal[data-delay="1"] { transition-delay: 0.08s; }
+  .reveal[data-delay="2"] { transition-delay: 0.16s; }
+  .reveal[data-delay="3"] { transition-delay: 0.24s; }
 
   /* ── SECTIONS ── */
   .section {
     position: relative;
     z-index: 1;
-    max-width: 1000px;
+    max-width: 1120px;
     margin: 0 auto;
-    padding: 0 24px 100px;
+    padding: 0 24px 110px;
   }
+  .section-head { margin-bottom: 44px; }
   .section-label {
     font-family: var(--mono);
-    font-size: 0.7rem;
+    font-size: 0.68rem;
     color: var(--accent);
-    letter-spacing: 0.1em;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
-    margin-bottom: 48px;
+    margin-bottom: 14px;
     display: flex;
     align-items: center;
     gap: 12px;
   }
-  .section-label::after {
+  .section-label::before {
     content: '';
-    flex: 1;
+    width: 24px;
     height: 1px;
-    background: var(--border);
-  }
-
-  /* ── FEATURES ── */
-  .features {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
-  }
-  .feature {
-    background: var(--bg);
-    padding: 36px 32px;
-    transition: background 0.2s;
-    position: relative;
-    overflow: hidden;
-  }
-  .feature::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0;
-    width: 2px; height: 0;
     background: var(--accent);
-    transition: height 0.3s;
   }
-  .feature:hover { background: var(--surface); }
-  .feature:hover::before { height: 100%; }
-  .feature-icon { font-size: 1.4rem; margin-bottom: 20px; }
-  .feature h3 {
+  .section-title {
     font-family: var(--sans);
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 10px;
-    letter-spacing: -0.02em;
+    font-size: clamp(1.5rem, 3.6vw, 2.4rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
   }
-  .feature p {
+  .section-sub {
     font-family: var(--mono);
-    font-size: 0.75rem;
+    font-size: 0.76rem;
     color: var(--muted);
+    margin-top: 12px;
     line-height: 1.7;
+    max-width: 560px;
   }
 
-  /* ── STATS ── */
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1px;
-    background: var(--border);
+  /* ── FILTERS ── */
+  .deals-controls {
+    display: none;
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 28px;
+    padding: 20px;
+    background: var(--surface);
     border: 1px solid var(--border);
-    margin-bottom: 100px;
+    border-radius: var(--radius);
   }
-  .stat { background: var(--bg); padding: 40px 32px; text-align: center; }
-  .stat-num {
+  .deals-controls.visible { display: flex; }
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  .filter-label {
     font-family: var(--mono);
-    font-size: 2.2rem;
-    font-weight: 700;
-    color: var(--accent);
-    display: block;
-    margin-bottom: 8px;
+    font-size: 0.62rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    min-width: 72px;
   }
-  .stat-label {
+  .filter-btn {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    padding: 7px 15px;
+    border-radius: 100px;
+    border: 1px solid var(--border-strong);
+    background: transparent;
+    color: var(--text-soft);
+    cursor: pointer;
+    transition: all 0.2s var(--ease);
+    white-space: nowrap;
+  }
+  .filter-btn:hover {
+    border-color: var(--accent-border);
+    color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .filter-btn.active {
+    border-color: var(--accent);
+    color: #000;
+    background: var(--accent);
+    font-weight: 700;
+    box-shadow: 0 0 18px rgba(0,255,136,0.25);
+  }
+  .search-input {
+    font-family: var(--mono);
+    font-size: 0.74rem;
+    padding: 8px 16px;
+    background: var(--bg);
+    border: 1px solid var(--border-strong);
+    color: var(--text);
+    border-radius: 100px;
+    outline: none;
+    width: 230px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus {
+    border-color: var(--accent-border);
+    box-shadow: 0 0 0 3px rgba(0,255,136,0.08);
+  }
+  .deals-count {
     font-family: var(--mono);
     font-size: 0.7rem;
     color: var(--muted);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    margin-left: auto;
+  }
+  .deals-count span { color: var(--accent); font-weight: 700; }
+  .discount-slider-wrap { display: flex; align-items: center; gap: 12px; }
+  .discount-value {
+    font-family: var(--mono);
+    font-size: 0.76rem;
+    color: var(--accent);
+    font-weight: 700;
+    min-width: 52px;
+  }
+  input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 170px;
+    height: 3px;
+    background: var(--border-strong);
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+  }
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px; height: 15px;
+    background: var(--accent);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+    box-shadow: 0 0 0 0 rgba(0,255,136,0.3);
+  }
+  input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.25);
+    box-shadow: 0 0 0 6px rgba(0,255,136,0.12);
+  }
+  input[type="range"]::-moz-range-thumb {
+    width: 15px; height: 15px;
+    background: var(--accent);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
   }
 
-  /* ── DEAL CARDS ── */
+  /* ── DEALS GRID ── */
   .deals-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 0;
-    border-top: 1px solid var(--border);
-    border-left: 1px solid var(--border);
+    grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
+    gap: 16px;
   }
   .deal-card {
-    background: var(--bg);
-    border-right: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
     display: flex;
     flex-direction: column;
-    transition: background 0.2s;
-    position: relative;
     overflow: hidden;
+    transition: transform 0.3s var(--ease), border-color 0.3s, box-shadow 0.3s;
+    animation: cardIn 0.5s var(--ease) both;
   }
-  .deal-card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0;
-    width: 2px; height: 0;
-    background: var(--accent);
-    transition: height 0.3s;
+  .deal-card:nth-child(2)  { animation-delay: 0.04s; }
+  .deal-card:nth-child(3)  { animation-delay: 0.08s; }
+  .deal-card:nth-child(4)  { animation-delay: 0.12s; }
+  .deal-card:nth-child(5)  { animation-delay: 0.16s; }
+  .deal-card:nth-child(6)  { animation-delay: 0.20s; }
+  .deal-card:nth-child(7)  { animation-delay: 0.24s; }
+  .deal-card:nth-child(8)  { animation-delay: 0.28s; }
+  .deal-card:nth-child(n+9){ animation-delay: 0.32s; }
+  @keyframes cardIn {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
   }
-  .deal-card:hover { background: var(--surface); }
-  .deal-card:hover::before { height: 100%; }
+  .deal-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-border);
+    box-shadow: 0 16px 48px rgba(0,0,0,0.5), 0 0 24px rgba(0,255,136,0.07);
+  }
+  .deal-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+  }
   .deal-store {
     font-family: var(--mono);
-    font-size: 0.65rem;
+    font-size: 0.6rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: #000;
-    padding: 4px 10px;
-    flex-shrink: 0;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 100px;
+  }
+  .deal-pct {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-dim);
+    border: 1px solid var(--accent-border);
+    padding: 2px 9px;
+    border-radius: 100px;
   }
   .deal-img-wrap {
     width: 100%;
-    height: 140px;
+    height: 150px;
     background: #fff;
     display: flex;
     align-items: center;
@@ -359,21 +525,29 @@
     width: 100%;
     height: 100%;
     object-fit: contain;
-    padding: 8px;
+    padding: 10px;
+    transition: transform 0.4s var(--ease);
   }
-  .deal-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 12px; }
+  .deal-card:hover .deal-img { transform: scale(1.05); }
+  .deal-body {
+    padding: 18px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
   .deal-name {
     font-family: var(--sans);
-    font-size: 0.88rem;
+    font-size: 0.86rem;
     font-weight: 600;
-    line-height: 1.4;
+    line-height: 1.45;
     color: var(--text);
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .deal-prices { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .deal-prices { display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap; }
   .deal-price-now {
     font-family: var(--mono);
     font-size: 1.3rem;
@@ -382,54 +556,46 @@
   }
   .deal-price-old {
     font-family: var(--mono);
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: var(--muted);
     text-decoration: line-through;
   }
-  .deal-badges { display: flex; gap: 6px; flex-wrap: wrap; }
-  .deal-pct {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    font-weight: 700;
-    color: var(--accent);
-    background: rgba(0,255,136,0.1);
-    border: 1px solid rgba(0,255,136,0.2);
-    padding: 2px 7px;
-    border-radius: 2px;
-  }
   .deal-saving {
     font-family: var(--mono);
-    font-size: 0.72rem;
-    color: var(--muted);
-    border: 1px solid var(--border);
-    padding: 2px 7px;
-    border-radius: 2px;
+    font-size: 0.68rem;
+    color: var(--text-soft);
   }
   .deal-btn {
     margin-top: auto;
     display: block;
     text-align: center;
-    background: var(--accent);
-    color: #000;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid var(--border-strong);
+    color: var(--text);
     font-family: var(--mono);
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     font-weight: 700;
-    padding: 10px;
+    padding: 11px;
+    border-radius: 8px;
     text-decoration: none;
-    transition: opacity 0.15s;
+    transition: all 0.2s var(--ease);
   }
-  .deal-btn:hover { opacity: 0.85; }
+  .deal-btn:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #000;
+  }
 
-  /* ── SKELETON LOADING ── */
+  /* ── SKELETON ── */
   .skeleton-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
+    grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
+    gap: 16px;
   }
   .skeleton-card {
-    background: var(--bg);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
     height: 360px;
     position: relative;
     overflow: hidden;
@@ -438,189 +604,38 @@
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.025) 50%, transparent 100%);
-    animation: shimmer 1.8s ease-in-out infinite;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.03) 50%, transparent 100%);
+    animation: shimmer 1.6s ease-in-out infinite;
   }
   @keyframes shimmer {
     0%   { transform: translateX(-100%); }
     100% { transform: translateX(100%); }
   }
 
-  /* ── EMPTY / ERROR STATES ── */
+  /* ── EMPTY / ERROR ── */
   .deals-empty, .deals-error {
     font-family: var(--mono);
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: var(--muted);
     text-align: center;
     padding: 80px 24px;
-    border: 1px solid var(--border);
+    border: 1px dashed var(--border-strong);
+    border-radius: var(--radius);
     line-height: 2;
   }
   .state-icon {
     font-size: 2rem;
     display: block;
-    margin-bottom: 16px;
-    opacity: 0.4;
+    margin-bottom: 14px;
+    opacity: 0.45;
   }
 
-  /* ── META ── */
   .deals-meta {
     font-family: var(--mono);
-    font-size: 0.68rem;
+    font-size: 0.66rem;
     color: var(--muted);
-    margin-top: 16px;
+    margin-top: 18px;
     text-align: right;
-  }
-
-  /* ── FILTERS ── */
-  .deals-controls {
-    display: none;
-    flex-direction: column;
-    gap: 12px;
-    margin-bottom: 24px;
-  }
-  .deals-controls.visible { display: flex; }
-  .filter-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    align-items: center;
-  }
-  .filter-label {
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    color: var(--muted);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    min-width: 60px;
-  }
-  .filter-btn {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    padding: 5px 12px;
-    border-radius: 2px;
-    border: 1px solid var(--border);
-    background: transparent;
-    color: var(--muted);
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
-  .filter-btn.active { border-color: var(--accent); color: #000; background: var(--accent); }
-  .search-input {
-    font-family: var(--mono);
-    font-size: 0.75rem;
-    padding: 6px 12px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--text);
-    border-radius: 2px;
-    outline: none;
-    width: 220px;
-    transition: border-color 0.15s;
-  }
-  .search-input::placeholder { color: var(--muted); }
-  .search-input:focus { border-color: var(--accent); }
-  .deals-count {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    color: var(--muted);
-    margin-left: auto;
-  }
-  .deals-count span { color: var(--accent); font-weight: 700; }
-  .discount-slider-wrap { display: flex; align-items: center; gap: 12px; }
-  .discount-value {
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    color: var(--accent);
-    font-weight: 700;
-    min-width: 38px;
-  }
-  input[type="range"] {
-    -webkit-appearance: none;
-    appearance: none;
-    width: 180px;
-    height: 3px;
-    background: var(--border);
-    border-radius: 2px;
-    outline: none;
-    cursor: pointer;
-  }
-  input[type="range"]::-webkit-slider-thumb {
-    -webkit-appearance: none;
-    appearance: none;
-    width: 14px; height: 14px;
-    background: var(--accent);
-    border-radius: 50%;
-    cursor: pointer;
-    transition: transform 0.1s;
-  }
-  input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.3); }
-  input[type="range"]::-moz-range-thumb {
-    width: 14px; height: 14px;
-    background: var(--accent);
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-  }
-
-  /* ── CTA BOTTOM ── */
-  .cta-bottom {
-    position: relative;
-    z-index: 1;
-    text-align: center;
-    padding: 80px 24px 100px;
-    border-top: 1px solid var(--border);
-  }
-  .cta-bottom h2 {
-    font-family: var(--sans);
-    font-size: clamp(1.8rem, 5vw, 3.5rem);
-    font-weight: 800;
-    letter-spacing: -0.04em;
-    margin-bottom: 16px;
-  }
-  .cta-bottom p {
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    color: var(--muted);
-    margin-bottom: 40px;
-  }
-
-  /* ── FOOTER ── */
-  footer {
-    position: relative;
-    z-index: 1;
-    border-top: 1px solid var(--border);
-    padding: 28px 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 12px;
-  }
-  footer > * { flex: 1; }
-  footer p { font-family: var(--mono); font-size: 0.7rem; color: var(--muted); }
-  footer p:first-of-type { text-align: center; }
-  footer p:last-of-type  { text-align: right; }
-
-  /* ── ANIMATIONS ── */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  /* ── RESPONSIVE ── */
-  @media (max-width: 640px) {
-    nav { padding: 0 20px; }
-    .stats { grid-template-columns: 1fr; }
-    .search-input { width: 100%; }
-    footer { padding: 24px 20px; flex-direction: column; align-items: flex-start; }
-    input[type="range"] { width: 130px; }
-    h1 { line-height: 1.05; }
-  }
-  @media (max-width: 480px) {
-    .deals-count { margin-left: 0; width: 100%; }
   }
 
   /* ── PAGINATION ── */
@@ -629,151 +644,393 @@
     justify-content: center;
     align-items: center;
     gap: 6px;
-    margin-top: 28px;
+    margin-top: 32px;
     flex-wrap: wrap;
   }
   .page-btn {
     font-family: var(--mono);
-    font-size: 0.75rem;
-    min-width: 34px;
-    height: 34px;
-    padding: 0 8px;
+    font-size: 0.74rem;
+    min-width: 36px;
+    height: 36px;
+    padding: 0 9px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid var(--border);
+    border: 1px solid var(--border-strong);
     background: transparent;
-    color: var(--muted);
+    color: var(--text-soft);
     cursor: pointer;
-    border-radius: 2px;
-    transition: all 0.15s;
+    border-radius: 8px;
+    transition: all 0.2s var(--ease);
   }
-  .page-btn:hover:not([disabled]) { border-color: var(--accent); color: var(--accent); }
-  .page-btn.active { border-color: var(--accent); background: var(--accent); color: #000; font-weight: 700; }
+  .page-btn:hover:not([disabled]):not(.active) {
+    border-color: var(--accent-border);
+    color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .page-btn.active {
+    border-color: var(--accent);
+    background: var(--accent);
+    color: #000;
+    font-weight: 700;
+    box-shadow: 0 0 16px rgba(0,255,136,0.22);
+  }
   .page-btn[disabled] { opacity: 0.3; cursor: not-allowed; }
-  .page-dots { font-family: var(--mono); font-size: 0.75rem; color: var(--muted); padding: 0 2px; }
+  .page-dots {
+    font-family: var(--mono);
+    font-size: 0.74rem;
+    color: var(--muted);
+    padding: 0 3px;
+  }
+
+  /* ── HOW IT WORKS ── */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .step {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 32px 28px;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s var(--ease), border-color 0.3s;
+  }
+  .step:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent-border);
+  }
+  .step-num {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    display: inline-block;
+    margin-bottom: 18px;
+    padding: 4px 11px;
+    border: 1px solid var(--accent-border);
+    background: var(--accent-dim);
+    border-radius: 100px;
+  }
+  .step h3 {
+    font-family: var(--sans);
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 10px;
+  }
+  .step p {
+    font-family: var(--mono);
+    font-size: 0.73rem;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+  .step::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), transparent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.4s var(--ease);
+  }
+  .step:hover::after { transform: scaleX(1); }
+
+  /* ── FEATURES ── */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+  }
+  .feature {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 30px 28px;
+    transition: transform 0.3s var(--ease), border-color 0.3s, background 0.3s;
+    position: relative;
+  }
+  .feature:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent-border);
+    background: var(--surface-2);
+  }
+  .feature-icon {
+    width: 40px; height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.15rem;
+    background: var(--accent-dim);
+    border: 1px solid var(--accent-border);
+    border-radius: 10px;
+    margin-bottom: 18px;
+  }
+  .feature h3 {
+    font-family: var(--sans);
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 9px;
+    letter-spacing: -0.02em;
+  }
+  .feature p {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+  .feature .vs {
+    display: inline-block;
+    margin-top: 12px;
+    font-family: var(--mono);
+    font-size: 0.64rem;
+    color: var(--muted);
+    border: 1px dashed var(--border-strong);
+    padding: 3px 10px;
+    border-radius: 100px;
+  }
+  .feature .vs s { color: #555; }
+
+  /* ── STATS ── */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 42px 32px;
+    text-align: center;
+    transition: transform 0.3s var(--ease), border-color 0.3s;
+    position: relative;
+    overflow: hidden;
+  }
+  .stat:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent-border);
+  }
+  .stat::before {
+    content: '';
+    position: absolute;
+    top: -40px; left: 50%;
+    transform: translateX(-50%);
+    width: 120px; height: 80px;
+    background: radial-gradient(ellipse, rgba(0,255,136,0.1) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .stat-num {
+    font-family: var(--mono);
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+    text-shadow: 0 0 30px rgba(0,255,136,0.3);
+  }
+  .stat-label {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  /* ── CTA BOTTOM ── */
+  .cta-bottom {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 100px 24px;
+    border-top: 1px solid var(--border);
+    overflow: hidden;
+  }
+  .cta-bottom::before {
+    content: '';
+    position: absolute;
+    bottom: -50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px; height: 500px;
+    background: radial-gradient(ellipse, rgba(0,255,136,0.07) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .cta-bottom h2 {
+    font-family: var(--sans);
+    font-size: clamp(1.8rem, 5vw, 3.4rem);
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    margin-bottom: 16px;
+    line-height: 1.05;
+  }
+  .cta-bottom p {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-bottom: 38px;
+  }
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--accent);
+    color: #000;
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 15px 32px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.25s var(--ease);
+    position: relative;
+    z-index: 1;
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 40px rgba(0,255,136,0.3);
+    filter: brightness(1.1);
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    position: relative;
+    z-index: 1;
+    border-top: 1px solid var(--border);
+    padding: 30px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  footer > * { flex: 1; }
+  footer p {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    color: var(--muted);
+  }
+  footer p:first-of-type { text-align: center; }
+  footer p:last-of-type  { text-align: right; }
+
+  /* ── REDUCED MOTION ── */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html { scroll-behavior: auto; }
+    .reveal { opacity: 1; transform: none; }
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 860px) {
+    .steps { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: 1fr; }
+    .nav-links a:not(:last-child) { display: none; }
+  }
+  @media (max-width: 640px) {
+    nav { padding: 0 20px; }
+    .hero { padding: 80px 20px 70px; }
+    .hero-search { flex-direction: column; }
+    .hero-search button { padding: 14px; }
+    .search-input { width: 100%; }
+    .filter-label { min-width: 100%; }
+    .deals-count { margin-left: 0; width: 100%; }
+    input[type="range"] { width: 130px; }
+    footer { padding: 24px 20px; flex-direction: column; align-items: center; }
+    footer p:first-of-type, footer p:last-of-type { text-align: center; }
+  }
 </style>
 </head>
 <body>
 
-<nav>
-  <div class="logo">Hack<span>The</span>Price</div>
-  <div class="nav-tag">// PRÓXIMAMENTE</div>
-</nav>
+<div class="bg-grid"></div>
+<div class="bg-glow"></div>
 
-<section class="hero">
-  <div class="badge">Sistema activo — monitorizando precios</div>
-  <h1>Las mejores ofertas<br>tech en <em>España</em>.<br>Automático.</h1>
-  <p class="subtitle">
-    Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten cada hora.<br>
-    Solo deals con descuento publicado por la propia tienda.
-  </p>
-  <div class="cta-group">
-    <a href="#ofertas-live" class="btn-primary">Ver ofertas →</a>
-    <a href="#como-funciona" class="btn-secondary">Cómo funciona</a>
+<nav>
+  <a class="logo" href="#">Hack<span>The</span>Price</a>
+  <div class="nav-links">
+    <a href="#ofertas-live">Ofertas</a>
+    <a href="#como-funciona">Cómo funciona</a>
+    <a href="#por-que">Por qué</a>
+    <span class="nav-status">LIVE</span>
   </div>
-</section>
+</nav>
 
 <div class="ticker-wrap">
   <div class="ticker" id="ticker">
-    <span class="ticker-item">Escaneando PcComponentes · MediaMarkt · Carrefour · GAME · Coolmod · Worten</span>
-    <span class="ticker-item">Solo deals con precio tachado verificado por la propia tienda</span>
-    <span class="ticker-item">Actualización automática cada hora · Sin intervención manual</span>
-    <span class="ticker-item">Escaneando PcComponentes · MediaMarkt · Carrefour · GAME · Coolmod · Worten</span>
-    <span class="ticker-item">Solo deals con precio tachado verificado por la propia tienda</span>
-    <span class="ticker-item">Actualización automática cada hora · Sin intervención manual</span>
+    <span class="ticker-item"><span class="pct">-43%</span> RTX 4070 Super · PcComponentes</span>
+    <span class="ticker-item"><span class="pct">-38%</span> iPhone 15 Pro · MediaMarkt</span>
+    <span class="ticker-item"><span class="pct">-55%</span> SSD Samsung 2TB · Carrefour</span>
+    <span class="ticker-item"><span class="pct">-29%</span> AirPods Pro 2 · Worten</span>
+    <span class="ticker-item"><span class="pct">-61%</span> Monitor LG 4K · Coolmod</span>
+    <span class="ticker-item"><span class="pct">-43%</span> RTX 4070 Super · PcComponentes</span>
+    <span class="ticker-item"><span class="pct">-38%</span> iPhone 15 Pro · MediaMarkt</span>
+    <span class="ticker-item"><span class="pct">-55%</span> SSD Samsung 2TB · Carrefour</span>
+    <span class="ticker-item"><span class="pct">-29%</span> AirPods Pro 2 · Worten</span>
+    <span class="ticker-item"><span class="pct">-61%</span> Monitor LG 4K · Coolmod</span>
   </div>
 </div>
 
-<section class="section" id="como-funciona">
-  <div class="section-label">// Cómo funciona</div>
-  <div class="features">
-    <div class="feature">
-      <div class="feature-icon">🤖</div>
-      <h3>100% Automático</h3>
-      <p>Nuestros bots monitorizan precios cada hora en las principales tiendas tech de España. Sin humanos subiendo deals manualmente.</p>
-    </div>
-    <div class="feature">
-      <div class="feature-icon">✅</div>
-      <h3>Descuento verificado</h3>
-      <p>Solo mostramos productos donde la tienda publica su propio precio tachado. Si la tienda no marca descuento, no lo mostramos.</p>
-    </div>
-    <div class="feature">
-      <div class="feature-icon">⚡</div>
-      <h3>Actualización automática</h3>
-      <p>Los precios se comprueban cada hora de forma automática. Siempre tendrás los deals más recientes sin hacer nada.</p>
-    </div>
-    <div class="feature">
-      <div class="feature-icon">🎯</div>
-      <h3>Solo tech, solo buenas</h3>
-      <p>Sin ruido. Nos centramos en tecnología, componentes y gaming. Solo deals con descuento real verificado.</p>
-    </div>
-    <div class="feature">
-      <div class="feature-icon">🔍</div>
-      <h3>Filtros avanzados</h3>
-      <p>Filtra por tienda, categoría (teclados, GPU, monitores…) y precio máximo. Encuentra exactamente lo que buscas.</p>
-    </div>
-    <div class="feature">
-      <div class="feature-icon">🇪🇸</div>
-      <h3>Hecho para España</h3>
-      <p>PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten. Precios en euros, tiendas locales.</p>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="section-label">// Por qué HackThePrice</div>
-  <div class="stats">
-    <div class="stat">
-      <span class="stat-num" id="stat-stores">6</span>
-      <span class="stat-label">Tiendas monitorizadas</span>
-    </div>
-    <div class="stat">
-      <span class="stat-num">24h</span>
-      <span class="stat-label">Ventana de ofertas activas</span>
-    </div>
-    <div class="stat">
-      <span class="stat-num">1h</span>
-      <span class="stat-label">Frecuencia de escaneo</span>
-    </div>
-  </div>
+<section class="hero">
+  <div class="hero-badge">Sistema activo · escaneo cada <b>hora</b> · <b>6</b> tiendas</div>
+  <h1>Las mejores ofertas<br>tech en <em>España</em>.<br>Automático.</h1>
+  <p class="subtitle">
+    Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten.
+    Solo deals con descuento publicado por la propia tienda. Cero spam, cero fake deals.
+  </p>
+  <form class="hero-search" id="hero-search">
+    <input type="text" id="hero-search-input" placeholder="Busca un producto… (RTX, SSD, monitor…)" autocomplete="off">
+    <button type="submit">Buscar →</button>
+  </form>
+  <p class="hero-meta">↓ <b id="hero-deal-count">…</b> ofertas activas ahora mismo</p>
 </section>
 
 <section class="section" id="ofertas-live">
-  <div class="section-label">// Últimas ofertas detectadas</div>
-  <div class="deals-controls" id="deals-controls">
+  <div class="section-head reveal">
+    <div class="section-label">Ofertas en vivo</div>
+    <h2 class="section-title">Detectadas en el último escaneo.</h2>
+    <p class="section-sub">Cada oferta muestra el precio tachado publicado por la propia tienda. Si la tienda no marca descuento, no aparece aquí.</p>
+  </div>
 
-    <!-- Fila 1: Tienda + contador -->
+  <div class="deals-controls" id="deals-controls">
     <div class="filter-row">
       <span class="filter-label">Tienda</span>
-      <div id="store-filters"></div>
+      <div id="store-filters" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
       <span class="deals-count" id="deals-count"></span>
     </div>
-
-    <!-- Fila 2: Sliders precio y descuento -->
+    <div class="filter-row">
+      <span class="filter-label">Categoría</span>
+      <div id="category-filters" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
+    </div>
     <div class="filter-row">
       <span class="filter-label">Precio</span>
       <div class="discount-slider-wrap">
         <input type="range" id="price-slider" min="1" max="2000" value="2000" step="1">
         <span class="discount-value" id="price-value">Todos</span>
       </div>
-      <span class="filter-label" style="margin-left:20px;">Descuento</span>
+      <span class="filter-label" style="margin-left:16px;min-width:auto;">Descuento</span>
       <div class="discount-slider-wrap">
         <input type="range" id="discount-slider" min="1" max="80" value="1" step="1">
         <span class="discount-value" id="discount-value">1%+</span>
       </div>
     </div>
-
-    <!-- Fila 3: Ordenar + buscar -->
     <div class="filter-row">
       <span class="filter-label">Ordenar</span>
       <button class="filter-btn active" data-sort="discount">Mayor descuento</button>
       <button class="filter-btn" data-sort="saving">Mayor ahorro €</button>
       <button class="filter-btn" data-sort="price-asc">Menor precio</button>
-      <input class="search-input" id="search-input" type="text" placeholder="Buscar producto...">
+      <input class="search-input" id="search-input" type="text" placeholder="Buscar producto…">
     </div>
-
   </div>
+
   <div id="deals-container">
     <div class="skeleton-grid">
       <div class="skeleton-card"></div>
@@ -788,12 +1045,98 @@
   <p class="deals-meta" id="deals-meta"></p>
 </section>
 
-<section class="cta-bottom" id="alertas">
+<section class="section" id="como-funciona">
+  <div class="section-head reveal">
+    <div class="section-label">Cómo funciona</div>
+    <h2 class="section-title">Tres pasos. Cero esfuerzo.</h2>
+  </div>
+  <div class="steps">
+    <div class="step reveal" data-delay="1">
+      <span class="step-num">01</span>
+      <h3>Escaneamos</h3>
+      <p>Nuestros bots recorren las 6 principales tiendas tech de España cada hora, de forma totalmente automática.</p>
+    </div>
+    <div class="step reveal" data-delay="2">
+      <span class="step-num">02</span>
+      <h3>Verificamos</h3>
+      <p>Solo aceptamos productos donde la tienda publica su propio precio tachado. Descuento real, verificado en origen.</p>
+    </div>
+    <div class="step reveal" data-delay="3">
+      <span class="step-num">03</span>
+      <h3>Publicamos</h3>
+      <p>Las ofertas aparecen aquí al instante, ordenadas por descuento. Filtra, busca y compra al mejor precio.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="por-que">
+  <div class="section-head reveal">
+    <div class="section-label">Por qué HackThePrice</div>
+    <h2 class="section-title">No somos otro Chollometro.</h2>
+    <p class="section-sub">Sin votos, sin usuarios subiendo deals caducados, sin descuentos inflados. Solo datos verificados directamente de las tiendas.</p>
+  </div>
+  <div class="features">
+    <div class="feature reveal" data-delay="1">
+      <div class="feature-icon">🤖</div>
+      <h3>100% Automático</h3>
+      <p>Bots escaneando precios cada hora. Sin humanos subiendo deals manualmente ni ofertas caducadas de hace días.</p>
+      <span class="vs"><s>Chollometro: deals manuales</s></span>
+    </div>
+    <div class="feature reveal" data-delay="2">
+      <div class="feature-icon">📊</div>
+      <h3>Historial de precios real</h3>
+      <p>Registramos cada precio en cada escaneo. Sabemos cuándo un descuento es real y cuándo es marketing.</p>
+      <span class="vs"><s>Otros: sin datos históricos</s></span>
+    </div>
+    <div class="feature reveal" data-delay="3">
+      <div class="feature-icon">🇪🇸</div>
+      <h3>Hecho para España</h3>
+      <p>PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten. Precios en euros, stock local, envíos a España.</p>
+      <span class="vs"><s>Agregadores globales genéricos</s></span>
+    </div>
+    <div class="feature reveal" data-delay="1">
+      <div class="feature-icon">✅</div>
+      <h3>Descuento verificado</h3>
+      <p>Solo mostramos productos con precio tachado publicado por la propia tienda. Si no hay rebaja oficial, no sale.</p>
+    </div>
+    <div class="feature reveal" data-delay="2">
+      <div class="feature-icon">🔍</div>
+      <h3>Filtros potentes</h3>
+      <p>Filtra por tienda, categoría, precio máximo y descuento mínimo. Encuentra exactamente lo que buscas en segundos.</p>
+    </div>
+    <div class="feature reveal" data-delay="3">
+      <div class="feature-icon">⚡</div>
+      <h3>Siempre actualizado</h3>
+      <p>Cada hora se regenera la lista completa. Lo que ves está en oferta ahora — no ayer, no la semana pasada.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head reveal">
+    <div class="section-label">En números</div>
+    <h2 class="section-title">El sistema, en cifras.</h2>
+  </div>
+  <div class="stats">
+    <div class="stat reveal" data-delay="1">
+      <span class="stat-num" data-count="6" id="stat-stores">0</span>
+      <span class="stat-label">Tiendas monitorizadas</span>
+    </div>
+    <div class="stat reveal" data-delay="2">
+      <span class="stat-num" data-count="90" data-suffix="d">0</span>
+      <span class="stat-label">Días de historial de precios</span>
+    </div>
+    <div class="stat reveal" data-delay="3">
+      <span class="stat-num" data-count="24" data-suffix="×">0</span>
+      <span class="stat-label">Escaneos al día</span>
+    </div>
+  </div>
+</section>
+
+<section class="cta-bottom">
   <h2>Empieza a ahorrar<br>hoy mismo.</h2>
   <p>Actualización automática cada hora. Solo deals reales verificados.</p>
-  <div class="cta-group">
-    <a href="#ofertas-live" class="btn-primary">Ver todas las ofertas →</a>
-  </div>
+  <a href="#ofertas-live" class="btn-primary">Ver todas las ofertas →</a>
 </section>
 
 <footer>
@@ -814,15 +1157,33 @@ const STORE_COLORS = {
 
 const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod', 'Worten'];
 
+// deals.json carries no category field, so we infer one from the product name
+const CATEGORY_RULES = [
+  ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
+  ['Móviles',     /\bm[oó]vil\b|smartphone|iphone|galaxy [szam]|redmi|\bpoco\b|pixel \d|oneplus/i],
+  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim/i],
+  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming/i],
+  ['Monitores',   /monitor/i],
+  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|switch|\bmando\b|gamepad|videojuego|\bjuego\b/i],
+  ['TV y Audio',  /\btv\b|televisor|barra de sonido|altavoz|soundbar|proyector|\bled\b.*pulgadas|oled|qled/i],
+  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|robot|cafetera|microondas|horno|secadora|freidora|congelador|campana/i],
+];
+
+function inferCategory(name) {
+  for (const [cat, re] of CATEGORY_RULES) if (re.test(name)) return cat;
+  return 'Otros';
+}
+
 const ITEMS_PER_PAGE = 12;
 
-let allDeals    = [];
-let activeStore = 'all';
-let activeSort  = 'discount';
-let searchQuery = '';
-let minDiscount = 1;
-let maxPrice    = Infinity;
-let currentPage = 1;
+let allDeals       = [];
+let activeStore    = 'all';
+let activeCategory = 'all';
+let activeSort     = 'discount';
+let searchQuery    = '';
+let minDiscount    = 1;
+let maxPrice       = Infinity;
+let currentPage    = 1;
 
 function escapeHtml(str) {
   return String(str)
@@ -841,7 +1202,10 @@ function renderDeal(d) {
     : '';
   return `
   <article class="deal-card">
-    <div class="deal-store" style="background:${color}">${escapeHtml(d.store)}</div>
+    <div class="deal-top">
+      <span class="deal-store" style="background:${color}">${escapeHtml(d.store)}</span>
+      <span class="deal-pct">-${Math.round(d.discount_pct)}%</span>
+    </div>
     ${imgHtml}
     <div class="deal-body">
       <p class="deal-name">${escapeHtml(d.name)}</p>
@@ -849,10 +1213,7 @@ function renderDeal(d) {
         <span class="deal-price-now">${d.current_price.toFixed(2)} €</span>
         <span class="deal-price-old">${d.original_price.toFixed(2)} €</span>
       </div>
-      <div class="deal-badges">
-        <span class="deal-pct">-${Math.round(d.discount_pct)}%</span>
-        <span class="deal-saving">Ahorras ${saving} €</span>
-      </div>
+      <span class="deal-saving">Ahorras ${saving} €</span>
       <a class="deal-btn" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer">Ver oferta →</a>
     </div>
   </article>`;
@@ -893,6 +1254,9 @@ function applyFilters(resetPage = true) {
   if (activeStore !== 'all')
     deals = deals.filter(d => d.store === activeStore);
 
+  if (activeCategory !== 'all')
+    deals = deals.filter(d => d._category === activeCategory);
+
   deals = deals.filter(d => d.discount_pct >= minDiscount);
 
   if (maxPrice !== Infinity)
@@ -907,8 +1271,6 @@ function applyFilters(resetPage = true) {
     deals.sort((a, b) => (b.original_price - b.current_price) - (a.original_price - a.current_price));
   else if (activeSort === 'price-asc')
     deals.sort((a, b) => a.current_price - b.current_price);
-  else if (activeSort === 'price-desc')
-    deals.sort((a, b) => b.current_price - a.current_price);
 
   const totalPages = Math.max(1, Math.ceil(deals.length / ITEMS_PER_PAGE));
   currentPage      = Math.min(currentPage, totalPages);
@@ -928,7 +1290,7 @@ function applyFilters(resetPage = true) {
 }
 
 function buildStoreFilters() {
-  const stores    = ['all', ...ALL_STORES];
+  const stores    = ['all', ...ALL_STORES.filter(s => allDeals.some(d => d.store === s))];
   const container = document.getElementById('store-filters');
   container.innerHTML = stores.map(s => {
     const label  = s === 'all' ? 'Todas' : s;
@@ -946,14 +1308,81 @@ function buildStoreFilters() {
   });
 }
 
+function buildCategoryFilters() {
+  const present   = [...new Set(allDeals.map(d => d._category))];
+  const order     = [...CATEGORY_RULES.map(r => r[0]), 'Otros'];
+  const cats      = ['all', ...order.filter(c => present.includes(c))];
+  const container = document.getElementById('category-filters');
+  container.innerHTML = cats.map(c => {
+    const label  = c === 'all' ? 'Todas' : c;
+    const active = c === 'all' ? ' active' : '';
+    return `<button class="filter-btn${active}" data-cat="${escapeHtml(c)}">${escapeHtml(label)}</button>`;
+  }).join('');
+
+  container.querySelectorAll('[data-cat]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeCategory = btn.dataset.cat;
+      container.querySelectorAll('[data-cat]').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      applyFilters();
+    });
+  });
+}
+
 function updateTicker(deals) {
   const ticker = document.getElementById('ticker');
   if (!ticker || !deals.length) return;
-  const items = deals.slice(0, 5).map(d =>
+  const items = deals.slice(0, 6).map(d =>
     `<span class="ticker-item"><span class="pct">-${Math.round(d.discount_pct)}%</span> ${escapeHtml(d.name.slice(0, 45))} · ${escapeHtml(d.store)}</span>`
   );
   ticker.innerHTML = [...items, ...items].join('');
 }
+
+/* ── Scroll reveal ── */
+const revealObserver = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('in');
+      revealObserver.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.12 });
+document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
+
+/* ── Count-up stats ── */
+function countUp(el) {
+  const target = parseInt(el.dataset.count);
+  const suffix = el.dataset.suffix || '';
+  const dur    = 1400;
+  const t0     = performance.now();
+  function tick(now) {
+    const p    = Math.min((now - t0) / dur, 1);
+    const ease = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.round(target * ease) + suffix;
+    if (p < 1) requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+}
+const statObserver = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      countUp(e.target);
+      statObserver.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.5 });
+document.querySelectorAll('[data-count]').forEach(el => statObserver.observe(el));
+
+/* ── Hero search ── */
+document.getElementById('hero-search').addEventListener('submit', e => {
+  e.preventDefault();
+  const q = document.getElementById('hero-search-input').value;
+  const filterInput = document.getElementById('search-input');
+  filterInput.value = q;
+  searchQuery = q.toLowerCase().trim();
+  applyFilters();
+  document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth', block: 'start' });
+});
 
 /* ── Precio ── */
 const priceSlider = document.getElementById('price-slider');
@@ -1004,14 +1433,18 @@ fetch('./deals.json?t=' + Date.now())
 
     if (!data.deals || data.deals.length === 0) {
       document.getElementById('deals-container').innerHTML =
-        '<div class="deals-empty"><span class="state-icon">⏳</span>No se han detectado ofertas en las últimas 24h.<br>Vuelve más tarde — el scraper se actualiza cada hora.</div>';
+        '<div class="deals-empty"><span class="state-icon">⏳</span>No hay ofertas activas ahora mismo.<br>Vuelve más tarde — el sistema escanea cada hora.</div>';
+      document.getElementById('hero-deal-count').textContent = '0';
       return;
     }
 
-    allDeals = data.deals;
+    allDeals = data.deals.map(d => ({ ...d, _category: inferCategory(d.name) }));
+
+    document.getElementById('hero-deal-count').textContent = allDeals.length;
 
     const activeStores = new Set(allDeals.map(d => d.store)).size;
-    document.getElementById('stat-stores').textContent = activeStores;
+    const storeStat = document.getElementById('stat-stores');
+    storeStat.dataset.count = activeStores;
 
     const maxDealPrice = Math.ceil(Math.max(...allDeals.map(d => d.current_price)));
     priceSlider.max   = maxDealPrice;
@@ -1021,6 +1454,7 @@ fetch('./deals.json?t=' + Date.now())
 
     document.getElementById('deals-controls').classList.add('visible');
     buildStoreFilters();
+    buildCategoryFilters();
     applyFilters();
     updateTicker(allDeals);
 
@@ -1032,6 +1466,7 @@ fetch('./deals.json?t=' + Date.now())
   .catch(() => {
     document.getElementById('deals-container').innerHTML =
       '<div class="deals-error"><span class="state-icon">⚠️</span>Datos no disponibles en este momento.<br>Inténtalo de nuevo más tarde.</div>';
+    document.getElementById('hero-deal-count').textContent = '—';
   });
 </script>
 </body>
