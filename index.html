@@ -565,10 +565,42 @@
     color: var(--muted);
     text-decoration: line-through;
   }
+  .deal-badges {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
   .deal-saving {
     font-family: var(--mono);
     font-size: 0.68rem;
     color: var(--text-soft);
+  }
+  .deal-lowest {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-dim);
+    border: 1px solid var(--accent-border);
+    padding: 2px 8px;
+    border-radius: 100px;
+    white-space: nowrap;
+  }
+  .deal-spark {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .spark {
+    width: 100px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .spark-label {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--muted);
   }
   .deal-btn {
     margin-top: auto;
@@ -1230,9 +1262,32 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
+function sparkline(points) {
+  const w = 100, h = 26, pad = 2;
+  const min = Math.min(...points), max = Math.max(...points);
+  const range = max - min || 1;
+  const step = (w - pad * 2) / (points.length - 1);
+  const coords = points.map((p, i) =>
+    `${(pad + i * step).toFixed(1)},${(h - pad - ((p - min) / range) * (h - pad * 2)).toFixed(1)}`
+  );
+  const lastX = pad + (points.length - 1) * step;
+  const lastY = h - pad - ((points[points.length - 1] - min) / range) * (h - pad * 2);
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
+    <polyline points="${coords.join(' ')}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" opacity="0.8"/>
+    <circle cx="${lastX.toFixed(1)}" cy="${lastY.toFixed(1)}" r="2.2" fill="var(--accent)"/>
+  </svg>`;
+}
+
 function renderDeal(d) {
   const color   = STORE_COLORS[d.store] || '#555';
   const saving  = (d.original_price - d.current_price).toFixed(2);
+  const hasHistory  = Array.isArray(d.price_history) && d.price_history.length > 1;
+  const sparkHtml   = hasHistory
+    ? `<div class="deal-spark">${sparkline(d.price_history)}<span class="spark-label">${d.history_days}d</span></div>`
+    : '';
+  const lowestBadge = d.is_lowest && d.history_days >= 7
+    ? '<span class="deal-lowest">🔥 Mínimo histórico</span>'
+    : '';
   const imgHtml = d.image_url
     ? `<div class="deal-img-wrap"><img class="deal-img" src="${escapeHtml(d.image_url)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('img-fallback'); this.remove()"></div>`
     : '<div class="deal-img-wrap img-fallback"></div>';
@@ -1249,7 +1304,11 @@ function renderDeal(d) {
         <span class="deal-price-now">${d.current_price.toFixed(2)} €</span>
         <span class="deal-price-old">${d.original_price.toFixed(2)} €</span>
       </div>
-      <span class="deal-saving">Ahorras ${saving} €</span>
+      ${sparkHtml}
+      <div class="deal-badges">
+        <span class="deal-saving">Ahorras ${saving} €</span>
+        ${lowestBadge}
+      </div>
       <a class="deal-btn" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer">Ver oferta →</a>
     </div>
   </article>`;
