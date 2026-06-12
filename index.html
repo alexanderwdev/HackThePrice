@@ -520,7 +520,12 @@
     overflow: hidden;
     flex-shrink: 0;
   }
-  .deal-img-wrap.hidden { display: none; }
+  .deal-img-wrap.img-fallback { background: var(--surface-2); }
+  .deal-img-wrap.img-fallback::after {
+    content: '📷';
+    font-size: 1.8rem;
+    opacity: 0.2;
+  }
   .deal-img {
     width: 100%;
     height: 100%;
@@ -1229,8 +1234,8 @@ function renderDeal(d) {
   const color   = STORE_COLORS[d.store] || '#555';
   const saving  = (d.original_price - d.current_price).toFixed(2);
   const imgHtml = d.image_url
-    ? `<div class="deal-img-wrap"><img class="deal-img" src="${escapeHtml(d.image_url)}" alt="" loading="lazy" onerror="this.closest('.deal-img-wrap').classList.add('hidden')"></div>`
-    : '';
+    ? `<div class="deal-img-wrap"><img class="deal-img" src="${escapeHtml(d.image_url)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('img-fallback'); this.remove()"></div>`
+    : '<div class="deal-img-wrap img-fallback"></div>';
   return `
   <article class="deal-card">
     <div class="deal-top">
