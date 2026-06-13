@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T13:07:55.656790+00:00",
+  "updated": "2026-06-13T13:10:21.226560+00:00",
   "total_products": 311,
   "deals": [
     {
@@ -2003,6 +2003,22 @@
       "is_lowest": true
     },
     {
+      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
+      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
+      "store": "Carrefour",
+      "current_price": 11.55,
+      "original_price": 13.28,
+      "discount_pct": 13.03,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
+      "category": "Hogar",
+      "price_history": [
+        11.55,
+        11.55
+      ],
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
       "name": "Lavadora Beko Carga Frontal 8 kg 1400 rpm A Blanca con Motor ProSmart Inverter",
       "url": "https://www.pccomponentes.com/lavadora-beko-carga-frontal-8-kg-1400-rpm-a-blanca-con-motor-prosmart-inverter",
       "store": "PcComponentes",
@@ -2153,22 +2169,6 @@
       "price_history": [
         220.15,
         220.15
-      ],
-      "history_days": 2,
-      "is_lowest": true
-    },
-    {
-      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
-      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
-      "store": "Carrefour",
-      "current_price": 11.55,
-      "original_price": 13.05,
-      "discount_pct": 11.49,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
-      "category": "Hogar",
-      "price_history": [
-        11.55,
-        11.55
       ],
       "history_days": 2,
       "is_lowest": true
