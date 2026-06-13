@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T23:08:54.133117+00:00",
-  "total_products": 308,
+  "updated": "2026-06-13T13:07:55.656790+00:00",
+  "total_products": 311,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,15 +9,16 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781355845",
       "category": "Racores",
       "price_history": [
         0.95,
         0.95,
         0.95,
+        0.95,
         0.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -27,15 +28,16 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781355845",
       "category": "Racores",
       "price_history": [
         1.95,
         1.95,
         1.95,
+        1.95,
         1.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -48,9 +50,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/357926_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        7.99,
         7.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -60,15 +63,16 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781355845",
       "category": "Tubos",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -78,15 +82,16 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781355845",
       "category": "Racores",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -99,9 +104,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/379379_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        16.58,
         16.58
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -111,15 +117,16 @@
       "current_price": 349.95,
       "original_price": 799.95,
       "discount_pct": 56.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781355845",
       "category": "Monitores",
       "price_history": [
         349.95,
         349.95,
         349.95,
+        349.95,
         349.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -135,9 +142,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -153,9 +161,10 @@
         799.0,
         799.0,
         799.0,
+        799.0,
         799.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -171,9 +180,10 @@
         399.0,
         429.0,
         429.0,
+        429.0,
         429.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -186,9 +196,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/574321_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        483.65,
         483.65
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -201,9 +212,28 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/547817_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        69.0,
         69.0
       ],
-      "history_days": 1,
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Thermal Grizzly Aeronaut 3 ml",
+      "url": "https://www.coolmod.com/thermal-grizzly-aeronaut-3-ml-pasta-tarmica/",
+      "store": "Coolmod",
+      "current_price": 6.95,
+      "original_price": 12.95,
+      "discount_pct": 46.33,
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1781355845",
+      "category": "Compuestos Térmicos",
+      "price_history": [
+        6.95,
+        6.95,
+        6.95,
+        6.95
+      ],
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -219,9 +249,10 @@
         349.0,
         349.0,
         349.0,
+        349.0,
         349.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -237,9 +268,10 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -253,9 +285,10 @@
       "category": null,
       "price_history": [
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -271,9 +304,10 @@
         399.99,
         399.99,
         399.99,
+        399.99,
         399.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -289,9 +323,10 @@
         219.99,
         219.99,
         219.99,
+        229.99,
         229.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -301,15 +336,16 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781355845",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
         3.95,
         3.95,
+        3.95,
         3.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -322,9 +358,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/574342_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        398.65,
         398.65
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -337,9 +374,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/574304_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        407.15,
         407.15
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -355,9 +393,10 @@
         279.99,
         279.99,
         279.99,
+        279.99,
         279.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -367,15 +406,16 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781355845",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
         5.95,
         5.95,
+        5.95,
         5.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -385,15 +425,16 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781355845",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -403,15 +444,16 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781355845",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -424,9 +466,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/644773_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        29.99,
         29.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -436,15 +479,16 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781355845",
       "category": "Simulación",
       "price_history": [
         149.95,
         149.95,
         149.95,
+        149.95,
         149.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -460,9 +504,10 @@
         1199.0,
         1199.0,
         1199.0,
+        1199.0,
         1199.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -477,9 +522,10 @@
       "price_history": [
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -495,9 +541,10 @@
         329.99,
         329.99,
         329.99,
+        329.99,
         329.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -513,9 +560,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -531,9 +579,10 @@
         495.0,
         495.0,
         495.0,
+        495.0,
         495.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -549,9 +598,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -561,15 +611,16 @@
       "current_price": 13.95,
       "original_price": 21.95,
       "discount_pct": 36.45,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781355845",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
         13.95,
         13.95,
+        13.95,
         13.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -585,9 +636,10 @@
         509.99,
         509.99,
         509.99,
+        509.99,
         509.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -603,9 +655,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -615,15 +668,16 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781355845",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
         12.95,
         12.95,
+        12.95,
         12.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -636,9 +690,10 @@
       "image_url": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_350x_/6975489575360_1.jpg",
       "category": "Gaming",
       "price_history": [
+        269.99,
         269.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -654,9 +709,10 @@
         1729.0,
         1729.0,
         1729.0,
+        1749.0,
         1749.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -672,9 +728,10 @@
         69.0,
         69.0,
         69.0,
+        69.0,
         69.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -687,9 +744,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700491_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        139.0,
         139.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -702,9 +760,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645090_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        139.0,
         139.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -714,15 +773,16 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781355845",
       "category": "Almacenamiento",
       "price_history": [
         13.95,
         13.95,
         13.95,
+        13.95,
         13.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -732,15 +792,16 @@
       "current_price": 69.95,
       "original_price": 99.95,
       "discount_pct": 30.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781355845",
       "category": "Monitores",
       "price_history": [
         69.95,
         69.95,
         69.95,
+        69.95,
         69.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -754,9 +815,10 @@
       "category": "Gaming",
       "price_history": [
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -769,9 +831,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/223777_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        99.0,
         99.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -784,9 +847,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597927_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        499.0,
         499.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -799,9 +863,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587734_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        649.0,
         649.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -811,15 +876,16 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781355845",
       "category": "Ventiladores",
       "price_history": [
         20.95,
         20.95,
         20.95,
+        20.95,
         20.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -832,26 +898,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/607916_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        399.0,
         399.0
       ],
-      "history_days": 1,
-      "is_lowest": true
-    },
-    {
-      "name": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 8GB GDDR7 Reflex 2 RTX AI DLSS4",
-      "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-reflex-2-rtx-ai-dlss4",
-      "store": "PcComponentes",
-      "current_price": 322.57,
-      "original_price": 441.88,
-      "discount_pct": 27.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10875114/1228-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-8gb-gddr7-reflex-2-rtx-ai-dlss4-b286e217-0f40-4873-8084-bb82bf7dcfa4.jpg",
-      "category": null,
-      "price_history": [
-        322.9,
-        322.57,
-        322.57
-      ],
-      "history_days": 3,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -865,9 +915,10 @@
       "category": null,
       "price_history": [
         145.0,
+        145.0,
         145.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -880,26 +931,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598183_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        279.0,
         279.0
       ],
-      "history_days": 1,
-      "is_lowest": true
-    },
-    {
-      "name": "Startech Conversor DVI-I a VGA - Adaptador",
-      "url": "https://www.coolmod.com/startech-conversor-dvi-i-a-vga-dvi-i-macho-hd15-hembra-negro-adaptador/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 3.95,
-      "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1781305691",
-      "category": "Cables Vídeo",
-      "price_history": [
-        2.95,
-        2.95,
-        2.95
-      ],
-      "history_days": 3,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -912,9 +947,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/535706_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        299.0,
         299.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -927,9 +963,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        299.0,
         299.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -939,14 +976,15 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781355845",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -962,9 +1000,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -978,9 +1017,10 @@
       "category": "Gaming",
       "price_history": [
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -994,9 +1034,10 @@
       "category": "Gaming",
       "price_history": [
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -1009,9 +1050,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598023_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        429.0,
         429.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1024,9 +1066,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587477_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        529.0,
         529.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1039,9 +1082,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/361112_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        249.0,
         249.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1057,9 +1101,10 @@
         139.99,
         139.99,
         139.99,
+        139.99,
         139.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1069,30 +1114,16 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781355845",
       "category": "Repetidores",
       "price_history": [
         22.95,
         22.95,
         22.95,
+        22.95,
         22.95
       ],
-      "history_days": 4,
-      "is_lowest": true
-    },
-    {
-      "name": "TV LG 65QNED70A6A 65\" (165,1 cm), QNED, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen8,Smart TV, Dolby Digital Plus",
-      "url": "https://www.carrefour.es/tv-lg-65qned70a6a-65-1651-cm-qned-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen8smart-tv-dolby-digital-plus/VC4A-31098079/p",
-      "store": "Carrefour",
-      "current_price": 499.0,
-      "original_price": 649.0,
-      "discount_pct": 23.11,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/607908_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        499.0
-      ],
-      "history_days": 1,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1108,9 +1139,10 @@
         459.0,
         459.0,
         459.0,
+        459.0,
         459.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1123,9 +1155,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/065503_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        449.0,
         449.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1138,9 +1171,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/537720_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        69.9,
         69.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1153,7 +1187,23 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/187997_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        69.9,
         69.9
+      ],
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "GamePc Sobremesa Gaming Pro-A Intel Core i7-14700/16Gb/1TRb/Rtx 5060Nv/750W/ref Liquida 240/FreeDos",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-sobremesa-gaming-pro-a-intel-core-i7-14700-16gb-1trb-rtx-5060nv-750w-ref-liquida-240-freedos/261509",
+      "store": "GAME",
+      "current_price": 1399.99,
+      "original_price": 1780.16,
+      "discount_pct": 21.36,
+      "image_url": "https://media.game.es/COVERV2/3D_L/261/261509.png",
+      "category": "Gaming",
+      "price_history": [
+        1399.99
       ],
       "history_days": 1,
       "is_lowest": true
@@ -1165,15 +1215,16 @@
       "current_price": 3.94,
       "original_price": 4.95,
       "discount_pct": 20.4,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781355845",
       "category": "Modding PC",
       "price_history": [
         3.94,
         3.94,
         3.94,
+        3.94,
         3.94
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1186,9 +1237,10 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176984583",
       "category": null,
       "price_history": [
+        159.0,
         159.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1201,9 +1253,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561637_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        359.0,
         359.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1213,15 +1266,16 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781355845",
       "category": "Sais",
       "price_history": [
         39.95,
         39.95,
         39.95,
+        39.95,
         39.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1234,9 +1288,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/569320_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        329.99,
         329.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1249,9 +1304,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658715_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        818.88,
         818.88
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1264,9 +1320,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658733_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        818.88,
         818.88
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1282,9 +1339,10 @@
         799.99,
         799.99,
         799.99,
+        799.99,
         799.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1300,9 +1358,10 @@
         199.99,
         199.99,
         199.99,
+        199.99,
         199.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1315,9 +1374,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/692719_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        64.9,
         64.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1331,9 +1391,10 @@
       "category": null,
       "price_history": [
         569.0,
+        569.0,
         569.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -1348,9 +1409,10 @@
       "price_history": [
         513.05,
         513.05,
+        513.05,
         513.05
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -1366,9 +1428,10 @@
         899.99,
         899.99,
         899.99,
+        899.99,
         899.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1382,9 +1445,10 @@
       "category": null,
       "price_history": [
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -1397,9 +1461,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/556113_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        319.0,
         319.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1412,9 +1477,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/556057_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        319.0,
         319.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1430,9 +1496,10 @@
         869.0,
         869.0,
         869.0,
-        869.0
+        869.0,
+        879.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -1445,7 +1512,23 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598156_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        329.0,
         329.0
+      ],
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Aire Acondicionado Portátil Carrefour Home HMAC7JT-25",
+      "url": "https://www.carrefour.es/aire-acondicionado-portatil-carrefour-home-hmac7jt-25/VC4A-30391007/p",
+      "store": "Carrefour",
+      "current_price": 189.0,
+      "original_price": 229.0,
+      "discount_pct": 17.47,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/490988_00_1.jpg",
+      "category": "Hogar",
+      "price_history": [
+        189.0
       ],
       "history_days": 1,
       "is_lowest": true
@@ -1460,9 +1543,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/718900_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        157.04,
         157.04
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1475,9 +1559,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/591085_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        64.96,
         64.96
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1490,9 +1575,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/233574_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        46.14,
         46.14
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1505,40 +1591,43 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        124.98,
         124.98
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
       "store": "Carrefour",
-      "current_price": 229.31,
-      "original_price": 275.17,
+      "current_price": 232.98,
+      "original_price": 279.58,
       "discount_pct": 16.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        229.31
+        229.31,
+        232.98
       ],
-      "history_days": 1,
-      "is_lowest": true
+      "history_days": 2,
+      "is_lowest": false
     },
     {
       "name": "Tablet Xiaomi Redmi Pad 2 MediaTek G100-Ultra, 8GB RAM, 256GB, 11\" - 27,94 cm, Xiaomi HyperOS 2*, Android - Gris",
       "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad-2-mediatek-g100-ultra-8gb-ram-256gb-11-2794-cm-xiaomi-hyperos-2-android-gris/VC4A-30685809/p",
       "store": "Carrefour",
-      "current_price": 218.86,
-      "original_price": 262.63,
+      "current_price": 218.92,
+      "original_price": 262.7,
       "discount_pct": 16.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598387_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        218.86
+        218.86,
+        218.92
       ],
-      "history_days": 1,
-      "is_lowest": true
+      "history_days": 2,
+      "is_lowest": false
     },
     {
       "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Negro",
@@ -1550,24 +1639,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/562699_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        553.79,
         553.79
       ],
-      "history_days": 1,
-      "is_lowest": true
-    },
-    {
-      "name": "Robot Aspirador Xiaomi Vacuum S40 BHR084AEU, 0,52 L - Blanca",
-      "url": "https://www.carrefour.es/robot-aspirador-xiaomi-vacuum-s40-bhr084aeu-052-l-blanca/VC4A-31827113/p",
-      "store": "Carrefour",
-      "current_price": 157.31,
-      "original_price": 188.77,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/663117_00_1.jpg",
-      "category": "Hogar",
-      "price_history": [
-        157.31
-      ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1580,9 +1655,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        439.96,
         439.96
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1595,9 +1671,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654346_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        594.95,
         594.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1610,9 +1687,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721833_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        24.99,
         24.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1625,9 +1703,26 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654240_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        499.93,
         499.93
       ],
-      "history_days": 1,
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
+      "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
+      "store": "Carrefour",
+      "current_price": 375.96,
+      "original_price": 451.15,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705626_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        376.14,
+        375.96
+      ],
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1640,9 +1735,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/471518_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        154.99,
         154.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1658,9 +1754,41 @@
         799.99,
         799.99,
         799.99,
+        799.99,
         799.99
       ],
-      "history_days": 4,
+      "history_days": 5,
+      "is_lowest": true
+    },
+    {
+      "name": "Adaptador de corriente USB-C Apple 20W - Blanco",
+      "url": "https://www.carrefour.es/adaptador-de-corriente-usb-c-apple-20w-blanco/VC4A-30363173/p",
+      "store": "Carrefour",
+      "current_price": 21.97,
+      "original_price": 26.36,
+      "discount_pct": 16.65,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/570134_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        20.11,
+        21.97
+      ],
+      "history_days": 2,
+      "is_lowest": false
+    },
+    {
+      "name": "Smart TV QLED 55\" (139,7 cm) TCL 55P71K, 4K UHD, 60 Hz, Procesador AiPQ Pro, Dolby AC4 Dolby TrueHD, Dolby Atmos DTS Virtual-X, Google TV",
+      "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-tcl-55p71k-4k-uhd-60-hz-procesador-aipq-pro-dolby-ac4-dolby-truehd-dolby-atmos-dts-virtual-x-google-tv/VC4A-30494292/p",
+      "store": "Carrefour",
+      "current_price": 424.15,
+      "original_price": 499.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/574301_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        424.15
+      ],
+      "history_days": 1,
       "is_lowest": true
     },
     {
@@ -1673,9 +1801,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/582960_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        169.15,
         169.15
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1688,9 +1817,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/698245_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        432.65,
         432.65
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1703,9 +1833,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597459_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        628.15,
         628.15
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1718,9 +1849,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/424606_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        594.15,
         594.15
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1733,9 +1865,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/630805_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        696.15,
         696.15
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1748,9 +1881,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/420712_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        29.9,
         29.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1760,15 +1894,16 @@
       "current_price": 17.95,
       "original_price": 20.95,
       "discount_pct": 14.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781355845",
       "category": "Fuentes de Alimentación",
       "price_history": [
         17.95,
         17.95,
         17.95,
+        17.95,
         17.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1781,9 +1916,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/671690_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        599.0,
         599.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1796,9 +1932,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682754_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        59.9,
         59.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1811,9 +1948,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/420728_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        19.9,
         19.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1826,9 +1964,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/633471_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        129.0,
         129.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1841,9 +1980,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/653625_00_1.jpg",
       "category": "Componentes",
       "price_history": [
+        129.0,
         129.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1856,24 +1996,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/491005_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        26.0,
         26.0
       ],
-      "history_days": 1,
-      "is_lowest": true
-    },
-    {
-      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
-      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
-      "store": "Carrefour",
-      "current_price": 11.55,
-      "original_price": 13.28,
-      "discount_pct": 13.03,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
-      "category": "Hogar",
-      "price_history": [
-        11.55
-      ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1889,9 +2015,10 @@
         286.0,
         286.0,
         286.0,
+        286.0,
         286.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1907,9 +2034,10 @@
         269.0,
         269.0,
         269.0,
+        269.0,
         269.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1925,9 +2053,10 @@
         609.0,
         609.0,
         609.0,
+        609.0,
         609.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1940,9 +2069,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682206_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        262.4
+        262.4,
+        269.2
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": false
     },
     {
@@ -1955,9 +2085,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/420721_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        219.0,
         219.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1970,9 +2101,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/490999_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        22.0,
         22.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1985,9 +2117,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/490994_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        22.0,
         22.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2002,9 +2135,10 @@
       "price_history": [
         44.0,
         44.0,
+        44.0,
         44.0
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -2017,9 +2151,26 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/582983_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        220.15,
         220.15
       ],
-      "history_days": 1,
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
+      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
+      "store": "Carrefour",
+      "current_price": 11.55,
+      "original_price": 13.05,
+      "discount_pct": 11.49,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
+      "category": "Hogar",
+      "price_history": [
+        11.55,
+        11.55
+      ],
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2032,9 +2183,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/491000_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        39.9,
         39.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2047,9 +2199,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/490993_00_1.jpg",
       "category": "Hogar",
       "price_history": [
+        31.9,
         31.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2062,9 +2215,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/179830_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        599.0,
         599.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2080,9 +2234,10 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2092,15 +2247,16 @@
       "current_price": 97.95,
       "original_price": 108.95,
       "discount_pct": 10.1,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781355845",
       "category": "Modding PC",
       "price_history": [
         97.95,
         97.95,
         97.95,
+        97.95,
         97.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2110,15 +2266,16 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781355845",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2131,9 +2288,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721887_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        89.99,
         89.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2146,9 +2304,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721858_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        44.99,
         44.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2158,15 +2317,16 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781355845",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
         81.95,
         81.95,
+        81.95,
         81.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2176,15 +2336,16 @@
       "current_price": 103.95,
       "original_price": 114.95,
       "discount_pct": 9.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781305691",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781355845",
       "category": "Modding PC",
       "price_history": [
         103.95,
         103.95,
         103.95,
+        103.95,
         103.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2198,9 +2359,10 @@
       "category": null,
       "price_history": [
         949.0,
+        949.0,
         949.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -2216,9 +2378,10 @@
         679.0,
         679.0,
         679.0,
+        679.0,
         679.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2231,9 +2394,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561605_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        489.0,
         489.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2249,9 +2413,10 @@
         479.0,
         479.0,
         479.0,
+        479.0,
         479.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2264,40 +2429,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/683011_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        279.0,
         279.0
       ],
-      "history_days": 1,
-      "is_lowest": true
-    },
-    {
-      "name": "GamePc PRO By MSI 26560TiM i5-12400F/16Gb/1Tb/Rtx 5060Ti/W11 - Ordenador Sobremesa Gaming",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-by-msi-26560tim-i5-12400f-16gb-1tb-rtx-5060ti-w11-ordenador-sobremesa-gaming/256394",
-      "store": "GAME",
-      "current_price": 1399.99,
-      "original_price": 1499.99,
-      "discount_pct": 6.67,
-      "image_url": "https://media.game.es/COVERV2/3D_L/256/256394.png",
-      "category": "Gaming",
-      "price_history": [
-        1399.99,
-        1399.99
-      ],
       "history_days": 2,
-      "is_lowest": true
-    },
-    {
-      "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
-      "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
-      "store": "Carrefour",
-      "current_price": 376.14,
-      "original_price": 402.47,
-      "discount_pct": 6.54,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705626_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        376.14
-      ],
-      "history_days": 1,
       "is_lowest": true
     },
     {
@@ -2310,9 +2445,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/722146_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        74.99,
         74.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2325,9 +2461,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/722128_00_1.jpg",
       "category": "Gaming",
       "price_history": [
+        74.99,
         74.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2343,9 +2480,10 @@
         749.0,
         749.0,
         749.0,
+        749.0,
         749.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2361,56 +2499,43 @@
         329.99,
         329.99,
         329.99,
+        329.99,
         329.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
-    },
-    {
-      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
-      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
-      "store": "Carrefour",
-      "current_price": 14.94,
-      "original_price": 15.84,
-      "discount_pct": 5.68,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        14.87
-      ],
-      "history_days": 1,
-      "is_lowest": false
     },
     {
       "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
       "store": "Carrefour",
-      "current_price": 15.55,
-      "original_price": 16.48,
-      "discount_pct": 5.64,
+      "current_price": 15.61,
+      "original_price": 16.55,
+      "discount_pct": 5.68,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        15.43
+        15.43,
+        15.61
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": false
     },
     {
-      "name": "GamePc Sobremesa Gaming Pro-A R7-7500/32gb/1tb/Rtx 5070Nv/750W/Ref Liquida+/FreeDos",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-sobremesa-gaming-pro-a-r7-7500-32gb-1tb-rtx-5070nv-750w-ref-liquida-freedos/261510",
-      "store": "GAME",
-      "current_price": 1799.99,
-      "original_price": 1893.08,
-      "discount_pct": 4.92,
-      "image_url": "https://media.game.es/COVERV2/3D_L/261/261510.png",
-      "category": "Gaming",
+      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
+      "store": "Carrefour",
+      "current_price": 14.95,
+      "original_price": 15.85,
+      "discount_pct": 5.68,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
-        1799.99,
-        1799.99
+        14.87,
+        14.95
       ],
       "history_days": 2,
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "name": "Repetidor Wi-Fi TP-Link N300W",
@@ -2422,9 +2547,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/642988_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        21.04
+        21.04,
+        21.17
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": false
     },
     {
@@ -2440,9 +2566,10 @@
         669.0,
         669.0,
         669.0,
+        669.0,
         669.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2455,9 +2582,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643866_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        319.0,
         319.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2472,9 +2600,10 @@
       "price_history": [
         379.99,
         379.99,
+        379.99,
         379.99
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     }
   ]
