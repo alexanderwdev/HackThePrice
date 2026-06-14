@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T21:43:21.784710+00:00",
-  "total_products": 332,
+  "updated": "2026-06-14T22:15:29.539039+00:00",
+  "total_products": 333,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781474767",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -29,7 +29,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781474767",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -66,7 +66,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781474767",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -86,7 +86,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781474767",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -123,7 +123,7 @@
       "current_price": 349.95,
       "original_price": 799.95,
       "discount_pct": 56.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781474767",
       "category": "Monitores",
       "price_history": [
         349.95,
@@ -152,26 +152,6 @@
         449.0,
         449.0,
         449.0
-      ],
-      "history_days": 6,
-      "is_lowest": true
-    },
-    {
-      "name": "TV LG OLED OLED48C59LB 48\" 4K UltraHD 120Hz Smart TV WebOS HDR10 Dolby Vision Dolby Atmos",
-      "url": "https://www.pccomponentes.com/tv-lg-oled-oled48c59lb-48-4k-ultrahd-120hz-smart-tv-webos-hdr10-dolby-vision-dolby-atmos",
-      "store": "PcComponentes",
-      "current_price": 799.0,
-      "original_price": 1775.56,
-      "discount_pct": 55.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1107/11076121/1377-tv-lg-oled-oled48c59lb-48-4k-ultrahd-120hz-smart-tv-webos-hdr10-dolby-vision-dolby-atmos.jpg",
-      "category": null,
-      "price_history": [
-        799.0,
-        799.0,
-        799.0,
-        799.0,
-        799.0,
-        799.0
       ],
       "history_days": 6,
       "is_lowest": true
@@ -212,6 +192,26 @@
       ],
       "history_days": 3,
       "is_lowest": true
+    },
+    {
+      "name": "TV LG OLED OLED48C59LB 48\" 4K UltraHD 120Hz Smart TV WebOS HDR10 Dolby Vision Dolby Atmos",
+      "url": "https://www.pccomponentes.com/tv-lg-oled-oled48c59lb-48-4k-ultrahd-120hz-smart-tv-webos-hdr10-dolby-vision-dolby-atmos",
+      "store": "PcComponentes",
+      "current_price": 879.0,
+      "original_price": 1793.88,
+      "discount_pct": 51.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1107/11076121/1377-tv-lg-oled-oled48c59lb-48-4k-ultrahd-120hz-smart-tv-webos-hdr10-dolby-vision-dolby-atmos.jpg",
+      "category": null,
+      "price_history": [
+        799.0,
+        799.0,
+        799.0,
+        799.0,
+        799.0,
+        799.0
+      ],
+      "history_days": 6,
+      "is_lowest": false
     },
     {
       "name": "Ventilador de Techo con Luz Cecotec EnergySilence Aero 4280 Invisible White, 40 W, 3 Aspas",
@@ -354,7 +354,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781474767",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
@@ -428,7 +428,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781474767",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -448,7 +448,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781474767",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -468,7 +468,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781474767",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -505,7 +505,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781474767",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -625,7 +625,7 @@
       "current_price": 13.95,
       "original_price": 21.95,
       "discount_pct": 36.45,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781474767",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
@@ -685,7 +685,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781474767",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -796,7 +796,7 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781474767",
       "category": "Almacenamiento",
       "price_history": [
         13.95,
@@ -816,7 +816,7 @@
       "current_price": 69.95,
       "original_price": 99.95,
       "discount_pct": 30.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781474767",
       "category": "Monitores",
       "price_history": [
         69.95,
@@ -882,6 +882,21 @@
       "is_lowest": true
     },
     {
+      "name": "Campana KUNFT 60 KCHS4852 IX (216.5 m3/h - 60 cm - Inox)",
+      "url": "https://www.worten.es/productos/campana-kunft-60-kchs4852-ix-216-5-m3-h-60-cm-inox-7126569",
+      "store": "Worten",
+      "current_price": 49.99,
+      "original_price": 69.99,
+      "discount_pct": 28.58,
+      "image_url": "https://www.worten.es/i/2965a9c3032c0e7980594d6b82ffb3070c763767",
+      "category": null,
+      "price_history": [
+        49.99
+      ],
+      "history_days": 1,
+      "is_lowest": true
+    },
+    {
       "name": "Smart TV QNEDevo 65\" (165,1 cm) LG 65QNED86A6A con IA, 4K MiniLED, 144 Hz, HDR, 100% Volumen de Color, Dolby Digital Plus",
       "url": "https://www.carrefour.es/smart-tv-qnedevo-65-1651-cm-lg-65qned86a6a-con-ia-4k-miniled-144-hz-hdr-100-volumen-de-color-dolby-digital-plus/VC4A-30749952/p",
       "store": "Carrefour",
@@ -905,7 +920,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781474767",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -933,24 +948,6 @@
         399.0
       ],
       "history_days": 3,
-      "is_lowest": true
-    },
-    {
-      "name": "DeLonghi Dedica EC685.M Cafetera de Espresso Plata",
-      "url": "https://www.pccomponentes.com/delonghi-dedica-ec685-m-cafetera-de-espresso-plata",
-      "store": "PcComponentes",
-      "current_price": 145.0,
-      "original_price": 198.63,
-      "discount_pct": 27.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/11/119789/1258-delonghi-dedica-ec685m-cafetera-de-espresso-plata-foto.jpg",
-      "category": null,
-      "price_history": [
-        145.0,
-        145.0,
-        145.0,
-        145.0
-      ],
-      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -1045,7 +1042,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781474767",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -1185,13 +1182,31 @@
       "is_lowest": true
     },
     {
+      "name": "DeLonghi Dedica EC685.M Cafetera de Espresso Plata",
+      "url": "https://www.pccomponentes.com/delonghi-dedica-ec685-m-cafetera-de-espresso-plata",
+      "store": "PcComponentes",
+      "current_price": 149.9,
+      "original_price": 197.24,
+      "discount_pct": 24.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/11/119789/1258-delonghi-dedica-ec685m-cafetera-de-espresso-plata-foto.jpg",
+      "category": null,
+      "price_history": [
+        145.0,
+        145.0,
+        145.0,
+        145.0
+      ],
+      "history_days": 4,
+      "is_lowest": false
+    },
+    {
       "name": "TP-Link Universal AC750 WiFi",
       "url": "https://www.coolmod.com/tp-link-universal-ac750-wifi-repetidor/",
       "store": "Coolmod",
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781474767",
       "category": "Repetidores",
       "price_history": [
         22.95,
@@ -1282,7 +1297,7 @@
       "current_price": 3.94,
       "original_price": 4.95,
       "discount_pct": 20.4,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781474767",
       "category": "Modding PC",
       "price_history": [
         3.94,
@@ -1336,7 +1351,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781474767",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -1512,6 +1527,24 @@
         899.99
       ],
       "history_days": 6,
+      "is_lowest": true
+    },
+    {
+      "name": "COOLPC Gamer VI - Ryzen 5 7600 / GeForce RTX 5060 Ti 8Gb / 32GB DDR5 / NVMe 1Tb / W11",
+      "url": "https://www.coolmod.com/coolpc-gamer-vi/",
+      "store": "Coolmod",
+      "current_price": 1549.95,
+      "original_price": 1892.4,
+      "discount_pct": 18.1,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008730_1.jpg?v=1781474767",
+      "category": "COOLPC - Gamer",
+      "price_history": [
+        1549.95,
+        1549.95,
+        1549.95,
+        1549.95
+      ],
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -1843,6 +1876,26 @@
       "is_lowest": true
     },
     {
+      "name": "Lavadora Beko Carga Frontal 8 kg 1400 rpm A Blanca con Motor ProSmart Inverter",
+      "url": "https://www.pccomponentes.com/lavadora-beko-carga-frontal-8-kg-1400-rpm-a-blanca-con-motor-prosmart-inverter",
+      "store": "PcComponentes",
+      "current_price": 279.0,
+      "original_price": 328.24,
+      "discount_pct": 15.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1107/11076208/1553-lavadora-koenic-carga-frontal-8-kg-1400-rpm-a-blanca-con-motor-prosmart-inverter.jpg",
+      "category": null,
+      "price_history": [
+        286.0,
+        286.0,
+        286.0,
+        286.0,
+        286.0,
+        279.0
+      ],
+      "history_days": 6,
+      "is_lowest": true
+    },
+    {
       "name": "Smart TV QLED 55\" (139,7 cm) TCL 55P71K, 4K UHD, 60 Hz, Procesador AiPQ Pro, Dolby AC4 Dolby TrueHD, Dolby Atmos DTS Virtual-X, Google TV",
       "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-tcl-55p71k-4k-uhd-60-hz-procesador-aipq-pro-dolby-ac4-dolby-truehd-dolby-atmos-dts-virtual-x-google-tv/VC4A-30494292/p",
       "store": "Carrefour",
@@ -1965,7 +2018,7 @@
       "current_price": 17.95,
       "original_price": 20.95,
       "discount_pct": 14.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781474767",
       "category": "Fuentes de Alimentación",
       "price_history": [
         17.95,
@@ -2095,26 +2148,6 @@
         11.55
       ],
       "history_days": 3,
-      "is_lowest": true
-    },
-    {
-      "name": "Lavadora Beko Carga Frontal 8 kg 1400 rpm A Blanca con Motor ProSmart Inverter",
-      "url": "https://www.pccomponentes.com/lavadora-beko-carga-frontal-8-kg-1400-rpm-a-blanca-con-motor-prosmart-inverter",
-      "store": "PcComponentes",
-      "current_price": 286.0,
-      "original_price": 328.74,
-      "discount_pct": 13.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1107/11076208/1553-lavadora-koenic-carga-frontal-8-kg-1400-rpm-a-blanca-con-motor-prosmart-inverter.jpg",
-      "category": null,
-      "price_history": [
-        286.0,
-        286.0,
-        286.0,
-        286.0,
-        286.0,
-        286.0
-      ],
-      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -2339,7 +2372,7 @@
       "current_price": 97.95,
       "original_price": 108.95,
       "discount_pct": 10.1,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781474767",
       "category": "Modding PC",
       "price_history": [
         97.95,
@@ -2359,7 +2392,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781474767",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -2413,7 +2446,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781474767",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
@@ -2433,7 +2466,7 @@
       "current_price": 103.95,
       "original_price": 114.95,
       "discount_pct": 9.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781473281",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781474767",
       "category": "Modding PC",
       "price_history": [
         103.95,
@@ -2517,6 +2550,26 @@
         489.0
       ],
       "history_days": 3,
+      "is_lowest": true
+    },
+    {
+      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 256GB SSD GPU 5 núcleos macOS Índigo",
+      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo",
+      "store": "PcComponentes",
+      "current_price": 649.0,
+      "original_price": 697.85,
+      "discount_pct": 7.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026359/1489-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo.jpg",
+      "category": null,
+      "price_history": [
+        699.0,
+        699.0,
+        699.0,
+        699.0,
+        699.0,
+        649.0
+      ],
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -2609,26 +2662,6 @@
       "is_lowest": true
     },
     {
-      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 512GB SSD GPU 5 núcleos macOS Touch ID Índigo",
-      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-512gb-ssd-gpu-5-nucleos-macos-touch-id-indigo",
-      "store": "PcComponentes",
-      "current_price": 749.0,
-      "original_price": 796.81,
-      "discount_pct": 6.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026360/1311-apple-macbook-neo-13-apple-a18-pro-8gb-512gb-ssd-gpu-5-nucleos-macos-touch-id-indigo.jpg",
-      "category": null,
-      "price_history": [
-        749.0,
-        749.0,
-        749.0,
-        749.0,
-        749.0,
-        749.0
-      ],
-      "history_days": 6,
-      "is_lowest": true
-    },
-    {
       "name": "Lavavajillas KUBO KBDW10026 IX (15 Cubiertos - 60 cm - Inox)",
       "url": "https://www.worten.es/productos/lavavajillas-kubo-kbdw10026-ix-15-cubiertos-60-cm-inox-8490222",
       "store": "Worten",
@@ -2649,35 +2682,18 @@
       "is_lowest": true
     },
     {
-      "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
-      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
-      "store": "Carrefour",
-      "current_price": 15.6,
-      "original_price": 16.54,
-      "discount_pct": 5.68,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        15.43,
-        15.49,
-        15.49
-      ],
-      "history_days": 3,
-      "is_lowest": false
-    },
-    {
       "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
       "store": "Carrefour",
-      "current_price": 14.82,
-      "original_price": 15.71,
+      "current_price": 14.81,
+      "original_price": 15.7,
       "discount_pct": 5.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
       "category": "Componentes",
       "price_history": [
         14.87,
         14.81,
-        14.82
+        14.81
       ],
       "history_days": 3,
       "is_lowest": true
