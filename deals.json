@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:11:09.858063+00:00",
+  "updated": "2026-06-14T21:43:21.784710+00:00",
   "total_products": 332,
   "deals": [
     {
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781473281",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -29,7 +29,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781473281",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -66,7 +66,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781473281",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -86,7 +86,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781473281",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -123,7 +123,7 @@
       "current_price": 349.95,
       "original_price": 799.95,
       "discount_pct": 56.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1781473281",
       "category": "Monitores",
       "price_history": [
         349.95,
@@ -231,6 +231,25 @@
       "is_lowest": true
     },
     {
+      "name": "Thermal Grizzly Aeronaut 3 ml",
+      "url": "https://www.coolmod.com/thermal-grizzly-aeronaut-3-ml-pasta-tarmica/",
+      "store": "Coolmod",
+      "current_price": 6.95,
+      "original_price": 12.95,
+      "discount_pct": 46.33,
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1781473281",
+      "category": "Compuestos Térmicos",
+      "price_history": [
+        6.95,
+        6.95,
+        6.95,
+        6.95,
+        6.95
+      ],
+      "history_days": 5,
+      "is_lowest": true
+    },
+    {
       "name": "Portátil - HP OmniBook 3 Laptop 16-bu0024ns, 16 \" DCI 2K, Intel® Core™ 3 100U, 8 GB RAM, 512 GB SSD, UHD Graphics, Sin sistema operativo, Sin cargador",
       "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-bu0024ns-16-dci-2k-intelr-coretm-3-100u-8-gb-ram-512-gb-ssd-uhd-graphics-sin-sistema-operativo-sin-cargador-1618355.html",
       "store": "MediaMarkt",
@@ -289,6 +308,26 @@
       "is_lowest": true
     },
     {
+      "name": "Lavavajillas AEG FFB64607ZW (13 Cubiertos - 59.8 cm - Blanco)",
+      "url": "https://www.worten.es/productos/lavavajillas-aeg-ffb64607zw-13-cubiertos-59-8-cm-blanco-7749110",
+      "store": "Worten",
+      "current_price": 399.99,
+      "original_price": 729.99,
+      "discount_pct": 45.21,
+      "image_url": "https://www.worten.es/i/76f1582ecc67e959491b910f2d4e1888c32973a5",
+      "category": null,
+      "price_history": [
+        399.99,
+        399.99,
+        399.99,
+        399.99,
+        399.99,
+        399.99
+      ],
+      "history_days": 6,
+      "is_lowest": true
+    },
+    {
       "name": "Robot aspirador y fregasuelos Roborock Q10 Pf+ con navegación LiDAR y autovaciado 10.000 Pa control por app",
       "url": "https://www.pccomponentes.com/robot-aspirador-y-fregasuelos-roborock-q10-pf-plus-con-navegacion-lidar-y-autovaciado-10-000-pa-control-por-app",
       "store": "PcComponentes",
@@ -315,7 +354,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781473281",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
@@ -389,7 +428,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781473281",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -409,7 +448,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781473281",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -429,7 +468,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781473281",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -466,7 +505,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781473281",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -497,25 +536,6 @@
         1199.0
       ],
       "history_days": 6,
-      "is_lowest": true
-    },
-    {
-      "name": "Nilait Prisma 55UD7004ST 55\" LED UHD 4K Smart TV WebOS",
-      "url": "https://www.pccomponentes.com/nilait-prisma-55ud7004st-55-led-uhd-4k-smart-tv-webos",
-      "store": "PcComponentes",
-      "current_price": 299.0,
-      "original_price": 498.33,
-      "discount_pct": 40.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10942540/1940-nilait-prisma-55ud7004st-55-led-uhd-4k-smart-tv-webos.jpg",
-      "category": null,
-      "price_history": [
-        299.0,
-        299.0,
-        299.0,
-        299.0,
-        299.0
-      ],
-      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -605,7 +625,7 @@
       "current_price": 13.95,
       "original_price": 21.95,
       "discount_pct": 36.45,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781473281",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
@@ -665,7 +685,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781473281",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -776,7 +796,7 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781473281",
       "category": "Almacenamiento",
       "price_history": [
         13.95,
@@ -796,7 +816,7 @@
       "current_price": 69.95,
       "original_price": 99.95,
       "discount_pct": 30.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-024558_1.jpg?v=1781473281",
       "category": "Monitores",
       "price_history": [
         69.95,
@@ -885,7 +905,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781473281",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -934,6 +954,23 @@
       "is_lowest": true
     },
     {
+      "name": "Consola Nintendo Switch 2 256 GB",
+      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
+      "store": "Carrefour",
+      "current_price": 439.0,
+      "original_price": 600.0,
+      "discount_pct": 26.83,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        439.96,
+        439.96,
+        439.0
+      ],
+      "history_days": 3,
+      "is_lowest": true
+    },
+    {
       "name": "Smart TV LED 43\" (10,22 cm) Samsung TU43U7025FK, 4K UHD, 50 Hz, Crystal Processor 4K, OTS Lite, Q-Symphony, Adaptive Sound",
       "url": "https://www.carrefour.es/smart-tv-led-43-1022-cm-samsung-tu43u7025fk-4k-uhd-50-hz-crystal-processor-4k-ots-lite-q-symphony-adaptive-sound/VC4A-31145648/p",
       "store": "Carrefour",
@@ -946,6 +983,23 @@
         279.0,
         279.0,
         279.0
+      ],
+      "history_days": 3,
+      "is_lowest": true
+    },
+    {
+      "name": "Apple AirPods Pro 3 Auriculares Bluetooth con Cancelación Activa de Ruido USB-C Blancos",
+      "url": "https://www.pccomponentes.com/apple-airpods-pro-3-auriculares-bluetooth-con-cancelacion-activa-de-ruido-usb-c-blancos",
+      "store": "PcComponentes",
+      "current_price": 219.0,
+      "original_price": 295.95,
+      "discount_pct": 26.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10952804/1501-apple-airpods-pro-3-auriculares-bluetooth-con-cancelacion-activa-de-ruido-usb-c-blancos.jpg",
+      "category": null,
+      "price_history": [
+        219.0,
+        227.99,
+        219.0
       ],
       "history_days": 3,
       "is_lowest": true
@@ -991,7 +1045,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781473281",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -1137,7 +1191,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781473281",
       "category": "Repetidores",
       "price_history": [
         22.95,
@@ -1228,7 +1282,7 @@
       "current_price": 3.94,
       "original_price": 4.95,
       "discount_pct": 20.4,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitfenix-alchemy-20-20cm-azul-claro-cable-pc-001.jpg?v=1781473281",
       "category": "Modding PC",
       "price_history": [
         3.94,
@@ -1282,7 +1336,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781473281",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -1367,26 +1421,6 @@
       "is_lowest": true
     },
     {
-      "name": "Frigorífico 2 puertas KUBO KBDD8358 (Estático - 143 cm - 206 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-2-puertas-kubo-kbdd8358-estatico-143-cm-206-l-blanco-7610054",
-      "store": "Worten",
-      "current_price": 199.99,
-      "original_price": 249.99,
-      "discount_pct": 20.0,
-      "image_url": "https://www.worten.es/i/bd9f03aeafcb205983bad37276e3ad8bd0b2584f",
-      "category": null,
-      "price_history": [
-        199.99,
-        199.99,
-        199.99,
-        199.99,
-        199.99,
-        199.99
-      ],
-      "history_days": 6,
-      "is_lowest": true
-    },
-    {
       "name": "Super Mario Bros Wonder para Switch 2",
       "url": "https://www.carrefour.es/super-mario-bros-wonder-para-switch-2/VC4A-32689264/p",
       "store": "Carrefour",
@@ -1441,6 +1475,26 @@
       "is_lowest": true
     },
     {
+      "name": "Portátil - LENOVO V15 G5 IRL, 15,6 \" Full-HD, Intel Core i7-13620H, 32 GB RAM, 1 TB SSD, UHD Graphics, Windows 11 Home, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-v15-g5-irl-156-full-hd-intel-core-i7-13620h-32-gb-ram-1-tb-ssd-uhd-graphics-windows-11-home-negro-175800584.html",
+      "store": "MediaMarkt",
+      "current_price": 899.0,
+      "original_price": 1099.0,
+      "discount_pct": 18.2,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_140815575",
+      "category": null,
+      "price_history": [
+        869.0,
+        869.0,
+        869.0,
+        869.0,
+        879.0,
+        879.0
+      ],
+      "history_days": 6,
+      "is_lowest": false
+    },
+    {
       "name": "Gigabyte G5  i7-13620H/16Gb/1Tb/Rtx 4060 15,6´´ Wifi6  FreeDOS  Portatil Gaming",
       "url": "https://www.game.es/ordenadores/portatil/pc-gaming/gigabyte-g5-i7-13620h-16gb-1tb-rtx-4060-15,6-wifi6-freedos-portatil-gaming/229429",
       "store": "GAME",
@@ -1458,24 +1512,6 @@
         899.99
       ],
       "history_days": 6,
-      "is_lowest": true
-    },
-    {
-      "name": "COOLPC Gamer VI - Ryzen 5 7600 / GeForce RTX 5060 Ti 8Gb / 32GB DDR5 / NVMe 1Tb / W11",
-      "url": "https://www.coolmod.com/coolpc-gamer-vi/",
-      "store": "Coolmod",
-      "current_price": 1549.95,
-      "original_price": 1892.4,
-      "discount_pct": 18.1,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008730_1.jpg?v=1781464217",
-      "category": "COOLPC - Gamer",
-      "price_history": [
-        1549.95,
-        1549.95,
-        1549.95,
-        1549.95
-      ],
-      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -1511,26 +1547,6 @@
       ],
       "history_days": 3,
       "is_lowest": true
-    },
-    {
-      "name": "Portátil - LENOVO V15 G5 IRL, 15,6 \" Full-HD, Intel Core i7-13620H, 32 GB RAM, 1 TB SSD, UHD Graphics, Windows 11 Home, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-v15-g5-irl-156-full-hd-intel-core-i7-13620h-32-gb-ram-1-tb-ssd-uhd-graphics-windows-11-home-negro-175800584.html",
-      "store": "MediaMarkt",
-      "current_price": 879.0,
-      "original_price": 1069.0,
-      "discount_pct": 17.77,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_140815575",
-      "category": null,
-      "price_history": [
-        869.0,
-        869.0,
-        869.0,
-        869.0,
-        879.0,
-        879.0
-      ],
-      "history_days": 6,
-      "is_lowest": false
     },
     {
       "name": "Smart TV LED 50\" (127 cm) Samsung TU50U7025FK, 4K UHD, 50 Hz, Crystal Processor 4K, OTS Lite, Q-Symphony",
@@ -1654,8 +1670,8 @@
       "name": "Tablet Xiaomi Redmi Pad 2 MediaTek G100-Ultra, 8GB RAM, 256GB, 11\" - 27,94 cm, Xiaomi HyperOS 2*, Android - Gris",
       "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad-2-mediatek-g100-ultra-8gb-ram-256gb-11-2794-cm-xiaomi-hyperos-2-android-gris/VC4A-30685809/p",
       "store": "Carrefour",
-      "current_price": 218.86,
-      "original_price": 262.63,
+      "current_price": 218.92,
+      "original_price": 262.7,
       "discount_pct": 16.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598387_00_1.jpg",
       "category": "Móviles",
@@ -1665,7 +1681,7 @@
         218.86
       ],
       "history_days": 3,
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Negro",
@@ -1680,23 +1696,6 @@
         553.79,
         553.79,
         553.79
-      ],
-      "history_days": 3,
-      "is_lowest": true
-    },
-    {
-      "name": "Consola Nintendo Switch 2 256 GB",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
-      "store": "Carrefour",
-      "current_price": 439.96,
-      "original_price": 527.95,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        439.96,
-        439.96,
-        439.96
       ],
       "history_days": 3,
       "is_lowest": true
@@ -1756,15 +1755,15 @@
       "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
       "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
       "store": "Carrefour",
-      "current_price": 375.6,
-      "original_price": 450.72,
+      "current_price": 375.51,
+      "original_price": 450.61,
       "discount_pct": 16.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705626_00_1.jpg",
       "category": "Componentes",
       "price_history": [
         376.14,
         375.8,
-        375.6
+        375.51
       ],
       "history_days": 3,
       "is_lowest": true
@@ -1822,23 +1821,6 @@
       ],
       "history_days": 3,
       "is_lowest": false
-    },
-    {
-      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
-      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
-      "store": "Carrefour",
-      "current_price": 11.55,
-      "original_price": 13.74,
-      "discount_pct": 15.94,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
-      "category": "Hogar",
-      "price_history": [
-        11.55,
-        11.55,
-        11.55
-      ],
-      "history_days": 3,
-      "is_lowest": true
     },
     {
       "name": "Portátil HP 15s-fq5007ns (15.6'' - Intel Core i5-1235U - RAN: 8 GB - 512 GB SSD PCIe - Intel Iris Xe Graphics)",
@@ -1983,7 +1965,7 @@
       "current_price": 17.95,
       "original_price": 20.95,
       "discount_pct": 14.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008274_1.jpg?v=1781473281",
       "category": "Fuentes de Alimentación",
       "price_history": [
         17.95,
@@ -2094,6 +2076,23 @@
         26.0,
         26.0,
         26.0
+      ],
+      "history_days": 3,
+      "is_lowest": true
+    },
+    {
+      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
+      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
+      "store": "Carrefour",
+      "current_price": 11.55,
+      "original_price": 13.28,
+      "discount_pct": 13.03,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
+      "category": "Hogar",
+      "price_history": [
+        11.55,
+        11.55,
+        11.55
       ],
       "history_days": 3,
       "is_lowest": true
@@ -2340,7 +2339,7 @@
       "current_price": 97.95,
       "original_price": 108.95,
       "discount_pct": 10.1,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-rt-series-asus-seasonic-negro-rojo-kit-cables-001.jpg?v=1781473281",
       "category": "Modding PC",
       "price_history": [
         97.95,
@@ -2360,7 +2359,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781473281",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -2414,7 +2413,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781473281",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
@@ -2434,7 +2433,7 @@
       "current_price": 103.95,
       "original_price": 114.95,
       "discount_pct": 9.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781464217",
+      "image_url": "https://www.coolmod.com/images/product/normal/cablemod-pro-modmesh-c-series-axi-hxi--rm-negro-blanco-kit-cables-001.jpg?v=1781473281",
       "category": "Modding PC",
       "price_history": [
         103.95,
@@ -2653,9 +2652,9 @@
       "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
       "store": "Carrefour",
-      "current_price": 15.49,
-      "original_price": 16.42,
-      "discount_pct": 5.66,
+      "current_price": 15.6,
+      "original_price": 16.54,
+      "discount_pct": 5.68,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
       "category": "Componentes",
       "price_history": [
@@ -2665,6 +2664,23 @@
       ],
       "history_days": 3,
       "is_lowest": false
+    },
+    {
+      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
+      "store": "Carrefour",
+      "current_price": 14.82,
+      "original_price": 15.71,
+      "discount_pct": 5.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        14.87,
+        14.81,
+        14.82
+      ],
+      "history_days": 3,
+      "is_lowest": true
     },
     {
       "name": "GamePc Sobremesa Gaming Pro-A R7-7500/32gb/1tb/Rtx 5070Nv/750W/Ref Liquida+/FreeDos",
