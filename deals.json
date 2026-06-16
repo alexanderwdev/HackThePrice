@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T22:58:51.692291+00:00",
-  "total_products": 350,
+  "updated": "2026-06-16T00:26:53.931755+00:00",
+  "total_products": 353,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1781569553",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -18,9 +18,10 @@
         0.95,
         0.95,
         0.95,
+        0.95,
         0.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -30,12 +31,13 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1781569553",
       "category": "Ratones",
       "price_history": [
+        3.95,
         3.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -45,7 +47,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1781569553",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -54,9 +56,10 @@
         1.95,
         1.95,
         1.95,
+        1.95,
         1.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -66,7 +69,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1781569553",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -75,9 +78,10 @@
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -87,7 +91,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1781569553",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -96,9 +100,10 @@
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -114,9 +119,10 @@
         899.0,
         899.0,
         899.0,
+        899.0,
         899.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -126,10 +132,26 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1781569553",
       "category": "Cables Red",
       "price_history": [
+        2.95,
         2.95
+      ],
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Silla de Oficina Operativa MITSAI Paris Blanca (Brazos Fijos - Piel Sintética)",
+      "url": "https://www.worten.es/productos/silla-de-oficina-operativa-mitsai-paris-blanca-brazos-fijos-piel-sintetica-7612885",
+      "store": "Worten",
+      "current_price": 44.99,
+      "original_price": 99.99,
+      "discount_pct": 55.01,
+      "image_url": "https://www.worten.es/i/0d821bc9d9fe118883e08a96c5cba9e0dbcf9d36",
+      "category": null,
+      "price_history": [
+        44.99
       ],
       "history_days": 1,
       "is_lowest": true
@@ -145,9 +167,10 @@
       "category": null,
       "price_history": [
         269.0,
+        269.0,
         269.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -166,9 +189,10 @@
         799.0,
         799.0,
         799.0,
+        829.0,
         829.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": false
     },
     {
@@ -181,9 +205,10 @@
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/30/309280/1255-logitech-g-pro-x-auriculares-gaming-inalambricos-con-lightspeed-negros-4b21b7d7-73fb-440a-a783-7c7be9fcb2ee.jpg",
       "category": null,
       "price_history": [
+        109.99,
         109.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -199,9 +224,10 @@
         69.0,
         69.0,
         69.0,
+        69.0,
         69.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -218,9 +244,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -239,9 +266,10 @@
         399.99,
         399.99,
         399.99,
+        399.99,
         399.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -251,7 +279,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
@@ -260,9 +288,10 @@
         3.95,
         3.95,
         3.95,
+        3.95,
         3.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -281,9 +310,10 @@
         279.99,
         279.99,
         279.99,
+        279.99,
         279.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -293,7 +323,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1781569553",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -302,9 +332,10 @@
         5.95,
         5.95,
         5.95,
+        5.95,
         5.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -314,7 +345,7 @@
       "current_price": 8.95,
       "original_price": 14.95,
       "discount_pct": 40.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/pasta-trmica-arctic-cooling-mx-4-20-gr-001.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -323,9 +354,10 @@
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -341,9 +373,10 @@
         29.99,
         29.99,
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -353,7 +386,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1781569553",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -362,9 +395,10 @@
         149.95,
         149.95,
         149.95,
+        149.95,
         149.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -383,9 +417,10 @@
         1199.0,
         1199.0,
         1199.0,
+        1199.0,
         1199.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -403,9 +438,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true
     },
     {
@@ -418,9 +454,10 @@
       "image_url": "https://www.worten.es/i/df3442936243f0f5bd297fed43644133cc0a3224",
       "category": null,
       "price_history": [
+        469.99,
         469.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -433,9 +470,10 @@
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1093/10936312/1560-lg-qned-evo-ai-50qned86a6c-50-qned-4k-ultra-hd-hdr10-hlg-smart-tv-webos-ac451801-54b2-44f9-a76a-7945b53098cd.jpg",
       "category": null,
       "price_history": [
+        399.0,
         399.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -454,9 +492,10 @@
         329.99,
         329.99,
         329.99,
+        329.99,
         329.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -466,7 +505,7 @@
       "current_price": 7.95,
       "original_price": 12.95,
       "discount_pct": 38.61,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
         6.95,
@@ -474,9 +513,10 @@
         6.95,
         6.95,
         6.95,
+        7.95,
         7.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false
     },
     {
@@ -495,9 +535,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -516,9 +557,10 @@
         495.0,
         495.0,
         495.0,
+        495.0,
         495.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -537,9 +579,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -549,12 +592,13 @@
       "current_price": 329.95,
       "original_price": 519.95,
       "discount_pct": 36.54,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1781569553",
       "category": "Portátiles",
       "price_history": [
+        329.95,
         329.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -573,9 +617,10 @@
         509.99,
         509.99,
         509.99,
+        509.99,
         509.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -588,9 +633,10 @@
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10738766/1677-canon-eos-r50-242mp-wifi-rf-s-18-45mm-f45-63-is-stm.jpg",
       "category": null,
       "price_history": [
+        639.0,
         639.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -609,9 +655,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -621,7 +668,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1781569553",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -630,9 +677,10 @@
         12.95,
         12.95,
         12.95,
+        12.95,
         12.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -642,7 +690,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -651,9 +699,10 @@
         8.95,
         8.95,
         8.95,
-        8.95
+        8.95,
+        9.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": false
     },
     {
@@ -669,9 +718,10 @@
         269.99,
         269.99,
         269.99,
+        269.99,
         269.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -681,7 +731,7 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
@@ -690,9 +740,10 @@
         13.95,
         13.95,
         13.95,
-        13.95
+        13.95,
+        14.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": false
     },
     {
@@ -708,9 +759,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -726,9 +778,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -738,7 +791,7 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1781569553",
       "category": "Almacenamiento",
       "price_history": [
         13.95,
@@ -747,9 +800,10 @@
         13.95,
         13.95,
         13.95,
+        13.95,
         13.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -766,9 +820,10 @@
         69.99,
         69.99,
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -784,9 +839,10 @@
         99.0,
         99.0,
         99.0,
+        99.0,
         99.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -802,9 +858,27 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
+      "is_lowest": true
+    },
+    {
+      "name": "Campana KUNFT 60 KCHS4852 IX (216.5 m3/h - 60 cm - Inox)",
+      "url": "https://www.worten.es/productos/campana-kunft-60-kchs4852-ix-216-5-m3-h-60-cm-inox-7126569",
+      "store": "Worten",
+      "current_price": 49.99,
+      "original_price": 69.99,
+      "discount_pct": 28.58,
+      "image_url": "https://www.worten.es/i/2965a9c3032c0e7980594d6b82ffb3070c763767",
+      "category": null,
+      "price_history": [
+        49.99,
+        49.99,
+        49.99
+      ],
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -814,12 +888,13 @@
       "current_price": 699.95,
       "original_price": 979.95,
       "discount_pct": 28.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1781569553",
       "category": "Pantallas Digitales",
       "price_history": [
+        699.95,
         699.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -833,9 +908,10 @@
       "category": null,
       "price_history": [
         1429.0,
+        1449.0,
         1449.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": false
     },
     {
@@ -845,7 +921,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1781569553",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -854,9 +930,10 @@
         20.95,
         20.95,
         20.95,
+        20.95,
         20.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -872,9 +949,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -890,9 +968,10 @@
         279.0,
         279.0,
         279.0,
+        279.0,
         279.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -908,9 +987,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -926,9 +1006,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -938,7 +1019,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1781569553",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -946,9 +1027,10 @@
         14.95,
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true
     },
     {
@@ -965,9 +1047,10 @@
         29.99,
         29.99,
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -984,9 +1067,10 @@
         29.99,
         29.99,
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -1002,9 +1086,10 @@
         429.0,
         429.0,
         429.0,
+        429.0,
         429.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1020,9 +1105,10 @@
         529.0,
         529.0,
         529.0,
+        529.0,
         529.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1038,9 +1124,10 @@
         249.0,
         249.0,
         249.0,
+        249.0,
         249.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1059,9 +1146,10 @@
         139.99,
         139.99,
         139.99,
+        139.99,
         139.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1071,7 +1159,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1781569553",
       "category": "Repetidores",
       "price_history": [
         22.95,
@@ -1080,9 +1168,10 @@
         22.95,
         22.95,
         22.95,
+        22.95,
         22.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1092,10 +1181,26 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1781569553",
       "category": "Hubs",
       "price_history": [
+        22.95,
         22.95
+      ],
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Aire Acondicionado Portátil BECKEN BAC4255 (23 m² - 3011 Frig/h - Blanco)",
+      "url": "https://www.worten.es/productos/aire-acondicionado-portatil-becken-bac4255-23-m2-3011-frig-h-blanco-6812156",
+      "store": "Worten",
+      "current_price": 329.99,
+      "original_price": 429.99,
+      "discount_pct": 23.26,
+      "image_url": "https://www.worten.es/i/93e93bce6cb9b3482fb3751963b734a369d53d10",
+      "category": null,
+      "price_history": [
+        329.99
       ],
       "history_days": 1,
       "is_lowest": true
@@ -1116,9 +1221,10 @@
         459.0,
         459.0,
         459.0,
+        459.0,
         459.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1134,9 +1240,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1149,9 +1256,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714803_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        349.0,
         349.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1165,9 +1273,10 @@
       "category": null,
       "price_history": [
         424.9,
+        424.9,
         424.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -1183,9 +1292,10 @@
         69.9,
         69.9,
         69.9,
+        69.9,
         69.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1201,9 +1311,10 @@
         69.9,
         69.9,
         69.9,
+        69.9,
         69.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1219,9 +1330,10 @@
         359.0,
         359.0,
         359.0,
+        359.0,
         359.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1231,7 +1343,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1781569553",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -1240,9 +1352,10 @@
         39.95,
         39.95,
         39.95,
+        39.95,
         39.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1258,9 +1371,10 @@
         329.99,
         329.99,
         329.99,
+        329.99,
         329.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1276,9 +1390,10 @@
         818.88,
         818.88,
         818.88,
+        818.88,
         818.88
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1294,9 +1409,10 @@
         818.88,
         818.88,
         818.88,
+        818.88,
         818.88
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1315,9 +1431,10 @@
         799.99,
         799.99,
         799.99,
+        799.99,
         799.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1336,9 +1453,10 @@
         199.99,
         199.99,
         199.99,
+        199.99,
         199.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1354,9 +1472,10 @@
         64.9,
         64.9,
         64.9,
+        64.9,
         64.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1374,9 +1493,10 @@
         513.05,
         513.05,
         513.05,
+        513.05,
         513.05
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true
     },
     {
@@ -1395,9 +1515,10 @@
         869.0,
         879.0,
         879.0,
+        899.0,
         899.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": false
     },
     {
@@ -1416,9 +1537,10 @@
         899.99,
         899.99,
         899.99,
+        899.99,
         899.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1434,9 +1556,10 @@
         319.0,
         319.0,
         319.0,
+        319.0,
         319.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1452,9 +1575,10 @@
         329.0,
         329.0,
         329.0,
+        329.0,
         329.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1469,9 +1593,10 @@
       "price_history": [
         189.0,
         189.0,
+        189.0,
         189.0
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true
     },
     {
@@ -1490,9 +1615,10 @@
         669.0,
         669.0,
         669.0,
+        577.68,
         577.68
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1511,9 +1637,10 @@
         269.0,
         269.0,
         269.0,
+        255.37,
         255.37
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1532,9 +1659,10 @@
         699.0,
         699.0,
         699.0,
+        643.8,
         643.8
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1553,9 +1681,10 @@
         69.0,
         69.0,
         69.0,
+        65.2,
         65.2
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1574,67 +1703,10 @@
         349.0,
         349.0,
         349.0,
+        338.01,
         338.01
       ],
-      "history_days": 7,
-      "is_lowest": true
-    },
-    {
-      "name": "Portátil - ASUS Zenbook 14 OLED UX3405CA-QD1183, 14\" WUXGA, Intel® Core™ Ultra 7 255H, 16 GB RAM, 512 GB SSD, Arc™ 140V, SSO, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-14-oled-ux3405ca-qd1183-14-wuxga-intelr-coretm-ultra-7-255h-16-gb-ram-512-gb-ssd-arctm-140v-sso-sin-cargador-1621830.html",
-      "store": "MediaMarkt",
-      "current_price": 742.97,
-      "original_price": 899.0,
-      "discount_pct": 17.36,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177812458",
-      "category": null,
-      "price_history": [
-        949.0,
-        949.0,
-        949.0,
-        949.0,
-        742.97
-      ],
-      "history_days": 5,
-      "is_lowest": true
-    },
-    {
-      "name": "Portátil - HP OmniBook 3 Laptop 16-by0016ns, 16\" DCI 2K, AMD Ryzen™ 5 40, 16GB RAM, 512GB SSD, Radeon™ 610M, Windows 11 Home, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-by0016ns-16-dci-2k-amd-ryzentm-5-40-16gb-ram-512gb-ssd-radeontm-610m-windows-11-home-sin-cargador-1618456.html",
-      "store": "MediaMarkt",
-      "current_price": 585.95,
-      "original_price": 709.0,
-      "discount_pct": 17.36,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175469083",
-      "category": null,
-      "price_history": [
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        585.95
-      ],
-      "history_days": 7,
-      "is_lowest": true
-    },
-    {
-      "name": "Tablet - Xiaomi REDMI Pad 2, HyperOS, 9.7\" 2K Crystal Clear, 4GB RAM, 64GB, Gran Batería de 7600 mAh, Graphite Gray",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-hyperos-97-2k-crystal-clear-4gb-ram-64gb-gran-bateria-de-7600-mah-graphite-gray-1628498.html",
-      "store": "MediaMarkt",
-      "current_price": 131.4,
-      "original_price": 159.0,
-      "discount_pct": 17.36,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176984583",
-      "category": null,
-      "price_history": [
-        159.0,
-        159.0,
-        159.0,
-        131.4
-      ],
-      "history_days": 4,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1653,9 +1725,52 @@
         609.0,
         609.0,
         609.0,
+        495.04,
         495.04
       ],
-      "history_days": 7,
+      "history_days": 8,
+      "is_lowest": true
+    },
+    {
+      "name": "Portátil - ASUS Zenbook 14 OLED UX3405CA-QD1183, 14\" WUXGA, Intel® Core™ Ultra 7 255H, 16 GB RAM, 512 GB SSD, Arc™ 140V, SSO, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-14-oled-ux3405ca-qd1183-14-wuxga-intelr-coretm-ultra-7-255h-16-gb-ram-512-gb-ssd-arctm-140v-sso-sin-cargador-1621830.html",
+      "store": "MediaMarkt",
+      "current_price": 742.97,
+      "original_price": 899.0,
+      "discount_pct": 17.36,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177812458",
+      "category": null,
+      "price_history": [
+        949.0,
+        949.0,
+        949.0,
+        949.0,
+        742.97,
+        742.97
+      ],
+      "history_days": 6,
+      "is_lowest": true
+    },
+    {
+      "name": "Portátil - HP OmniBook 3 Laptop 16-by0016ns, 16\" DCI 2K, AMD Ryzen™ 5 40, 16GB RAM, 512GB SSD, Radeon™ 610M, Windows 11 Home, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-by0016ns-16-dci-2k-amd-ryzentm-5-40-16gb-ram-512gb-ssd-radeontm-610m-windows-11-home-sin-cargador-1618456.html",
+      "store": "MediaMarkt",
+      "current_price": 585.95,
+      "original_price": 709.0,
+      "discount_pct": 17.36,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175469083",
+      "category": null,
+      "price_history": [
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        585.95,
+        585.95
+      ],
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1672,7 +1787,27 @@
         569.0,
         569.0,
         569.0,
+        519.83,
         519.83
+      ],
+      "history_days": 6,
+      "is_lowest": true
+    },
+    {
+      "name": "Tablet - Xiaomi REDMI Pad 2, HyperOS, 9.7\" 2K Crystal Clear, 4GB RAM, 64GB, Gran Batería de 7600 mAh, Graphite Gray",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-hyperos-97-2k-crystal-clear-4gb-ram-64gb-gran-bateria-de-7600-mah-graphite-gray-1628498.html",
+      "store": "MediaMarkt",
+      "current_price": 131.4,
+      "original_price": 159.0,
+      "discount_pct": 17.36,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176984583",
+      "category": null,
+      "price_history": [
+        159.0,
+        159.0,
+        159.0,
+        131.4,
+        131.4
       ],
       "history_days": 5,
       "is_lowest": true
@@ -1690,9 +1825,10 @@
         157.04,
         157.04,
         157.04,
+        157.04,
         157.04
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1708,9 +1844,10 @@
         64.96,
         64.96,
         64.96,
+        64.96,
         64.96
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1726,9 +1863,10 @@
         46.14,
         42.44,
         46.14,
+        46.14,
         46.14
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -1744,9 +1882,10 @@
         124.98,
         124.98,
         124.98,
+        124.98,
         124.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1762,9 +1901,10 @@
         229.31,
         232.98,
         232.98,
+        232.98,
         232.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -1780,9 +1920,10 @@
         262.4,
         269.2,
         269.2,
-        269.2
+        269.2,
+        271.18
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -1795,9 +1936,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        174.11,
         174.11
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1810,9 +1952,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682199_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        167.38,
         167.38
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -1828,9 +1971,10 @@
         439.96,
         439.96,
         439.0,
+        438.97,
         438.97
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1846,9 +1990,10 @@
         594.95,
         594.95,
         594.95,
+        594.95,
         594.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1864,9 +2009,10 @@
         24.99,
         24.99,
         24.99,
+        24.99,
         24.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1882,9 +2028,10 @@
         154.99,
         154.99,
         154.99,
+        154.99,
         154.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1903,9 +2050,10 @@
         799.99,
         799.99,
         799.99,
+        799.99,
         799.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1918,9 +2066,29 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705206_00_1.jpg",
       "category": "Móviles",
       "price_history": [
+        99.38,
         99.38
       ],
-      "history_days": 1,
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
+      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
+      "store": "Carrefour",
+      "current_price": 11.55,
+      "original_price": 13.63,
+      "discount_pct": 15.26,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
+      "category": "Hogar",
+      "price_history": [
+        11.55,
+        11.55,
+        11.55,
+        11.55,
+        11.55
+      ],
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1939,9 +2107,10 @@
         509.07,
         509.07,
         509.07,
+        509.07,
         509.07
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -1957,9 +2126,10 @@
         432.65,
         432.65,
         432.65,
+        432.65,
         432.65
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1975,9 +2145,10 @@
         628.15,
         628.15,
         628.15,
+        628.15,
         628.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -1993,9 +2164,10 @@
         594.15,
         594.15,
         594.15,
+        594.15,
         594.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2009,9 +2181,10 @@
       "category": "Componentes",
       "price_history": [
         679.15,
+        679.15,
         679.15
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -2027,9 +2200,10 @@
         29.9,
         29.9,
         29.9,
+        29.9,
         29.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2045,9 +2219,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2063,9 +2238,10 @@
         59.9,
         59.9,
         59.9,
+        59.9,
         59.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2081,9 +2257,10 @@
         19.9,
         19.9,
         19.9,
+        19.9,
         19.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2099,9 +2276,10 @@
         129.0,
         129.0,
         129.0,
+        129.0,
         129.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2117,9 +2295,10 @@
         129.0,
         129.0,
         129.0,
+        129.0,
         129.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2135,9 +2314,10 @@
         26.0,
         26.0,
         26.0,
+        26.0,
         26.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2153,9 +2333,10 @@
         218.86,
         218.87,
         218.86,
-        218.92
+        218.92,
+        219.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -2171,9 +2352,10 @@
         219.0,
         219.0,
         219.0,
+        219.0,
         219.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2189,9 +2371,10 @@
         22.0,
         22.0,
         22.0,
+        22.0,
         22.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2207,9 +2390,10 @@
         22.0,
         22.0,
         22.0,
+        22.0,
         22.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2225,9 +2409,10 @@
         39.9,
         39.9,
         39.9,
+        39.9,
         39.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2243,9 +2428,10 @@
         31.9,
         31.9,
         31.9,
+        31.9,
         31.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2258,9 +2444,10 @@
       "image_url": "https://media.game.es/COVERV2/3D_L/224/224003.png",
       "category": "Gaming",
       "price_history": [
+        79.99,
         79.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2274,9 +2461,10 @@
       "category": null,
       "price_history": [
         669.9,
+        669.9,
         669.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true
     },
     {
@@ -2292,9 +2480,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2304,7 +2493,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1781569553",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -2313,9 +2502,10 @@
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -2325,7 +2515,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1781569553",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
@@ -2334,27 +2524,10 @@
         81.95,
         81.95,
         81.95,
+        81.95,
         81.95
       ],
-      "history_days": 7,
-      "is_lowest": true
-    },
-    {
-      "name": "Café espresso intenso en cápsulas Nescafé Dolce Gusto 16 ud.",
-      "url": "https://www.carrefour.es/cafe-espresso-intenso-en-capsulas-nescafe-dolce-gusto-16-ud/VC4A-10605199/p",
-      "store": "Carrefour",
-      "current_price": 11.55,
-      "original_price": 12.7,
-      "discount_pct": 9.06,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/745668_00_1.jpg",
-      "category": "Hogar",
-      "price_history": [
-        11.55,
-        11.55,
-        11.55,
-        11.55
-      ],
-      "history_days": 4,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -2371,9 +2544,10 @@
         449.0,
         449.0,
         497.0,
+        497.0,
         497.0
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": false
     },
     {
@@ -2383,12 +2557,13 @@
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1781562715",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1781569553",
       "category": "Compuestos Térmicos",
       "price_history": [
+        23.95,
         23.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2404,9 +2579,10 @@
         489.0,
         489.0,
         489.0,
+        489.0,
         489.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2425,9 +2601,10 @@
         699.0,
         699.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -2440,9 +2617,10 @@
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026357/1842-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-citrico.jpg",
       "category": null,
       "price_history": [
+        649.0,
         649.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2458,9 +2636,10 @@
         279.0,
         279.0,
         279.0,
+        279.0,
         279.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2477,9 +2656,10 @@
         1399.99,
         1399.99,
         1399.99,
+        1399.99,
         1399.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -2495,9 +2675,10 @@
         376.14,
         375.8,
         375.51,
+        375.24,
         375.24
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2513,9 +2694,10 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2531,9 +2713,10 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2552,45 +2735,29 @@
         329.99,
         329.99,
         329.99,
+        329.99,
         329.99
       ],
-      "history_days": 7,
+      "history_days": 8,
       "is_lowest": true
     },
     {
       "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
       "store": "Carrefour",
-      "current_price": 15.61,
-      "original_price": 16.55,
-      "discount_pct": 5.68,
+      "current_price": 15.54,
+      "original_price": 16.47,
+      "discount_pct": 5.65,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
       "category": "Componentes",
       "price_history": [
         15.43,
         15.49,
         15.49,
-        15.49
+        15.49,
+        15.54
       ],
-      "history_days": 4,
-      "is_lowest": false
-    },
-    {
-      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
-      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
-      "store": "Carrefour",
-      "current_price": 15.06,
-      "original_price": 15.96,
-      "discount_pct": 5.64,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        14.87,
-        14.81,
-        14.81,
-        14.81
-      ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -2607,9 +2774,10 @@
         1799.99,
         1799.99,
         1799.99,
+        1799.99,
         1799.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true
     },
     {
@@ -2625,9 +2793,10 @@
         21.04,
         20.99,
         21.05,
+        21.17,
         21.17
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -2643,9 +2812,10 @@
         319.0,
         319.0,
         319.0,
+        319.0,
         319.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -2663,9 +2833,10 @@
         379.99,
         379.99,
         379.99,
+        379.99,
         379.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true
     },
     {
@@ -2681,9 +2852,10 @@
         220.15,
         220.15,
         220.15,
-        220.15
+        220.15,
+        231.13
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     },
     {
@@ -2699,9 +2871,10 @@
         169.15,
         169.15,
         169.15,
-        169.15
+        169.15,
+        193.06
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false
     }
   ]
