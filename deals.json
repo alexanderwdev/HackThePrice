@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T21:07:52.729360+00:00",
-  "total_products": 407,
+  "updated": "2026-06-21T23:02:43.408417+00:00",
+  "total_products": 411,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782082914",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -34,7 +34,7 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782082914",
       "category": "Ratones",
       "price_history": [
         3.95,
@@ -53,7 +53,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782082914",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -98,7 +98,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782082914",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -123,7 +123,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782082914",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -148,7 +148,7 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782082914",
       "category": "Cables Red",
       "price_history": [
         2.95,
@@ -182,17 +182,17 @@
       "is_lowest": false
     },
     {
-      "name": "TV Philips QLED 55PUS8450 55\" 4K Ambilight Titan OS Dolby Atmos Smart TV",
-      "url": "https://www.pccomponentes.com/tv-philips-qled-55pus8450-55-4k-ambilight-titan-os-dolby-atmos-smart-tv",
+      "name": "Samsung AI QLED 65\" TQ65Q7FAAUXXC UltraHD 4K Quantum HDR Tizen",
+      "url": "https://www.pccomponentes.com/samsung-ai-qled-65-tq65q7faauxxc-ultrahd-4k-quantum-hdr-tizen",
       "store": "PcComponentes",
-      "current_price": 349.0,
-      "original_price": 793.18,
+      "current_price": 439.0,
+      "original_price": 997.73,
       "discount_pct": 56.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1098/10986020/1817-tv-philips-qled-55pus8450-55-4k-ambilight-titan-os-dolby-atmos-smart-tv.jpg",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877394/1924-samsung-ai-qled-65-tq65q7faauxxc-ultrahd-4k-quantum-hdr-tizen.jpg",
       "category": null,
       "price_history": [
-        349.0,
-        349.0
+        439.0,
+        439.0
       ],
       "history_days": 2,
       "is_lowest": true
@@ -232,28 +232,6 @@
         269.0
       ],
       "history_days": 5,
-      "is_lowest": true
-    },
-    {
-      "name": "TV Philips LED 65PUS8010 65\" 4K Ambilight Titan OS Dolby Atmos Smart TV",
-      "url": "https://www.pccomponentes.com/tv-philips-led-65pus8010-65-4k-ambilight-titan-os-dolby-atmos-smart-tv",
-      "store": "PcComponentes",
-      "current_price": 449.0,
-      "original_price": 997.78,
-      "discount_pct": 55.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10878787/2229-tv-philips-led-65pus8010-65-4k-ambilight-titan-os-dolby-atmos-smart-tv-dcfd1aa0-3a14-4134-8f85-e0c7b1cd2135.jpg",
-      "category": null,
-      "price_history": [
-        449.0,
-        449.0,
-        449.0,
-        449.0,
-        449.0,
-        449.0,
-        449.0,
-        449.0
-      ],
-      "history_days": 8,
       "is_lowest": true
     },
     {
@@ -326,7 +304,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782082914",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
@@ -408,7 +386,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782082914",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -473,7 +451,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782082914",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -551,6 +529,30 @@
       "is_lowest": true
     },
     {
+      "name": "Thermal Grizzly Aeronaut 3 ml",
+      "url": "https://www.coolmod.com/thermal-grizzly-aeronaut-3-ml-pasta-tarmica/",
+      "store": "Coolmod",
+      "current_price": 7.95,
+      "original_price": 12.95,
+      "discount_pct": 38.61,
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1782082914",
+      "category": "Compuestos Térmicos",
+      "price_history": [
+        6.95,
+        6.95,
+        6.95,
+        6.95,
+        6.95,
+        7.95,
+        7.95,
+        7.95,
+        7.95,
+        7.95
+      ],
+      "history_days": 10,
+      "is_lowest": false
+    },
+    {
       "name": "Mini PC - GEEKOM A5, AMD Ryzen™ 5 7430U, 16 GB RAM, 512 GB SSD, Radeon™ Onboard Graphics, Windows 11 Pro, Oro rosa",
       "url": "https://www.mediamarkt.es/es/product/_mini-pc-geekom-a5-amd-ryzentm-5-7430u-16-gb-ram-512-gb-ssd-radeontm-onboard-graphics-windows-11-pro-oro-rosa-176080233.html",
       "store": "MediaMarkt",
@@ -607,7 +609,7 @@
       "current_price": 329.95,
       "original_price": 519.95,
       "discount_pct": 36.54,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1782082914",
       "category": "Portátiles",
       "price_history": [
         329.95,
@@ -698,7 +700,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782082914",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -740,7 +742,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782082914",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -846,7 +848,7 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782082914",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
@@ -915,7 +917,7 @@
       "current_price": 13.95,
       "original_price": 19.95,
       "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782082914",
       "category": "Almacenamiento",
       "price_history": [
         13.95,
@@ -956,13 +958,13 @@
       "is_lowest": true
     },
     {
-      "name": "GAME Racing Pro GT320 Negro-Azul - Silla Gaming",
-      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-racing-pro-gt320-negro-azul-silla-gaming/209676",
+      "name": "GAME Racing Pro GT320 Negro-Rojo - Silla Gaming",
+      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-racing-pro-gt320-negro-rojo-silla-gaming/209677",
       "store": "GAME",
       "current_price": 119.99,
       "original_price": 169.99,
       "discount_pct": 29.41,
-      "image_url": "https://media.game.es/COVERV2/3D_L/209/209676.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/209/209677.png",
       "category": "Gaming",
       "price_history": [
         119.99,
@@ -972,13 +974,13 @@
       "is_lowest": true
     },
     {
-      "name": "GAME Racing Pro GT320 Negro-Rojo - Silla Gaming",
-      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-racing-pro-gt320-negro-rojo-silla-gaming/209677",
+      "name": "GAME Racing Pro GT320 Negro-Azul - Silla Gaming",
+      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-racing-pro-gt320-negro-azul-silla-gaming/209676",
       "store": "GAME",
       "current_price": 119.99,
       "original_price": 169.99,
       "discount_pct": 29.41,
-      "image_url": "https://media.game.es/COVERV2/3D_L/209/209677.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/209/209676.png",
       "category": "Gaming",
       "price_history": [
         119.99,
@@ -1053,7 +1055,7 @@
       "current_price": 699.95,
       "original_price": 979.95,
       "discount_pct": 28.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1782082914",
       "category": "Pantallas Digitales",
       "price_history": [
         699.95,
@@ -1072,7 +1074,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782082914",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -1187,28 +1189,6 @@
       "is_lowest": true
     },
     {
-      "name": "Startech Conversor DVI-I a VGA - Adaptador",
-      "url": "https://www.coolmod.com/startech-conversor-dvi-i-a-vga-dvi-i-macho-hd15-hembra-negro-adaptador/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 3.95,
-      "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1782068699",
-      "category": "Cables Vídeo",
-      "price_history": [
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95
-      ],
-      "history_days": 8,
-      "is_lowest": true
-    },
-    {
       "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-acer-sa243yp1bi-24-full-hd-144-hz-4-ms-ips-1x-vga-1x-hdmi-14-freesync-negro-1604093.html",
       "store": "MediaMarkt",
@@ -1284,7 +1264,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782082914",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -1333,7 +1313,7 @@
       "current_price": 29.95,
       "original_price": 39.95,
       "discount_pct": 25.03,
-      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782082914",
       "category": "Teclados",
       "price_history": [
         29.95,
@@ -1343,13 +1323,13 @@
       "is_lowest": true
     },
     {
-      "name": "JBL Quantum 100P White Blue PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
-      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100p-white-blue-pc-ps5-ps4-xbox-switch-auriculares-gaming/244622",
+      "name": "JBL Quantum 100 M2 Black PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100-m2-black-pc-ps5-ps4-xbox-switch-auriculares-gaming/244613",
       "store": "GAME",
       "current_price": 29.99,
       "original_price": 39.99,
       "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/244/244622.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/244/244613.png",
       "category": "Gaming",
       "price_history": [
         29.99,
@@ -1366,13 +1346,13 @@
       "is_lowest": true
     },
     {
-      "name": "JBL Quantum 100 M2 Black PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
-      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100-m2-black-pc-ps5-ps4-xbox-switch-auriculares-gaming/244613",
+      "name": "JBL Quantum 100P White Blue PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/jbl-quantum-100p-white-blue-pc-ps5-ps4-xbox-switch-auriculares-gaming/244622",
       "store": "GAME",
       "current_price": 29.99,
       "original_price": 39.99,
       "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/244/244613.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/244/244622.png",
       "category": "Gaming",
       "price_history": [
         29.99,
@@ -1434,7 +1414,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782082914",
       "category": "Repetidores",
       "price_history": [
         22.95,
@@ -1459,7 +1439,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782082914",
       "category": "Hubs",
       "price_history": [
         22.95,
@@ -1606,7 +1586,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782082914",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -1685,13 +1665,13 @@
       "is_lowest": true
     },
     {
-      "name": "GAME GT1 Negro-Rojo - Silla Gaming",
-      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-gt1-negro-rojo-silla-gaming/220181",
+      "name": "GAME GT1 Negro-Rosa - Silla Gaming",
+      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-gt1-negro-rosa-silla-gaming/220183",
       "store": "GAME",
       "current_price": 79.99,
       "original_price": 99.99,
       "discount_pct": 20.0,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220181.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220183.png",
       "category": "Gaming",
       "price_history": [
         79.99,
@@ -1701,13 +1681,13 @@
       "is_lowest": true
     },
     {
-      "name": "GAME GT1 Negro-Rosa - Silla Gaming",
-      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-gt1-negro-rosa-silla-gaming/220183",
+      "name": "GAME GT1 Negro-Rojo - Silla Gaming",
+      "url": "https://www.game.es/accesorios/silla/pc-gaming/game-gt1-negro-rojo-silla-gaming/220181",
       "store": "GAME",
       "current_price": 79.99,
       "original_price": 99.99,
       "discount_pct": 20.0,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220183.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220181.png",
       "category": "Gaming",
       "price_history": [
         79.99,
@@ -2031,21 +2011,6 @@
       ],
       "history_days": 8,
       "is_lowest": false
-    },
-    {
-      "name": "Aire Acondicionado Split 1x1 Infiniton SPTTK12A2 3.000 Frigorías A++ Bomba de Calor WiFi",
-      "url": "https://www.pccomponentes.com/aire-acondicionado-split-1x1-infiniton-spttk12a2-3-000-frigorias-a-plus-plus-bomba-de-calor-wifi",
-      "store": "PcComponentes",
-      "current_price": 264.99,
-      "original_price": 315.46,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026616/1921-aire-acondicionado-split-1x1-infiniton-spttk12a2-3000-frigorias-a-bomba-de-calor-wifi.jpg",
-      "category": null,
-      "price_history": [
-        264.99
-      ],
-      "history_days": 1,
-      "is_lowest": true
     },
     {
       "name": "Portátil HP 15s-fq5007ns (15.6'' - Intel Core i5-1235U - RAN: 8 GB - 512 GB SSD PCIe - Intel Iris Xe Graphics)",
@@ -2439,18 +2404,35 @@
       "is_lowest": true
     },
     {
-      "name": "Frigorífico Hisense Combi No Frost 201cm 336L A Inox Puertas Reversibles Rápido Enfriamiento",
-      "url": "https://www.pccomponentes.com/frigorifico-hisense-combi-no-frost-201cm-336l-a-inox-puertas-reversibles-rapido-enfriamiento",
+      "name": "LEGO Editions Cristiano Ronaldo Leyenda del Fútbol 43016 854 piezas",
+      "url": "https://www.pccomponentes.com/lego-editions-cristiano-ronaldo-leyenda-del-futbol-43016-854-piezas",
       "store": "PcComponentes",
-      "current_price": 619.0,
-      "original_price": 703.41,
+      "current_price": 69.99,
+      "original_price": 79.53,
       "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10892766/14-frigorifico-hisense-combi-no-frost-201cm-336l-a-inox-puertas-reversibles-rapido-enfriamiento.jpg",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11037007/1558-lego-editions-cristiano-ronaldo-leyenda-del-futbol-43016-854-piezas.jpg",
       "category": null,
       "price_history": [
-        619.0
+        69.99,
+        69.99
       ],
-      "history_days": 1,
+      "history_days": 2,
+      "is_lowest": true
+    },
+    {
+      "name": "LEGO Editions Lionel Messi Leyenda del Fútbol 43015 958 piezas",
+      "url": "https://www.pccomponentes.com/lego-editions-lionel-messi-leyenda-del-futbol-43015-958-piezas",
+      "store": "PcComponentes",
+      "current_price": 69.99,
+      "original_price": 79.53,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11037006/1145-lego-editions-lionel-messi-leyenda-del-futbol-43015-958-piezas.jpg",
+      "category": null,
+      "price_history": [
+        69.99,
+        69.99
+      ],
+      "history_days": 2,
       "is_lowest": true
     },
     {
@@ -2614,7 +2596,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782082914",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -2679,7 +2661,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782082914",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
@@ -2729,6 +2711,21 @@
       "is_lowest": true
     },
     {
+      "name": "Aspiradora sin cable Rowenta X-Force Flex 9.60 RH2048WO 100AW Filtro lavable Autonomía 45min",
+      "url": "https://www.pccomponentes.com/aspiradora-sin-cable-rowenta-x-force-flex-9-60-rh2048wo-100aw-filtro-lavable-autonomia-45min",
+      "store": "PcComponentes",
+      "current_price": 162.0,
+      "original_price": 178.02,
+      "discount_pct": 9.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10955630/1831-aspiradora-sin-cable-rowenta-x-force-flex-960-rh2048wo-100aw-filtro-lavable-autonomia-45min.jpg",
+      "category": null,
+      "price_history": [
+        162.0
+      ],
+      "history_days": 1,
+      "is_lowest": true
+    },
+    {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i7-13620H, 16GB RAM, 1TB SSD, UHD Graphics, Windows 11 Home, Azul",
       "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15irh10-153-wuxga-intelr-coretm-i7-13620h-16gb-ram-1tb-ssd-uhd-graphics-windows-11-home-azul-1590175.html",
       "store": "MediaMarkt",
@@ -2770,7 +2767,7 @@
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782076013",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782082914",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95,
@@ -2818,50 +2815,6 @@
         369.99
       ],
       "history_days": 2,
-      "is_lowest": true
-    },
-    {
-      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 256GB SSD GPU 5 núcleos macOS Índigo",
-      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo",
-      "store": "PcComponentes",
-      "current_price": 649.0,
-      "original_price": 697.85,
-      "discount_pct": 7.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026359/1489-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo.jpg",
-      "category": null,
-      "price_history": [
-        699.0,
-        699.0,
-        699.0,
-        699.0,
-        699.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 11,
-      "is_lowest": true
-    },
-    {
-      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 256GB SSD GPU 5 núcleos macOS Cítrico",
-      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-citrico",
-      "store": "PcComponentes",
-      "current_price": 649.0,
-      "original_price": 697.85,
-      "discount_pct": 7.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026357/1842-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-citrico.jpg",
-      "category": null,
-      "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 5,
       "is_lowest": true
     },
     {
@@ -3029,6 +2982,21 @@
       ],
       "history_days": 8,
       "is_lowest": false
+    },
+    {
+      "name": "Portátil Lenovo Legion Pro 5 16ADR10 16\" AMD Ryzen 9 8940HX 32GB 1TB SSD RTX 5070 FreeDos",
+      "url": "https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16adr10-16-amd-ryzen-9-8940hx-32gb-1tb-ssd-rtx-5070-freedos",
+      "store": "PcComponentes",
+      "current_price": 1699.0,
+      "original_price": 1788.42,
+      "discount_pct": 5.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10991703/1602-portatil-lenovo-legion-pro-5-16adr10-16-amd-ryzen-9-8940hx-32gb-1tb-ssd-rtx-5070-freedos.jpg",
+      "category": null,
+      "price_history": [
+        1699.0
+      ],
+      "history_days": 1,
+      "is_lowest": true
     },
     {
       "name": "Lenovo Portatil V15  i5-13420H/16Gb/512Gb W11H Wifi 6 15.6\"\" Negro",
