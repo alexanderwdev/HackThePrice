@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T13:42:14.484927+00:00",
-  "total_products": 1213,
+  "updated": "2026-06-23T16:26:01.339713+00:00",
+  "total_products": 1236,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782231274",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -38,7 +38,7 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782231274",
       "category": "Ratones",
       "price_history": [
         3.95,
@@ -61,7 +61,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782231274",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -281,7 +281,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782231274",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -310,7 +310,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782231274",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -445,13 +445,30 @@
       "drop_pct": null
     },
     {
+      "name": "Chaleco Refrigerante Con Bolsillos Para Hielo, Chaqueta Transpirable Para Hombres Y Mujeres, Para Trabajos Al Aire Libre.",
+      "url": "https://www.worten.es/productos/chaleco-refrigerante-con-bolsillos-para-hielo-chaqueta-transpirable-para-hombres-y-mujeres-para-trabajos-al-aire-libre-mrkean-6190405785658",
+      "store": "Worten",
+      "current_price": 12.69,
+      "original_price": 30.69,
+      "discount_pct": 58.65,
+      "image_url": "https://www.worten.es/i/9c539f81e33489dc1582574b7c9dd6d0d1fbf068",
+      "category": null,
+      "price_history": [
+        12.69
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nanocable Categoria 6 UTP 1m Negro - Cable Red",
       "url": "https://www.coolmod.com/nano-cable-categoria-6-utp-1m-negro-cable-red/",
       "store": "Coolmod",
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782231274",
       "category": "Cables Red",
       "price_history": [
         2.95,
@@ -562,31 +579,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 34.99,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Hisense QLED 65E7S 65\" 4K UltraHD 60Hz VRR Smart TV VIDAA HDR10+ Dolby Atmos",
-      "url": "https://www.pccomponentes.com/tv-hisense-qled-65e7s-65-4k-ultrahd-60hz-vrr-smart-tv-vidaa-hdr10-plus-dolby-atmos",
-      "store": "PcComponentes",
-      "current_price": 395.0,
-      "original_price": 897.73,
-      "discount_pct": 56.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1105/11056346/193-tv-hisense-qled-65e7s-65-4k-ultrahd-120hz-smart-tv-vidaa-hdr10-dolby-atmos.jpg",
-      "category": null,
-      "price_history": [
-        399.0,
-        429.0,
-        429.0,
-        429.0,
-        429.0,
-        429.0,
-        429.0,
-        395.0,
-        395.0
-      ],
-      "history_days": 9,
-      "is_lowest": true,
-      "prev_price": 395.0,
       "drop_pct": null
     },
     {
@@ -703,24 +695,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 14.6,
-      "drop_pct": null
-    },
-    {
-      "name": "Logitech G G502 X Plus Lightspeed Ratón Inalámbrico RGB Gaming 25600 DPI Negro",
-      "url": "https://www.pccomponentes.com/logitech-g-g502-x-plus-lightspeed-raton-inalambrico-rgb-gaming-25600-dpi-negro",
-      "store": "PcComponentes",
-      "current_price": 79.99,
-      "original_price": 166.65,
-      "discount_pct": 52.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1049/10499037/1568-logitech-g-g502-x-plus-lightspeed-raton-inalambrico-rgb-gaming-negro-25600-dpi.jpg",
-      "category": null,
-      "price_history": [
-        79.99,
-        79.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 79.99,
       "drop_pct": null
     },
     {
@@ -846,6 +820,35 @@
       "is_lowest": true,
       "prev_price": 29.9,
       "drop_pct": null
+    },
+    {
+      "name": "Intenso Ultra Line USB 3.0 128GB Gris",
+      "url": "https://www.coolmod.com/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris/",
+      "store": "Coolmod",
+      "current_price": 9.95,
+      "original_price": 19.95,
+      "discount_pct": 50.13,
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782231274",
+      "category": "Almacenamiento",
+      "price_history": [
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        13.95,
+        9.95
+      ],
+      "history_days": 13,
+      "is_lowest": true,
+      "prev_price": 13.95,
+      "drop_pct": 28.67
     },
     {
       "name": "Silla de Oficina Operativa MITSAI Estocolmo Negra (Brazos Fijos - Malla)",
@@ -993,24 +996,6 @@
       "drop_pct": null
     },
     {
-      "name": "Newskill Serike V2 Teclado Gaming Mecánico RGB Negro NewSwitch Red",
-      "url": "https://www.pccomponentes.com/newskill-serike-v2-teclado-gaming-mecanico-rgb-negro-newswitch-red",
-      "store": "PcComponentes",
-      "current_price": 66.07,
-      "original_price": 124.66,
-      "discount_pct": 47.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790436/1149-newskill-serike-v2-teclado-mecanico-gaming-rgb-negro-newswitch-red.jpg",
-      "category": null,
-      "price_history": [
-        66.07,
-        66.07
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 66.07,
-      "drop_pct": null
-    },
-    {
       "name": "MSI MAG 244C 23.6\" VA FullHD 180Hz FreeSync Curvo",
       "url": "https://www.pccomponentes.com/monitor-msi-mag-244c-23-6-va-fullhd-180hz-freesync-curvo",
       "store": "PcComponentes",
@@ -1094,24 +1079,6 @@
       "drop_pct": null
     },
     {
-      "name": "Xiaomi QLED 55\" A PRO 2026 UltraHD 4K Dolby Audio Google TV",
-      "url": "https://www.pccomponentes.com/xiaomi-qled-55-a-pro-2026-ultrahd-4k-dolby-audio-google-tv",
-      "store": "PcComponentes",
-      "current_price": 329.0,
-      "original_price": 598.18,
-      "discount_pct": 45.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877100/1307-xiaomi-qled-55-a-pro-2026-ultrahd-4k-dolby-audio-google-tv-comprar.jpg",
-      "category": null,
-      "price_history": [
-        329.0,
-        329.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 329.0,
-      "drop_pct": null
-    },
-    {
       "name": "Barra de Sonido Samsung HW-B450, 2.1 Canales, Potencia total 300W, Subwoofer inalámbrico",
       "url": "https://www.carrefour.es/barra-de-sonido-samsung-hw-b450-21-canales-potencia-total-300w-subwoofer-inalambrico/VC4A-31887105/p",
       "store": "Carrefour",
@@ -1192,7 +1159,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782231274",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95,
@@ -1212,25 +1179,6 @@
       "history_days": 13,
       "is_lowest": true,
       "prev_price": 3.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Sérum Antimanchas LA ROCHE-POSAY Mela B3 (30 Ml)",
-      "url": "https://www.worten.es/productos/serum-antimanchas-la-roche-posay-mela-b3-30-ml-mrkean-8284037558518",
-      "store": "Worten",
-      "current_price": 25.99,
-      "original_price": 45.68,
-      "discount_pct": 43.1,
-      "image_url": "https://www.worten.es/i/8fd91d95f9e13730dc008a1b30d93f64a2c671f7",
-      "category": null,
-      "price_history": [
-        25.99,
-        25.99,
-        25.99
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 25.99,
       "drop_pct": null
     },
     {
@@ -1288,20 +1236,20 @@
       "drop_pct": null
     },
     {
-      "name": "Logitech Pack G213 Prodigy Teclado Gaming + Logitech G203 Lightsync 2nd Gen Ratón Gaming 8000DPI RGB",
-      "url": "https://www.pccomponentes.com/logitech-pack-g213-prodigy-teclado-gaming-logitech-g203-lightsync-2nd-gen-raton-gaming-8000dpi-rgb",
+      "name": "Silla Drift DR35 Diseño Exclusivo Gaming Negra respaldo reclinable cojines lumbar y cervical",
+      "url": "https://www.pccomponentes.com/silla-drift-dr35-diseno-exclusivo-gaming-negra-respaldo-reclinable-cojines-lumbar-y-cervical",
       "store": "PcComponentes",
-      "current_price": 72.98,
-      "original_price": 128.04,
+      "current_price": 56.99,
+      "original_price": 99.98,
       "discount_pct": 43.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860146/1757-logitech-pack-g213-prodigy-teclado-gaming-logitech-g203-lightsync-2nd-gen-raton-gaming-8000dpi-rgb.jpg",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1100/11005869/1844-silla-drift-dr35-gaming-negra-respaldo-reclinable-cojines-lumbar-y-cervical-mejor-precio.jpg",
       "category": null,
       "price_history": [
-        72.98
+        56.99
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 72.98,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1392,32 +1340,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 189.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Inalámbricos JBL Wave Beam - Negro",
-      "url": "https://www.carrefour.es/auriculares-inalambricos-jbl-wave-beam-negro/VC4A-23248676/p",
-      "store": "Carrefour",
-      "current_price": 45.99,
-      "original_price": 79.99,
-      "discount_pct": 42.51,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/233574_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        46.14,
-        42.44,
-        46.14,
-        46.14,
-        46.14,
-        46.14,
-        45.99,
-        41.99,
-        41.99,
-        41.99
-      ],
-      "history_days": 10,
-      "is_lowest": false,
-      "prev_price": 45.99,
       "drop_pct": null
     },
     {
@@ -1587,7 +1509,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782231274",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -1752,7 +1674,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782231274",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -1772,6 +1694,23 @@
       "history_days": 13,
       "is_lowest": true,
       "prev_price": 149.95,
+      "drop_pct": null
+    },
+    {
+      "name": "NERF Ultra Select (7,87 x 71,12 x 30,48 cm)",
+      "url": "https://www.worten.es/productos/nerf-ultra-select-7-87-x-71-12-x-30-48-cm-mrkean-5010993855285",
+      "store": "Worten",
+      "current_price": 17.99,
+      "original_price": 29.99,
+      "discount_pct": 40.01,
+      "image_url": "https://www.worten.es/i/c9e181e2e73218d1d7234df784f33808c40c68db",
+      "category": null,
+      "price_history": [
+        17.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1932,24 +1871,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 109.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Origial AirFeel 1750 Aire Acondicionado Portátil 1750 Frigorías",
-      "url": "https://www.pccomponentes.com/origial-airfeel-1750-aire-acondicionado-portatil-1750-frigorias",
-      "store": "PcComponentes",
-      "current_price": 174.99,
-      "original_price": 286.87,
-      "discount_pct": 39.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10641126/1597-origial-airfeel-1750-aire-acondicionado-portatil-1750-frigorias-comprar.jpg",
-      "category": null,
-      "price_history": [
-        174.99,
-        174.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 174.99,
       "drop_pct": null
     },
     {
@@ -2176,6 +2097,24 @@
       "drop_pct": null
     },
     {
+      "name": "HP OMEN 17-db1003ns AMD Ryzen AI 7 350 32GB DDR5 1TB SSD RTX 5060 8GB 17.3\"",
+      "url": "https://www.pccomponentes.com/portatil-hp-omen-17-db1003ns-amd-ryzen-ai-7-350-32gb-ddr5-1tb-ssd-rtx-5060-8gb-17-3",
+      "store": "PcComponentes",
+      "current_price": 1249.0,
+      "original_price": 1982.54,
+      "discount_pct": 37.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10882004/1320-hp-omen-17-db1003ns-amd-ryzen-ai-7-350-32gb-ddr5-1tb-ssd-rtx-5060-8gb-173-foto.jpg",
+      "category": null,
+      "price_history": [
+        1249.0,
+        1249.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 1249.0,
+      "drop_pct": null
+    },
+    {
       "name": "Lavadora BOSCH WUU28T8XES (8 kg - 1400 rpm - Inox)",
       "url": "https://www.worten.es/productos/lavadora-bosch-wuu28t8xes-8-kg-1400-rpm-inox-7711590",
       "store": "Worten",
@@ -2254,6 +2193,24 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 31.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora Multifunción HP Smart Tank 5106 AIO, Inyección de tinta térmica, Wifi, Color, 12ppm, Hasta 3 años de tinta incluida",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-smart-tank-5106-aio-inyeccion-de-tinta-termica-wifi-color-12ppm-hasta-3-anos-de-tinta-incluida/VC4A-22680579/p",
+      "store": "Carrefour",
+      "current_price": 159.9,
+      "original_price": 249.9,
+      "discount_pct": 36.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/190086_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        159.9,
+        159.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 159.9,
       "drop_pct": null
     },
     {
@@ -2394,7 +2351,7 @@
       "current_price": 128.95,
       "original_price": 199.95,
       "discount_pct": 35.51,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782231274",
       "category": "Monitores",
       "price_history": [
         158.95,
@@ -2452,7 +2409,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782231274",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -2585,21 +2542,38 @@
       "drop_pct": null
     },
     {
-      "name": "Pulsera de Actividad Xiaomi Band 9 Active, Sensor de Frecuencia Cardíaca, Beige Blanco",
-      "url": "https://www.carrefour.es/pulsera-de-actividad-xiaomi-band-9-active-sensor-de-frecuencia-cardiaca-beige-blanco/VC4A-29204027/p",
-      "store": "Carrefour",
-      "current_price": 19.66,
-      "original_price": 30.0,
-      "discount_pct": 34.47,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/522437_00_1.jpg",
-      "category": "Móviles",
+      "name": "Nox Hummer Astra ARGB Cristal Templado USB 3.0 Blanca",
+      "url": "https://www.pccomponentes.com/torre-pc-nox-hummer-astra-argb-cristal-templado-usb-3-0-blanca",
+      "store": "PcComponentes",
+      "current_price": 79.99,
+      "original_price": 123.06,
+      "discount_pct": 35.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1065/10656561/1947-nox-hummer-astra-argb-cristal-templado-usb-30-blanca.jpg",
+      "category": null,
       "price_history": [
-        19.66,
-        19.66
+        79.99,
+        79.99
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 19.66,
+      "prev_price": 79.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavavajillas BOSCH SMS46KI01E  (13 Cubiertos - 60 cm - Inox)",
+      "url": "https://www.worten.es/productos/lavavajillas-bosch-sms46ki01e-13-cubiertos-60-cm-inox-6571604",
+      "store": "Worten",
+      "current_price": 449.99,
+      "original_price": 689.99,
+      "discount_pct": 34.78,
+      "image_url": "https://www.worten.es/i/e95e0678e07b54ed3573ba9cf2b79e1d3c0e328f",
+      "category": null,
+      "price_history": [
+        449.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2654,24 +2628,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 84.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Acer Iconia Tab V11 WiFi 11\" 6GB 256GB Champagne con Funda",
-      "url": "https://www.pccomponentes.com/tablet-acer-iconia-tab-v11-wifi-11-6gb-256gb-champagne-con-funda",
-      "store": "PcComponentes",
-      "current_price": 149.0,
-      "original_price": 225.76,
-      "discount_pct": 34.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890632/194-tablet-acer-iconia-tab-v11-wifi-11-6gb-256gb-champagne-con-funda.jpg",
-      "category": null,
-      "price_history": [
-        149.0,
-        149.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 149.0,
       "drop_pct": null
     },
     {
@@ -2735,7 +2691,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782231274",
       "category": "Compuestos Térmicos",
       "price_history": [
         8.95,
@@ -3231,13 +3187,30 @@
       "drop_pct": null
     },
     {
+      "name": "Logitech G Astro A50 Gen 5 Auriculares Gaming Inalámbricos Multiplataforma Negros + Estación Base",
+      "url": "https://www.pccomponentes.com/logitech-g-astro-a50-gen-5-auriculares-gaming-inalambricos-multiplataforma-negros-plus-estacion-base",
+      "store": "PcComponentes",
+      "current_price": 189.05,
+      "original_price": 278.01,
+      "discount_pct": 32.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10876821/1706-logitech-g-astro-a50-gen-5-auriculares-gaming-inalambricos-multiplataforma-negros-estacion-base.jpg",
+      "category": null,
+      "price_history": [
+        189.05
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Thermal Grizzly Hydronaut 3 ml",
       "url": "https://www.coolmod.com/thermal-grizzly-hydronaut-3-ml-pasta-tarmica/",
       "store": "Coolmod",
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782231274",
       "category": "Compuestos Térmicos",
       "price_history": [
         13.95,
@@ -3439,6 +3412,24 @@
       "drop_pct": null
     },
     {
+      "name": "Ordenador Portátil 2 en 1 Asus Chromebook CM14 Flip CL1402FM2A-EC0192, MediaTek Kompanio 520, 8GB, 128GB, eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
+      "url": "https://www.carrefour.es/ordenador-portatil-2-en-1-asus-chromebook-cm14-flip-cl1402fm2a-ec0192-mediatek-kompanio-520-8gb-128gb-emmc-fhd-14-3556-cm-chromeos/VC4A-31091605/p",
+      "store": "Carrefour",
+      "current_price": 381.65,
+      "original_price": 549.0,
+      "discount_pct": 30.48,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/629273_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        381.65,
+        381.65
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 381.65,
+      "drop_pct": null
+    },
+    {
       "name": "Cargador Portátil Para Vehículos Eléctricos De 3,5 Kw – 16 A – Cable De 8 Metros, Control Por Aplicación, Ip65",
       "url": "https://www.worten.es/productos/cargador-portatil-para-vehiculos-electricos-de-3-5-kw-16-a-cable-de-8-metros-control-por-aplicacion-ip65-mrkean-8901706094091",
       "store": "Worten",
@@ -3527,33 +3518,30 @@
       "drop_pct": null
     },
     {
-      "name": "Intenso Ultra Line USB 3.0 128GB Gris",
-      "url": "https://www.coolmod.com/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris/",
-      "store": "Coolmod",
-      "current_price": 13.95,
-      "original_price": 19.95,
-      "discount_pct": 30.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782219777",
-      "category": "Almacenamiento",
+      "name": "Auriculares Inalámbricos JBL Wave Beam - Negro",
+      "url": "https://www.carrefour.es/auriculares-inalambricos-jbl-wave-beam-negro/VC4A-23248676/p",
+      "store": "Carrefour",
+      "current_price": 41.99,
+      "original_price": 59.99,
+      "discount_pct": 30.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/233574_00_1.jpg",
+      "category": "TV y Audio",
       "price_history": [
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95,
-        13.95
+        46.14,
+        42.44,
+        46.14,
+        46.14,
+        46.14,
+        46.14,
+        45.99,
+        41.99,
+        41.99,
+        41.99
       ],
-      "history_days": 13,
+      "history_days": 10,
       "is_lowest": true,
-      "prev_price": 13.95,
-      "drop_pct": null
+      "prev_price": 45.99,
+      "drop_pct": 8.7
     },
     {
       "name": "Altavoz Inalámbrico JBL Charge 5 - Negro",
@@ -3757,21 +3745,22 @@
       "drop_pct": null
     },
     {
-      "name": "Portátil - ASUS Zenbook A14 OLED UX3407QA-QD332W Copilot+ PC, 14 \" WUXGA, Snapdragon® X X1-26-100 45 TOPS, 32 GB RAM, 512 GB SSD, Adreno™ GPU, W11",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-a14-oled-ux3407qa-qd332w-copilot-pc-14-wuxga-snapdragonr-x-x1-26-100-32-gb-ram-512-gb-ssd-adrenotm-gpu-windows-11-1598613.html",
-      "store": "MediaMarkt",
-      "current_price": 849.0,
-      "original_price": 1199.0,
-      "discount_pct": 29.19,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161878304",
+      "name": "Monitor Gaming Corsair XENEON Edge 14,5\" LCD Táctil 2K 32:9 USB C HDMI Mate",
+      "url": "https://www.pccomponentes.com/monitor-gaming-corsair-xeneon-edge-145-lcd-tactil-2k-329-usb-c-hdmi-mate",
+      "store": "PcComponentes",
+      "current_price": 209.9,
+      "original_price": 295.63,
+      "discount_pct": 29.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034178/181-monitor-gaming-corsair-xeneon-edge-145-lcd-tactil-2k-329-usb-c-hdmi-mate-21ac77bc-ec8b-4893-bdcb-0a2c77bdac84.jpg",
       "category": null,
       "price_history": [
-        849.0
+        209.9,
+        209.9
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
-      "prev_price": 899.0,
-      "drop_pct": 5.56
+      "prev_price": 209.9,
+      "drop_pct": null
     },
     {
       "name": "Monitor Acer EK271HBI, FHD, LED, 27\" - 68,58 cm,  1ms, 1 HDMI,  FreeSync ZeroFrame",
@@ -3881,29 +3870,6 @@
       "drop_pct": null
     },
     {
-      "name": "Logitech Tap Para MeetUp USB Grafito",
-      "url": "https://www.coolmod.com/logitech-tap-para-meetup-usb-grafito/",
-      "store": "Coolmod",
-      "current_price": 699.95,
-      "original_price": 979.95,
-      "discount_pct": 28.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1782221831",
-      "category": "Pantallas Digitales",
-      "price_history": [
-        699.95,
-        699.95,
-        699.95,
-        699.95,
-        699.95,
-        699.95,
-        699.95
-      ],
-      "history_days": 7,
-      "is_lowest": true,
-      "prev_price": 699.95,
-      "drop_pct": null
-    },
-    {
       "name": "TV Hisense 50\" (127 cm), 50U7Q  MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
       "url": "https://www.carrefour.es/tv-hisense-50-127-cm-50u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709925/p",
       "store": "Carrefour",
@@ -3981,7 +3947,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782231274",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -4289,28 +4255,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple AirPods Pro 3 Auriculares Bluetooth con Cancelación Activa de Ruido USB-C Blancos",
-      "url": "https://www.pccomponentes.com/apple-airpods-pro-3-auriculares-bluetooth-con-cancelacion-activa-de-ruido-usb-c-blancos",
-      "store": "PcComponentes",
-      "current_price": 219.0,
-      "original_price": 295.95,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10952804/1501-apple-airpods-pro-3-auriculares-bluetooth-con-cancelacion-activa-de-ruido-usb-c-blancos.jpg",
-      "category": null,
-      "price_history": [
-        219.0,
-        227.99,
-        219.0,
-        227.99,
-        219.0,
-        219.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 219.0,
-      "drop_pct": null
-    },
-    {
       "name": "Gigabyte B550M K Rev. 1.0",
       "url": "https://www.pccomponentes.com/placa-base-gigabyte-b550m-k-rev-1-0",
       "store": "PcComponentes",
@@ -4329,6 +4273,24 @@
       "drop_pct": null
     },
     {
+      "name": "Router Tp-Link Mercusys MT115 4G LTE - Blanco",
+      "url": "https://www.carrefour.es/router-tp-link-mercusys-mt115-4g-lte-blanco/VC4A-33375938/p",
+      "store": "Carrefour",
+      "current_price": 37.0,
+      "original_price": 49.99,
+      "discount_pct": 25.99,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/711859_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        37.0,
+        37.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 37.0,
+      "drop_pct": null
+    },
+    {
       "name": "Dragon Ball Fighterz para PS5",
       "url": "https://www.carrefour.es/dragon-ball-fighterz-para-ps5/VC4A-26623642/p",
       "store": "Carrefour",
@@ -4344,32 +4306,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 14.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Startech Conversor DVI-I a VGA - Adaptador",
-      "url": "https://www.coolmod.com/startech-conversor-dvi-i-a-vga-dvi-i-macho-hd15-hembra-negro-adaptador/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 3.95,
-      "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1782221831",
-      "category": "Cables Vídeo",
-      "price_history": [
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95,
-        2.95
-      ],
-      "history_days": 10,
-      "is_lowest": true,
-      "prev_price": 2.95,
       "drop_pct": null
     },
     {
@@ -4495,7 +4431,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782218867",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782231274",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -4541,7 +4477,7 @@
       "current_price": 29.95,
       "original_price": 39.95,
       "discount_pct": 25.03,
-      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782231274",
       "category": "Teclados",
       "price_history": [
         29.95,
@@ -4582,24 +4518,6 @@
       "is_lowest": false,
       "prev_price": 599.0,
       "drop_pct": null
-    },
-    {
-      "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
-      "url": "https://www.carrefour.es/smart-tv-neoqled-75-1905-cm-samsung-tq75qn74fat-con-ia-4k-mini-led-120-hz-nq4-ai-gen2-processor-neo-quantum-hdr-ots-lite-color-booster-pro/VC4A-30873320/p",
-      "store": "Carrefour",
-      "current_price": 899.0,
-      "original_price": 1199.0,
-      "discount_pct": 25.02,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597919_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1322.89,
-        899.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 1323.4,
-      "drop_pct": 32.07
     },
     {
       "name": "JBL Quantum 100 M2 Black PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
@@ -5028,6 +4946,24 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV NeoQLED 85’’ (215,9 cm) Samsung  TQ85QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Q-Symphony, Color Booster Pro",
+      "url": "https://www.carrefour.es/smart-tv-neoqled-85-2159-cm-samsung-tq85qn74fat-con-ia-4k-mini-led-120-hz-nq4-ai-gen2-processor-neo-quantum-hdr-ots-lite-q-symphony-color-booster-pro/VC4A-30873326/p",
+      "store": "Carrefour",
+      "current_price": 1299.0,
+      "original_price": 1699.0,
+      "discount_pct": 23.54,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598094_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1299.0,
+        1299.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 1299.0,
+      "drop_pct": null
+    },
+    {
       "name": "Aire Acondicionado BECKEN BAC8699 (36 m² - 4732 Frig/H - Blanco)",
       "url": "https://www.worten.es/productos/aire-acondicionado-becken-bac8699-36-m2-4732-frig-h-blanco-7728417",
       "store": "Worten",
@@ -5070,7 +5006,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782231274",
       "category": "Hubs",
       "price_history": [
         22.95,
@@ -5093,7 +5029,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782231274",
       "category": "Repetidores",
       "price_history": [
         22.95,
@@ -5116,6 +5052,24 @@
       "drop_pct": null
     },
     {
+      "name": "Teclado y Ratón Gaming Trust GXT798",
+      "url": "https://www.carrefour.es/teclado-y-raton-gaming-trust-gxt798/VC4A-29316321/p",
+      "store": "Carrefour",
+      "current_price": 23.0,
+      "original_price": 29.99,
+      "discount_pct": 23.31,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/530787_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        23.0,
+        23.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 23.0,
+      "drop_pct": null
+    },
+    {
       "name": "Animal Crossing New Horizons para Switch 2",
       "url": "https://www.carrefour.es/animal-crossing-new-horizons-para-switch-2/VC4A-32004736/p",
       "store": "Carrefour",
@@ -5124,6 +5078,24 @@
       "discount_pct": 23.22,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/672684_00_1.jpg",
       "category": "Gaming",
+      "price_history": [
+        49.9,
+        49.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 49.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Cámara de Seguridad TP-LINK Tapo C260 - Blanco",
+      "url": "https://www.carrefour.es/camara-de-seguridad-tp-link-tapo-c260-blanco/VC4A-33876625/p",
+      "store": "Carrefour",
+      "current_price": 49.9,
+      "original_price": 64.99,
+      "discount_pct": 23.22,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/701852_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
         49.9,
         49.9
@@ -5223,6 +5195,24 @@
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
+    },
+    {
+      "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
+      "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
+      "store": "Carrefour",
+      "current_price": 999.0,
+      "original_price": 1299.0,
+      "discount_pct": 23.09,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        999.0,
+        999.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 1149.11,
+      "drop_pct": 13.06
     },
     {
       "name": "Smart TV LED 50\" (127 cm) LG 50UA75006LA con IA, 4K UHD, HDR, Dolby Digital Plus, AI Acoustic Tuning",
@@ -5493,6 +5483,24 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
+      "url": "https://www.carrefour.es/smart-tv-neoqled-75-1905-cm-samsung-tq75qn74fat-con-ia-4k-mini-led-120-hz-nq4-ai-gen2-processor-neo-quantum-hdr-ots-lite-color-booster-pro/VC4A-30873320/p",
+      "store": "Carrefour",
+      "current_price": 1323.4,
+      "original_price": 1699.99,
+      "discount_pct": 22.15,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597919_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1322.89,
+        899.0
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 899.0,
+      "drop_pct": null
+    },
+    {
       "name": "Tempest PSU GPSU 750W V2 Fuente de Alimentación ATX",
       "url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
       "store": "PcComponentes",
@@ -5508,24 +5516,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 33.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Corsair iCUE LINK TITAN 360 RX RGB Kit Refrigeración Líquida 360mm Negra",
-      "url": "https://www.pccomponentes.com/corsair-icue-link-titan-360-rx-rgb-kit-refrigeracion-liquida-360mm-negra",
-      "store": "PcComponentes",
-      "current_price": 151.99,
-      "original_price": 194.86,
-      "discount_pct": 22.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10847556/1947-corsair-icue-link-titan-360-rx-rgb-kit-refrigeracion-liquida-360mm-negra-9b942114-5ed7-4148-a549-e8272fd055d7.jpg",
-      "category": null,
-      "price_history": [
-        151.99,
-        151.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 151.99,
       "drop_pct": null
     },
     {
@@ -5644,23 +5634,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 15 256GB Azul Libre",
-      "url": "https://www.pccomponentes.com/apple-iphone-15-256gb-azul-libre",
-      "store": "PcComponentes",
-      "current_price": 767.33,
-      "original_price": 983.76,
-      "discount_pct": 22.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1077/10777767/1172-apple-iphone-15-256gb-azul-libre.jpg",
-      "category": null,
-      "price_history": [
-        767.33
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Apple iPhone 17 Pro Max, 256GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Azul oscuro",
       "url": "https://www.carrefour.es/apple-iphone-17-pro-max-256gb-69-pantalla-super-retina-xdr-chip-a19-pro-azul-oscuro/VC4A-31500638/p",
       "store": "Carrefour",
@@ -5754,19 +5727,19 @@
       "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Blanco",
       "url": "https://www.carrefour.es/apple-iphone-16e-128-gb-61-pantalla-super-retina-xdr-chip-a18-blanco/VC4A-29931407/p",
       "store": "Carrefour",
-      "current_price": 547.86,
+      "current_price": 547.81,
       "original_price": 699.99,
-      "discount_pct": 21.73,
+      "discount_pct": 21.74,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/562696_00_1.jpg",
       "category": "Móviles",
       "price_history": [
         548.0,
-        547.86
+        547.81
       ],
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 547.86,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Cepillo de Dientes Eléctrico ORAL B iO 6 S Negro",
@@ -5790,9 +5763,9 @@
       "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Negro",
       "url": "https://www.carrefour.es/apple-iphone-16e-128-gb-61-pantalla-super-retina-xdr-chip-a18-negro/VC4A-29931401/p",
       "store": "Carrefour",
-      "current_price": 548.44,
+      "current_price": 548.39,
       "original_price": 699.99,
-      "discount_pct": 21.65,
+      "discount_pct": 21.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/562699_00_1.jpg",
       "category": "Móviles",
       "price_history": [
@@ -5801,12 +5774,12 @@
         553.79,
         553.79,
         548.63,
-        548.44
+        548.39
       ],
       "history_days": 6,
       "is_lowest": true,
       "prev_price": 548.44,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Apple iPhone 15 128GB 5G - Azul",
@@ -5874,6 +5847,29 @@
         69.9
       ],
       "history_days": 10,
+      "is_lowest": true,
+      "prev_price": 69.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor Acer EK241YHBI, FHD, LED, 23,8\" - 60,45 cm, 1 milisegundos, 1 HDMI",
+      "url": "https://www.carrefour.es/monitor-acer-ek241yhbi-fhd-led-238-6045-cm-1-milisegundos-1-hdmi/VC4A-26135236/p",
+      "store": "Carrefour",
+      "current_price": 69.9,
+      "original_price": 89.0,
+      "discount_pct": 21.46,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/187997_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        69.9,
+        69.9,
+        69.9,
+        69.9,
+        69.9,
+        69.9,
+        69.9
+      ],
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 69.9,
       "drop_pct": null
@@ -6198,24 +6194,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smartphone GOOGLE Pixel 9 Pro (6.3'' - 16 GB - 256 GB - Obsidian)",
-      "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-6-3-16-gb-256-gb-obsidian-8119763",
-      "store": "Worten",
-      "current_price": 634.88,
-      "original_price": 799.0,
-      "discount_pct": 20.54,
-      "image_url": "https://www.worten.es/i/5bd72ce035a25fd71e1aa91bdaf4bfd68c83d327",
-      "category": null,
-      "price_history": [
-        634.88,
-        634.88
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 634.88,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor - Lenovo L27h-4A, 27\" QHD, 100 Hz, 6 ms, IPS, 1x USB-C, 4 USB-A, 2x HDMI® 2.1 TMDS, 1x DP 1.4, Altura ajustable, Altavoces Incluidos",
       "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l27h-4a-27-qhd-100-hz-6-ms-ips-1x-usb-c-4-usb-a-2x-hdmir-21-tmds-1x-dp-14-altavoces-incluidos-gris-1605623.html",
       "store": "MediaMarkt",
@@ -6358,7 +6336,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000393_1.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000393_1.jpg?v=1782231274",
       "category": "Altavoces",
       "price_history": [
         39.95,
@@ -6376,7 +6354,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782231274",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -6413,6 +6391,41 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 879.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora HP Smart Tank 6006, Inyección de tinta térmica, Wifi, Blanco, Negro y Color, 20 ppm, Hasta 3 años de tinta incluida ",
+      "url": "https://www.carrefour.es/impresora-hp-smart-tank-6006-inyeccion-de-tinta-termica-wifi-blanco-negro-y-color-20-ppm-hasta-3-anos-de-tinta-incluida/VC4A-33007361/p",
+      "store": "Carrefour",
+      "current_price": 199.9,
+      "original_price": 249.9,
+      "discount_pct": 20.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700228_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        199.9,
+        199.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 199.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Owlotech EK500 Teclado Wireless Ergonómico Negro",
+      "url": "https://www.pccomponentes.com/owlotech-ek500-teclado-wireless-ergonomico-negro",
+      "store": "PcComponentes",
+      "current_price": 27.99,
+      "original_price": 34.99,
+      "discount_pct": 20.01,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1083/10832295/1175-owlotech-ek500-teclado-wireless-ergonomico-negro.jpg",
+      "category": null,
+      "price_history": [
+        27.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 27.99,
       "drop_pct": null
     },
     {
@@ -6819,23 +6832,6 @@
       "drop_pct": null
     },
     {
-      "name": "Corsair NAUTILUS 360 RS ARGB Kit Refrigeración Líquida 360mm Negro",
-      "url": "https://www.pccomponentes.com/corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-negro",
-      "store": "PcComponentes",
-      "current_price": 100.95,
-      "original_price": 124.63,
-      "discount_pct": 19.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10863337/1510-corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-negro-8c715e2a-af1d-472b-ac85-b809576254cf.jpg",
-      "category": null,
-      "price_history": [
-        100.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 100.95,
-      "drop_pct": null
-    },
-    {
       "name": "Kirby y la Tierra Olvidada para Switch 2",
       "url": "https://www.carrefour.es/kirby-y-la-tierra-olvidada-para-switch-2/VC4A-30301710/p",
       "store": "Carrefour",
@@ -7107,18 +7103,18 @@
       "name": "Apple iPhone 17e, 256 GB, 6.1\" Pantalla Super Retina XDR, Chip A19 - Blanco",
       "url": "https://www.carrefour.es/apple-iphone-17e-256-gb-61-pantalla-super-retina-xdr-chip-a19-blanco/VC4A-33050007/p",
       "store": "Carrefour",
-      "current_price": 655.83,
+      "current_price": 655.77,
       "original_price": 799.99,
-      "discount_pct": 18.02,
+      "discount_pct": 18.03,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/703470_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        655.83
+        655.77
       ],
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 655.83,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Tablet Lenovo Idea Tab WiFi 11\" 8GB 256GB Gris Stylus Pen",
@@ -7545,6 +7541,24 @@
       "drop_pct": null
     },
     {
+      "name": "Impresora Multifunción HP DeskJet 2823E, Thermal Inkjet, Wifi, Color, 20 ppm, 6 Meses Instant Ink con HP+",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2823e-thermal-inkjet-wifi-color-20-ppm-6-meses-instant-ink-con-hp/VC4A-24870140/p",
+      "store": "Carrefour",
+      "current_price": 49.9,
+      "original_price": 59.9,
+      "discount_pct": 16.69,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/006405_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        49.9,
+        49.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 49.9,
+      "drop_pct": null
+    },
+    {
       "name": "Impresora Multifunción HP DeskJet 2923E, Inyección de Tinta, Wifi, Color, 5,5 ppm, 6 Meses Instant Ink HP+",
       "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2923e-inyeccion-de-tinta-wifi-color-55-ppm-6-meses-instant-ink-hp/VC4A-33279425/p",
       "store": "Carrefour",
@@ -7712,6 +7726,32 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 39.98,
+      "drop_pct": null
+    },
+    {
+      "name": "Consola Nintendo Switch 2 256 GB",
+      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
+      "store": "Carrefour",
+      "current_price": 439.98,
+      "original_price": 527.98,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        439.96,
+        439.96,
+        439.0,
+        438.97,
+        438.97,
+        438.97,
+        438.97,
+        439.0,
+        437.97,
+        439.94
+      ],
+      "history_days": 10,
+      "is_lowest": false,
+      "prev_price": 439.98,
       "drop_pct": null
     },
     {
@@ -7960,32 +8000,6 @@
       "drop_pct": null
     },
     {
-      "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
-      "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
-      "store": "Carrefour",
-      "current_price": 374.84,
-      "original_price": 449.81,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705626_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        376.14,
-        375.8,
-        375.51,
-        375.24,
-        375.06,
-        374.91,
-        398.65,
-        398.65,
-        398.65,
-        374.84
-      ],
-      "history_days": 10,
-      "is_lowest": true,
-      "prev_price": 374.84,
-      "drop_pct": null
-    },
-    {
       "name": "Tablet Lenovo  IDea Tab, MediaTek Dimensity 6300, 8Gb Ram ,256 Gb, 11'', Pen, Android™ 15,",
       "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-256-gb-11-pen-android-15/VC4A-31455792/p",
       "store": "Carrefour",
@@ -8033,6 +8047,60 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet TCL NXTPAPER 14, MTK Helio G99 (MT8781), 8GB RAM, 256GB, 14.25\" - 36.20 cm, WIFI, Android 14 con Funda y Lapiz - Gris",
+      "url": "https://www.carrefour.es/tablet-tcl-nxtpaper-14-mtk-helio-g99-mt8781-8gb-ram-256gb-1425-3620-cm-wifi-android-14-con-funda-y-lapiz-gris/VC4A-30288073/p",
+      "store": "Carrefour",
+      "current_price": 367.98,
+      "original_price": 441.58,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/535000_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        367.98,
+        367.98
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 367.98,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet TCL Tab 10L GEN 4 Mediatek MT8786, 4GB RAM, 64GB, 10,1\" - 25,65 cm, Android 15",
+      "url": "https://www.carrefour.es/tablet-tcl-tab-10l-gen-4-mediatek-mt8786-4gb-ram-64gb-101-2565-cm-android-15/VC4A-31657426/p",
+      "store": "Carrefour",
+      "current_price": 103.09,
+      "original_price": 123.71,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/653640_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        103.09,
+        103.09
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 103.09,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet Xiaomi Redmi Pad 2 Grap MediaTek Helio G100-ultra, 4GB RAM, 128GB, 11\" - 27,94 cm,Xiaomi HyperOS 2 - Gris",
+      "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad-2-grap-mediatek-helio-g100-ultra-4gb-ram-128gb-11-2794-cmxiaomi-hyperos-2-gris/VC4A-31232358/p",
+      "store": "Carrefour",
+      "current_price": 161.99,
+      "original_price": 194.39,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/644796_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        229.0,
+        161.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 229.0,
+      "drop_pct": 29.26
+    },
+    {
       "name": "Tablet Xiaomi Redmi Pad 2 MediaTek G100-Ultra, 8GB RAM, 256GB, 11\" - 27,94 cm, Xiaomi HyperOS 2*, Android - Gris",
       "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad-2-mediatek-g100-ultra-8gb-ram-256gb-11-2794-cm-xiaomi-hyperos-2-android-gris/VC4A-30685809/p",
       "store": "Carrefour",
@@ -8055,7 +8123,7 @@
       ],
       "history_days": 10,
       "is_lowest": false,
-      "prev_price": 218.87,
+      "prev_price": 218.92,
       "drop_pct": null
     },
     {
@@ -8074,6 +8142,23 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 49.13,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico Combi KUNFT KC8030N SL (Estático - 180 cm - 264 L - Gris)",
+      "url": "https://www.worten.es/productos/frigorifico-combi-kunft-kc8030n-sl-estatico-180-cm-264-l-gris-7994484",
+      "store": "Worten",
+      "current_price": 299.99,
+      "original_price": 359.99,
+      "discount_pct": 16.67,
+      "image_url": "https://www.worten.es/i/100f8779b7fc76b46a2f8854784aee48487daebe",
+      "category": null,
+      "price_history": [
+        299.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8157,6 +8242,31 @@
       "drop_pct": null
     },
     {
+      "name": "Asus ROG Strix XG27UQR 27'' UHD 4K IPS 144Hz 1ms HDR Adaptive Sync",
+      "url": "https://www.coolmod.com/asus-rog-strix-xg27uqr-27-4k-ips-144hz-hdr-adaptive-sync/",
+      "store": "Coolmod",
+      "current_price": 358.95,
+      "original_price": 429.95,
+      "discount_pct": 16.51,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782231274",
+      "category": "Monitores",
+      "price_history": [
+        349.95,
+        349.95,
+        349.95,
+        349.95,
+        349.95,
+        349.95,
+        349.95,
+        359.95,
+        358.95
+      ],
+      "history_days": 9,
+      "is_lowest": false,
+      "prev_price": 359.95,
+      "drop_pct": 0.28
+    },
+    {
       "name": "Móvil Xiaomi Redmi A5 128 GB + 4GB RAM - Azul",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-a5-128-gb-4gb-ram-azul/VC4A-33162732/p",
       "store": "Carrefour",
@@ -8195,31 +8305,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 99.41,
-      "drop_pct": null
-    },
-    {
-      "name": "Asus ROG Strix XG27UQR 27'' UHD 4K IPS 144Hz 1ms HDR Adaptive Sync",
-      "url": "https://www.coolmod.com/asus-rog-strix-xg27uqr-27-4k-ips-144hz-hdr-adaptive-sync/",
-      "store": "Coolmod",
-      "current_price": 359.95,
-      "original_price": 429.95,
-      "discount_pct": 16.28,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782221831",
-      "category": "Monitores",
-      "price_history": [
-        349.95,
-        349.95,
-        349.95,
-        349.95,
-        349.95,
-        349.95,
-        349.95,
-        359.95,
-        359.95
-      ],
-      "history_days": 9,
-      "is_lowest": false,
-      "prev_price": 359.95,
       "drop_pct": null
     },
     {
@@ -8367,6 +8452,24 @@
       "drop_pct": null
     },
     {
+      "name": "Ratón Gaming Inalámbrico Recargable con Iluminación LED Trust GXT110 Felox - Negro",
+      "url": "https://www.carrefour.es/raton-gaming-inalambrico-recargable-con-iluminacion-led-trust-gxt110-felox-negro/VC4A-26505314/p",
+      "store": "Carrefour",
+      "current_price": 16.99,
+      "original_price": 19.99,
+      "discount_pct": 15.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/357993_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        16.99,
+        16.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 16.99,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil HP 15s-fq5007ns (15.6'' - Intel Core i5-1235U - RAN: 8 GB - 512 GB SSD PCIe - Intel Iris Xe Graphics)",
       "url": "https://www.worten.es/productos/portatil-hp-15s-fq5007ns-15-6-intel-core-i5-1235u-ran-8-gb-512-gb-ssd-pcie-intel-iris-xe-graphics-7671130",
       "store": "Worten",
@@ -8440,6 +8543,24 @@
       "drop_pct": null
     },
     {
+      "name": "Ordenador Portátil Acer Aspire Lite 15 AL15-32P-C77C, Celeron N4500, 4GB, 128GB eMMC, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-lite-15-al15-32p-c77c-celeron-n4500-4gb-128gb-emmc-fhd-156-3962-cm-w11/VC4A-32794940/p",
+      "store": "Carrefour",
+      "current_price": 279.65,
+      "original_price": 329.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/696534_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        279.65,
+        279.65
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 279.65,
+      "drop_pct": null
+    },
+    {
       "name": "Ordenador Portátil  Acer Chromebook 314 CBOA314-1H-C8HS, Celeron N4500, 4GB, 64GB eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
       "url": "https://www.carrefour.es/ordenador-portatil-acer-chromebook-314-cboa314-1h-c8hs-celeron-n4500-4gb-64gb-emmc-fhd-14-3556-cm-chromeos/VC4A-30109915/p",
       "store": "Carrefour",
@@ -8455,6 +8576,24 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 211.65,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil Asus Vivobook 15 F1504VA-BQ267W, i7 150U, 16GB, 1TB SSD, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-asus-vivobook-15-f1504va-bq267w-i7-150u-16gb-1tb-ssd-fhd-156-3962-cm-w11/VC4A-32896525/p",
+      "store": "Carrefour",
+      "current_price": 721.65,
+      "original_price": 849.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/677082_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        721.65,
+        721.65
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 721.65,
       "drop_pct": null
     },
     {
@@ -8582,21 +8721,39 @@
       "drop_pct": null
     },
     {
-      "name": "Kingston A400 480Gb Disco SSD SATA3 500MB/S",
-      "url": "https://www.pccomponentes.com/disco-duro-kingston-a400-480gb-disco-ssd-sata3-500mb-s",
-      "store": "PcComponentes",
-      "current_price": 89.95,
-      "original_price": 105.82,
+      "name": "Portátil Acer Aspire 3 A315-59-53QFIntel Core i5 1235U  con 16GB,  512GB SSD, FHD 15.6\",  Windows 11 HOME-Plata",
+      "url": "https://www.carrefour.es/portatil-acer-aspire-3-a315-59-53qfintel-core-i5-1235u-con-16gb-512gb-ssd-fhd-156-windows-11-home-plata/VC4A-32825649/p",
+      "store": "Carrefour",
+      "current_price": 517.65,
+      "original_price": 609.0,
       "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/12/128275/1282750.jpg",
-      "category": null,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/698219_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
-        89.95,
-        89.95
+        517.65,
+        517.65
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 89.95,
+      "prev_price": 517.65,
+      "drop_pct": null
+    },
+    {
+      "name": "Portatil Acer Aspire Lite 15 AL15-32P-C997, Intel Celeron N4500 Con 8GB, 128GB Ssd; FHD 15.6\" ,  Windows 11 Home",
+      "url": "https://www.carrefour.es/portatil-acer-aspire-lite-15-al15-32p-c997-intel-celeron-n4500-con-8gb-128gb-ssd-fhd-156-windows-11-home/VC4A-32825622/p",
+      "store": "Carrefour",
+      "current_price": 305.15,
+      "original_price": 359.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/698250_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        305.15,
+        305.15
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 305.15,
       "drop_pct": null
     },
     {
@@ -8632,6 +8789,40 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 594.15,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil HP 15-FC0200NS-FC1001NSX Ryzen 5 7520U, 16 GB, 512GB SSD, 15,6 '- 39.62 cm, W11 Home",
+      "url": "https://www.carrefour.es/ordenador-portatil-hp-15-fc0200ns-fc1001nsx-ryzen-5-7520u-16-gb-512gb-ssd-156-3962-cm-w11-home/VC4A-32592621/p",
+      "store": "Carrefour",
+      "current_price": 526.15,
+      "original_price": 619.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/186344_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        526.15
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil Acer Aspire Go 15, Ryzen 7 5825U, 32GB, 512GB SSD, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-go-15-ryzen-7-5825u-32gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-30377104/p",
+      "store": "Carrefour",
+      "current_price": 679.15,
+      "original_price": 799.0,
+      "discount_pct": 15.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/548518_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        679.15
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8672,6 +8863,23 @@
       "history_days": 6,
       "is_lowest": false,
       "prev_price": 195.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Pack cargador GAN USBC DE 65W + Cable 1,5M USBC + 5 Clavijas para portátil marca Lenovo - Negro",
+      "url": "https://www.carrefour.es/pack-cargador-gan-usbc-de-65w-cable-15m-usbc-5-clavijas-para-portatil-marca-lenovo-negro/VC4A-33420120/p",
+      "store": "Carrefour",
+      "current_price": 23.0,
+      "original_price": 26.99,
+      "discount_pct": 14.78,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/707838_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        23.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8745,24 +8953,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 854.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Altavoz Portátil JBL Xtreme 5, 90 W - Negro",
-      "url": "https://www.carrefour.es/altavoz-portatil-jbl-xtreme-5-90-w-negro/VC4A-33089380/p",
-      "store": "Carrefour",
-      "current_price": 299.0,
-      "original_price": 349.0,
-      "discount_pct": 14.33,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/703288_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        299.0,
-        299.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 299.0,
       "drop_pct": null
     },
     {
@@ -8896,6 +9086,23 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 599.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil Lenovo IdeaPad Slim 3 15IRH10 15,3\" Intel Core i7-13620H 16GB 1TB SSD Windows 11 Home",
+      "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh10-15-3-intel-core-i7-13620h-16gb-1tb-ssd-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 729.0,
+      "original_price": 847.67,
+      "discount_pct": 14.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10991700/1775-portatil-lenovo-ideapad-slim-3-15irh10-153-intel-core-i7-13620h-16gb-1tb-ssd-windows-11-home-e82f97d7-d0db-4540-bc5d-2f63fd22d97b.jpg",
+      "category": null,
+      "price_history": [
+        729.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9040,6 +9247,24 @@
       "drop_pct": null
     },
     {
+      "name": "Impresora Multifunción HP OfficeJet Pro 8125e, Thermal Inkjet, Wifi, Color, 29 ppm, 6 Meses Instant Ink con HP+",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-officejet-pro-8125e-thermal-inkjet-wifi-color-29-ppm-6-meses-instant-ink-con-hp/VC4A-27437080/p",
+      "store": "Carrefour",
+      "current_price": 129.9,
+      "original_price": 149.9,
+      "discount_pct": 13.34,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/357898_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        129.9,
+        129.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 129.9,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
       "store": "MediaMarkt",
@@ -9111,21 +9336,21 @@
       "drop_pct": null
     },
     {
-      "name": "Frigorífico Combi LG GBBS322CPY (No Frost - 203 cm - 375 L - Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-lg-gbbs322cpy-no-frost-203-cm-375-l-inox-8624733",
-      "store": "Worten",
-      "current_price": 738.83,
-      "original_price": 849.65,
-      "discount_pct": 13.04,
-      "image_url": "https://www.worten.es/i/f2bb7b6ac8a9130f41ba881dc7d6d95e8e9a4169",
+      "name": "PcCom Work Intel Core i5-12400 / 16GB / 500GB SSD V2 / Windows 11 Home",
+      "url": "https://www.pccomponentes.com/pccom-work-intel-core-i5-12400-16gb-500gb-ssd-v2-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 699.0,
+      "original_price": 803.45,
+      "discount_pct": 13.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034129/16-pccom-work-intel-core-i5-12400-16gb-500gb-ssd-v2-windows-11-home-f4c6e1ff-2cf8-4e1e-918f-20f19cdb8dd4.jpg",
       "category": null,
       "price_history": [
-        738.83,
-        738.83
+        699.0,
+        699.0
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 738.83,
+      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -9298,32 +9523,6 @@
       "drop_pct": null
     },
     {
-      "name": "Consola Nintendo Switch 2 256 GB",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
-      "store": "Carrefour",
-      "current_price": 439.98,
-      "original_price": 499.0,
-      "discount_pct": 11.83,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        439.96,
-        439.96,
-        439.0,
-        438.97,
-        438.97,
-        438.97,
-        438.97,
-        439.0,
-        437.97,
-        439.94
-      ],
-      "history_days": 10,
-      "is_lowest": false,
-      "prev_price": 439.98,
-      "drop_pct": null
-    },
-    {
       "name": "Lavadora TEKA WMK 40740 (7 kg - 1200 rpm - Blanco)",
       "url": "https://www.worten.es/productos/lavadora-teka-wmk-40740-7-kg-1200-rpm-blanco-8474434",
       "store": "Worten",
@@ -9342,6 +9541,23 @@
       "drop_pct": null
     },
     {
+      "name": "Frigorífico Combi CANDY CNCQ2T518EX (No Frost - 183 cm - 279 L - Inox)",
+      "url": "https://www.worten.es/productos/frigorifico-combi-candy-cncq2t518ex-no-frost-183-cm-279-l-inox-8074303",
+      "store": "Worten",
+      "current_price": 372.6,
+      "original_price": 419.99,
+      "discount_pct": 11.28,
+      "image_url": "https://www.worten.es/i/fbed81d5b840c93756b0ae58c2fc531c258352e5",
+      "category": null,
+      "price_history": [
+        372.6
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Placa de Inducción BALAY 3EB967FR (Eléctrica - 59.2 cm - Negro)",
       "url": "https://www.worten.es/productos/placa-de-induccion-balay-3eb967fr-electrica-59-2-cm-negro-5933074",
       "store": "Worten",
@@ -9356,24 +9572,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 409.05,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavadora Integrable BALAY 3TI983B (8 kg - 1200 rpm - Blanco)",
-      "url": "https://www.worten.es/productos/lavadora-integrable-balay-3ti983b-8-kg-1200-rpm-blanco-7573225",
-      "store": "Worten",
-      "current_price": 708.46,
-      "original_price": 797.99,
-      "discount_pct": 11.22,
-      "image_url": "https://www.worten.es/i/00155daeffdb340858dd83e8ad048d6db5374abb",
-      "category": null,
-      "price_history": [
-        708.46,
-        708.46
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 708.46,
       "drop_pct": null
     },
     {
@@ -9454,6 +9652,24 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil Asus Vivobook 15 F1504VA-BQ332 15,6\" Intel Core 7 150U 16GB 1TB SSD Intel Graphics Sin Sistema Operativo",
+      "url": "https://www.pccomponentes.com/portatil-asus-vivobook-15-f1504va-bq332-156-intel-core-7-150u-16gb-1tb-ssd-intel-graphics-sin-sistema-operativo",
+      "store": "PcComponentes",
+      "current_price": 599.0,
+      "original_price": 673.03,
+      "discount_pct": 11.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11012460/1191-portatil-asus-vivobook-15-f1504va-bq332-156-intel-core-7-150u-16gb-1tb-ssd-intel-graphics-sin-sistema-operativo.jpg",
+      "category": null,
+      "price_history": [
+        599.0,
+        599.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 599.0,
+      "drop_pct": null
+    },
+    {
       "name": "Ventilador de Techo Orbegozo CP 158105 30W 6 Velocidades Aspas Retráctiles con Luz LED",
       "url": "https://www.pccomponentes.com/ventilador-de-techo-orbegozo-cp-158105-30w-6-velocidades-aspas-retractiles-con-luz-led",
       "store": "PcComponentes",
@@ -9504,6 +9720,24 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 329.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor Acer EK321QHBI, Full HD, IPS, 31,5\" - 80,01 cm, 100 Hz, 5 Milisegundos, 1 HDMI, 1 VGA",
+      "url": "https://www.carrefour.es/monitor-acer-ek321qhbi-full-hd-ips-315-8001-cm-100-hz-5-milisegundos-1-hdmi-1-vga/VC4A-29150688/p",
+      "store": "Carrefour",
+      "current_price": 160.0,
+      "original_price": 179.0,
+      "discount_pct": 10.61,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/523471_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        160.0,
+        160.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 160.0,
       "drop_pct": null
     },
     {
@@ -9560,7 +9794,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782231274",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -9598,6 +9832,24 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 269.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Sobremesa Gaming Nausicaa Millenium, Ryzen 5 5600GT, 16GB, 1TB SSD, W11 con Teclado, Ratón, Auriculares y Alfombrilla",
+      "url": "https://www.carrefour.es/ordenador-sobremesa-gaming-nausicaa-millenium-ryzen-5-5600gt-16gb-1tb-ssd-w11-con-teclado-raton-auriculares-y-alfombrilla/VC4A-31311192/p",
+      "store": "Carrefour",
+      "current_price": 899.0,
+      "original_price": 999.0,
+      "discount_pct": 10.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/640522_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        899.0,
+        899.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 899.0,
       "drop_pct": null
     },
     {
@@ -9816,7 +10068,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782231274",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95,
@@ -10078,6 +10330,24 @@
       "drop_pct": null
     },
     {
+      "name": "Cartucho de Tinta Canon 570 - Negro",
+      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
+      "store": "Carrefour",
+      "current_price": 21.58,
+      "original_price": 23.52,
+      "discount_pct": 8.25,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        22.16,
+        21.58
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 22.16,
+      "drop_pct": 2.62
+    },
+    {
       "name": "Memoria USB 256GB Sandisk Ultra Flair  - Plata",
       "url": "https://www.carrefour.es/memoria-usb-256gb-sandisk-ultra-flair-plata/VC4A-19432943/p",
       "store": "Carrefour",
@@ -10120,7 +10390,7 @@
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782221831",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782231274",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95,
@@ -10171,8 +10441,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 64.99,
-      "drop_pct": 7.69
+      "prev_price": 59.99,
+      "drop_pct": null
     },
     {
       "name": "Samsung Galaxy A56 5G 256GB + 8GB RAM - Negro",
@@ -10442,6 +10712,42 @@
       "drop_pct": null
     },
     {
+      "name": "Móvil Vivo Y21 5G 256 GB + 4GB RAM - Oro, Incluye Cargador 44W y Auriculares",
+      "url": "https://www.carrefour.es/movil-vivo-y21-5g-256-gb-4gb-ram-oro-incluye-cargador-44w-y-auriculares/VC4A-33768528/p",
+      "store": "Carrefour",
+      "current_price": 252.86,
+      "original_price": 270.56,
+      "discount_pct": 6.54,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/726652_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        249.0,
+        249.0
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 249.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Móvil Vivo Y21 5G 256GB + 4GB RAM - Negro, Incluye Cargador 44W y Auriculares",
+      "url": "https://www.carrefour.es/movil-vivo-y21-5g-256gb-4gb-ram-negro-incluye-cargador-44w-y-auriculares/VC4A-33768480/p",
+      "store": "Carrefour",
+      "current_price": 252.8,
+      "original_price": 270.5,
+      "discount_pct": 6.54,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/726650_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        249.0,
+        249.0
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 249.0,
+      "drop_pct": null
+    },
+    {
       "name": "Cartucho Retro Big Tournament Golf para Neo-Geo AES+",
       "url": "https://www.carrefour.es/cartucho-retro-big-tournament-golf-para-neo-geo-aes/VC4A-33587852/p",
       "store": "Carrefour",
@@ -10579,12 +10885,38 @@
       "drop_pct": null
     },
     {
+      "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
+      "store": "Carrefour",
+      "current_price": 16.1,
+      "original_price": 17.07,
+      "discount_pct": 5.68,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        15.43,
+        15.49,
+        15.49,
+        15.49,
+        15.49,
+        15.48,
+        15.49,
+        15.43,
+        15.49,
+        15.83
+      ],
+      "history_days": 10,
+      "is_lowest": false,
+      "prev_price": 15.91,
+      "drop_pct": null
+    },
+    {
       "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
       "store": "Carrefour",
-      "current_price": 14.32,
-      "original_price": 15.18,
-      "discount_pct": 5.67,
+      "current_price": 14.44,
+      "original_price": 15.31,
+      "discount_pct": 5.68,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
       "category": "Componentes",
       "price_history": [
@@ -10598,26 +10930,26 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 14.38,
-      "drop_pct": 0.42
+      "prev_price": 14.32,
+      "drop_pct": null
     },
     {
-      "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
-      "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
+      "name": "Enchufe Inteligente TP-Link Tapo P100",
+      "url": "https://www.carrefour.es/enchufe-inteligente-tp-link-tapo-p100/VC4A-13151859/p",
       "store": "Carrefour",
-      "current_price": 1149.11,
-      "original_price": 1218.06,
-      "discount_pct": 5.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
-      "category": "TV y Audio",
+      "current_price": 14.65,
+      "original_price": 15.5,
+      "discount_pct": 5.48,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/486037_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
-        999.0,
-        999.0
+        14.65,
+        14.65
       ],
       "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 1149.12,
-      "drop_pct": 0.0
+      "is_lowest": true,
+      "prev_price": 18.01,
+      "drop_pct": 18.66
     },
     {
       "name": "Aire Acondicionado Portátil Hisense APC09QC, Wifi A",
@@ -10711,20 +11043,46 @@
       "drop_pct": null
     },
     {
-      "name": "Portátil Lenovo IdeaPad Slim 3 15IRH10 15,3\" Intel Core i5-13420H 16GB 512GB SSD Intel UHD Graphics",
-      "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh10-153-intel-core-i5-13420h-16gb-512gb-ssd-intel-uhd-graphics",
-      "store": "PcComponentes",
-      "current_price": 549.0,
-      "original_price": 577.89,
-      "discount_pct": 5.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10991695/1700-portatil-lenovo-ideapad-slim-3-15irh10-153-intel-core-i5-13420h-16gb-512gb-ssd-intel-uhd-graphics-1d630ab2-dec4-4f62-bc3e-b1d270f9785a.jpg",
-      "category": null,
+      "name": "Kit Plc Wifi Tp-link AV1000 TL-WPA7617",
+      "url": "https://www.carrefour.es/kit-plc-wifi-tp-link-av1000-tl-wpa7617/VC4A-16155494/p",
+      "store": "Carrefour",
+      "current_price": 78.73,
+      "original_price": 82.67,
+      "discount_pct": 4.77,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/176634_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
-        549.0
+        78.73,
+        78.73
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": 78.73,
+      "drop_pct": null
+    },
+    {
+      "name": "Repetidor Wi-Fi TP-Link N300W",
+      "url": "https://www.carrefour.es/repetidor-wi-fi-tp-link-n300w/288900586/p",
+      "store": "Carrefour",
+      "current_price": 21.17,
+      "original_price": 22.23,
+      "discount_pct": 4.77,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/642988_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        21.04,
+        20.99,
+        21.05,
+        21.17,
+        20.98,
+        21.16,
+        21.05,
+        21.05,
+        20.93
+      ],
+      "history_days": 9,
+      "is_lowest": false,
+      "prev_price": 21.16,
       "drop_pct": null
     },
     {
@@ -10992,6 +11350,24 @@
       "drop_pct": null
     },
     {
+      "name": "Cartucho de Tinta Canon 550 XL - Negro",
+      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-550-xl-negro/VC4A-20755330/p",
+      "store": "Carrefour",
+      "current_price": 22.87,
+      "original_price": 23.33,
+      "discount_pct": 1.97,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/880750_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        22.96,
+        22.87
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 23.21,
+      "drop_pct": 1.46
+    },
+    {
       "name": "Móvil Vivo V70 FE 256GB + 8GB RAM - Morado, Incluye Cargador 90W y Auriculares",
       "url": "https://www.carrefour.es/movil-vivo-v70-fe-256gb-8gb-ram-morado-incluye-cargador-90w-y-auriculares/VC4A-33558408/p",
       "store": "Carrefour",
@@ -11006,8 +11382,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 400.75,
-      "drop_pct": 0.01
+      "prev_price": 400.71,
+      "drop_pct": null
     },
     {
       "name": "Móvil Vivo V70 FE 5G 256GB + 8GB RAM - Azul, Incluye Cargador 90W y Auriculares",
@@ -11031,8 +11407,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 160.84,
-      "original_price": 164.06,
+      "current_price": 161.48,
+      "original_price": 164.71,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -11041,7 +11417,7 @@
         160.84
       ],
       "history_days": 2,
-      "is_lowest": true,
+      "is_lowest": false,
       "prev_price": 160.84,
       "drop_pct": null
     },
