@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T13:20:40.093221+00:00",
-  "total_products": 876,
+  "updated": "2026-06-24T13:27:38.420453+00:00",
+  "total_products": 877,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -8316,6 +8316,23 @@
       "drop_pct": null
     },
     {
+      "name": "Kingston NV3 500GB SSD M.2 NVMe 2280 PCIe 4.0 3D NAND",
+      "url": "https://www.pccomponentes.com/disco-duro-kingston-nv3-500gb-ssd-m-2-nvme-2280-pcie-4-0-3d-nand",
+      "store": "PcComponentes",
+      "current_price": 102.95,
+      "original_price": 116.99,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10853116/1451-kingston-nv3-500gb-ssd-m2-nvme-2280-pcie-40-3d-nand.jpg",
+      "category": null,
+      "price_history": [
+        102.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 102.95,
+      "drop_pct": null
+    },
+    {
       "name": "Placa de Inducción BALAY 3EB967FR (Eléctrica - 59.2 cm - Negro)",
       "url": "https://www.worten.es/productos/placa-de-induccion-balay-3eb967fr-electrica-59-2-cm-negro-5933074",
       "store": "Worten",
@@ -9166,6 +9183,23 @@
       "drop_pct": null
     },
     {
+      "name": "Cartucho de Tinta Canon 570 - Negro",
+      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
+      "store": "Carrefour",
+      "current_price": 21.68,
+      "original_price": 23.63,
+      "discount_pct": 8.25,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        21.68
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 21.83,
+      "drop_pct": 0.69
+    },
+    {
       "name": "TV Hisense 65\" (165,1 cm) 65U7Q, MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
       "url": "https://www.carrefour.es/tv-hisense-65-1651-cm-65u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709980/p",
       "store": "Carrefour",
@@ -9485,7 +9519,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 14.65,
+      "prev_price": 16.44,
       "drop_pct": null
     },
     {
@@ -9693,6 +9727,23 @@
       "drop_pct": null
     },
     {
+      "name": "Crucial BX500 1tb Disco SSD SATA3 540MB/S",
+      "url": "https://www.pccomponentes.com/disco-duro-crucial-bx500-1tb-disco-ssd-sata3-540mb-s",
+      "store": "PcComponentes",
+      "current_price": 142.99,
+      "original_price": 150.52,
+      "discount_pct": 5.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/30/307638/1761-crucial-bx500-ssd-1tb-3d-nand-sata3.jpg",
+      "category": null,
+      "price_history": [
+        142.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 142.99,
+      "drop_pct": null
+    },
+    {
       "name": "Frigorífico Americano BECKEN BSB5193 IX (No Frost - 180 cm - 362 L - Inox)",
       "url": "https://www.worten.es/productos/frigorifico-americano-becken-bsb5193-ix-no-frost-180-cm-362-l-inox-8409862",
       "store": "Worten",
@@ -9792,23 +9843,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 95.55,
-      "drop_pct": null
-    },
-    {
-      "name": "Cartucho de Tinta Canon 570 - Negro",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
-      "store": "Carrefour",
-      "current_price": 21.83,
-      "original_price": 22.7,
-      "discount_pct": 3.83,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        21.68
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 21.68,
       "drop_pct": null
     },
     {
