@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:06:49.294643+00:00",
+  "updated": "2026-06-24T13:14:01.297005+00:00",
   "total_products": 876,
   "deals": [
     {
@@ -1856,23 +1856,6 @@
       "drop_pct": null
     },
     {
-      "name": "PcCom Work AMD Ryzen 7 5700G / 32GB / 1TB SSD / Windows 11 Home",
-      "url": "https://www.pccomponentes.com/pccom-work-amd-ryzen-7-5700g-32gb-1tb-ssd-windows-11-home",
-      "store": "PcComponentes",
-      "current_price": 799.0,
-      "original_price": 1268.25,
-      "discount_pct": 37.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11036075/1265-pccom-work-amd-ryzen-7-5700g-32gb-1tb-ssd-windows-11-home.jpg",
-      "category": null,
-      "price_history": [
-        799.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 799.0,
-      "drop_pct": null
-    },
-    {
       "name": "Lavadora BOSCH WUU28T8XES (8 kg - 1400 rpm - Inox)",
       "url": "https://www.worten.es/productos/lavadora-bosch-wuu28t8xes-8-kg-1400-rpm-inox-7711590",
       "store": "Worten",
@@ -1972,6 +1955,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 639.0,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Work AMD Ryzen 7 5700G / 32GB / 1TB SSD / Windows 11 Home",
+      "url": "https://www.pccomponentes.com/pccom-work-amd-ryzen-7-5700g-32gb-1tb-ssd-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 799.0,
+      "original_price": 1248.44,
+      "discount_pct": 36.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11036075/1265-pccom-work-amd-ryzen-7-5700g-32gb-1tb-ssd-windows-11-home.jpg",
+      "category": null,
+      "price_history": [
+        799.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 799.0,
       "drop_pct": null
     },
     {
@@ -7683,7 +7683,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 28.95,
       "drop_pct": null
     },
     {
@@ -9574,6 +9574,23 @@
       "drop_pct": null
     },
     {
+      "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
+      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
+      "store": "Carrefour",
+      "current_price": 15.92,
+      "original_price": 16.88,
+      "discount_pct": 5.69,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        15.92
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 16.05,
+      "drop_pct": 0.81
+    },
+    {
       "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
       "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
       "store": "Carrefour",
@@ -9693,6 +9710,23 @@
       "drop_pct": null
     },
     {
+      "name": "Repetidor Wi-Fi TP-Link N300W",
+      "url": "https://www.carrefour.es/repetidor-wi-fi-tp-link-n300w/288900586/p",
+      "store": "Carrefour",
+      "current_price": 21.11,
+      "original_price": 22.17,
+      "discount_pct": 4.78,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/642988_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        20.99
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 20.99,
+      "drop_pct": null
+    },
+    {
       "name": "Kit Plc Wifi Tp-link AV1000 TL-WPA7617",
       "url": "https://www.carrefour.es/kit-plc-wifi-tp-link-av1000-tl-wpa7617/VC4A-16155494/p",
       "store": "Carrefour",
@@ -9724,23 +9758,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 307.37,
-      "drop_pct": null
-    },
-    {
-      "name": "Repetidor Wi-Fi TP-Link N300W",
-      "url": "https://www.carrefour.es/repetidor-wi-fi-tp-link-n300w/288900586/p",
-      "store": "Carrefour",
-      "current_price": 20.99,
-      "original_price": 22.04,
-      "discount_pct": 4.76,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/642988_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        20.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 20.99,
       "drop_pct": null
     },
     {
@@ -9978,7 +9995,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 22.8,
+      "prev_price": 22.93,
       "drop_pct": null
     },
     {
