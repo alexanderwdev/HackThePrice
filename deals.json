@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:14:01.297005+00:00",
+  "updated": "2026-06-24T13:20:40.093221+00:00",
   "total_products": 876,
   "deals": [
     {
@@ -4369,6 +4369,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 227.9,
+      "drop_pct": null
+    },
+    {
+      "name": "MSI MAG 274QF X24 27\" LED Rapid IPS QHD 240Hz 0.5ms Adaptive Sync",
+      "url": "https://www.pccomponentes.com/monitor-msi-mag-274qf-x24-27-led-rapid-ips-qhd-240hz-0-5ms-adaptive-sync",
+      "store": "PcComponentes",
+      "current_price": 189.0,
+      "original_price": 248.68,
+      "discount_pct": 24.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877122/1685-msi-mag-274qf-x24-27-led-rapid-ips-qhd-240hz-05ms-adaptive-sync-5f4e6306-8ab0-4a5b-b953-022228055c87.jpg",
+      "category": null,
+      "price_history": [
+        189.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 189.0,
       "drop_pct": null
     },
     {
@@ -9149,23 +9166,6 @@
       "drop_pct": null
     },
     {
-      "name": "Cartucho de Tinta Canon 570 - Negro",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
-      "store": "Carrefour",
-      "current_price": 21.68,
-      "original_price": 23.63,
-      "discount_pct": 8.25,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        21.68
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 21.68,
-      "drop_pct": null
-    },
-    {
       "name": "TV Hisense 65\" (165,1 cm) 65U7Q, MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
       "url": "https://www.carrefour.es/tv-hisense-65-1651-cm-65u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709980/p",
       "store": "Carrefour",
@@ -9472,6 +9472,23 @@
       "drop_pct": null
     },
     {
+      "name": "Enchufe Inteligente TP-Link Tapo P100",
+      "url": "https://www.carrefour.es/enchufe-inteligente-tp-link-tapo-p100/VC4A-13151859/p",
+      "store": "Carrefour",
+      "current_price": 16.44,
+      "original_price": 17.59,
+      "discount_pct": 6.54,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/486037_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        14.65
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 14.65,
+      "drop_pct": null
+    },
+    {
       "name": "Cartucho Retro Big Tournament Golf para Neo-Geo AES+",
       "url": "https://www.carrefour.es/cartucho-retro-big-tournament-golf-para-neo-geo-aes/VC4A-33587852/p",
       "store": "Carrefour",
@@ -9587,8 +9604,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 16.05,
-      "drop_pct": 0.81
+      "prev_price": 15.92,
+      "drop_pct": null
     },
     {
       "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
@@ -9622,23 +9639,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1269.76,
-      "drop_pct": null
-    },
-    {
-      "name": "Enchufe Inteligente TP-Link Tapo P100",
-      "url": "https://www.carrefour.es/enchufe-inteligente-tp-link-tapo-p100/VC4A-13151859/p",
-      "store": "Carrefour",
-      "current_price": 14.65,
-      "original_price": 15.5,
-      "discount_pct": 5.48,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/486037_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        14.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 14.65,
       "drop_pct": null
     },
     {
@@ -9723,7 +9723,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 20.99,
+      "prev_price": 21.11,
       "drop_pct": null
     },
     {
@@ -9792,6 +9792,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 95.55,
+      "drop_pct": null
+    },
+    {
+      "name": "Cartucho de Tinta Canon 570 - Negro",
+      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
+      "store": "Carrefour",
+      "current_price": 21.83,
+      "original_price": 22.7,
+      "discount_pct": 3.83,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        21.68
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 21.68,
       "drop_pct": null
     },
     {
@@ -9979,23 +9996,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 369.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Cartucho de Tinta Canon 550 XL - Negro",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-550-xl-negro/VC4A-20755330/p",
-      "store": "Carrefour",
-      "current_price": 22.93,
-      "original_price": 23.39,
-      "discount_pct": 1.97,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/880750_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        22.8
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 22.93,
       "drop_pct": null
     },
     {
