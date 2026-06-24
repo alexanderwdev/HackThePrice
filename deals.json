@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T16:13:40.507498+00:00",
-  "total_products": 888,
+  "updated": "2026-06-24T18:31:32.312764+00:00",
+  "total_products": 902,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782324096",
       "category": "Racores",
       "price_history": [
         0.95
@@ -26,7 +26,7 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782324096",
       "category": "Ratones",
       "price_history": [
         3.95
@@ -60,7 +60,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782324096",
       "category": "Racores",
       "price_history": [
         1.95
@@ -68,40 +68,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Mario Kart 8 Deluxe para Nintendo Switch",
-      "url": "https://www.carrefour.es/mario-kart-8-deluxe-para-nintendo-switch/VC4A-2054050/p",
-      "store": "Carrefour",
-      "current_price": 48.88,
-      "original_price": 199.0,
-      "discount_pct": 75.44,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/208022_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        48.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 48.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Super Mario Bros. Wonder para Switch",
-      "url": "https://www.carrefour.es/super-mario-bros-wonder-para-switch/VC4A-23201908/p",
-      "store": "Carrefour",
-      "current_price": 48.88,
-      "original_price": 199.0,
-      "discount_pct": 75.44,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/263735_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        48.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 48.88,
       "drop_pct": null
     },
     {
@@ -119,6 +85,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 24.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Plataforma vibratoria potente MERACH para entrenamiento cuerpo completo, desarrollo muscular, tonificación, control automático, plataforma vibración adelgazar",
+      "url": "https://www.worten.es/productos/plataforma-vibratoria-potente-merach-para-entrenamiento-cuerpo-completo-desarrollo-muscular-tonificacion-control-automatico-plataforma-vibracion-adelgazar-mrkean-6976326388921",
+      "store": "Worten",
+      "current_price": 64.99,
+      "original_price": 259.99,
+      "discount_pct": 75.0,
+      "image_url": "https://www.worten.es/i/79b91e9aa2b1bdfa9af4350c9db57958593f66e4",
+      "category": null,
+      "price_history": [
+        64.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -207,23 +190,6 @@
       "drop_pct": null
     },
     {
-      "name": "Mando Joy-Con con laterales izquierdo y derecho desmontables, inalámbrico y con Bluetooth. Stelasplen",
-      "url": "https://www.worten.es/productos/mando-joy-con-con-laterales-izquierdo-y-derecho-desmontables-inalambrico-y-con-bluetooth-stelasplen-mrkean-9054929230704",
-      "store": "Worten",
-      "current_price": 29.24,
-      "original_price": 87.72,
-      "discount_pct": 66.67,
-      "image_url": "https://www.worten.es/i/c72a03fa69e9b5a2ff6f772ebce3d0bbfd7c72ad",
-      "category": null,
-      "price_history": [
-        29.24
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 29.24,
-      "drop_pct": null
-    },
-    {
       "name": "Smartphone VIVO Y76 5G (6.56'' - 8 GB - 256 GB - Medianoche)",
       "url": "https://www.worten.es/productos/smartphone-vivo-y76-5g-6-56-8-gb-256-gb-medianoche-7552741",
       "store": "Worten",
@@ -247,7 +213,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782324096",
       "category": "Tubos",
       "price_history": [
         2.95
@@ -264,7 +230,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782324096",
       "category": "Racores",
       "price_history": [
         2.95
@@ -400,7 +366,7 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782324096",
       "category": "Cables Red",
       "price_history": [
         2.95
@@ -459,6 +425,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 34.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Samsung AI QLED 65\" TQ65Q7FAAUXXC UltraHD 4K Quantum HDR Tizen",
+      "url": "https://www.pccomponentes.com/samsung-ai-qled-65-tq65q7faauxxc-ultrahd-4k-quantum-hdr-tizen",
+      "store": "PcComponentes",
+      "current_price": 439.0,
+      "original_price": 997.73,
+      "discount_pct": 56.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877394/1924-samsung-ai-qled-65-tq65q7faauxxc-ultrahd-4k-quantum-hdr-tizen.jpg",
+      "category": null,
+      "price_history": [
+        439.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -530,23 +513,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smartwatch Ksixs Contact Istyle, IPS, GPS, Bluetooth  5.3, Negro",
-      "url": "https://www.carrefour.es/smartwatch-ksixs-contact-istyle-ips-gps-bluetooth-53-negro/VC4A-27978067/p",
-      "store": "Carrefour",
-      "current_price": 17.9,
-      "original_price": 39.0,
-      "discount_pct": 54.1,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/410498_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        17.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 17.9,
-      "drop_pct": null
-    },
-    {
       "name": "Philips QLED 55PUS7810 55\" 4K Quantum Dot Titan OS Dolby Atmos Alexa",
       "url": "https://www.pccomponentes.com/philips-qled-55pus7810-55-4k-quantum-dot-titan-os-dolby-atmos-alexa",
       "store": "PcComponentes",
@@ -581,6 +547,23 @@
       "drop_pct": null
     },
     {
+      "name": "Reloj inteligente Lemt de 2,8 pulgadas con pantalla grande, 4G y Android 7.1 Hengrongshen",
+      "url": "https://www.worten.es/productos/reloj-inteligente-lemt-de-2-8-pulgadas-con-pantalla-grande-4g-y-android-7-1-hengrongshen-mrkean-6162556675850",
+      "store": "Worten",
+      "current_price": 60.5,
+      "original_price": 125.56,
+      "discount_pct": 51.82,
+      "image_url": "https://www.worten.es/i/cbe8cf2982292a66ba86f3ff9c86d01e50b73142",
+      "category": null,
+      "price_history": [
+        60.5
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Proscenic P20 Onepass 80 Kpa 180 Aw 680 W 70 min de autonomía, cámara de 1,5 l, ajuste automático de potencia, aspira y frega todo en uno",
       "url": "https://www.worten.es/productos/proscenic-p20-onepass-80-kpa-180-aw-680-w-70-min-de-autonomia-camara-de-1-5-l-ajuste-automatico-de-potencia-aspira-y-frega-todo-en-uno-mrkean-6924843238045",
       "store": "Worten",
@@ -595,23 +578,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 135.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Super Mario Party: Jamboree para Switch",
-      "url": "https://www.carrefour.es/super-mario-party-jamboree-para-switch/VC4A-27774597/p",
-      "store": "Carrefour",
-      "current_price": 48.88,
-      "original_price": 99.99,
-      "discount_pct": 51.12,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/433812_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        48.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 48.88,
       "drop_pct": null
     },
     {
@@ -649,30 +615,13 @@
       "drop_pct": null
     },
     {
-      "name": "Final Fantasy VII Remake Intergrade para PS5",
-      "url": "https://www.carrefour.es/final-fantasy-vii-remake-intergrade-para-ps5/VC4A-14631310/p",
-      "store": "Carrefour",
-      "current_price": 19.9,
-      "original_price": 39.99,
-      "discount_pct": 50.24,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/702261_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        19.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 19.9,
-      "drop_pct": null
-    },
-    {
       "name": "Intenso Ultra Line USB 3.0 128GB Gris",
       "url": "https://www.coolmod.com/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris/",
       "store": "Coolmod",
       "current_price": 9.95,
       "original_price": 19.95,
       "discount_pct": 50.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782324096",
       "category": "Almacenamiento",
       "price_history": [
         9.95
@@ -714,57 +663,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 459.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch KSIX Urban Move, AmoLED, Gris",
-      "url": "https://www.carrefour.es/smartwatch-ksix-urban-move-amoled-gris/VC4A-31161657/p",
-      "store": "Carrefour",
-      "current_price": 24.9,
-      "original_price": 49.0,
-      "discount_pct": 49.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/635537_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        24.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 24.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch KSIX Urban Move, AmoLED, Azul",
-      "url": "https://www.carrefour.es/smartwatch-ksix-urban-move-amoled-azul/VC4A-31466129/p",
-      "store": "Carrefour",
-      "current_price": 24.9,
-      "original_price": 49.0,
-      "discount_pct": 49.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/635546_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        24.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 24.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch KSIX Urban Move, 22mm, AmoLED, Negro",
-      "url": "https://www.carrefour.es/smartwatch-ksix-urban-move-22mm-amoled-negro/VC4A-31192548/p",
-      "store": "Carrefour",
-      "current_price": 24.9,
-      "original_price": 49.0,
-      "discount_pct": 49.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/635536_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        24.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 24.9,
       "drop_pct": null
     },
     {
@@ -1029,7 +927,7 @@
       "current_price": 3.95,
       "original_price": 6.95,
       "discount_pct": 43.17,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000356_1.jpg?v=1782324096",
       "category": "Compuestos Térmicos",
       "price_history": [
         3.95
@@ -1037,6 +935,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 3.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Sérum Antimanchas LA ROCHE-POSAY Mela B3 (30 Ml)",
+      "url": "https://www.worten.es/productos/serum-antimanchas-la-roche-posay-mela-b3-30-ml-mrkean-8284037558518",
+      "store": "Worten",
+      "current_price": 25.99,
+      "original_price": 45.68,
+      "discount_pct": 43.1,
+      "image_url": "https://www.worten.es/i/8fd91d95f9e13730dc008a1b30d93f64a2c671f7",
+      "category": null,
+      "price_history": [
+        25.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1125,23 +1040,6 @@
       "drop_pct": null
     },
     {
-      "name": "Dragon Ball Sparking Zero para PS5",
-      "url": "https://www.carrefour.es/dragon-ball-sparking-zero-para-ps5/VC4A-27678004/p",
-      "store": "Carrefour",
-      "current_price": 39.9,
-      "original_price": 69.99,
-      "discount_pct": 42.99,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/407565_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        39.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 39.9,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor - Lenovo L24D-4C, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, FreeSync, Docking USB-C, Ajustable altura, Altavoces incorporados",
       "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l24d-4c-238-full-hd-144-hz-1-ms-ips-freesync-docking-usb-c-ajustable-altura-altavoces-incorporados-1624333.html",
       "store": "MediaMarkt",
@@ -1207,6 +1105,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 189.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Auriculares Inalámbricos JBL Wave Beam - Negro",
+      "url": "https://www.carrefour.es/auriculares-inalambricos-jbl-wave-beam-negro/VC4A-23248676/p",
+      "store": "Carrefour",
+      "current_price": 45.99,
+      "original_price": 79.99,
+      "discount_pct": 42.51,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/233574_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        41.99
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 41.99,
       "drop_pct": null
     },
     {
@@ -1318,7 +1233,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782324096",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95
@@ -1326,57 +1241,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 5.95,
-      "drop_pct": null
-    },
-    {
-      "name": "EA Sports FC 26 para PS5",
-      "url": "https://www.carrefour.es/ea-sports-fc-26-para-ps5/VC4A-31146931/p",
-      "store": "Carrefour",
-      "current_price": 29.9,
-      "original_price": 49.99,
-      "discount_pct": 40.19,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/641970_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        29.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 29.9,
-      "drop_pct": null
-    },
-    {
-      "name": "EA Sports FC 26 para PS4",
-      "url": "https://www.carrefour.es/ea-sports-fc-26-para-ps4/VC4A-31146906/p",
-      "store": "Carrefour",
-      "current_price": 29.9,
-      "original_price": 49.99,
-      "discount_pct": 40.19,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/641967_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        29.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 29.9,
-      "drop_pct": null
-    },
-    {
-      "name": "EA Sports FC 26 para Switch 2",
-      "url": "https://www.carrefour.es/ea-sports-fc-26-para-switch-2/VC4A-31146928/p",
-      "store": "Carrefour",
-      "current_price": 29.9,
-      "original_price": 49.99,
-      "discount_pct": 40.19,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/641969_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        29.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 29.9,
       "drop_pct": null
     },
     {
@@ -1471,7 +1335,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782324096",
       "category": "Simulación",
       "price_history": [
         149.95
@@ -1479,23 +1343,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 149.95,
-      "drop_pct": null
-    },
-    {
-      "name": "NERF Ultra Select (7,87 x 71,12 x 30,48 cm)",
-      "url": "https://www.worten.es/productos/nerf-ultra-select-7-87-x-71-12-x-30-48-cm-mrkean-5010993855285",
-      "store": "Worten",
-      "current_price": 17.99,
-      "original_price": 29.99,
-      "discount_pct": 40.01,
-      "image_url": "https://www.worten.es/i/c9e181e2e73218d1d7234df784f33808c40c68db",
-      "category": null,
-      "price_history": [
-        17.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 17.99,
       "drop_pct": null
     },
     {
@@ -1567,6 +1414,23 @@
       "drop_pct": null
     },
     {
+      "name": "Placa de Inducción Samsung NZ63M3707AK 7200 W 59 cm 3 Zonas de Cocción",
+      "url": "https://www.pccomponentes.com/placa-de-induccion-samsung-nz63m3707ak-7200-w-59-cm-3-zonas-de-coccion",
+      "store": "PcComponentes",
+      "current_price": 179.0,
+      "original_price": 298.33,
+      "discount_pct": 40.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11037058/1674-placa-de-induccion-samsung-nz63m3707ak-7200-w-59-cm-3-zonas-de-coccion.jpg",
+      "category": null,
+      "price_history": [
+        179.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
       "store": "MediaMarkt",
@@ -1598,23 +1462,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 379.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico Combi HISENSE RB390N4DWD (No Frost - 186 cm - 304 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb390n4dwd-no-frost-186-cm-304-l-blanco-7730342",
-      "store": "Worten",
-      "current_price": 469.99,
-      "original_price": 779.99,
-      "discount_pct": 39.74,
-      "image_url": "https://www.worten.es/i/df3442936243f0f5bd297fed43644133cc0a3224",
-      "category": null,
-      "price_history": [
-        469.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 469.99,
       "drop_pct": null
     },
     {
@@ -1669,23 +1516,6 @@
       "drop_pct": null
     },
     {
-      "name": "Auriculares de Botón Inalámbricos Soundcore Liberty 4 Pro Tws - Negro ",
-      "url": "https://www.carrefour.es/auriculares-de-boton-inalambricos-soundcore-liberty-4-pro-tws-negro/VC4A-31227449/p",
-      "store": "Carrefour",
-      "current_price": 109.0,
-      "original_price": 179.0,
-      "discount_pct": 39.11,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645176_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        109.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 109.0,
-      "drop_pct": null
-    },
-    {
       "name": "PcCom Elysium Monitor gaming 23.6\" VA FHD 180Hz Adaptive Sync Curva",
       "url": "https://www.pccomponentes.com/pccom-elysium-monitor-gaming-23-6-va-fhd-180hz-adaptive-sync-curva",
       "store": "PcComponentes",
@@ -1700,23 +1530,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 84.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Origial AirFeel 1750 Aire Acondicionado Portátil 1750 Frigorías",
-      "url": "https://www.pccomponentes.com/origial-airfeel-1750-aire-acondicionado-portatil-1750-frigorias",
-      "store": "PcComponentes",
-      "current_price": 174.99,
-      "original_price": 286.87,
-      "discount_pct": 39.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10641126/1597-origial-airfeel-1750-aire-acondicionado-portatil-1750-frigorias-comprar.jpg",
-      "category": null,
-      "price_history": [
-        174.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 174.99,
       "drop_pct": null
     },
     {
@@ -1822,57 +1635,6 @@
       "drop_pct": null
     },
     {
-      "name": "AMD Ryzen 5 7600 3.8/5.1 GHz Box",
-      "url": "https://www.pccomponentes.com/procesador-amd-ryzen-5-7600-3-8-5-1-ghz-box",
-      "store": "PcComponentes",
-      "current_price": 174.9,
-      "original_price": 282.1,
-      "discount_pct": 38.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1065/10656490/1718-amd-ryzen-5-7600-38-51-ghz-box.jpg",
-      "category": null,
-      "price_history": [
-        174.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 174.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Xiaomi Redmi Watch 5, GPS, Negro",
-      "url": "https://www.carrefour.es/smartwatch-xiaomi-redmi-watch-5-gps-negro/VC4A-29474259/p",
-      "store": "Carrefour",
-      "current_price": 69.0,
-      "original_price": 109.99,
-      "discount_pct": 37.27,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/535703_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        69.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 69.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Xiaomi Redmi Watch 5, GPS, Gris",
-      "url": "https://www.carrefour.es/smartwatch-xiaomi-redmi-watch-5-gps-gris/VC4A-29474258/p",
-      "store": "Carrefour",
-      "current_price": 69.0,
-      "original_price": 109.99,
-      "discount_pct": 37.27,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/535705_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        69.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 69.0,
-      "drop_pct": null
-    },
-    {
       "name": "HP OMEN 17-db1003ns AMD Ryzen AI 7 350 32GB DDR5 1TB SSD RTX 5060 8GB 17.3\"",
       "url": "https://www.pccomponentes.com/portatil-hp-omen-17-db1003ns-amd-ryzen-ai-7-350-32gb-ddr5-1tb-ssd-rtx-5060-8gb-17-3",
       "store": "PcComponentes",
@@ -1975,40 +1737,6 @@
       "drop_pct": null
     },
     {
-      "name": "Auriculares Botón Inalámbrico Soundcore P30I TWS - Negro",
-      "url": "https://www.carrefour.es/auriculares-boton-inalambrico-soundcore-p30i-tws-negro/VC4A-31227432/p",
-      "store": "Carrefour",
-      "current_price": 31.99,
-      "original_price": 49.99,
-      "discount_pct": 36.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645184_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        31.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 31.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora Multifunción HP Smart Tank 5106 AIO, Inyección de tinta térmica, Wifi, Color, 12ppm, Hasta 3 años de tinta incluida",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-smart-tank-5106-aio-inyeccion-de-tinta-termica-wifi-color-12ppm-hasta-3-anos-de-tinta-incluida/VC4A-22680579/p",
-      "store": "Carrefour",
-      "current_price": 159.9,
-      "original_price": 249.9,
-      "discount_pct": 36.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/190086_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        159.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 159.9,
-      "drop_pct": null
-    },
-    {
       "name": "Canon EOS R50 24.2MP WiFi + RF-S 18-45mm F4.5-6.3 IS STM",
       "url": "https://www.pccomponentes.com/canon-eos-r50-24-2mp-wifi-plus-rf-s-18-45mm-f4-5-6-3-is-stm",
       "store": "PcComponentes",
@@ -2077,40 +1805,6 @@
       "drop_pct": null
     },
     {
-      "name": "Donkey Kong Bananza para Switch 2",
-      "url": "https://www.carrefour.es/donkey-kong-bananza-para-switch-2/VC4A-30301755/p",
-      "store": "Carrefour",
-      "current_price": 63.99,
-      "original_price": 99.99,
-      "discount_pct": 36.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581427_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        63.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 63.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Super Mario Party Jamboree para Switch 2",
-      "url": "https://www.carrefour.es/super-mario-party-jamboree-para-switch-2/VC4A-30301815/p",
-      "store": "Carrefour",
-      "current_price": 63.99,
-      "original_price": 99.99,
-      "discount_pct": 36.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581484_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        63.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 63.99,
-      "drop_pct": null
-    },
-    {
       "name": "Origial Cool&Freeze Mini 46 White Frigorífico Mini E Blanco",
       "url": "https://www.pccomponentes.com/origial-coolfreeze-mini-46-white-frigorifico-mini-e-blanco",
       "store": "PcComponentes",
@@ -2151,7 +1845,7 @@
       "current_price": 128.95,
       "original_price": 199.95,
       "discount_pct": 35.51,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782324096",
       "category": "Monitores",
       "price_history": [
         128.95
@@ -2159,23 +1853,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 128.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Pulsera de actividad Xiaomi 9, ritmo cardiaco, GPS, Plata, Única",
-      "url": "https://www.carrefour.es/pulsera-de-actividad-xiaomi-9-ritmo-cardiaco-gps-plata-unica/VC4A-29900974/p",
-      "store": "Carrefour",
-      "current_price": 25.9,
-      "original_price": 39.99,
-      "discount_pct": 35.23,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/557189_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        25.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 25.9,
       "drop_pct": null
     },
     {
@@ -2202,7 +1879,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782324096",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95
@@ -2332,20 +2009,20 @@
       "drop_pct": null
     },
     {
-      "name": "Mando Inalámbrico Hori Super Mario para Nintendo Switch",
-      "url": "https://www.carrefour.es/mando-inalambrico-hori-super-mario-para-nintendo-switch/VC4A-13319283/p",
-      "store": "Carrefour",
-      "current_price": 39.18,
-      "original_price": 59.99,
-      "discount_pct": 34.69,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/631955_00_1.jpg",
-      "category": "Gaming",
+      "name": "Tablet - Honor Pad 10, 12.1\" DCI 2K, 8GB RAM, 256GB, FullView TFT LCD (IPS), 120 Hz, Qualcomm® Snapdragon® 7 Gen 3, Android 15, Gris espacial",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-10-121-dci-2k-8gb-ram-256gb-fullview-tft-lcd-ips-120-hz-qualcommr-snapdragonr-7-gen-3-android-15-gris-espacial-1602942.html",
+      "store": "MediaMarkt",
+      "current_price": 229.0,
+      "original_price": 349.0,
+      "discount_pct": 34.38,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265229",
+      "category": null,
       "price_history": [
-        38.91
+        229.0
       ],
       "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 39.18,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2417,6 +2094,23 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet Acer Iconia Tab V11 WiFi 11\" 6GB 256GB Champagne con Funda",
+      "url": "https://www.pccomponentes.com/tablet-acer-iconia-tab-v11-wifi-11-6gb-256gb-champagne-con-funda",
+      "store": "PcComponentes",
+      "current_price": 149.0,
+      "original_price": 225.76,
+      "discount_pct": 34.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890632/194-tablet-acer-iconia-tab-v11-wifi-11-6gb-256gb-champagne-con-funda.jpg",
+      "category": null,
+      "price_history": [
+        149.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Lenovo Idea Tab Pro, 12.7\" 3K, 8GB RAM, 256GB, MediaTek Dimensity 8300, Android, Gris, Incluye lápiz digital",
       "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-pro-127-3k-8gb-ram-256gb-mediatek-dimensity-8300-android-gris-incluye-lapiz-digital-1592313.html",
       "store": "MediaMarkt",
@@ -2457,7 +2151,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782324096",
       "category": "Compuestos Térmicos",
       "price_history": [
         9.95
@@ -2502,23 +2196,6 @@
       "drop_pct": null
     },
     {
-      "name": "Leyendas Pokemon: Z-A para Switch",
-      "url": "https://www.carrefour.es/leyendas-pokemon-z-a-para-switch/VC4A-30005840/p",
-      "store": "Carrefour",
-      "current_price": 49.97,
-      "original_price": 75.0,
-      "discount_pct": 33.37,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/566267_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.97
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.97,
-      "drop_pct": null
-    },
-    {
       "name": "Kit De 4 Lentes Ojo De Pez Multifuncionales Para Teléfonos Móviles",
       "url": "https://www.worten.es/productos/kit-de-4-lentes-ojo-de-pez-multifuncionales-para-telefonos-moviles-mrkean-6405170383429",
       "store": "Worten",
@@ -2550,23 +2227,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 39.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Pokemon Pokopia  para Nintendo Switch 2",
-      "url": "https://www.carrefour.es/pokemon-pokopia-para-nintendo-switch-2/VC4A-32057275/p",
-      "store": "Carrefour",
-      "current_price": 66.66,
-      "original_price": 99.99,
-      "discount_pct": 33.33,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/675206_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        66.66
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 66.66,
       "drop_pct": null
     },
     {
@@ -2757,23 +2417,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tekken 8 Launch Edition para PS5",
-      "url": "https://www.carrefour.es/tekken-8-launch-edition-para-ps5/VC4A-24170040/p",
-      "store": "Carrefour",
-      "current_price": 26.9,
-      "original_price": 39.99,
-      "discount_pct": 32.73,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/134357_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        26.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 26.9,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor Acer EK221QH, Full HD LED, 21,5\" - 54,61 cm, 5ms 75Hz FreeSync ZeroFrame",
       "url": "https://www.carrefour.es/monitor-acer-ek221qh-full-hd-led-215-5461-cm-5ms-75hz-freesync-zeroframe/VC4A-22818085/p",
       "store": "Carrefour",
@@ -2788,23 +2431,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 59.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Deportivos con Bluetooth JBL Tune Flex 1 TWS - Negro",
-      "url": "https://www.carrefour.es/auriculares-deportivos-con-bluetooth-jbl-tune-flex-1-tws-negro/VC4A-22676251/p",
-      "store": "Carrefour",
-      "current_price": 59.98,
-      "original_price": 89.0,
-      "discount_pct": 32.61,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/198156_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        59.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 59.98,
       "drop_pct": null
     },
     {
@@ -2933,7 +2559,7 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782324096",
       "category": "Compuestos Térmicos",
       "price_history": [
         14.95
@@ -3080,23 +2706,6 @@
       "drop_pct": null
     },
     {
-      "name": "Ordenador Portátil 2 en 1 Asus Chromebook CM14 Flip CL1402FM2A-EC0192, MediaTek Kompanio 520, 8GB, 128GB, eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
-      "url": "https://www.carrefour.es/ordenador-portatil-2-en-1-asus-chromebook-cm14-flip-cl1402fm2a-ec0192-mediatek-kompanio-520-8gb-128gb-emmc-fhd-14-3556-cm-chromeos/VC4A-31091605/p",
-      "store": "Carrefour",
-      "current_price": 381.65,
-      "original_price": 549.0,
-      "discount_pct": 30.48,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/629273_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        381.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 381.65,
-      "drop_pct": null
-    },
-    {
       "name": "Cargador Portátil Para Vehículos Eléctricos De 3,5 Kw – 16 A – Cable De 8 Metros, Control Por Aplicación, Ip65",
       "url": "https://www.worten.es/productos/cargador-portatil-para-vehiculos-electricos-de-3-5-kw-16-a-cable-de-8-metros-control-por-aplicacion-ip65-mrkean-8901706094091",
       "store": "Worten",
@@ -3111,23 +2720,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 135.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Nevera POLARBOX Classic (12L - Azul Marino)",
-      "url": "https://www.worten.es/productos/nevera-polarbox-classic-12l-azul-marino-8383914",
-      "store": "Worten",
-      "current_price": 22.99,
-      "original_price": 32.95,
-      "discount_pct": 30.23,
-      "image_url": "https://www.worten.es/i/f8c9abdfab8446a2f2c19f6c9cc48e01fb0b7122",
-      "category": null,
-      "price_history": [
-        22.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 22.99,
       "drop_pct": null
     },
     {
@@ -3162,23 +2754,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1049.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Inalámbricos JBL Wave Beam - Negro",
-      "url": "https://www.carrefour.es/auriculares-inalambricos-jbl-wave-beam-negro/VC4A-23248676/p",
-      "store": "Carrefour",
-      "current_price": 41.99,
-      "original_price": 59.99,
-      "discount_pct": 30.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/233574_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        41.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 41.99,
       "drop_pct": null
     },
     {
@@ -3315,40 +2890,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 139.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Oppo A80 5G 256GB + 8GB RAM - Morado",
-      "url": "https://www.carrefour.es/movil-oppo-a80-5g-256gb-8gb-ram-morado/VC4A-28637227/p",
-      "store": "Carrefour",
-      "current_price": 209.99,
-      "original_price": 299.99,
-      "discount_pct": 30.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/506680_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        209.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 209.99,
-      "drop_pct": null
-    },
-    {
-      "name": "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC 8GB GDDR7 Reflex 2 RTX AI DLSS4",
-      "url": "https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
-      "store": "PcComponentes",
-      "current_price": 329.0,
-      "original_price": 470.0,
-      "discount_pct": 30.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10875526/1210-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
-      "category": null,
-      "price_history": [
-        329.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 329.0,
       "drop_pct": null
     },
     {
@@ -3607,23 +3148,6 @@
       "drop_pct": null
     },
     {
-      "name": "Logitech Tap Para MeetUp USB Grafito",
-      "url": "https://www.coolmod.com/logitech-tap-para-meetup-usb-grafito/",
-      "store": "Coolmod",
-      "current_price": 699.95,
-      "original_price": 979.95,
-      "discount_pct": 28.57,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1782317522",
-      "category": "Pantallas Digitales",
-      "price_history": [
-        699.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "TV Hisense 50\" (127 cm), 50U7Q  MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
       "url": "https://www.carrefour.es/tv-hisense-50-127-cm-50u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709925/p",
       "store": "Carrefour",
@@ -3749,7 +3273,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782324096",
       "category": "Ventiladores",
       "price_history": [
         20.95
@@ -3930,54 +3454,20 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora Multifunción HP Envy 6530E, Inyección de Tinta Térmica, Wifi, Color, Hasta 10 ppm, 6 Meses Instant Ink con HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-envy-6530e-inyeccion-de-tinta-termica-wifi-color-hasta-10-ppm-6-meses-instant-ink-con-hp/VC4A-29604372/p",
+      "name": "Consola Nintendo Switch 2 256 GB",
+      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
       "store": "Carrefour",
-      "current_price": 79.9,
-      "original_price": 109.0,
-      "discount_pct": 26.7,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/537677_00_1.jpg",
-      "category": "Componentes",
+      "current_price": 440.0,
+      "original_price": 600.0,
+      "discount_pct": 26.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
+      "category": "Gaming",
       "price_history": [
-        79.9
+        440.0
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Samsung Galaxy Fit 3, 256 Gb, Bluetooth 5.3, Negro",
-      "url": "https://www.carrefour.es/smartwatch-samsung-galaxy-fit-3-256-gb-bluetooth-53-negro/VC4A-33625707/p",
-      "store": "Carrefour",
-      "current_price": 47.0,
-      "original_price": 64.0,
-      "discount_pct": 26.56,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/542570_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        47.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 47.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Samsung Galaxy Fit 3, 256 Gb, Bluetooth 5.3, Rosa",
-      "url": "https://www.carrefour.es/smartwatch-samsung-galaxy-fit-3-256-gb-bluetooth-53-rosa/VC4A-33328816/p",
-      "store": "Carrefour",
-      "current_price": 47.0,
-      "original_price": 64.0,
-      "discount_pct": 26.56,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/542568_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        47.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 47.0,
+      "prev_price": 440.0,
       "drop_pct": null
     },
     {
@@ -4049,23 +3539,6 @@
       "drop_pct": null
     },
     {
-      "name": "Router Tp-Link Mercusys MT115 4G LTE - Blanco",
-      "url": "https://www.carrefour.es/router-tp-link-mercusys-mt115-4g-lte-blanco/VC4A-33375938/p",
-      "store": "Carrefour",
-      "current_price": 37.0,
-      "original_price": 49.99,
-      "discount_pct": 25.99,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/711859_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        37.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 37.0,
-      "drop_pct": null
-    },
-    {
       "name": "Smartphone SAMSUNG Galaxy A57 5G (6.7” - 8 GB - 256 GB - Gris)",
       "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-a57-5g-6-7-8-gb-256-gb-gris-8790760",
       "store": "Worten",
@@ -4083,20 +3556,20 @@
       "drop_pct": null
     },
     {
-      "name": "Dragon Ball Fighterz para PS5",
-      "url": "https://www.carrefour.es/dragon-ball-fighterz-para-ps5/VC4A-26623642/p",
-      "store": "Carrefour",
-      "current_price": 14.9,
-      "original_price": 19.99,
-      "discount_pct": 25.46,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/361895_00_1.jpg",
-      "category": "Gaming",
+      "name": "Startech Conversor DVI-I a VGA - Adaptador",
+      "url": "https://www.coolmod.com/startech-conversor-dvi-i-a-vga-dvi-i-macho-hd15-hembra-negro-adaptador/",
+      "store": "Coolmod",
+      "current_price": 2.95,
+      "original_price": 3.95,
+      "discount_pct": 25.32,
+      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1782324096",
+      "category": "Cables Vídeo",
       "price_history": [
-        14.9
+        2.95
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 14.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4117,23 +3590,6 @@
       "drop_pct": null
     },
     {
-      "name": "EA Sports FC 26 para Switch",
-      "url": "https://www.carrefour.es/ea-sports-fc-26-para-switch/VC4A-31146940/p",
-      "store": "Carrefour",
-      "current_price": 29.9,
-      "original_price": 39.99,
-      "discount_pct": 25.23,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/641974_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        29.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 29.9,
-      "drop_pct": null
-    },
-    {
       "name": "Tablet - Xiaomi Redmi Pad SE 8.7, 8.7\" WXGA+, 4 GB RAM, 128 GB, Gris",
       "url": "https://www.mediamarkt.es/es/product/_redmi-pad-se-87p4ram128gbgraphite-gray-1620874.html",
       "store": "MediaMarkt",
@@ -4148,23 +3604,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 119.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando Inalámbrico PowerA Advantage NSGP0545 para Switch y Switch2 - Negro",
-      "url": "https://www.carrefour.es/mando-inalambrico-powera-advantage-nsgp0545-para-switch-y-switch2-negro/VC4A-31955693/p",
-      "store": "Carrefour",
-      "current_price": 44.9,
-      "original_price": 59.99,
-      "discount_pct": 25.15,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/670126_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        44.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 44.9,
       "drop_pct": null
     },
     {
@@ -4199,23 +3638,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 299.0,
-      "drop_pct": null
-    },
-    {
-      "name": "D-Link GO-SW-5G 5 Puertos 10/100/1000Mbps G",
-      "url": "https://www.coolmod.com/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch/",
-      "store": "Coolmod",
-      "current_price": 14.95,
-      "original_price": 19.95,
-      "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782315682",
-      "category": "Hubs/Switchs",
-      "price_history": [
-        14.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 14.95,
       "drop_pct": null
     },
     {
@@ -4259,7 +3681,7 @@
       "current_price": 29.95,
       "original_price": 39.95,
       "discount_pct": 25.03,
-      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/teclado-logitech-k270-inalambrico-001.jpg?v=1782324096",
       "category": "Teclados",
       "price_history": [
         29.95
@@ -4559,23 +3981,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tablet Xiaomi Redmi PAD2 PRO, Snapdragon® 7s Gen 4, 6 Gb Ram, 128 Gb, HyperOS 2 basado en Android 15, Gris",
-      "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad2-pro-snapdragon-7s-gen-4-6-gb-ram-128-gb-hyperos-2-basado-en-android-15-gris/VC4A-32026724/p",
-      "store": "Carrefour",
-      "current_price": 227.9,
-      "original_price": 299.99,
-      "discount_pct": 24.03,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/674497_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        227.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 227.9,
-      "drop_pct": null
-    },
-    {
       "name": "MSI MAG 274QF X24 27\" LED Rapid IPS QHD 240Hz 0.5ms Adaptive Sync",
       "url": "https://www.pccomponentes.com/monitor-msi-mag-274qf-x24-27-led-rapid-ips-qhd-240hz-0-5ms-adaptive-sync",
       "store": "PcComponentes",
@@ -4627,23 +4032,6 @@
       "drop_pct": null
     },
     {
-      "name": "PcCom Imperial AMD Ryzen 7 7800X3D / 32GB / 2TB SSD / RTX 5070 V3",
-      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v3",
-      "store": "PcComponentes",
-      "current_price": 2199.0,
-      "original_price": 2893.42,
-      "discount_pct": 24.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11015103/1202-pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v3-comprar.jpg",
-      "category": null,
-      "price_history": [
-        2199.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 2199.0,
-      "drop_pct": null
-    },
-    {
       "name": "Owlotech Teralis Altavoces 2.0 Bluetooth 5.4 TWS 16W Negros",
       "url": "https://www.pccomponentes.com/owlotech-teralis-altavoces-2-0-bluetooth-5-4-tws-16w-negros",
       "store": "PcComponentes",
@@ -4675,40 +4063,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 99.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando PowerA con Cable para Nintendo Switch 2 -  Negro",
-      "url": "https://www.carrefour.es/mando-powera-con-cable-para-nintendo-switch-2-negro/VC4A-31177226/p",
-      "store": "Carrefour",
-      "current_price": 22.9,
-      "original_price": 29.99,
-      "discount_pct": 23.64,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/607589_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        22.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 22.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando PowerA con Cable para Nintendo Switch 2 Mario Time",
-      "url": "https://www.carrefour.es/mando-powera-con-cable-para-nintendo-switch-2-mario-time/VC4A-31177264/p",
-      "store": "Carrefour",
-      "current_price": 22.9,
-      "original_price": 29.99,
-      "discount_pct": 23.64,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/607588_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        22.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 22.9,
       "drop_pct": null
     },
     {
@@ -4752,7 +4106,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782324096",
       "category": "Repetidores",
       "price_history": [
         22.95
@@ -4769,7 +4123,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782324096",
       "category": "Hubs",
       "price_history": [
         22.95
@@ -4777,74 +4131,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 22.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Teclado y Ratón Gaming Trust GXT798",
-      "url": "https://www.carrefour.es/teclado-y-raton-gaming-trust-gxt798/VC4A-29316321/p",
-      "store": "Carrefour",
-      "current_price": 23.0,
-      "original_price": 29.99,
-      "discount_pct": 23.31,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/530787_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        23.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 23.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Animal Crossing New Horizons para Switch 2",
-      "url": "https://www.carrefour.es/animal-crossing-new-horizons-para-switch-2/VC4A-32004736/p",
-      "store": "Carrefour",
-      "current_price": 49.9,
-      "original_price": 64.99,
-      "discount_pct": 23.22,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/672684_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara de Seguridad TP-LINK Tapo C260 - Blanco",
-      "url": "https://www.carrefour.es/camara-de-seguridad-tp-link-tapo-c260-blanco/VC4A-33876625/p",
-      "store": "Carrefour",
-      "current_price": 49.9,
-      "original_price": 64.99,
-      "discount_pct": 23.22,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/701852_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        49.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Elden Ring para PS5",
-      "url": "https://www.carrefour.es/elden-ring-para-ps5/VC4A-16989315/p",
-      "store": "Carrefour",
-      "current_price": 26.9,
-      "original_price": 34.99,
-      "discount_pct": 23.12,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/722250_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        26.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 26.9,
       "drop_pct": null
     },
     {
@@ -5032,23 +4318,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 26.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
-      "store": "Carrefour",
-      "current_price": 1168.99,
-      "original_price": 1506.25,
-      "discount_pct": 22.39,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1168.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1168.99,
       "drop_pct": null
     },
     {
@@ -5324,108 +4593,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Azul oscuro",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-azul-oscuro/VC4A-31502783/p",
-      "store": "Carrefour",
-      "current_price": 1174.99,
-      "original_price": 1506.25,
-      "discount_pct": 21.99,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658672_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1174.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1174.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 256GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Plata",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-256gb-69-pantalla-super-retina-xdr-chip-a19-pro-plata/VC4A-31500594/p",
-      "store": "Carrefour",
-      "current_price": 1285.87,
-      "original_price": 1647.5,
-      "discount_pct": 21.95,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658686_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1285.87
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1285.87,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 256GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Azul oscuro",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-256gb-69-pantalla-super-retina-xdr-chip-a19-pro-azul-oscuro/VC4A-31500638/p",
-      "store": "Carrefour",
-      "current_price": 1285.87,
-      "original_price": 1647.5,
-      "discount_pct": 21.95,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658683_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1285.87
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1285.87,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 256GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-256gb-69-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31500642/p",
-      "store": "Carrefour",
-      "current_price": 1285.87,
-      "original_price": 1647.5,
-      "discount_pct": 21.95,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658693_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1285.87
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1285.87,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Plata",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-plata/VC4A-31500042/p",
-      "store": "Carrefour",
-      "current_price": 1175.99,
-      "original_price": 1506.25,
-      "discount_pct": 21.93,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658633_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1175.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1175.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Blanco",
-      "url": "https://www.carrefour.es/apple-iphone-16e-128-gb-61-pantalla-super-retina-xdr-chip-a18-blanco/VC4A-29931407/p",
-      "store": "Carrefour",
-      "current_price": 547.79,
-      "original_price": 699.99,
-      "discount_pct": 21.74,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/562696_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        547.79
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 547.79,
-      "drop_pct": null
-    },
-    {
       "name": "Cepillo de Dientes Eléctrico ORAL B iO 6 S Negro",
       "url": "https://www.worten.es/productos/cepillo-de-dientes-electrico-oral-b-io-6-s-negro-7619173",
       "store": "Worten",
@@ -5443,23 +4610,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 16e, 128 GB, 6.1\" Pantalla Super Retina XDR, Chip A18 - Negro",
-      "url": "https://www.carrefour.es/apple-iphone-16e-128-gb-61-pantalla-super-retina-xdr-chip-a18-negro/VC4A-29931401/p",
-      "store": "Carrefour",
-      "current_price": 548.49,
-      "original_price": 699.99,
-      "discount_pct": 21.64,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/562699_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        548.49
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 548.49,
-      "drop_pct": null
-    },
-    {
       "name": "Apple iPhone 15 128GB 5G - Negro",
       "url": "https://www.carrefour.es/apple-iphone-15-128gb-5g-negro/VC4A-24304250/p",
       "store": "Carrefour",
@@ -5467,23 +4617,6 @@
       "original_price": 749.99,
       "discount_pct": 21.48,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/179830_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        588.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 588.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 15 128GB 5G - Azul",
-      "url": "https://www.carrefour.es/apple-iphone-15-128gb-5g-azul/VC4A-24296622/p",
-      "store": "Carrefour",
-      "current_price": 588.88,
-      "original_price": 749.99,
-      "discount_pct": 21.48,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/179750_00_1.jpg",
       "category": "Móviles",
       "price_history": [
         588.88
@@ -5511,57 +4644,6 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora Multifunción HP Envy 6130E, Inyección de Tinta Térmica, Wifi, Color, Hasta 10 ppm, 6 Meses Instant Ink con HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-envy-6130e-inyeccion-de-tinta-termica-wifi-color-hasta-10-ppm-6-meses-instant-ink-con-hp/VC4A-29604371/p",
-      "store": "Carrefour",
-      "current_price": 69.9,
-      "original_price": 89.0,
-      "discount_pct": 21.46,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/537720_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        69.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 69.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor Acer EK241YHBI, FHD, LED, 23,8\" - 60,45 cm, 1 milisegundos, 1 HDMI",
-      "url": "https://www.carrefour.es/monitor-acer-ek241yhbi-fhd-led-238-6045-cm-1-milisegundos-1-hdmi/VC4A-26135236/p",
-      "store": "Carrefour",
-      "current_price": 69.9,
-      "original_price": 89.0,
-      "discount_pct": 21.46,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/187997_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        69.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 69.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola Nintendo Switch 2 256GB con Mario Kart World (digital)",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256gb-con-mario-kart-world-digital/VC4A-30300769/p",
-      "store": "Carrefour",
-      "current_price": 550.0,
-      "original_price": 700.0,
-      "discount_pct": 21.43,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581462_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        550.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 550.0,
-      "drop_pct": null
-    },
-    {
       "name": "APPLE Watch Series 11 GPS 46 mm Gris Espacial Aluminio con Correa Deportiva Negro (Tamaño M/L)",
       "url": "https://www.worten.es/productos/apple-watch-series-11-gps-46-mm-gris-espacial-aluminio-con-correa-deportiva-negro-tamano-m-l-8600399",
       "store": "Worten",
@@ -5576,6 +4658,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 369.99,
+      "drop_pct": null
+    },
+    {
+      "name": "APPLE Watch Series 11 GPS 46 mm Oro Rosa Aluminio con Correa Deportiva Rosa (Tamaño M/L)",
+      "url": "https://www.worten.es/productos/apple-watch-series-11-gps-46-mm-oro-rosa-aluminio-con-correa-deportiva-rosa-tamano-m-l-8600411",
+      "store": "Worten",
+      "current_price": 369.99,
+      "original_price": 469.0,
+      "discount_pct": 21.11,
+      "image_url": "https://www.worten.es/i/e3936970ad201d5868c35bbb7ef6d091624cacea",
+      "category": null,
+      "price_history": [
+        369.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5749,6 +4848,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smartphone GOOGLE Pixel 9 Pro (6.3'' - 16 GB- 256 GB - Hazel)",
+      "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-6-3-16-gb-256-gb-hazel-8119765",
+      "store": "Worten",
+      "current_price": 633.88,
+      "original_price": 799.0,
+      "discount_pct": 20.67,
+      "image_url": "https://www.worten.es/i/e025f2ada459912502b7faa69df29384b542a3d9",
+      "category": null,
+      "price_history": [
+        633.88
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet Lenovo Tab MediaTek Helio G85, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 14",
       "url": "https://www.carrefour.es/tablet-lenovo-tab-mediatek-helio-g85-4gb-ram-128gb-101-2565-cm-android-14/VC4A-31657424/p",
       "store": "Carrefour",
@@ -5763,6 +4879,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 139.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone GOOGLE Pixel 9 Pro (6.3'' - 16 GB - 256 GB - Obsidian)",
+      "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-6-3-16-gb-256-gb-obsidian-8119763",
+      "store": "Worten",
+      "current_price": 634.88,
+      "original_price": 799.0,
+      "discount_pct": 20.54,
+      "image_url": "https://www.worten.es/i/5bd72ce035a25fd71e1aa91bdaf4bfd68c83d327",
+      "category": null,
+      "price_history": [
+        634.88
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5783,23 +4916,6 @@
       "drop_pct": null
     },
     {
-      "name": "Final Fantasy VII Remake Intergrade para Switch 2",
-      "url": "https://www.carrefour.es/final-fantasy-vii-remake-intergrade-para-switch-2/VC4A-31827053/p",
-      "store": "Carrefour",
-      "current_price": 39.9,
-      "original_price": 49.99,
-      "discount_pct": 20.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/667228_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        39.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 39.9,
-      "drop_pct": null
-    },
-    {
       "name": "Tablet - Xiaomi REDMI Pad 2, HyperOS, 9.7\" 2K Crystal Clear, 4GB RAM, 64GB, Gran Batería de 7600 mAh, Graphite Gray",
       "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-hyperos-97-2k-crystal-clear-4gb-ram-64gb-gran-bateria-de-7600-mah-graphite-gray-1628498.html",
       "store": "MediaMarkt",
@@ -5817,23 +4933,6 @@
       "drop_pct": null
     },
     {
-      "name": "Móvil Oppo A5 Pro 5G 256GB + 8GB RAM - Verde",
-      "url": "https://www.carrefour.es/movil-oppo-a5-pro-5g-256gb-8gb-ram-verde/VC4A-30722269/p",
-      "store": "Carrefour",
-      "current_price": 199.0,
-      "original_price": 249.0,
-      "discount_pct": 20.08,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587425_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        199.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 199.0,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung Galaxy A36 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/samsung-galaxy-a36-5g-256gb-8gb-ram-negro/VC4A-29956579/p",
       "store": "Carrefour",
@@ -5841,23 +4940,6 @@
       "original_price": 449.0,
       "discount_pct": 20.04,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561637_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        359.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 359.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A36 5G 256GB + 8GB RAM - Lavanda",
-      "url": "https://www.carrefour.es/samsung-galaxy-a36-5g-256gb-8gb-ram-lavanda/VC4A-29955468/p",
-      "store": "Carrefour",
-      "current_price": 359.0,
-      "original_price": 449.0,
-      "discount_pct": 20.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561528_00_1.jpg",
       "category": "Móviles",
       "price_history": [
         359.0
@@ -5908,7 +4990,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000393_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-000393_1.jpg?v=1782324096",
       "category": "Altavoces",
       "price_history": [
         39.95
@@ -5925,7 +5007,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782324096",
       "category": "Sais",
       "price_history": [
         39.95
@@ -5950,23 +5032,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 27.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora HP Smart Tank 6006, Inyección de tinta térmica, Wifi, Blanco, Negro y Color, 20 ppm, Hasta 3 años de tinta incluida ",
-      "url": "https://www.carrefour.es/impresora-hp-smart-tank-6006-inyeccion-de-tinta-termica-wifi-blanco-negro-y-color-20-ppm-hasta-3-anos-de-tinta-incluida/VC4A-33007361/p",
-      "store": "Carrefour",
-      "current_price": 199.9,
-      "original_price": 249.9,
-      "discount_pct": 20.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700228_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        199.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 199.9,
       "drop_pct": null
     },
     {
@@ -6157,108 +5222,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 16 128GB 5G - Blanco",
-      "url": "https://www.carrefour.es/apple-iphone-16-128gb-5g-blanco/VC4A-28491754/p",
-      "store": "Carrefour",
-      "current_price": 662.88,
-      "original_price": 828.6,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/499458_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        662.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 662.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 128GB 5G - Rosa",
-      "url": "https://www.carrefour.es/apple-iphone-16-128gb-5g-rosa/VC4A-28491744/p",
-      "store": "Carrefour",
-      "current_price": 662.88,
-      "original_price": 828.6,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/499460_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        662.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 662.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 128GB 5G - Negro",
-      "url": "https://www.carrefour.es/apple-iphone-16-128gb-5g-negro/VC4A-28490767/p",
-      "store": "Carrefour",
-      "current_price": 662.88,
-      "original_price": 828.6,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/499457_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        662.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 662.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 128GB 5G - Verde Azulado",
-      "url": "https://www.carrefour.es/apple-iphone-16-128gb-5g-verde-azulado/VC4A-28490764/p",
-      "store": "Carrefour",
-      "current_price": 662.88,
-      "original_price": 828.6,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/499464_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        662.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 662.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 128GB 5G - Azul Ultramar",
-      "url": "https://www.carrefour.es/apple-iphone-16-128gb-5g-azul-ultramar/VC4A-28490760/p",
-      "store": "Carrefour",
-      "current_price": 662.88,
-      "original_price": 828.6,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/499459_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        662.88
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 662.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Mario Kart World para Switch 2",
-      "url": "https://www.carrefour.es/mario-kart-world-para-switch-2/VC4A-30301707/p",
-      "store": "Carrefour",
-      "current_price": 79.99,
-      "original_price": 99.99,
-      "discount_pct": 20.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581340_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        79.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 79.99,
-      "drop_pct": null
-    },
-    {
       "name": "GAME GT1 Negro-Verde - Silla Gaming",
       "url": "https://www.game.es/accesorios/silla/pc-gaming/game-gt1-negro-verde-silla-gaming/220182",
       "store": "GAME",
@@ -6324,23 +5287,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 79.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico 2 puertas KUBO KBDD8358 (Estático - 143 cm - 206 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-2-puertas-kubo-kbdd8358-estatico-143-cm-206-l-blanco-7610054",
-      "store": "Worten",
-      "current_price": 199.99,
-      "original_price": 249.99,
-      "discount_pct": 20.0,
-      "image_url": "https://www.worten.es/i/bd9f03aeafcb205983bad37276e3ad8bd0b2584f",
-      "category": null,
-      "price_history": [
-        199.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 199.99,
       "drop_pct": null
     },
     {
@@ -6463,40 +5409,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Negro",
-      "url": "https://www.carrefour.es/apple-iphone-17-256-gb-63-pantalla-super-retina-xdr-chip-a19-negro/VC4A-31500615/p",
-      "store": "Carrefour",
-      "current_price": 828.87,
-      "original_price": 1023.6,
-      "discount_pct": 19.02,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658719_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        828.87
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 828.87,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Verde salvia",
-      "url": "https://www.carrefour.es/apple-iphone-17-256-gb-63-pantalla-super-retina-xdr-chip-a19-verde-salvia/VC4A-31500626/p",
-      "store": "Carrefour",
-      "current_price": 828.87,
-      "original_price": 1023.6,
-      "discount_pct": 19.02,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658721_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        828.87
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 828.87,
-      "drop_pct": null
-    },
-    {
       "name": "Origial ORIFREEZE60LWE Congelador Vertical 60L E Blanco",
       "url": "https://www.pccomponentes.com/origial-orifreeze60lwe-congelador-vertical-60l-e-blanco",
       "store": "PcComponentes",
@@ -6545,108 +5457,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 100.95,
-      "drop_pct": null
-    },
-    {
-      "name": "The Legend of Zelda: Breath of the Wild para Switch 2",
-      "url": "https://www.carrefour.es/the-legend-of-zelda-breath-of-the-wild-para-switch-2/VC4A-30301879/p",
-      "store": "Carrefour",
-      "current_price": 64.9,
-      "original_price": 79.99,
-      "discount_pct": 18.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581474_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        64.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 64.9,
-      "drop_pct": null
-    },
-    {
-      "name": "The Legend of Zelda: Tears of the Kingdom para Switch 2",
-      "url": "https://www.carrefour.es/the-legend-of-zelda-tears-of-the-kingdom-para-switch-2/VC4A-30305687/p",
-      "store": "Carrefour",
-      "current_price": 64.9,
-      "original_price": 79.99,
-      "discount_pct": 18.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581347_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        64.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 64.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Mario Tennis Fever para Switch 2",
-      "url": "https://www.carrefour.es/mario-tennis-fever-para-switch-2/VC4A-31558110/p",
-      "store": "Carrefour",
-      "current_price": 64.9,
-      "original_price": 79.99,
-      "discount_pct": 18.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/660270_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        64.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 64.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Kirby y la Tierra Olvidada para Switch 2",
-      "url": "https://www.carrefour.es/kirby-y-la-tierra-olvidada-para-switch-2/VC4A-30301710/p",
-      "store": "Carrefour",
-      "current_price": 64.9,
-      "original_price": 79.99,
-      "discount_pct": 18.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581382_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        64.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 64.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola Nintendo Switch OLED Neón",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-oled-neon/VC4A-15056612/p",
-      "store": "Carrefour",
-      "current_price": 323.99,
-      "original_price": 399.0,
-      "discount_pct": 18.8,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/319011_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        323.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 323.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola Xbox Series S 512GB, Blanco ",
-      "url": "https://www.carrefour.es/consola-xbox-series-s-512gb-blanco/VC4A-12014297/p",
-      "store": "Carrefour",
-      "current_price": 406.04,
-      "original_price": 499.99,
-      "discount_pct": 18.79,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/579829_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        402.26
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 406.04,
       "drop_pct": null
     },
     {
@@ -6769,6 +5579,23 @@
       "drop_pct": null
     },
     {
+      "name": "TP-Link TL-MR100 Router Wi-Fi N 4G LTE",
+      "url": "https://www.pccomponentes.com/tp-link-tl-mr100-router-wi-fi-n-4g-lte",
+      "store": "PcComponentes",
+      "current_price": 44.99,
+      "original_price": 54.87,
+      "discount_pct": 18.01,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/31/315245/128-tp-link-tl-mr100-router-wi-fi-n-4g-lte.jpg",
+      "category": null,
+      "price_history": [
+        44.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Owlotech   Silla Escritorio Ergonómica Negra",
       "url": "https://www.pccomponentes.com/owlotech-silla-escritorio-ergonomica-negra",
       "store": "PcComponentes",
@@ -6793,23 +5620,6 @@
       "original_price": 389.0,
       "discount_pct": 17.99,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/556113_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        319.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 319.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A26 5G 256GB + 8GB RAM - Menta",
-      "url": "https://www.carrefour.es/samsung-galaxy-a26-5g-256gb-8gb-ram-menta/VC4A-30046165/p",
-      "store": "Carrefour",
-      "current_price": 319.0,
-      "original_price": 389.0,
-      "discount_pct": 17.99,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/556057_00_1.jpg",
       "category": "Móviles",
       "price_history": [
         319.0
@@ -6851,40 +5661,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1149.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Indeca Inalámbrico Crystal Ps5, Ps4, Switch, Switch 2",
-      "url": "https://www.carrefour.es/auriculares-indeca-inalambrico-crystal-ps5-ps4-switch-switch-2/VC4A-31552623/p",
-      "store": "Carrefour",
-      "current_price": 32.9,
-      "original_price": 39.99,
-      "discount_pct": 17.73,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658018_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        32.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 32.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - ASUS Chromebook CX1505CTA-S70253, 15.6\" Full-HD, Intel® N50, 8GB RAM, 128GB eMMC, UHD Graphics, Chrome OS, Ratón Incl.",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-chromebook-cx1505cta-s70253-156-full-hd-intelr-n50-8gb-ram-128gb-emmc-uhd-graphics-google-chrome-os-1606702.html",
-      "store": "MediaMarkt",
-      "current_price": 279.0,
-      "original_price": 339.0,
-      "discount_pct": 17.7,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163011793",
-      "category": null,
-      "price_history": [
-        279.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 279.0,
       "drop_pct": null
     },
     {
@@ -7058,40 +5834,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tarjeta Micro SD Express Sandisk 256GB para Nintendo Switch 2",
-      "url": "https://www.carrefour.es/tarjeta-micro-sd-express-sandisk-256gb-para-nintendo-switch-2/VC4A-30306184/p",
-      "store": "Carrefour",
-      "current_price": 49.9,
-      "original_price": 59.99,
-      "discount_pct": 16.82,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581509_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Tarjeta Micro SD Express Samsung 256GB para Nintendo Switch 2",
-      "url": "https://www.carrefour.es/tarjeta-micro-sd-express-samsung-256gb-para-nintendo-switch-2/VC4A-30305553/p",
-      "store": "Carrefour",
-      "current_price": 49.9,
-      "original_price": 59.99,
-      "discount_pct": 16.82,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581513_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
       "name": "TV INFINITON INTV-24BA130 (LCD - 24'' - 61 cm - HD)",
       "url": "https://www.worten.es/productos/tv-infiniton-intv-24ba130-lcd-24-61-cm-hd-mrkean-9436546181544",
       "store": "Worten",
@@ -7160,23 +5902,6 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora Multifunción HP DeskJet 2823E, Thermal Inkjet, Wifi, Color, 20 ppm, 6 Meses Instant Ink con HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2823e-thermal-inkjet-wifi-color-20-ppm-6-meses-instant-ink-con-hp/VC4A-24870140/p",
-      "store": "Carrefour",
-      "current_price": 49.9,
-      "original_price": 59.9,
-      "discount_pct": 16.69,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/006405_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        49.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
       "name": "Portátil - Lenovo Yoga Slim 7 14IMH9, 14\" WUXGA OLED, Intel® Evo™ Edition Core™ Ultra 7 155H, 32GB RAM, 1TB SSD, Arc™ Graphics, Windows 11 Home",
       "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-yoga-slim-7-14imh9-14-wuxga-oled-intelr-evotm-edition-coretm-ultra-7-155h-32gb-ram-1tb-ssd-arctm-graphics-windows-11-home-1605640.html",
       "store": "MediaMarkt",
@@ -7191,57 +5916,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 999.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV OLED 48\" (121,92 cm) LG 48C54LA, 4K UHD, 144 Hz, Procesador Inteligente a9 AI Processor",
-      "url": "https://www.carrefour.es/smart-tv-oled-48-12192-cm-lg-48c54la-4k-uhd-144-hz-procesador-inteligente-a9-ai-processor/VC4A-30494976/p",
-      "store": "Carrefour",
-      "current_price": 849.0,
-      "original_price": 1019.0,
-      "discount_pct": 16.68,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587632_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        849.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 849.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
-      "store": "Carrefour",
-      "current_price": 232.98,
-      "original_price": 279.58,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        232.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 232.98,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
-      "store": "Carrefour",
-      "current_price": 124.98,
-      "original_price": 149.98,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        124.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 124.98,
       "drop_pct": null
     },
     {
@@ -7279,74 +5953,6 @@
       "drop_pct": null
     },
     {
-      "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-5g-256gb-8gb-ram-negro/VC4A-32395353/p",
-      "store": "Carrefour",
-      "current_price": 224.13,
-      "original_price": 268.96,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682203_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        224.13
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 224.13,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo Y31 5G 256GB + 6GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-vivo-y31-5g-256gb-6gb-ram-negro/VC4A-32986447/p",
-      "store": "Carrefour",
-      "current_price": 255.99,
-      "original_price": 307.19,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/691089_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        255.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 255.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo Y19S 128GB + 6GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-vivo-y19s-128gb-6gb-ram-negro/VC4A-30234363/p",
-      "store": "Carrefour",
-      "current_price": 123.99,
-      "original_price": 148.79,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/569458_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        123.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 123.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17e, 256 GB, 6.1\" Pantalla Super Retina XDR, Chip A19 - Blanco",
-      "url": "https://www.carrefour.es/apple-iphone-17e-256-gb-61-pantalla-super-retina-xdr-chip-a19-blanco/VC4A-33050007/p",
-      "store": "Carrefour",
-      "current_price": 655.44,
-      "original_price": 786.53,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/703470_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        655.44
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 655.44,
-      "drop_pct": null
-    },
-    {
       "name": "Consola PlayStation 5 Estándar E 1TB - Blanco",
       "url": "https://www.carrefour.es/consola-playstation-5-estandar-e-1tb-blanco/VC4A-31794263/p",
       "store": "Carrefour",
@@ -7381,74 +5987,6 @@
       "drop_pct": null
     },
     {
-      "name": "Consola PlayStation 5 Digital 825GB - Blanco",
-      "url": "https://www.carrefour.es/consola-playstation-5-digital-825gb-blanco/VC4A-31794178/p",
-      "store": "Carrefour",
-      "current_price": 494.95,
-      "original_price": 593.94,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654240_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        494.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 499.95,
-      "drop_pct": 1.0
-    },
-    {
-      "name": "Fashion Dreamer para Switch",
-      "url": "https://www.carrefour.es/fashion-dreamer-para-switch/VC4A-24068878/p",
-      "store": "Carrefour",
-      "current_price": 49.13,
-      "original_price": 58.96,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/069257_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        15.0
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 15.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Wario Ware: Move It! para Switch",
-      "url": "https://www.carrefour.es/wario-ware-move-it-para-switch/VC4A-23191049/p",
-      "store": "Carrefour",
-      "current_price": 49.13,
-      "original_price": 58.96,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/263700_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.13
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.13,
-      "drop_pct": null
-    },
-    {
-      "name": "Bravely Default Flying Fairy para Switch 2",
-      "url": "https://www.carrefour.es/bravely-default-flying-fairy-para-switch-2/VC4A-30305671/p",
-      "store": "Carrefour",
-      "current_price": 39.98,
-      "original_price": 47.98,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581302_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        39.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 39.98,
-      "drop_pct": null
-    },
-    {
       "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
       "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
       "store": "Carrefour",
@@ -7462,8 +6000,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 374.4,
-      "drop_pct": 0.0
+      "prev_price": 374.39,
+      "drop_pct": null
     },
     {
       "name": "Tablet Lenovo Idea Tab MediaTek Dimensity 6300, 8GB RAM, 128GB, 11\" - 27,94 cm, Android 15 con Lenovo Tab Pen",
@@ -7517,57 +6055,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tablet TCL Tab 10L GEN 4 Mediatek MT8786, 4GB RAM, 64GB, 10,1\" - 25,65 cm, Android 15",
-      "url": "https://www.carrefour.es/tablet-tcl-tab-10l-gen-4-mediatek-mt8786-4gb-ram-64gb-101-2565-cm-android-15/VC4A-31657426/p",
-      "store": "Carrefour",
-      "current_price": 103.1,
-      "original_price": 123.72,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/653640_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        103.1
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 103.1,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Xiaomi Redmi Pad 2 Grap MediaTek Helio G100-ultra, 4GB RAM, 128GB, 11\" - 27,94 cm,Xiaomi HyperOS 2 - Gris",
-      "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad-2-grap-mediatek-helio-g100-ultra-4gb-ram-128gb-11-2794-cmxiaomi-hyperos-2-gris/VC4A-31232358/p",
-      "store": "Carrefour",
-      "current_price": 161.99,
-      "original_price": 194.39,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/644796_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        161.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 161.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet TCL NXTPAPER 14, MTK Helio G99 (MT8781), 8GB RAM, 256GB, 14.25\" - 36.20 cm, WIFI, Android 14 con Funda y Lapiz - Gris",
-      "url": "https://www.carrefour.es/tablet-tcl-nxtpaper-14-mtk-helio-g99-mt8781-8gb-ram-256gb-1425-3620-cm-wifi-android-14-con-funda-y-lapiz-gris/VC4A-30288073/p",
-      "store": "Carrefour",
-      "current_price": 367.98,
-      "original_price": 441.58,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/535000_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        367.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 367.98,
-      "drop_pct": null
-    },
-    {
       "name": "Cecotec Aire Acondicionado Portátil Con Wifi Y Mando A Distancia Forceclima 7550 Style Connected. 7000 Btu, 14m2., White",
       "url": "https://www.worten.es/productos/cecotec-aire-acondicionado-portatil-con-wifi-y-mando-a-distancia-forceclima-7550-style-connected-7000-btu-14m2-white-mrkean-8435484081634",
       "store": "Worten",
@@ -7581,7 +6068,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 260.99,
       "drop_pct": null
     },
     {
@@ -7602,81 +6089,13 @@
       "drop_pct": null
     },
     {
-      "name": "Hyrule Warriors: La era del destierro para Switch 2",
-      "url": "https://www.carrefour.es/hyrule-warriors-la-era-del-destierro-para-switch-2/VC4A-31558036/p",
-      "store": "Carrefour",
-      "current_price": 74.57,
-      "original_price": 89.48,
-      "discount_pct": 16.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/660261_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        74.57
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 74.57,
-      "drop_pct": null
-    },
-    {
-      "name": "Astro Bot para PS5",
-      "url": "https://www.carrefour.es/astro-bot-para-ps5/VC4A-27604706/p",
-      "store": "Carrefour",
-      "current_price": 51.62,
-      "original_price": 61.94,
-      "discount_pct": 16.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/420868_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        51.62
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 51.62,
-      "drop_pct": null
-    },
-    {
-      "name": "Dragon Ball Sparking! Zero para Switch 2",
-      "url": "https://www.carrefour.es/dragon-ball-sparking-zero-para-switch-2/VC4A-31284161/p",
-      "store": "Carrefour",
-      "current_price": 49.36,
-      "original_price": 59.23,
-      "discount_pct": 16.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/647696_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.36
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.36,
-      "drop_pct": null
-    },
-    {
-      "name": "Dragon Ball: Sparking! Zero para Switch",
-      "url": "https://www.carrefour.es/dragon-ball-sparking-zero-para-switch/VC4A-31299046/p",
-      "store": "Carrefour",
-      "current_price": 49.36,
-      "original_price": 59.23,
-      "discount_pct": 16.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/647702_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        49.36
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 49.36,
-      "drop_pct": null
-    },
-    {
       "name": "Asus ROG Strix XG27UQR 27'' UHD 4K IPS 144Hz 1ms HDR Adaptive Sync",
       "url": "https://www.coolmod.com/asus-rog-strix-xg27uqr-27-4k-ips-144hz-hdr-adaptive-sync/",
       "store": "Coolmod",
       "current_price": 358.95,
       "original_price": 429.95,
       "discount_pct": 16.51,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782324096",
       "category": "Monitores",
       "price_history": [
         358.95
@@ -7684,23 +6103,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 358.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi A5 128 GB + 4GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-a5-128-gb-4gb-ram-negro/VC4A-30480082/p",
-      "store": "Carrefour",
-      "current_price": 99.41,
-      "original_price": 119.0,
-      "discount_pct": 16.46,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/591110_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        99.41
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 99.41,
       "drop_pct": null
     },
     {
@@ -7769,6 +6171,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 629.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Kingston FURY Beast DDR4 3200 MHz 8GB CL16",
+      "url": "https://www.pccomponentes.com/kingston-fury-beast-ddr4-3200-mhz-8gb-cl16",
+      "store": "PcComponentes",
+      "current_price": 74.95,
+      "original_price": 89.23,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/43/432662/1958-kingston-fury-beast-ddr4-3200-mhz-8gb-cl16.jpg",
+      "category": null,
+      "price_history": [
+        74.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7854,23 +6273,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 169.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Ratón Gaming Inalámbrico Recargable con Iluminación LED Trust GXT110 Felox - Negro",
-      "url": "https://www.carrefour.es/raton-gaming-inalambrico-recargable-con-iluminacion-led-trust-gxt110-felox-negro/VC4A-26505314/p",
-      "store": "Carrefour",
-      "current_price": 16.99,
-      "original_price": 19.99,
-      "discount_pct": 15.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/357993_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        16.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 16.99,
       "drop_pct": null
     },
     {
@@ -8010,193 +6412,6 @@
       "drop_pct": null
     },
     {
-      "name": "Ordenador Portátil HP 255R G10, Ryzen 3 7335U, 8GB, 512GB SSD, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-hp-255r-g10-ryzen-3-7335u-8gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-32794984/p",
-      "store": "Carrefour",
-      "current_price": 424.15,
-      "original_price": 499.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/696523_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        424.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 424.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil  Acer Aspire GO AG15-31P, i3 N305, 8GB, 128GB SSD, HDD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-go-ag15-31p-i3-n305-8gb-128gb-ssd-hdd-156-3962-cm-w11/VC4A-27078979/p",
-      "store": "Carrefour",
-      "current_price": 398.65,
-      "original_price": 469.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/392278_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        398.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 398.65,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil  Acer Chromebook 314 CBOA314-1H-C8HS, Celeron N4500, 4GB, 64GB eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
-      "url": "https://www.carrefour.es/ordenador-portatil-acer-chromebook-314-cboa314-1h-c8hs-celeron-n4500-4gb-64gb-emmc-fhd-14-3556-cm-chromeos/VC4A-30109915/p",
-      "store": "Carrefour",
-      "current_price": 211.65,
-      "original_price": 249.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/555006_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        211.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 211.65,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil HP OMNIBOOK 3 16-BY0014N,  Ryzen 5 40, 16GB, 512GB SSD, WUXGA (2K), 16\" - 40,64 cm, W11 Home",
-      "url": "https://www.carrefour.es/ordenador-portatil-hp-omnibook-3-16-by0014n-ryzen-5-40-16gb-512gb-ssd-wuxga-2k-16-4064-cm-w11-home/VC4A-33124174/p",
-      "store": "Carrefour",
-      "current_price": 577.15,
-      "original_price": 679.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/683545_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        577.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 577.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil Asus Vivobook F1504VA-BQ127W, i5 120U, 16GB, 1TB SSD, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-asus-vivobook-f1504va-bq127w-i5-120u-16gb-1tb-ssd-fhd-156-3962-cm-w11/VC4A-31279540/p",
-      "store": "Carrefour",
-      "current_price": 628.15,
-      "original_price": 739.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/629278_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        628.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 628.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil Tecno K15SRA, i9 13900HK, 32GB, 1TB SSD, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-tecno-k15sra-i9-13900hk-32gb-1tb-ssd-fhd-156-3962-cm-w11/VC4A-31374355/p",
-      "store": "Carrefour",
-      "current_price": 696.15,
-      "original_price": 819.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/630805_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        696.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 696.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil Acer Aspire Lite 15 AL15-32P-C77C, Celeron N4500, 4GB, 128GB eMMC, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-lite-15-al15-32p-c77c-celeron-n4500-4gb-128gb-emmc-fhd-156-3962-cm-w11/VC4A-32794940/p",
-      "store": "Carrefour",
-      "current_price": 279.65,
-      "original_price": 329.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/696534_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        279.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 279.65,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil Asus Vivobook 15 F1504VA-BQ267W, i7 150U, 16GB, 1TB SSD, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-asus-vivobook-15-f1504va-bq267w-i7-150u-16gb-1tb-ssd-fhd-156-3962-cm-w11/VC4A-32896525/p",
-      "store": "Carrefour",
-      "current_price": 721.65,
-      "original_price": 849.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/677082_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        721.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 721.65,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil HP 15-FC0200NS-FC1001NSX Ryzen 5 7520U, 16 GB, 512GB SSD, 15,6 '- 39.62 cm, W11 Home",
-      "url": "https://www.carrefour.es/ordenador-portatil-hp-15-fc0200ns-fc1001nsx-ryzen-5-7520u-16-gb-512gb-ssd-156-3962-cm-w11-home/VC4A-32592621/p",
-      "store": "Carrefour",
-      "current_price": 526.15,
-      "original_price": 619.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/186344_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        526.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 526.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Portátil Acer Aspire Go 15, Ryzen 7 5825U, 32GB, 512GB SSD, FHD, 15,6\" - 39,62 cm, W11",
-      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-go-15-ryzen-7-5825u-32gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-30377104/p",
-      "store": "Carrefour",
-      "current_price": 679.15,
-      "original_price": 799.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/548518_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        679.15
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 679.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil Acer Aspire 3 A315-59-53QFIntel Core i5 1235U  con 16GB,  512GB SSD, FHD 15.6\",  Windows 11 HOME-Plata",
-      "url": "https://www.carrefour.es/portatil-acer-aspire-3-a315-59-53qfintel-core-i5-1235u-con-16gb-512gb-ssd-fhd-156-windows-11-home-plata/VC4A-32825649/p",
-      "store": "Carrefour",
-      "current_price": 517.65,
-      "original_price": 609.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/698219_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        517.65
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 517.65,
-      "drop_pct": null
-    },
-    {
       "name": "APPLE Iphone 15 Pro Max 256Gb Blue Titanium Azul",
       "url": "https://www.worten.es/productos/apple-iphone-15-pro-max-256gb-blue-titanium-azul-mrkean-mp10460-1h4p2ac3v3lwsbe",
       "store": "Worten",
@@ -8228,23 +6443,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 195.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Pack cargador GAN USBC DE 65W + Cable 1,5M USBC + 5 Clavijas para portátil marca Lenovo - Negro",
-      "url": "https://www.carrefour.es/pack-cargador-gan-usbc-de-65w-cable-15m-usbc-5-clavijas-para-portatil-marca-lenovo-negro/VC4A-33420120/p",
-      "store": "Carrefour",
-      "current_price": 23.0,
-      "original_price": 26.99,
-      "discount_pct": 14.78,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/707838_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        23.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 23.0,
       "drop_pct": null
     },
     {
@@ -8285,35 +6483,18 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 854.75,
+      "current_price": 854.69,
       "original_price": 999.99,
-      "discount_pct": 14.52,
+      "discount_pct": 14.53,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
       "category": null,
       "price_history": [
-        854.75
+        854.69
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 854.77,
-      "drop_pct": 0.0
-    },
-    {
-      "name": "Apple iPhone 17 5g 256gb Negro",
-      "url": "https://www.worten.es/productos/apple-iphone-17-5g-256gb-negro-mrkean-0195950643589",
-      "store": "Worten",
-      "current_price": 854.99,
-      "original_price": 999.99,
-      "discount_pct": 14.5,
-      "image_url": "https://www.worten.es/i/29ef0c583d01f3381c3351f01d2409135b1a2336",
-      "category": null,
-      "price_history": [
-        854.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 854.99,
-      "drop_pct": null
+      "prev_price": 854.75,
+      "drop_pct": 0.01
     },
     {
       "name": "Consola PlayStation 5 Digital 825GB + 2º Mando DualSense Blanco",
@@ -8384,23 +6565,6 @@
       "drop_pct": null
     },
     {
-      "name": "Philips EP1220/00 Cafetera Espresso Automática 15 Bares Negro Mate",
-      "url": "https://www.pccomponentes.com/philips-ep1220-00-cafetera-espresso-automatica-15-bares-negro-mate",
-      "store": "PcComponentes",
-      "current_price": 255.0,
-      "original_price": 296.51,
-      "discount_pct": 14.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/31/313518/1386-philips-ep1220-00-cafetera-expresso-automatica-15-bares-negro-mate.jpg",
-      "category": null,
-      "price_history": [
-        255.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 255.0,
-      "drop_pct": null
-    },
-    {
       "name": "Portátil HP OmniBook 3 16-by0034ns OLED 16\" AMD Ryzen 7 160 16GB 1TB SSD Radeon 680M FreeDOS",
       "url": "https://www.pccomponentes.com/portatil-hp-omnibook-3-16-by0034ns-oled-16-amd-ryzen-7-160-16gb-1tb-ssd-radeon-680m-freedos",
       "store": "PcComponentes",
@@ -8432,23 +6596,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 30.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi 15 256GB + 8GB RAM - Negro ",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15-256gb-8gb-ram-negro/VC4A-31495536/p",
-      "store": "Carrefour",
-      "current_price": 162.72,
-      "original_price": 189.0,
-      "discount_pct": 13.9,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645220_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        162.72
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 162.72,
       "drop_pct": null
     },
     {
@@ -8537,40 +6684,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung Galaxy A17 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-256gb-8gb-ram-negro/VC4A-31669663/p",
-      "store": "Carrefour",
-      "current_price": 259.0,
-      "original_price": 299.0,
-      "discount_pct": 13.38,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643913_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        259.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 259.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A17 256GB + 8GB RAM - Gris",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-256gb-8gb-ram-gris/VC4A-31669660/p",
-      "store": "Carrefour",
-      "current_price": 259.0,
-      "original_price": 299.0,
-      "discount_pct": 13.38,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643889_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        259.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 259.0,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
       "store": "MediaMarkt",
@@ -8588,72 +6701,38 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora Multifunción HP OfficeJet Pro 8125e, Thermal Inkjet, Wifi, Color, 29 ppm, 6 Meses Instant Ink con HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-officejet-pro-8125e-thermal-inkjet-wifi-color-29-ppm-6-meses-instant-ink-con-hp/VC4A-27437080/p",
+      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
       "store": "Carrefour",
-      "current_price": 129.9,
-      "original_price": 149.9,
-      "discount_pct": 13.34,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/357898_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        129.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 129.9,
-      "drop_pct": null
-    },
-    {
-      "name": "The Adventures of Elliot the Millennium Tales para Switch 2",
-      "url": "https://www.carrefour.es/the-adventures-of-elliot-the-millennium-tales-para-switch-2/VC4A-32889758/p",
-      "store": "Carrefour",
-      "current_price": 59.9,
-      "original_price": 68.99,
-      "discount_pct": 13.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700159_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        59.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 59.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo Y21d 5G 256GB + 4GB RAM - Verde",
-      "url": "https://www.carrefour.es/movil-vivo-y21d-5g-256gb-4gb-ram-verde/VC4A-33768475/p",
-      "store": "Carrefour",
-      "current_price": 199.0,
-      "original_price": 229.0,
-      "discount_pct": 13.1,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706356_00_1.jpg",
+      "current_price": 225.0,
+      "original_price": 258.75,
+      "discount_pct": 13.04,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        199.0
+        225.0
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.0,
-      "drop_pct": null
+      "prev_price": 232.98,
+      "drop_pct": 3.43
     },
     {
-      "name": "Móvil Vivo Y21d 256GB + 4GB RAM - Morado",
-      "url": "https://www.carrefour.es/movil-vivo-y21d-256gb-4gb-ram-morado/VC4A-33353579/p",
+      "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
       "store": "Carrefour",
-      "current_price": 199.0,
-      "original_price": 229.0,
-      "discount_pct": 13.1,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706365_00_1.jpg",
+      "current_price": 122.0,
+      "original_price": 140.3,
+      "discount_pct": 13.04,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        199.0
+        122.0
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.0,
-      "drop_pct": null
+      "prev_price": 124.98,
+      "drop_pct": 2.38
     },
     {
       "name": "PcCom Work Intel Core i5-12400 / 32GB / 2TB SSD / Windows 11 Home",
@@ -8704,40 +6783,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 497.99,
-      "drop_pct": null
-    },
-    {
-      "name": "PcCom Lite AMD Ryzen 5 8400F / 16GB / 1TB SSD / RX 9060 XT 16GB / Windows 11 Home Space Edition",
-      "url": "https://www.pccomponentes.com/pccom-lite-amd-ryzen-5-8400f-16gb-1tb-ssd-rx-9060-xt-16gb-windows-11-home-space-edition",
-      "store": "PcComponentes",
-      "current_price": 1147.55,
-      "original_price": 1319.02,
-      "discount_pct": 13.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1110/11109716/1619-pccom-lite-amd-ryzen-5-8400f-16gb-1tb-ssd-rx-9060-xt-16gb-windows-11-home-space-edition.jpg",
-      "category": null,
-      "price_history": [
-        1147.55
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1147.55,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando Inalámbrico DragonShock Nebula Pro para Switch, PS3 y PC",
-      "url": "https://www.carrefour.es/mando-inalambrico-dragonshock-nebula-pro-para-switch-ps3-y-pc/VC4A-24673198/p",
-      "store": "Carrefour",
-      "current_price": 53.98,
-      "original_price": 61.99,
-      "discount_pct": 12.92,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/212639_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        53.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 53.98,
       "drop_pct": null
     },
     {
@@ -8809,40 +6854,6 @@
       "drop_pct": null
     },
     {
-      "name": "Consola Nintendo Switch 2 256GB con Pokémon Leyendas Z-A ",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256gb-con-pokemon-leyendas-z-a/VC4A-31250713/p",
-      "store": "Carrefour",
-      "current_price": 570.0,
-      "original_price": 650.0,
-      "discount_pct": 12.31,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/646907_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        570.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 570.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Dragon Ball Xenoverse 2 para PS5",
-      "url": "https://www.carrefour.es/dragon-ball-xenoverse-2-para-ps5/VC4A-26932167/p",
-      "store": "Carrefour",
-      "current_price": 14.9,
-      "original_price": 16.99,
-      "discount_pct": 12.3,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/383073_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        14.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 14.9,
-      "drop_pct": null
-    },
-    {
       "name": "Tablet - Xiaomi Redmi Pad 2, WI-FI, 11\" WQHD, 8 GB RAM, 256 GB, MediaTek G100-Ultra, Gris grafito",
       "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-wi-fi-11-wqhd-8-gb-ram-256-gb-mediatek-g100-ultra-gris-grafito-1599561.html",
       "store": "MediaMarkt",
@@ -8911,6 +6922,23 @@
       "drop_pct": null
     },
     {
+      "name": "Lavadora TEKA WMK 40740 (7 kg - 1200 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-teka-wmk-40740-7-kg-1200-rpm-blanco-8474434",
+      "store": "Worten",
+      "current_price": 318.0,
+      "original_price": 359.0,
+      "discount_pct": 11.42,
+      "image_url": "https://www.worten.es/i/fd5775bff79401cb1f533b69b5e29e8932ec8cb6",
+      "category": null,
+      "price_history": [
+        318.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Placa de Inducción BALAY 3EB967FR (Eléctrica - 59.2 cm - Negro)",
       "url": "https://www.worten.es/productos/placa-de-induccion-balay-3eb967fr-electrica-59-2-cm-negro-5933074",
       "store": "Worten",
@@ -8925,23 +6953,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 409.05,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando Nintendo Pro para Nintendo Switch 2",
-      "url": "https://www.carrefour.es/mando-nintendo-pro-para-nintendo-switch-2/VC4A-30306084/p",
-      "store": "Carrefour",
-      "current_price": 79.9,
-      "original_price": 89.99,
-      "discount_pct": 11.21,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581431_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        79.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 79.9,
       "drop_pct": null
     },
     {
@@ -9047,23 +7058,6 @@
       "drop_pct": null
     },
     {
-      "name": "Monitor Acer EK321QHBI, Full HD, IPS, 31,5\" - 80,01 cm, 100 Hz, 5 Milisegundos, 1 HDMI, 1 VGA",
-      "url": "https://www.carrefour.es/monitor-acer-ek321qhbi-full-hd-ips-315-8001-cm-100-hz-5-milisegundos-1-hdmi-1-vga/VC4A-29150688/p",
-      "store": "Carrefour",
-      "current_price": 160.0,
-      "original_price": 179.0,
-      "discount_pct": 10.61,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/523471_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        160.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 160.0,
-      "drop_pct": null
-    },
-    {
       "name": "All in one - Acer Aspire C24-2G, 24\" Full-HD, Intel® Core™ i5-13420H, 16GB RAM, 1TB SSD, UHD Graphics, Windows 11 Home, Negro",
       "url": "https://www.mediamarkt.es/es/product/_all-in-one-acer-aspire-c24-2g-24-full-hd-intelr-coretm-i5-13420h-16gb-ram-1tb-ssd-uhd-graphics-windows-11-home-negro-1603060.html",
       "store": "MediaMarkt",
@@ -9081,47 +7075,13 @@
       "drop_pct": null
     },
     {
-      "name": "Consola Nintendo Switch 2 256 GB",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
-      "store": "Carrefour",
-      "current_price": 440.0,
-      "original_price": 490.0,
-      "discount_pct": 10.2,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        440.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 440.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A17 128GB + 4GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-128gb-4gb-ram-negro/VC4A-31669659/p",
-      "store": "Carrefour",
-      "current_price": 179.0,
-      "original_price": 199.0,
-      "discount_pct": 10.05,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643876_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        179.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 179.0,
-      "drop_pct": null
-    },
-    {
       "name": "Steelpad QcK Mini",
       "url": "https://www.coolmod.com/steelpad-qck-mini-alfombrilla/",
       "store": "Coolmod",
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782324096",
       "category": "Alfombrillas",
       "price_history": [
         8.95
@@ -9146,40 +7106,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 269.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo Y31 5G 256GB + 6GB RAM - Blanco",
-      "url": "https://www.carrefour.es/movil-vivo-y31-5g-256gb-6gb-ram-blanco/VC4A-32986430/p",
-      "store": "Carrefour",
-      "current_price": 269.0,
-      "original_price": 299.0,
-      "discount_pct": 10.03,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/691052_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        269.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 269.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Ordenador Sobremesa Gaming Nausicaa Millenium, Ryzen 5 5600GT, 16GB, 1TB SSD, W11 con Teclado, Ratón, Auriculares y Alfombrilla",
-      "url": "https://www.carrefour.es/ordenador-sobremesa-gaming-nausicaa-millenium-ryzen-5-5600gt-16gb-1tb-ssd-w11-con-teclado-raton-auriculares-y-alfombrilla/VC4A-31311192/p",
-      "store": "Carrefour",
-      "current_price": 899.0,
-      "original_price": 999.0,
-      "discount_pct": 10.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/640522_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        899.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 899.0,
       "drop_pct": null
     },
     {
@@ -9444,7 +7370,7 @@
       "current_price": 81.95,
       "original_price": 90.95,
       "discount_pct": 9.9,
-      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/switch-tp-link-24p-gigabit-1u-19-rack-mount-001.jpg?v=1782324096",
       "category": "Hubs/Switchs",
       "price_history": [
         81.95
@@ -9469,40 +7395,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 149.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Xiaomi Watch 5 Lite, GPS, Negro",
-      "url": "https://www.carrefour.es/smartwatch-xiaomi-watch-5-lite-gps-negro/VC4A-28684628/p",
-      "store": "Carrefour",
-      "current_price": 47.9,
-      "original_price": 52.99,
-      "discount_pct": 9.61,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/511464_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        47.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 47.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartwatch Xiaomi Watch 5 Lite, GPS, Oro Claro",
-      "url": "https://www.carrefour.es/smartwatch-xiaomi-watch-5-lite-gps-oro-claro/VC4A-28684624/p",
-      "store": "Carrefour",
-      "current_price": 47.9,
-      "original_price": 52.99,
-      "discount_pct": 9.61,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/511468_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        47.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 47.9,
       "drop_pct": null
     },
     {
@@ -9557,71 +7449,20 @@
       "drop_pct": null
     },
     {
-      "name": "Consola Playstation 5 Slim Estándar D 1TB",
-      "url": "https://www.carrefour.es/consola-playstation-5-slim-estandar-d-1tb/VC4A-24960052/p",
+      "name": "TV Hisense 65\" (165,1 cm) 65U7Q, MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
+      "url": "https://www.carrefour.es/tv-hisense-65-1651-cm-65u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709980/p",
       "store": "Carrefour",
-      "current_price": 652.0,
-      "original_price": 718.0,
-      "discount_pct": 9.19,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/303490_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        652.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 652.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 512GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Plata",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-512gb-69-pantalla-super-retina-xdr-chip-a19-pro-plata/VC4A-31500595/p",
-      "store": "Carrefour",
-      "current_price": 1561.0,
-      "original_price": 1718.0,
-      "discount_pct": 9.14,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658685_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1561.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1561.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 512GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-512gb-69-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31500604/p",
-      "store": "Carrefour",
-      "current_price": 1536.0,
-      "original_price": 1690.0,
+      "current_price": 856.78,
+      "original_price": 942.7,
       "discount_pct": 9.11,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658698_00_1.jpg",
-      "category": "Móviles",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595099_00_1.jpg",
+      "category": "TV y Audio",
       "price_history": [
-        1536.0
+        655.08
       ],
       "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1536.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro Max, 512GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Azul oscuro",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-max-512gb-69-pantalla-super-retina-xdr-chip-a19-pro-azul-oscuro/VC4A-31500633/p",
-      "store": "Carrefour",
-      "current_price": 1538.0,
-      "original_price": 1692.0,
-      "discount_pct": 9.1,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658702_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1538.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1538.0,
+      "is_lowest": false,
+      "prev_price": 655.08,
       "drop_pct": null
     },
     {
@@ -9639,23 +7480,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 870.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola PlayStation 5 Pro Digital 2TB, Blanco",
-      "url": "https://www.carrefour.es/consola-playstation-5-pro-digital-2tb-blanco/VC4A-28690379/p",
-      "store": "Carrefour",
-      "current_price": 930.0,
-      "original_price": 1023.0,
-      "discount_pct": 9.09,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/505028_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        930.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 930.0,
       "drop_pct": null
     },
     {
@@ -9727,23 +7551,6 @@
       "drop_pct": null
     },
     {
-      "name": "Leyendas Pokémon: Z-A para Switch 2",
-      "url": "https://www.carrefour.es/leyendas-pokemon-z-a-para-switch-2/VC4A-30750711/p",
-      "store": "Carrefour",
-      "current_price": 54.9,
-      "original_price": 59.99,
-      "discount_pct": 8.48,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/605400_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        54.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 54.9,
-      "drop_pct": null
-    },
-    {
       "name": "Smart TV LED 40'' (101,6 cm) Hisense 40A4S con IA, FHD, 60 Hz, HDR, HLG, Dolby MS12, DTS X, EzPlay",
       "url": "https://www.carrefour.es/smart-tv-led-40-1016-cm-hisense-40a4s-con-ia-fhd-60-hz-hdr-hlg-dolby-ms12-dts-x-ezplay/VC4A-33279394/p",
       "store": "Carrefour",
@@ -9778,57 +7585,6 @@
       "drop_pct": null
     },
     {
-      "name": "Cartucho de Tinta Canon 570 - Negro",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-570-negro/2002916317/p",
-      "store": "Carrefour",
-      "current_price": 21.62,
-      "original_price": 23.57,
-      "discount_pct": 8.27,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/959435_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        21.62
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 22.16,
-      "drop_pct": 2.44
-    },
-    {
-      "name": "Memoria USB 256GB Sandisk Ultra Flair  - Plata",
-      "url": "https://www.carrefour.es/memoria-usb-256gb-sandisk-ultra-flair-plata/VC4A-19432943/p",
-      "store": "Carrefour",
-      "current_price": 46.05,
-      "original_price": 50.19,
-      "discount_pct": 8.25,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/077941_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        46.05
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 46.05,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Hisense 65\" (165,1 cm) 65U7Q, MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
-      "url": "https://www.carrefour.es/tv-hisense-65-1651-cm-65u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709980/p",
-      "store": "Carrefour",
-      "current_price": 655.08,
-      "original_price": 713.0,
-      "discount_pct": 8.12,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595099_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        655.08
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 655.08,
-      "drop_pct": null
-    },
-    {
       "name": "Forgeon Nimbus PLUS Disco SSD 1TB 7000MB/S NVMe PCIe 4.0 M.2 Gen4",
       "url": "https://www.pccomponentes.com/disco-duro-forgeon-nimbus-plus-disco-ssd-1tb-7000mb-s-nvme-pcie-4-0-m-2-gen4",
       "store": "PcComponentes",
@@ -9846,30 +7602,13 @@
       "drop_pct": null
     },
     {
-      "name": "Móvil Vivo Y03 128GB + 4GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-vivo-y03-128gb-4gb-ram-negro/VC4A-28933410/p",
-      "store": "Carrefour",
-      "current_price": 119.0,
-      "original_price": 129.0,
-      "discount_pct": 7.75,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/520042_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        119.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 119.0,
-      "drop_pct": null
-    },
-    {
       "name": "Thermal Grizzly Kryonaut 3 ml",
       "url": "https://www.coolmod.com/thermal-grizzly-kryonaut-3-ml-pasta-tarmica/",
       "store": "Coolmod",
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782317522",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782324096",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95
@@ -9914,23 +7653,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung Galaxy A56 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a56-5g-256gb-8gb-ram-negro/VC4A-29998421/p",
-      "store": "Carrefour",
-      "current_price": 489.0,
-      "original_price": 529.0,
-      "discount_pct": 7.56,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561605_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        489.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 489.0,
-      "drop_pct": null
-    },
-    {
       "name": "MOZA Racing R5 Bundle Direct Drive - Volante",
       "url": "https://www.game.es/accesorios/volante/pc-gaming/moza-racing-r5-bundle-direct-drive-volante/v1imkk",
       "store": "GAME",
@@ -9945,23 +7667,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 369.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Elden Ring para PS4",
-      "url": "https://www.carrefour.es/elden-ring-para-ps4/VC4A-16989340/p",
-      "store": "Carrefour",
-      "current_price": 26.9,
-      "original_price": 28.99,
-      "discount_pct": 7.21,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/722234_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        26.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 26.9,
       "drop_pct": null
     },
     {
@@ -10135,23 +7840,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung Galaxy A26 5G 128GB + 6GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a26-5g-128gb-6gb-ram-negro/VC4A-30046197/p",
-      "store": "Carrefour",
-      "current_price": 279.0,
-      "original_price": 299.0,
-      "discount_pct": 6.69,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/556102_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        279.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 279.0,
-      "drop_pct": null
-    },
-    {
       "name": "GAME M49UW - 49’’ - Ultra Wide - DQHD - 165Hz - Curvo - Monitor Gaming",
       "url": "https://www.game.es/accesorios/monitor/pc-gaming/game-m49uw-49-ultra-wide-dqhd-165hz-curvo-monitor-gaming/254717",
       "store": "GAME",
@@ -10166,23 +7854,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 419.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Enchufe Inteligente TP-Link Tapo P100",
-      "url": "https://www.carrefour.es/enchufe-inteligente-tp-link-tapo-p100/VC4A-13151859/p",
-      "store": "Carrefour",
-      "current_price": 17.06,
-      "original_price": 18.25,
-      "discount_pct": 6.52,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/486037_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        14.65
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 14.65,
       "drop_pct": null
     },
     {
@@ -10217,40 +7888,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 74.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Animal Crossing: New Horizons para Nintendo Switch",
-      "url": "https://www.carrefour.es/animal-crossing-new-horizons-para-nintendo-switch/VC4A-7888453/p",
-      "store": "Carrefour",
-      "current_price": 46.9,
-      "original_price": 49.99,
-      "discount_pct": 6.18,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/326779_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        46.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 46.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo V70 FE 5G 512GB + 8GB RAM - Purpura, Incluye Cargador 90W y Auriculares",
-      "url": "https://www.carrefour.es/movil-vivo-v70-fe-5g-512gb-8gb-ram-purpura-incluye-cargador-90w-y-auriculares/VC4A-33558337/p",
-      "store": "Carrefour",
-      "current_price": 469.0,
-      "original_price": 499.0,
-      "discount_pct": 6.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/709166_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        469.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 469.0,
       "drop_pct": null
     },
     {
@@ -10305,23 +7942,6 @@
       "drop_pct": null
     },
     {
-      "name": "Funda Subblim Clever Stand para Tablet hasta hasta 11” - Rosa",
-      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-hasta-hasta-11-rosa/349910799/p",
-      "store": "Carrefour",
-      "current_price": 14.81,
-      "original_price": 15.7,
-      "discount_pct": 5.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/866325_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        14.44
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 14.98,
-      "drop_pct": 1.13
-    },
-    {
       "name": "Smart TV QLED 55\" (139,7 cm) Samsung TQ55Q7F4AU con IA, 4K UHD, 50 Hz, HDR, OTS Lite, Q-Symphony, Color Booster Pro",
       "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-samsung-tq55q7f4au-con-ia-4k-uhd-50-hz-hdr-ots-lite-q-symphony-color-booster-pro/VC4A-30789088/p",
       "store": "Carrefour",
@@ -10356,23 +7976,6 @@
       "drop_pct": null
     },
     {
-      "name": "Funda Subblim Clever Stand para Tablet 10,1\" - 11\" - Negro",
-      "url": "https://www.carrefour.es/funda-subblim-clever-stand-para-tablet-101-11-negro/311600614/p",
-      "store": "Carrefour",
-      "current_price": 16.01,
-      "original_price": 16.97,
-      "discount_pct": 5.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729071_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        15.92
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 16.14,
-      "drop_pct": 0.81
-    },
-    {
       "name": "Logitech G502 HERO RGB 25600 DPI - Raton Gaming",
       "url": "https://www.game.es/accesorios/raton/pc-gaming/logitech-g502-hero-rgb-25600-dpi-raton-gaming/170280",
       "store": "GAME",
@@ -10387,23 +7990,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 34.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Oppo Reno 15F 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-oppo-reno-15f-5g-256gb-8gb-ram-negro/VC4A-33744994/p",
-      "store": "Carrefour",
-      "current_price": 379.0,
-      "original_price": 399.0,
-      "discount_pct": 5.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/713702_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        379.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 379.0,
       "drop_pct": null
     },
     {
@@ -10458,57 +8044,6 @@
       "drop_pct": null
     },
     {
-      "name": "Repetidor Wi-Fi TP-Link N300W",
-      "url": "https://www.carrefour.es/repetidor-wi-fi-tp-link-n300w/288900586/p",
-      "store": "Carrefour",
-      "current_price": 21.1,
-      "original_price": 22.16,
-      "discount_pct": 4.78,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/642988_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        20.99
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 21.16,
-      "drop_pct": 0.28
-    },
-    {
-      "name": "Kit Plc Wifi Tp-link AV1000 TL-WPA7617",
-      "url": "https://www.carrefour.es/kit-plc-wifi-tp-link-av1000-tl-wpa7617/VC4A-16155494/p",
-      "store": "Carrefour",
-      "current_price": 78.73,
-      "original_price": 82.67,
-      "discount_pct": 4.77,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/176634_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        78.73
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 78.73,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo V60 Lite 5G 512GB + 12GB RAM - Rosa",
-      "url": "https://www.carrefour.es/movil-vivo-v60-lite-5g-512gb-12gb-ram-rosa/VC4A-31639950/p",
-      "store": "Carrefour",
-      "current_price": 307.34,
-      "original_price": 322.71,
-      "discount_pct": 4.76,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/659314_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        307.34
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 307.34,
-      "drop_pct": null
-    },
-    {
       "name": "GamePc Player-A Ryzen 5-5500/16gb/1tb/Rtx5050Nv/750W/Ref Liqu/FreeDos -Sobremesa Gaming",
       "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-player-a-ryzen-5-5500-16gb-1tb-rtx5050nv-750w-ref-liqu-freedos--sobremesa-gaming/261514",
       "store": "GAME",
@@ -10523,74 +8058,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1049.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Inalámbricos Deportivos Soundcore Aerofit 2 Open Ear - Negro",
-      "url": "https://www.carrefour.es/auriculares-inalambricos-deportivos-soundcore-aerofit-2-open-ear-negro/VC4A-31227422/p",
-      "store": "Carrefour",
-      "current_price": 95.4,
-      "original_price": 99.22,
-      "discount_pct": 3.85,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645181_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        95.4
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 95.4,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A57 5G 256GB + 8GB RAM - Azul oscuro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a57-5g-256gb-8gb-ram-azul-oscuro/VC4A-33191951/p",
-      "store": "Carrefour",
-      "current_price": 569.0,
-      "original_price": 589.0,
-      "discount_pct": 3.4,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/704388_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        569.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 569.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A57 5G 256GB + 8GB RAM - Lila",
-      "url": "https://www.carrefour.es/samsung-galaxy-a57-5g-256gb-8gb-ram-lila/VC4A-33191958/p",
-      "store": "Carrefour",
-      "current_price": 569.0,
-      "original_price": 589.0,
-      "discount_pct": 3.4,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/704431_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        569.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 569.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A57 5G 256GB + 8GB RAM - Gris",
-      "url": "https://www.carrefour.es/samsung-galaxy-a57-5g-256gb-8gb-ram-gris/VC4A-33191960/p",
-      "store": "Carrefour",
-      "current_price": 569.0,
-      "original_price": 589.0,
-      "discount_pct": 3.4,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/704456_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        569.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 569.0,
       "drop_pct": null
     },
     {
@@ -10611,23 +8078,6 @@
       "drop_pct": null
     },
     {
-      "name": "Consola PlayStation 5 Estándar 1TB con Fortnite Flowering Chaos",
-      "url": "https://www.carrefour.es/consola-playstation-5-estandar-1tb-con-fortnite-flowering-chaos/VC4A-32064546/p",
-      "store": "Carrefour",
-      "current_price": 630.0,
-      "original_price": 649.99,
-      "discount_pct": 3.08,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/671185_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        630.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 630.0,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-negro/VC4A-31573271/p",
       "store": "Carrefour",
@@ -10635,40 +8085,6 @@
       "original_price": 329.0,
       "discount_pct": 3.04,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643866_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        319.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 319.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Azul",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-azul/VC4A-31573269/p",
-      "store": "Carrefour",
-      "current_price": 319.0,
-      "original_price": 329.0,
-      "discount_pct": 3.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643909_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        319.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 319.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Gris",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-gris/VC4A-31573270/p",
-      "store": "Carrefour",
-      "current_price": 319.0,
-      "original_price": 329.0,
-      "discount_pct": 3.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643898_00_1.jpg",
       "category": "Móviles",
       "price_history": [
         319.0
@@ -10693,23 +8109,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 659.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola Nintendo Switch OLED Blanca",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-oled-blanca/VC4A-15051199/p",
-      "store": "Carrefour",
-      "current_price": 340.0,
-      "original_price": 350.0,
-      "discount_pct": 2.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/318972_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        340.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 340.0,
       "drop_pct": null
     },
     {
@@ -10744,57 +8143,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 231.13,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo V70 FE 256GB + 8GB RAM - Morado, Incluye Cargador 90W y Auriculares",
-      "url": "https://www.carrefour.es/movil-vivo-v70-fe-256gb-8gb-ram-morado-incluye-cargador-90w-y-auriculares/VC4A-33558408/p",
-      "store": "Carrefour",
-      "current_price": 400.5,
-      "original_price": 408.51,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706834_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        400.5
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 400.5,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Vivo V70 FE 5G 256GB + 8GB RAM - Azul, Incluye Cargador 90W y Auriculares",
-      "url": "https://www.carrefour.es/movil-vivo-v70-fe-5g-256gb-8gb-ram-azul-incluye-cargador-90w-y-auriculares/VC4A-33666365/p",
-      "store": "Carrefour",
-      "current_price": 418.06,
-      "original_price": 426.42,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/709138_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        418.06
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 418.06,
-      "drop_pct": null
-    },
-    {
-      "name": "Cartucho de Tinta Canon 550 XL - Negro",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-canon-550-xl-negro/VC4A-20755330/p",
-      "store": "Carrefour",
-      "current_price": 22.99,
-      "original_price": 23.45,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/880750_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        22.8
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 22.92,
       "drop_pct": null
     },
     {
