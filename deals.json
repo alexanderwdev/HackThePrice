@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T13:52:43.008774+00:00",
-  "total_products": 970,
+  "updated": "2026-06-25T13:58:01.714727+00:00",
+  "total_products": 971,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -5557,6 +5557,23 @@
       "drop_pct": null
     },
     {
+      "name": "Corsair CX750 750 W 80 Plus Bronze",
+      "url": "https://www.pccomponentes.com/corsair-cx750-750-w-80-plus-bronze",
+      "store": "PcComponentes",
+      "current_price": 56.89,
+      "original_price": 69.38,
+      "discount_pct": 18.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1078/10789658/1376-corsair-cx750-750-w-80-plus-bronze.jpg",
+      "category": null,
+      "price_history": [
+        56.89
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil gaming - ASUS V16 V3607VM-RP010, 16\" WUXGA, Intel® Core™ 7 240H, 32GB RAM, 1 TB SSD, GeForce RTX™ 5060, Sin sistema operativo",
       "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-asus-v16-v3607vm-rp010-16-wuxga-intelr-coretm-7-240h-32gb-ram-1-tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1606647.html",
       "store": "MediaMarkt",
@@ -6000,8 +6017,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 346.93,
-      "drop_pct": 0.01
+      "prev_price": 346.91,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
@@ -6126,8 +6143,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 213.88,
-      "drop_pct": 0.01
+      "prev_price": 213.86,
+      "drop_pct": null
     },
     {
       "name": "Cecotec Aire Acondicionado Portátil Con Wifi Y Mando A Distancia Forceclima 7550 Style Connected. 7000 Btu, 14m2., White",
@@ -6809,8 +6826,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 854.17,
-      "drop_pct": 0.0
+      "prev_price": 854.15,
+      "drop_pct": null
     },
     {
       "name": "Altavoz Bluetooth JBL PartyBox On-The-Go 2, 100 W - Negro",
@@ -7991,7 +8008,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 1199.99,
       "drop_pct": null
     },
     {
@@ -8318,8 +8335,8 @@
       "name": "Funda Subblim con Teclado para Tablet 10.1\"",
       "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
       "store": "Carrefour",
-      "current_price": 21.79,
-      "original_price": 23.1,
+      "current_price": 21.97,
+      "original_price": 23.29,
       "discount_pct": 5.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
       "category": "Componentes",
@@ -8327,7 +8344,7 @@
         21.79
       ],
       "history_days": 1,
-      "is_lowest": true,
+      "is_lowest": false,
       "prev_price": 21.79,
       "drop_pct": null
     },
