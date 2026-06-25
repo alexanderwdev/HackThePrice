@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:36:25.969304+00:00",
+  "updated": "2026-06-25T13:41:45.261470+00:00",
   "total_products": 966,
   "deals": [
     {
@@ -7691,23 +7691,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.58,
-      "original_price": 179.35,
-      "discount_pct": 9.91,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.58
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 161.65,
-      "drop_pct": 0.04
-    },
-    {
       "name": "TP-LINK 24P Gigabit 1U 19 RACK MOUNT",
       "url": "https://www.coolmod.com/switch-tp-link-24p-gigabit-1u-19-rack-mount/",
       "store": "Coolmod",
@@ -8580,6 +8563,23 @@
       "is_lowest": true,
       "prev_price": 231.13,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.54,
+      "original_price": 164.77,
+      "discount_pct": 1.96,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.54
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 161.58,
+      "drop_pct": 0.02
     }
   ]
 }
