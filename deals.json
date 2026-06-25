@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T13:41:45.261470+00:00",
-  "total_products": 966,
+  "updated": "2026-06-25T13:47:34.684552+00:00",
+  "total_products": 967,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -2526,6 +2526,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 39.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Origial Airnature 3000 WiFi Aire Acondicionado Split 1x1 con Bomba de Calor 3000 Frigorías",
+      "url": "https://www.pccomponentes.com/origial-airnature-3000-wifi-aire-acondicionado-split-1x1-con-bomba-de-calor-3000-frigorias",
+      "store": "PcComponentes",
+      "current_price": 309.99,
+      "original_price": 462.67,
+      "discount_pct": 33.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10803915/1665-origial-airnature-3000-wifi-aire-acondicionado-split-1x1-con-bomba-de-calor-3000-frigorias-comprar.jpg",
+      "category": null,
+      "price_history": [
+        309.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5787,7 +5804,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 715.41,
       "drop_pct": null
     },
     {
@@ -8301,19 +8318,19 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1269.43,
-      "original_price": 1345.6,
+      "current_price": 1269.42,
+      "original_price": 1345.59,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
         1269.76,
-        1269.43
+        1269.42
       ],
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 1269.43,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Logitech G502 HERO RGB 25600 DPI - Raton Gaming",
@@ -8578,8 +8595,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 161.58,
-      "drop_pct": 0.02
+      "prev_price": 161.54,
+      "drop_pct": null
     }
   ]
 }
