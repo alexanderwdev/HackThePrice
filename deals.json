@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T13:47:34.684552+00:00",
-  "total_products": 967,
+  "updated": "2026-06-25T13:52:43.008774+00:00",
+  "total_products": 970,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -2865,24 +2865,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 159.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy A56 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a56-5g-256gb-8gb-ram-negro/VC4A-29998421/p",
-      "store": "Carrefour",
-      "current_price": 346.93,
-      "original_price": 499.0,
-      "discount_pct": 30.47,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561605_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        489.0,
-        346.93
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 346.93,
       "drop_pct": null
     },
     {
@@ -6004,6 +5986,24 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy A56 5G 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/samsung-galaxy-a56-5g-256gb-8gb-ram-negro/VC4A-29998421/p",
+      "store": "Carrefour",
+      "current_price": 346.91,
+      "original_price": 416.29,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561605_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        489.0,
+        346.91
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 346.93,
+      "drop_pct": 0.01
+    },
+    {
       "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-5g-256gb-8gb-ram-negro/VC4A-32395353/p",
       "store": "Carrefour",
@@ -6110,6 +6110,24 @@
       "is_lowest": false,
       "prev_price": 142.33,
       "drop_pct": null
+    },
+    {
+      "name": "Tablet Lenovo  IDea Tab, MediaTek Dimensity 6300, 8Gb Ram ,256 Gb, 11'', Pen, Android™ 15,",
+      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-256-gb-11-pen-android-15/VC4A-31455792/p",
+      "store": "Carrefour",
+      "current_price": 213.86,
+      "original_price": 256.63,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645087_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        213.86,
+        213.86
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 213.88,
+      "drop_pct": 0.01
     },
     {
       "name": "Cecotec Aire Acondicionado Portátil Con Wifi Y Mando A Distancia Forceclima 7550 Style Connected. 7000 Btu, 14m2., White",
@@ -6780,19 +6798,19 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 854.17,
+      "current_price": 854.15,
       "original_price": 999.99,
       "discount_pct": 14.58,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
       "category": null,
       "price_history": [
         854.63,
-        854.17
+        854.15
       ],
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 854.17,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Altavoz Bluetooth JBL PartyBox On-The-Go 2, 100 W - Negro",
@@ -7960,6 +7978,23 @@
       "drop_pct": null
     },
     {
+      "name": "GamePc Pro-A Ryzen 7-5700/16Gb/1Tb/Rtx 5060Nv/750W/Ref Liqu +/FreeDos - Sobremesa Gaming",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-ryzen-7-5700-16gb-1tb-rtx-5060nv-750w-ref-liqu-freedos-sobremesa-gaming/261507",
+      "store": "GAME",
+      "current_price": 1199.99,
+      "original_price": 1299.99,
+      "discount_pct": 7.69,
+      "image_url": "https://media.game.es/COVERV2/3D_L/261/261507.png",
+      "category": "Gaming",
+      "price_history": [
+        1199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "MOZA Racing R5 Bundle Direct Drive - Volante",
       "url": "https://www.game.es/accesorios/volante/pc-gaming/moza-racing-r5-bundle-direct-drive-volante/v1imkk",
       "store": "GAME",
@@ -8297,24 +8332,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
-      "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
-      "store": "Carrefour",
-      "current_price": 308.38,
-      "original_price": 326.88,
-      "discount_pct": 5.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        299.0,
-        308.38
-      ],
-      "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 308.38,
-      "drop_pct": null
-    },
-    {
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
@@ -8329,8 +8346,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 1269.43,
-      "drop_pct": 0.0
+      "prev_price": 1269.42,
+      "drop_pct": null
     },
     {
       "name": "Logitech G502 HERO RGB 25600 DPI - Raton Gaming",
