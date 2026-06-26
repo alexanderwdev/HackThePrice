@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T12:34:37.378238+00:00",
-  "total_products": 1050,
+  "updated": "2026-06-26T12:39:55.444931+00:00",
+  "total_products": 1051,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -960,7 +960,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 9.95,
       "drop_pct": null
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.14,
       "drop_pct": null
     },
     {
@@ -2484,6 +2484,25 @@
       "original_price": 128.77,
       "discount_pct": 34.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10865617/1668-origial-airbliss-ceiling-25wwood-wifi-ventilador-de-techo-132cm-motor-dc-25w-luz-y-wifi-madera.jpg",
+      "category": null,
+      "price_history": [
+        84.99,
+        84.99,
+        84.99
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 84.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Ventilador Levoit TempSense 36 DC 12 velocidades motor DC 20dBA control remoto",
+      "url": "https://www.pccomponentes.com/ventilador-levoit-tempsense-36-dc-12-velocidades-motor-dc-20dba-control-remoto",
+      "store": "PcComponentes",
+      "current_price": 84.99,
+      "original_price": 128.77,
+      "discount_pct": 34.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10888680/1972-ventilador-levoit-tempsense-36-dc-12-velocidades-motor-dc-20dba-control-remoto.jpg",
       "category": null,
       "price_history": [
         84.99,
@@ -7233,20 +7252,20 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 854.36,
+      "current_price": 854.34,
       "original_price": 999.99,
-      "discount_pct": 14.56,
+      "discount_pct": 14.57,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
       "category": null,
       "price_history": [
         854.63,
         854.15,
-        854.36
+        854.34
       ],
       "history_days": 3,
       "is_lowest": false,
       "prev_price": 854.36,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Altavoz Bluetooth JBL PartyBox On-The-Go 2, 100 W - Negro",
@@ -8378,20 +8397,20 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1268.94,
-      "original_price": 1345.08,
+      "current_price": 1268.93,
+      "original_price": 1345.07,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
         1269.76,
         1269.21,
-        1268.94
+        1268.93
       ],
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 1268.94,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Nintendo Switch 2 7.9\" FullHD HDR 120Hz 256GB Azul/Rojo + Pokemon Pokopia",
@@ -8536,8 +8555,8 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 161.71,
-      "drop_pct": 0.07
+      "prev_price": 161.6,
+      "drop_pct": null
     }
   ]
 }
