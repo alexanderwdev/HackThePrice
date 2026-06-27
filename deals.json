@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:50:25.530074+00:00",
+  "updated": "2026-06-27T13:55:37.388506+00:00",
   "total_products": 1091,
   "deals": [
     {
@@ -1651,19 +1651,19 @@
       "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
       "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
       "store": "Worten",
-      "current_price": 585.25,
-      "original_price": 944.0,
+      "current_price": 585.1,
+      "original_price": 943.76,
       "discount_pct": 38.0,
       "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
       "category": null,
       "price_history": [
         585.07,
-        585.25
+        585.1
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 585.1,
-      "drop_pct": null
+      "prev_price": 585.25,
+      "drop_pct": 0.03
     },
     {
       "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
@@ -7385,8 +7385,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 853.64,
-      "drop_pct": 0.0
+      "prev_price": 853.62,
+      "drop_pct": null
     },
     {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i5-13420H, 16GB, 512GB SSD, UHD Graphics, Windows 11 Home, Sin cargador",
@@ -8706,8 +8706,8 @@
       "name": "Memoria USB 256GB Sandisk Ultra Flair  - Plata",
       "url": "https://www.carrefour.es/memoria-usb-256gb-sandisk-ultra-flair-plata/VC4A-19432943/p",
       "store": "Carrefour",
-      "current_price": 46.05,
-      "original_price": 50.19,
+      "current_price": 50.8,
+      "original_price": 55.37,
       "discount_pct": 8.25,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/077941_00_1.jpg",
       "category": "Componentes",
@@ -8718,7 +8718,7 @@
         46.05
       ],
       "history_days": 4,
-      "is_lowest": true,
+      "is_lowest": false,
       "prev_price": 46.05,
       "drop_pct": null
     },
@@ -9227,8 +9227,8 @@
       "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
       "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
       "store": "Carrefour",
-      "current_price": 307.84,
-      "original_price": 326.31,
+      "current_price": 308.29,
+      "original_price": 326.79,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
       "category": "TV y Audio",
@@ -9247,8 +9247,8 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1268.34,
-      "original_price": 1344.44,
+      "current_price": 1268.33,
+      "original_price": 1344.43,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
@@ -9256,12 +9256,12 @@
         1269.76,
         1269.21,
         1268.92,
-        1268.34
+        1268.33
       ],
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 1268.34,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Tablet - Honor MagicPad 4, 12.3\" 3K, 12GB RAM, 256GB, Pantalla AMOLED, Snapdragon® 8 Gen 5, Incluye teclado y lápiz digital, Gris",
