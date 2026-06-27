@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:44:50.817108+00:00",
+  "updated": "2026-06-27T13:50:25.530074+00:00",
   "total_products": 1091,
   "deals": [
     {
@@ -180,6 +180,24 @@
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 9.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Mando Joy-Con con laterales izquierdo y derecho desmontables, inalámbrico y con Bluetooth. Stelasplen",
+      "url": "https://www.worten.es/productos/mando-joy-con-con-laterales-izquierdo-y-derecho-desmontables-inalambrico-y-con-bluetooth-stelasplen-mrkean-9054929230704",
+      "store": "Worten",
+      "current_price": 29.24,
+      "original_price": 87.72,
+      "discount_pct": 66.67,
+      "image_url": "https://www.worten.es/i/c72a03fa69e9b5a2ff6f772ebce3d0bbfd7c72ad",
+      "category": null,
+      "price_history": [
+        29.24,
+        29.24
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 29.24,
       "drop_pct": null
     },
     {
@@ -7354,7 +7372,7 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 853.64,
+      "current_price": 853.62,
       "original_price": 999.99,
       "discount_pct": 14.64,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
@@ -7363,12 +7381,12 @@
         854.63,
         854.15,
         854.24,
-        853.64
+        853.62
       ],
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 853.64,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i5-13420H, 16GB, 512GB SSD, UHD Graphics, Windows 11 Home, Sin cargador",
