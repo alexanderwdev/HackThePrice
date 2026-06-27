@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:05:45.654473+00:00",
+  "updated": "2026-06-27T14:11:14.645989+00:00",
   "total_products": 1092,
   "deals": [
     {
@@ -1107,7 +1107,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 56.99,
       "drop_pct": null
     },
     {
@@ -1645,6 +1645,24 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
+      "store": "Worten",
+      "current_price": 585.73,
+      "original_price": 944.87,
+      "discount_pct": 38.01,
+      "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
+      "category": null,
+      "price_history": [
+        585.07,
+        585.1
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 585.1,
+      "drop_pct": null
+    },
+    {
       "name": "Tempest Liquid Cooler Darken 360mm Kit Refrigeración Líquida Blanco",
       "url": "https://www.pccomponentes.com/tempest-liquid-cooler-darken-360mm-kit-refrigeracion-liquida-blanco",
       "store": "PcComponentes",
@@ -1662,24 +1680,6 @@
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 48.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
-      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
-      "store": "Worten",
-      "current_price": 585.1,
-      "original_price": 943.76,
-      "discount_pct": 38.0,
-      "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
-      "category": null,
-      "price_history": [
-        585.07,
-        585.1
-      ],
-      "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 585.1,
       "drop_pct": null
     },
     {
@@ -9136,8 +9136,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 373.24,
-      "drop_pct": 0.0
+      "prev_price": 373.23,
+      "drop_pct": null
     },
     {
       "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
