@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:11:14.645989+00:00",
+  "updated": "2026-06-27T14:16:56.450878+00:00",
   "total_products": 1092,
   "deals": [
     {
@@ -1648,8 +1648,8 @@
       "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
       "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
       "store": "Worten",
-      "current_price": 585.73,
-      "original_price": 944.87,
+      "current_price": 585.64,
+      "original_price": 944.68,
       "discount_pct": 38.01,
       "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
       "category": null,
@@ -1659,8 +1659,8 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 585.1,
-      "drop_pct": null
+      "prev_price": 585.73,
+      "drop_pct": 0.02
     },
     {
       "name": "Tempest Liquid Cooler Darken 360mm Kit Refrigeración Líquida Blanco",
@@ -2936,7 +2936,7 @@
       "name": "Samsung Galaxy A56 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/samsung-galaxy-a56-5g-256gb-8gb-ram-negro/VC4A-29998421/p",
       "store": "Carrefour",
-      "current_price": 346.52,
+      "current_price": 346.49,
       "original_price": 499.0,
       "discount_pct": 30.56,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/561605_00_1.jpg",
@@ -2945,12 +2945,12 @@
         489.0,
         346.84,
         346.7,
-        346.52
+        346.49
       ],
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 346.52,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
@@ -3623,26 +3623,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smartphone SAMSUNG Galaxy S26 (6.3'' - 12 GB - 256 GB - Azul Claro)",
-      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-s26-6-3-12-gb-256-gb-azul-claro-8759596",
-      "store": "Worten",
-      "current_price": 631.99,
-      "original_price": 869.0,
-      "discount_pct": 27.27,
-      "image_url": "https://www.worten.es/i/c2e41a1e3c0437f8c4428d4d6b72e84be9433643",
-      "category": null,
-      "price_history": [
-        633.99,
-        632.99,
-        631.99,
-        631.99
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 631.99,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung S24D302GAU 24\" LED IPS FullHD 100Hz",
       "url": "https://www.pccomponentes.com/monitor-samsung-s24d302gau-24-led-ips-fullhd-100hz",
       "store": "PcComponentes",
@@ -3719,6 +3699,26 @@
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 419.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone SAMSUNG Galaxy S26 (6.3'' - 12 GB - 256 GB - Azul Claro)",
+      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-s26-6-3-12-gb-256-gb-azul-claro-8759596",
+      "store": "Worten",
+      "current_price": 639.99,
+      "original_price": 869.0,
+      "discount_pct": 26.35,
+      "image_url": "https://www.worten.es/i/c2e41a1e3c0437f8c4428d4d6b72e84be9433643",
+      "category": null,
+      "price_history": [
+        633.99,
+        632.99,
+        631.99,
+        631.99
+      ],
+      "history_days": 4,
+      "is_lowest": false,
+      "prev_price": 631.99,
       "drop_pct": null
     },
     {
@@ -7716,25 +7716,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.51,
-      "original_price": 185.74,
-      "discount_pct": 13.05,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27,
-        161.34,
-        161.51
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 161.51,
-      "drop_pct": null
-    },
-    {
       "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
       "store": "Carrefour",
@@ -9514,6 +9495,25 @@
       "is_lowest": true,
       "prev_price": 659.99,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.47,
+      "original_price": 164.7,
+      "discount_pct": 1.96,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27,
+        161.34,
+        161.47
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 161.51,
+      "drop_pct": 0.02
     }
   ]
 }
