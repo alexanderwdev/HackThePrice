@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:55:37.388506+00:00",
+  "updated": "2026-06-27T14:00:40.731288+00:00",
   "total_products": 1091,
   "deals": [
     {
@@ -1662,8 +1662,8 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 585.25,
-      "drop_pct": 0.03
+      "prev_price": 585.1,
+      "drop_pct": null
     },
     {
       "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
@@ -7681,6 +7681,25 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.51,
+      "original_price": 185.74,
+      "discount_pct": 13.05,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27,
+        161.34,
+        161.51
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 161.58,
+      "drop_pct": 0.04
+    },
+    {
       "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
       "store": "Carrefour",
@@ -8719,7 +8738,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 46.05,
+      "prev_price": 50.8,
       "drop_pct": null
     },
     {
@@ -9240,15 +9259,15 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 307.84,
+      "prev_price": 308.29,
       "drop_pct": null
     },
     {
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1268.33,
-      "original_price": 1344.43,
+      "current_price": 1268.32,
+      "original_price": 1344.42,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
@@ -9256,11 +9275,11 @@
         1269.76,
         1269.21,
         1268.92,
-        1268.33
+        1268.32
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 1268.34,
+      "prev_price": 1268.33,
       "drop_pct": 0.0
     },
     {
@@ -9477,25 +9496,6 @@
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 659.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.58,
-      "original_price": 164.81,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27,
-        161.34,
-        161.58
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 161.58,
       "drop_pct": null
     }
   ]
