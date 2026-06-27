@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:16:56.450878+00:00",
+  "updated": "2026-06-27T14:22:20.503013+00:00",
   "total_products": 1092,
   "deals": [
     {
@@ -1659,8 +1659,8 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 585.73,
-      "drop_pct": 0.02
+      "prev_price": 585.64,
+      "drop_pct": null
     },
     {
       "name": "Tempest Liquid Cooler Darken 360mm Kit Refrigeración Líquida Blanco",
@@ -2949,8 +2949,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 346.52,
-      "drop_pct": 0.01
+      "prev_price": 346.49,
+      "drop_pct": null
     },
     {
       "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
@@ -3718,7 +3718,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 631.99,
+      "prev_price": 639.99,
       "drop_pct": null
     },
     {
@@ -7407,7 +7407,7 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 853.62,
+      "current_price": 853.6,
       "original_price": 999.99,
       "discount_pct": 14.64,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
@@ -7416,12 +7416,12 @@
         854.63,
         854.15,
         854.24,
-        853.62
+        853.6
       ],
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 853.62,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i5-13420H, 16GB, 512GB SSD, UHD Graphics, Windows 11 Home, Sin cargador",
@@ -9244,8 +9244,8 @@
       "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
       "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
       "store": "Carrefour",
-      "current_price": 308.29,
-      "original_price": 326.79,
+      "current_price": 308.11,
+      "original_price": 326.6,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
       "category": "TV y Audio",
@@ -9258,7 +9258,7 @@
       "history_days": 4,
       "is_lowest": false,
       "prev_price": 308.29,
-      "drop_pct": null
+      "drop_pct": 0.06
     },
     {
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
@@ -9512,8 +9512,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 161.51,
-      "drop_pct": 0.02
+      "prev_price": 161.47,
+      "drop_pct": null
     }
   ]
 }
