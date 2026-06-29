@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T21:09:12.464070+00:00",
-  "total_products": 626,
+  "updated": "2026-06-29T21:20:56.221109+00:00",
+  "total_products": 627,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -4117,6 +4117,23 @@
       "drop_pct": null
     },
     {
+      "name": "Corsair Vengeance DDR5 6000MHz 32GB 2x16GB CL30 Memoria Dual AMD EXPO e Intel XMP",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30-memoria-dual-amd-expo-e-intel-xmp",
+      "store": "PcComponentes",
+      "current_price": 482.99,
+      "original_price": 652.69,
+      "discount_pct": 26.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1076/10764411/1517-corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30.jpg",
+      "category": null,
+      "price_history": [
+        482.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV NeoQLED 55'' (139,7 cm) Samsung TQ55QN1EFAU con IA, 4K MiniLED, 120 Hz, NQ4 AI Gen2 Processor, Q-Symphony, OTS Lite",
       "url": "https://www.carrefour.es/smart-tv-neoqled-55-1397-cm-samsung-tq55qn1efau-con-ia-4k-miniled-120-hz-nq4-ai-gen2-processor-q-symphony-ots-lite/VC4A-31559720/p",
       "store": "Carrefour",
@@ -4521,7 +4538,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 429.99,
       "drop_pct": null
     },
     {
@@ -6344,23 +6361,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.64,
-      "original_price": 190.74,
-      "discount_pct": 15.26,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27
-      ],
-      "history_days": 1,
-      "is_lowest": false,
-      "prev_price": 161.64,
-      "drop_pct": null
-    },
-    {
       "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Lavanda",
       "url": "https://www.carrefour.es/apple-iphone-17-256-gb-63-pantalla-super-retina-xdr-chip-a19-lavanda/VC4A-31500636/p",
       "store": "Carrefour",
@@ -6765,7 +6765,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 854.99,
       "drop_pct": null
     },
     {
@@ -6782,7 +6782,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 854.99,
       "drop_pct": null
     },
     {
@@ -7296,6 +7296,23 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-negro/VC4A-31573271/p",
+      "store": "Carrefour",
+      "current_price": 233.0,
+      "original_price": 262.0,
+      "discount_pct": 11.07,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643866_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        228.66
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 228.66,
+      "drop_pct": null
+    },
+    {
       "name": "Meta Quest 3s Gafas De Realidad Virtual 256GB",
       "url": "https://www.pccomponentes.com/meta-quest-3s-gafas-de-realidad-virtual-256gb",
       "store": "PcComponentes",
@@ -7481,6 +7498,23 @@
       "is_lowest": true,
       "prev_price": 49.9,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.58,
+      "original_price": 179.35,
+      "discount_pct": 9.91,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27
+      ],
+      "history_days": 1,
+      "is_lowest": false,
+      "prev_price": 161.64,
+      "drop_pct": 0.04
     },
     {
       "name": "Portátil - ASUS Zenbook 14 OLED UX3405CA-QD1183, 14\" WUXGA, Intel® Core™ Ultra 7 255H, 16 GB RAM, 512 GB SSD, Arc™ 140V, SSO, Sin cargador",
@@ -7836,7 +7870,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 279.97,
       "drop_pct": null
     },
     {
@@ -8013,18 +8047,18 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1218.25,
-      "original_price": 1291.35,
+      "current_price": 1218.23,
+      "original_price": 1291.32,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        1218.25
+        1218.23
       ],
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1218.25,
-      "drop_pct": null
+      "drop_pct": 0.0
     },
     {
       "name": "GAMEPC PRO GIGABYTE Edition 25R560TC Ryzen 5 7600X - RTX 5060Ti 16GB - 32GB - 1TB SSD - Ordenador Sobremesa Gaming",
