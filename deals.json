@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T21:03:41.549278+00:00",
-  "total_products": 625,
+  "updated": "2026-06-29T21:09:12.464070+00:00",
+  "total_products": 626,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -458,8 +458,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 169.99,
-      "drop_pct": 0.58
+      "prev_price": 169.0,
+      "drop_pct": null
     },
     {
       "name": "Motorola Razr 50 Ultra 5G 12GB 512GB 6.9\" Melocotón",
@@ -1988,7 +1988,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -2702,7 +2702,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 1075.0,
+      "prev_price": 1141.66,
       "drop_pct": null
     },
     {
@@ -2736,7 +2736,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 316.15,
+      "prev_price": 316.45,
       "drop_pct": null
     },
     {
@@ -3569,7 +3569,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 699.95,
       "drop_pct": null
     },
     {
@@ -4100,6 +4100,23 @@
       "drop_pct": null
     },
     {
+      "name": "Monitor Acer SA242YH1BI 23.8\" FullHD 100Hz VA Tiempo de Respuesta 4ms",
+      "url": "https://www.pccomponentes.com/monitor-acer-sa242yh1bi-23-8-fullhd-100hz-va-tiempo-de-respuesta-4ms",
+      "store": "PcComponentes",
+      "current_price": 59.0,
+      "original_price": 79.73,
+      "discount_pct": 26.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10966600/1538-monitor-acer-sa242yh1bi-238-fullhd-100hz-va-tiempo-de-respuesta-4ms-review.jpg",
+      "category": null,
+      "price_history": [
+        59.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV NeoQLED 55'' (139,7 cm) Samsung TQ55QN1EFAU con IA, 4K MiniLED, 120 Hz, NQ4 AI Gen2 Processor, Q-Symphony, OTS Lite",
       "url": "https://www.carrefour.es/smart-tv-neoqled-55-1397-cm-samsung-tq55qn1efau-con-ia-4k-miniled-120-hz-nq4-ai-gen2-processor-q-symphony-ots-lite/VC4A-31559720/p",
       "store": "Carrefour",
@@ -4572,8 +4589,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 676.74,
-      "drop_pct": 4.27
+      "prev_price": 647.81,
+      "drop_pct": null
     },
     {
       "name": "PcCom Ready Intel Core i7-14700KF / 32GB / 2TB SSD / RTX 5060 Ti 16GB V2 / Windows 11 Home",
@@ -4810,7 +4827,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 169.9,
       "drop_pct": null
     },
     {
@@ -5014,7 +5031,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 159.0,
       "drop_pct": null
     },
     {
@@ -5983,8 +6000,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 124.99,
-      "drop_pct": 0.01
+      "prev_price": 124.98,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB + 8GB RAM - Negro",
@@ -6034,8 +6051,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 178.44,
-      "drop_pct": 0.09
+      "prev_price": 178.28,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 128GB + 6GB RAM - Negro",
@@ -6119,7 +6136,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 594.96,
+      "prev_price": 594.97,
       "drop_pct": null
     },
     {
@@ -6340,7 +6357,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 161.27,
+      "prev_price": 161.64,
       "drop_pct": null
     },
     {
@@ -6697,7 +6714,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 594.15,
       "drop_pct": null
     },
     {
@@ -6731,8 +6748,8 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 855.0,
-      "drop_pct": 0.02
+      "prev_price": 854.82,
+      "drop_pct": null
     },
     {
       "name": "Apple iPhone 17 5g 256gb Negro",
@@ -7054,7 +7071,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 1299.0,
       "drop_pct": null
     },
     {
@@ -7275,7 +7292,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 459.99,
+      "prev_price": 487.08,
       "drop_pct": null
     },
     {
@@ -7547,7 +7564,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.95,
       "drop_pct": null
     },
     {
@@ -7853,8 +7870,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 372.4,
-      "drop_pct": 0.02
+      "prev_price": 372.34,
+      "drop_pct": null
     },
     {
       "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
@@ -7989,7 +8006,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 308.11,
+      "prev_price": 312.68,
       "drop_pct": null
     },
     {
@@ -8006,8 +8023,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1267.2,
-      "drop_pct": 3.86
+      "prev_price": 1218.25,
+      "drop_pct": null
     },
     {
       "name": "GAMEPC PRO GIGABYTE Edition 25R560TC Ryzen 5 7600X - RTX 5060Ti 16GB - 32GB - 1TB SSD - Ordenador Sobremesa Gaming",
