@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T21:22:31.074071+00:00",
-  "total_products": 728,
+  "updated": "2026-07-01T23:06:51.030492+00:00",
+  "total_products": 731,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1782947122",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -22,13 +22,32 @@
       "drop_pct": null
     },
     {
+      "name": "Lavadora KUNFT KWM10311 (6 kg - 1200 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-kunft-kwm10311-6-kg-1200-rpm-blanco-8590625",
+      "store": "Worten",
+      "current_price": 189.98,
+      "original_price": 999.0,
+      "discount_pct": 80.98,
+      "image_url": "https://www.worten.es/i/d8ec8d46d445f78424aa43b9425929f9f9f33204",
+      "category": null,
+      "price_history": [
+        199.99,
+        189.98,
+        189.98
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 189.98,
+      "drop_pct": null
+    },
+    {
       "name": "Cherry MC1000 1200Dpi Negro",
       "url": "https://www.coolmod.com/cherry-mc1000-1200dpi-negro-ratan/",
       "store": "Coolmod",
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1782947122",
       "category": "Ratones",
       "price_history": [
         3.95,
@@ -64,7 +83,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1782947122",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -112,6 +131,23 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 31.6,
+      "drop_pct": null
+    },
+    {
+      "name": "Máquina de Sentadillas y Remada MERACH, Resistencia Ajustable, Plegable, Pantalla LCD, Asas Ergonómicas, Máx. 160 kg, para Abdominales, Piernas, Espalda",
+      "url": "https://www.worten.es/productos/maquina-de-sentadillas-y-remada-merach-resistencia-ajustable-plegable-pantalla-lcd-asas-ergonomicas-max-160-kg-para-abdominales-piernas-espalda-mrkean-6978235144834",
+      "store": "Worten",
+      "current_price": 49.99,
+      "original_price": 169.99,
+      "discount_pct": 70.59,
+      "image_url": "https://www.worten.es/i/e389c86a3c0cccae19c931c4ab267002d1377aac",
+      "category": null,
+      "price_history": [
+        49.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -172,13 +208,30 @@
       "drop_pct": null
     },
     {
+      "name": "Smartphone VIVO Y76 5G (6.56'' - 8 GB - 256 GB - Medianoche)",
+      "url": "https://www.worten.es/productos/smartphone-vivo-y76-5g-6-56-8-gb-256-gb-medianoche-7552741",
+      "store": "Worten",
+      "current_price": 121.9,
+      "original_price": 329.0,
+      "discount_pct": 62.95,
+      "image_url": "https://www.worten.es/i/35f6e214c58cd7dd9085d6a7d313849c49a8227b",
+      "category": null,
+      "price_history": [
+        121.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Bitspower No Chafán Rigído Latón 16MM AD 300mm Rojo - Tubo",
       "url": "https://www.coolmod.com/bitspower-no-chafan-rigido-laton-16mm-ad-300mm-rojo-tubo/",
       "store": "Coolmod",
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1782947122",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -197,7 +250,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1782947122",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -216,7 +269,7 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1782947122",
       "category": "Cables Red",
       "price_history": [
         2.95,
@@ -302,30 +355,13 @@
       "drop_pct": null
     },
     {
-      "name": "Barra de Sonido Inalámbrica LG DS30A - Negro",
-      "url": "https://www.carrefour.es/barra-de-sonido-inalambrica-lg-ds30a-negro/VC4A-33843625/p",
-      "store": "Carrefour",
-      "current_price": 99.0,
-      "original_price": 199.0,
-      "discount_pct": 50.25,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/725139_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        99.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 99.0,
-      "drop_pct": null
-    },
-    {
       "name": "Intenso Ultra Line USB 3.0 128GB Gris",
       "url": "https://www.coolmod.com/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris/",
       "store": "Coolmod",
       "current_price": 9.95,
       "original_price": 19.95,
       "discount_pct": 50.13,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1782947122",
       "category": "Almacenamiento",
       "price_history": [
         9.95,
@@ -775,7 +811,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1782947122",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -870,7 +906,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1782947122",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -1039,7 +1075,7 @@
       "current_price": 7.95,
       "original_price": 12.95,
       "discount_pct": 38.61,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1782947122",
       "category": "Compuestos Térmicos",
       "price_history": [
         7.95,
@@ -1049,6 +1085,23 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 7.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Central Eléctrica Portátil Oukitel P1000 Plus 1800w 1024wh Generador Solar Con Batería Lifepo4 Carga Rápida Control Inteligente App",
+      "url": "https://www.worten.es/productos/central-electrica-portatil-oukitel-p1000-plus-1800w-1024wh-generador-solar-con-bateria-lifepo4-carga-rapida-control-inteligente-app-mrkean-0631514728816",
+      "store": "Worten",
+      "current_price": 368.0,
+      "original_price": 599.0,
+      "discount_pct": 38.56,
+      "image_url": "https://www.worten.es/i/b0b68b60be18eaee806b895c42d672b90c7bfe06",
+      "category": null,
+      "price_history": [
+        368.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1085,25 +1138,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 159.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares de Diadema JBL Tune 720BT - Negro",
-      "url": "https://www.carrefour.es/auriculares-de-diadema-jbl-tune-720bt-negro/VC4A-23248733/p",
-      "store": "Carrefour",
-      "current_price": 50.0,
-      "original_price": 79.99,
-      "discount_pct": 37.49,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/198199_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        49.0,
-        59.9,
-        50.0
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 50.0,
       "drop_pct": null
     },
     {
@@ -1372,13 +1406,31 @@
       "drop_pct": null
     },
     {
+      "name": "Frigorífico Combi HISENSE RB390N4AWE (No Frost - 186 cm - 304 L - Blanco)",
+      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb390n4awe-no-frost-186-cm-304-l-blanco-7730343",
+      "store": "Worten",
+      "current_price": 439.99,
+      "original_price": 679.99,
+      "discount_pct": 35.29,
+      "image_url": "https://www.worten.es/i/8f8023a4c55f7a0d5e59f9b28e19790973fd579a",
+      "category": null,
+      "price_history": [
+        407.0,
+        439.99
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 439.99,
+      "drop_pct": null
+    },
+    {
       "name": "approx! APPPCIE4 USB",
       "url": "https://www.coolmod.com/approx-apppcie4-usb-tarjeta-pci/",
       "store": "Coolmod",
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1782947122",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -1454,7 +1506,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1782947122",
       "category": "Compuestos Térmicos",
       "price_history": [
         9.95,
@@ -1473,7 +1525,7 @@
       "current_price": 19.95,
       "original_price": 29.95,
       "discount_pct": 33.39,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1782947122",
       "category": "Repetidores",
       "price_history": [
         20.95,
@@ -1578,25 +1630,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 45.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Conjunto de mesa BORA BORA (1,8m) + 2 bancos",
-      "url": "https://www.worten.es/productos/conjunto-de-mesa-bora-bora-1-8m-2-bancos-mrkean-5600944708441",
-      "store": "Worten",
-      "current_price": 99.99,
-      "original_price": 149.99,
-      "discount_pct": 33.34,
-      "image_url": "https://www.worten.es/i/1822678b7fec4d658ff33ec8b96868050612d65d",
-      "category": null,
-      "price_history": [
-        99.99,
-        99.99,
-        99.99
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 99.99,
       "drop_pct": null
     },
     {
@@ -1758,7 +1791,7 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1782947122",
       "category": "Compuestos Térmicos",
       "price_history": [
         14.95,
@@ -1806,6 +1839,24 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 479.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavadora BALAY 3TS382B (8 kg - 1200 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-balay-3ts382b-8-kg-1200-rpm-blanco-8617625",
+      "store": "Worten",
+      "current_price": 456.42,
+      "original_price": 664.7,
+      "discount_pct": 31.33,
+      "image_url": "https://www.worten.es/i/a0dc32136e8590c1aa8370db571e19d5857077b9",
+      "category": null,
+      "price_history": [
+        456.42,
+        456.42
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 456.42,
       "drop_pct": null
     },
     {
@@ -2201,6 +2252,25 @@
       "drop_pct": null
     },
     {
+      "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html",
+      "store": "MediaMarkt",
+      "current_price": 115.0,
+      "original_price": 159.9,
+      "discount_pct": 28.08,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135782229",
+      "category": null,
+      "price_history": [
+        115.0,
+        115.0,
+        115.0
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 115.0,
+      "drop_pct": null
+    },
+    {
       "name": "TV TCL 55C71K 55\" (139,7 cm), MiniLED, 4K UHD, 144 Hz, Smart TV, AiPQ Pro Processor, Dolby AC4 Dolby TrueHD, Quantum Dot",
       "url": "https://www.carrefour.es/tv-tcl-55c71k-55-1397-cm-miniled-4k-uhd-144-hz-smart-tv-aipq-pro-processor-dolby-ac4-dolby-truehd-quantum-dot/VC4A-30937039/p",
       "store": "Carrefour",
@@ -2226,7 +2296,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1782947122",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -2435,7 +2505,7 @@
       "current_price": 2.95,
       "original_price": 3.95,
       "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1782947122",
       "category": "Cables Vídeo",
       "price_history": [
         2.95,
@@ -2445,6 +2515,25 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 2.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Auriculares de Diadema JBL Tune 720BT - Negro",
+      "url": "https://www.carrefour.es/auriculares-de-diadema-jbl-tune-720bt-negro/VC4A-23248733/p",
+      "store": "Carrefour",
+      "current_price": 59.9,
+      "original_price": 79.99,
+      "discount_pct": 25.12,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/198199_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        49.0,
+        59.9,
+        50.0
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 50.0,
       "drop_pct": null
     },
     {
@@ -2492,7 +2581,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1782947122",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -2644,7 +2733,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1782947122",
       "category": "Hubs",
       "price_history": [
         22.95,
@@ -3150,7 +3239,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1782947122",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -3917,24 +4006,6 @@
       "drop_pct": null
     },
     {
-      "name": "Memoria USB 256GB Sandisk Ultra Flair  - Plata",
-      "url": "https://www.carrefour.es/memoria-usb-256gb-sandisk-ultra-flair-plata/VC4A-19432943/p",
-      "store": "Carrefour",
-      "current_price": 46.1,
-      "original_price": 55.32,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/077941_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        46.05,
-        46.1
-      ],
-      "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 50.67,
-      "drop_pct": 9.02
-    },
-    {
       "name": "Adaptador de corriente USB-C Apple 20W - Blanco",
       "url": "https://www.carrefour.es/adaptador-de-corriente-usb-c-apple-20w-blanco/VC4A-30363173/p",
       "store": "Carrefour",
@@ -4014,7 +4085,7 @@
       "current_price": 15.95,
       "original_price": 18.95,
       "discount_pct": 15.83,
-      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1782947122",
       "category": "Pantallas/Accesorios",
       "price_history": [
         15.95,
@@ -4023,25 +4094,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 15.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavavajilla SAMSUNG DW60A6092FS/ET (14 Cubiertos - 59.8 cm - Inox)",
-      "url": "https://www.worten.es/productos/lavavajilla-samsung-dw60a6092fs-et-14-cubiertos-59-8-cm-inox-7854074",
-      "store": "Worten",
-      "current_price": 399.99,
-      "original_price": 475.15,
-      "discount_pct": 15.82,
-      "image_url": "https://www.worten.es/i/57badd9f4e67a81a2e18fcf46236af501ae48c38",
-      "category": null,
-      "price_history": [
-        399.99,
-        399.99,
-        399.99
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 399.99,
       "drop_pct": null
     },
     {
@@ -4127,7 +4179,7 @@
       "current_price": 168.95,
       "original_price": 199.95,
       "discount_pct": 15.5,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1782947122",
       "category": "Monitores",
       "price_history": [
         128.95,
@@ -4532,7 +4584,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 594.47,
+      "prev_price": 594.5,
       "drop_pct": null
     },
     {
@@ -4818,6 +4870,24 @@
       "drop_pct": null
     },
     {
+      "name": "iPhone 17 APPLE (6.3'' - 256 GB - Azul neblina)",
+      "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-azul-neblina-8600280",
+      "store": "Worten",
+      "current_price": 868.84,
+      "original_price": 999.99,
+      "discount_pct": 13.12,
+      "image_url": "https://www.worten.es/i/da4fdfecc604a262b7ecb7046a150a9398d1e550",
+      "category": null,
+      "price_history": [
+        868.84,
+        868.84
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 868.84,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV QLED 55\" (139,7 cm) Samsung TQ55Q6FAAU, 4K UHD, 50 Hz, Mega Contrast, Quantum HDR, Quantum Dot",
       "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-samsung-tq55q6faau-4k-uhd-50-hz-mega-contrast-quantum-hdr-quantum-dot/VC4A-32453299/p",
       "store": "Carrefour",
@@ -4919,7 +4989,7 @@
       "current_price": 788.95,
       "original_price": 899.95,
       "discount_pct": 12.33,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1782947122",
       "category": "Monitores",
       "price_history": [
         358.95,
@@ -5046,23 +5116,6 @@
       "drop_pct": null
     },
     {
-      "name": "Horno BALAY 3HB5159B4 Multifunciones (71 L - 59,4 cm - Hidrolítico - Blanco)",
-      "url": "https://www.worten.es/productos/horno-balay-3hb5159b4-multifunciones-71-l-59-4-cm-hidrolitico-blanco-8620683",
-      "store": "Worten",
-      "current_price": 411.79,
-      "original_price": 463.99,
-      "discount_pct": 11.25,
-      "image_url": "https://www.worten.es/i/e7aa5dd7d999b4606e752eb87fcd0c155870c942",
-      "category": null,
-      "price_history": [
-        411.79
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor gaming - Acer Nitro KG243YX1BMIPX, 24\" Full-HD, 200 Hz, 1 ms, IPS, FreeSync Premium, Altavoces integrados, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-acer-nitro-kg243yx1bmipx-24-full-hd-200-hz-1-ms-ips-freesync-premium-altavoces-integrados-negro-1593875.html",
       "store": "MediaMarkt",
@@ -5164,7 +5217,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1782947122",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -5236,20 +5289,20 @@
       "name": "Microcadena PHILIPS TAM4205",
       "url": "https://www.worten.es/productos/microcadena-philips-tam4205-7333107",
       "store": "Worten",
-      "current_price": 178.44,
-      "original_price": 198.27,
+      "current_price": 178.31,
+      "original_price": 198.12,
       "discount_pct": 10.0,
       "image_url": "https://www.worten.es/i/7d61c3a4860cb636470bc31e0764d85e46ec55cc",
       "category": null,
       "price_history": [
         178.73,
         178.73,
-        178.44
+        178.31
       ],
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 178.44,
-      "drop_pct": null
+      "drop_pct": 0.07
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5287,6 +5340,24 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 28.34,
+      "drop_pct": null
+    },
+    {
+      "name": "Soporte de TV ONE FOR ALL WM4611 (Fijo - 32'' a 90'' - Hasta 100 kg)",
+      "url": "https://www.worten.es/productos/soporte-de-tv-one-for-all-wm4611-fijo-32-a-90-hasta-100-kg-5922174",
+      "store": "Worten",
+      "current_price": 37.45,
+      "original_price": 41.61,
+      "discount_pct": 10.0,
+      "image_url": "https://www.worten.es/i/68e90f0186b20851bd57b9234dbe823516b15a68",
+      "category": null,
+      "price_history": [
+        37.51,
+        37.45
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 37.45,
       "drop_pct": null
     },
     {
@@ -5345,25 +5416,6 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html",
-      "store": "MediaMarkt",
-      "current_price": 115.0,
-      "original_price": 127.0,
-      "discount_pct": 9.45,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135782229",
-      "category": null,
-      "price_history": [
-        115.0,
-        115.0,
-        115.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 115.0,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor - PEAQ PMO S225-VFC, 22\" Full-HD, 75 Hz, 6 ms, VA (Alineación Vertical), Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s225-vfc-22-full-hd-75-hz-6-ms-va-alineacion-vertical-negro-1602476.html",
       "store": "MediaMarkt",
@@ -5402,6 +5454,25 @@
       "drop_pct": null
     },
     {
+      "name": "Lavasecadora SAMSUNG WD90HG5U34BEEC (9/6 kg - 1400 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavasecadora-samsung-wd90hg5u34beec-9-6-kg-1400-rpm-blanco-8898650",
+      "store": "Worten",
+      "current_price": 499.98,
+      "original_price": 549.99,
+      "discount_pct": 9.09,
+      "image_url": "https://www.worten.es/i/a233f2b1bb421f60c3a2bd26f74c3f8bed90ae23",
+      "category": null,
+      "price_history": [
+        499.98,
+        499.98,
+        499.98
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 499.98,
+      "drop_pct": null
+    },
+    {
       "name": "GamePc Player-A I5-12400/16Gb/1Tb/Rtx 5050Nv/750W/ref Liquida/FreeDos - Sobremesa Gaming",
       "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-player-a-i5-12400-16gb-1tb-rtx-5050nv-750w-ref-liquida-freedos-sobremesa-gaming/261515",
       "store": "GAME",
@@ -5421,13 +5492,31 @@
       "drop_pct": null
     },
     {
+      "name": "Memoria USB 256GB Sandisk Ultra Flair  - Plata",
+      "url": "https://www.carrefour.es/memoria-usb-256gb-sandisk-ultra-flair-plata/VC4A-19432943/p",
+      "store": "Carrefour",
+      "current_price": 46.05,
+      "original_price": 50.19,
+      "discount_pct": 8.25,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/077941_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        46.05,
+        46.05
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 46.1,
+      "drop_pct": 0.11
+    },
+    {
       "name": "Thermal Grizzly Kryonaut 3 ml",
       "url": "https://www.coolmod.com/thermal-grizzly-kryonaut-3-ml-pasta-tarmica/",
       "store": "Coolmod",
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782940858",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1782947122",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95,
@@ -5610,24 +5699,6 @@
       "drop_pct": null
     },
     {
-      "name": "Frigorífico Combi KUBO KBC8958WH (No Frost - 185 cm - 304 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-kubo-kbc8958wh-no-frost-185-cm-304-l-blanco-7814696",
-      "store": "Worten",
-      "current_price": 299.99,
-      "original_price": 319.99,
-      "discount_pct": 6.25,
-      "image_url": "https://www.worten.es/i/0aae9e6f2def2b8e83bce0ff70c8b674631b49c7",
-      "category": null,
-      "price_history": [
-        299.99,
-        299.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 299.99,
-      "drop_pct": null
-    },
-    {
       "name": "Apple iPhone 15 128GB 5G - Negro",
       "url": "https://www.carrefour.es/apple-iphone-15-128gb-5g-negro/VC4A-24304250/p",
       "store": "Carrefour",
@@ -5687,19 +5758,19 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1209.57,
-      "original_price": 1282.14,
+      "current_price": 1209.53,
+      "original_price": 1282.1,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
         1218.14,
         1210.07,
-        1209.57
+        1209.53
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 1209.6,
+      "prev_price": 1209.57,
       "drop_pct": 0.0
     },
     {
@@ -5758,6 +5829,23 @@
       "drop_pct": null
     },
     {
+      "name": "TP-Llink AV500 Nano - PowerLine",
+      "url": "https://www.coolmod.com/tp-llink-av500-nano-powerline/",
+      "store": "Coolmod",
+      "current_price": 38.95,
+      "original_price": 39.95,
+      "discount_pct": 2.5,
+      "image_url": "https://www.coolmod.com/images/product/normal/kit-powerline-tp-llink-av500-nano-starter-kit-001.jpg?v=1782947122",
+      "category": "Home Plug",
+      "price_history": [
+        38.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 38.95,
+      "drop_pct": null
+    },
+    {
       "name": "GamePc Pro-A R7-5700/32Gb/1Tb/Rtx 5070Nv/750W/Ref Liquida+/FreeDos - Sobremesa Gaming",
       "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-r7-5700-32gb-1tb-rtx-5070nv-750w-ref-liquida-freedos-sobremesa-gaming/261510",
       "store": "GAME",
@@ -5774,25 +5862,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 1759.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.7,
-      "original_price": 164.93,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27,
-        161.28,
-        161.32
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 161.32,
       "drop_pct": null
     }
   ]
