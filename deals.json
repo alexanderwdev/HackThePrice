@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:47:38.975768+00:00",
+  "updated": "2026-07-01T12:53:16.095239+00:00",
   "total_products": 708,
   "deals": [
     {
@@ -300,7 +300,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.0,
       "drop_pct": null
     },
     {
@@ -374,7 +374,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 19.99,
       "drop_pct": null
     },
     {
@@ -391,7 +391,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 19.99,
       "drop_pct": null
     },
     {
@@ -657,8 +657,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 429.0,
-      "drop_pct": 0.23
+      "prev_price": 428.0,
+      "drop_pct": null
     },
     {
       "name": "Razer Basilisk V3 USB A - Optico 26000 DPI - Raton Gaming",
@@ -674,7 +674,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.99,
       "drop_pct": null
     },
     {
@@ -1018,25 +1018,6 @@
       "drop_pct": null
     },
     {
-      "name": "Cámara KODAK PIXPRO FZ55",
-      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-8296754",
-      "store": "Worten",
-      "current_price": 159.0,
-      "original_price": 256.45,
-      "discount_pct": 38.0,
-      "image_url": "https://www.worten.es/i/108e3b59390738091c6dc70c2f8fe08099395ae6",
-      "category": null,
-      "price_history": [
-        159.0,
-        159.0,
-        159.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 169.0,
-      "drop_pct": 5.92
-    },
-    {
       "name": "Auriculares de Diadema JBL Tune 720BT - Negro",
       "url": "https://www.carrefour.es/auriculares-de-diadema-jbl-tune-720bt-negro/VC4A-23248733/p",
       "store": "Carrefour",
@@ -1223,7 +1204,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 20.98,
+      "prev_price": 23.98,
       "drop_pct": null
     },
     {
@@ -1946,6 +1927,25 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara KODAK PIXPRO FZ55",
+      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-8296754",
+      "store": "Worten",
+      "current_price": 169.0,
+      "original_price": 241.65,
+      "discount_pct": 30.06,
+      "image_url": "https://www.worten.es/i/108e3b59390738091c6dc70c2f8fe08099395ae6",
+      "category": null,
+      "price_history": [
+        159.0,
+        159.0,
+        159.0
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 159.0,
+      "drop_pct": null
+    },
+    {
       "name": "Auriculares JBL Sense Lite - Negro",
       "url": "https://www.carrefour.es/auriculares-jbl-sense-lite-negro/VC4A-32395378/p",
       "store": "Carrefour",
@@ -2092,7 +2092,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 159.0,
       "drop_pct": null
     },
     {
@@ -2128,7 +2128,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.98,
       "drop_pct": null
     },
     {
@@ -2546,7 +2546,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 227.88,
+      "prev_price": 227.9,
       "drop_pct": null
     },
     {
@@ -2734,7 +2734,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 349.9,
       "drop_pct": null
     },
     {
@@ -2865,8 +2865,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 316.15,
-      "drop_pct": 0.21
+      "prev_price": 315.49,
+      "drop_pct": null
     },
     {
       "name": "APPLE Watch Series 11 GPS 46 mm Gris Espacial Aluminio con Correa Deportiva Negro (Tamaño M/L)",
@@ -3240,7 +3240,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 199.98,
       "drop_pct": null
     },
     {
@@ -3257,7 +3257,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 127.2,
       "drop_pct": null
     },
     {
@@ -3751,8 +3751,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 178.15,
-      "drop_pct": 0.02
+      "prev_price": 178.12,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 128GB + 6GB RAM - Negro",
@@ -3770,8 +3770,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 166.1,
-      "drop_pct": 0.01
+      "prev_price": 166.09,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
@@ -3865,8 +3865,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 186.15,
-      "drop_pct": 0.61
+      "prev_price": 185.02,
+      "drop_pct": null
     },
     {
       "name": "Tablet Lenovo  IDea Tab, MediaTek Dimensity 6300, 8Gb Ram ,256 Gb, 11'', Pen, Android™ 15,",
@@ -3940,8 +3940,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 159.15,
-      "drop_pct": 0.63
+      "prev_price": 158.15,
+      "drop_pct": null
     },
     {
       "name": "Soporte Proyector Tooq PJ1010TN-B - Giratorio/Inclinable - Negro",
@@ -4053,7 +4053,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 128.95,
+      "prev_price": 168.95,
       "drop_pct": null
     },
     {
@@ -4300,7 +4300,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 124.9,
+      "prev_price": 135.15,
       "drop_pct": null
     },
     {
@@ -4475,7 +4475,7 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
-      "current_price": 854.6,
+      "current_price": 854.58,
       "original_price": 999.99,
       "discount_pct": 14.54,
       "image_url": "https://www.worten.es/i/d58243e0ef513d48a7a31186460fcc5ad82a6f7e",
@@ -4483,12 +4483,12 @@
       "price_history": [
         854.4,
         854.36,
-        854.6
+        854.58
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 854.94,
-      "drop_pct": 0.04
+      "prev_price": 854.6,
+      "drop_pct": 0.0
     },
     {
       "name": "Iphone 17 256gb Lavanda Lavanda Apple",
@@ -4865,7 +4865,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 358.95,
+      "prev_price": 788.95,
       "drop_pct": null
     },
     {
@@ -4903,8 +4903,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 236.99,
-      "drop_pct": 0.42
+      "prev_price": 236.0,
+      "drop_pct": null
     },
     {
       "name": "Smart TV 43″ Stream System Google TV, 5 Años De Garantía – Full HD, Android 14, Frameless (sin Marco)",
@@ -5149,8 +5149,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 178.73,
-      "drop_pct": 0.16
+      "prev_price": 178.44,
+      "drop_pct": null
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5240,7 +5240,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 128.05,
       "drop_pct": null
     },
     {
@@ -5353,7 +5353,7 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 46.05,
+      "prev_price": 50.78,
       "drop_pct": null
     },
     {
@@ -5623,20 +5623,20 @@
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
-      "current_price": 1209.77,
-      "original_price": 1282.36,
+      "current_price": 1209.76,
+      "original_price": 1282.35,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
         1218.14,
         1210.07,
-        1209.77
+        1209.76
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 1210.04,
-      "drop_pct": 0.02
+      "prev_price": 1209.77,
+      "drop_pct": 0.0
     },
     {
       "name": "GamePc Pro Gigabyte Edit. 25R560TC Ryzen 5 7600X/32Gb/1Tb/RTX 5060Ti - Sobremesa Gaming",
@@ -5652,7 +5652,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 1799.99,
       "drop_pct": null
     },
     {
@@ -5707,7 +5707,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 38.95,
       "drop_pct": null
     },
     {
@@ -5733,8 +5733,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 164.01,
-      "original_price": 167.29,
+      "current_price": 163.97,
+      "original_price": 167.25,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -5745,8 +5745,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 161.32,
-      "drop_pct": null
+      "prev_price": 164.01,
+      "drop_pct": 0.02
     }
   ]
 }
