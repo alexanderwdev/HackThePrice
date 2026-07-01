@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:53:16.095239+00:00",
+  "updated": "2026-07-01T12:58:20.599983+00:00",
   "total_products": 708,
   "deals": [
     {
@@ -1302,6 +1302,25 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
+      "store": "Worten",
+      "current_price": 597.63,
+      "original_price": 921.55,
+      "discount_pct": 35.15,
+      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
+      "category": null,
+      "price_history": [
+        590.97,
+        606.06,
+        597.63
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 606.06,
+      "drop_pct": 1.39
+    },
+    {
       "name": "approx! APPPCIE4 USB",
       "url": "https://www.coolmod.com/approx-apppcie4-usb-tarjeta-pci/",
       "store": "Coolmod",
@@ -1604,6 +1623,25 @@
       "is_lowest": true,
       "prev_price": 649.99,
       "drop_pct": null
+    },
+    {
+      "name": "Smartphone SAMSUNG Galaxy A57 5G (6.7” - 8 GB - 128 GB - Azul Oscuro)",
+      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-a57-5g-6-7-8-gb-128-gb-azul-oscuro-8790754",
+      "store": "Worten",
+      "current_price": 315.48,
+      "original_price": 469.0,
+      "discount_pct": 32.73,
+      "image_url": "https://www.worten.es/i/0925d2ef9c0dfb14aaf1eedb5e27d9448222fccf",
+      "category": null,
+      "price_history": [
+        316.15,
+        316.15,
+        315.48
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 315.49,
+      "drop_pct": 0.0
     },
     {
       "name": "Monitor Acer EK221QH, Full HD LED, 21,5\" - 54,61 cm, 5ms 75Hz FreeSync ZeroFrame",
@@ -1942,7 +1980,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 159.0,
+      "prev_price": 169.0,
       "drop_pct": null
     },
     {
@@ -2847,25 +2885,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 549.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartphone SAMSUNG Galaxy A57 5G (6.7” - 8 GB - 128 GB - Azul Oscuro)",
-      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-a57-5g-6-7-8-gb-128-gb-azul-oscuro-8790754",
-      "store": "Worten",
-      "current_price": 315.49,
-      "original_price": 400.0,
-      "discount_pct": 21.13,
-      "image_url": "https://www.worten.es/i/0925d2ef9c0dfb14aaf1eedb5e27d9448222fccf",
-      "category": null,
-      "price_history": [
-        316.15,
-        316.15,
-        315.49
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 315.49,
       "drop_pct": null
     },
     {
@@ -4487,8 +4506,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 854.6,
-      "drop_pct": 0.0
+      "prev_price": 854.58,
+      "drop_pct": null
     },
     {
       "name": "Iphone 17 256gb Lavanda Lavanda Apple",
@@ -5635,8 +5654,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 1209.77,
-      "drop_pct": 0.0
+      "prev_price": 1209.76,
+      "drop_pct": null
     },
     {
       "name": "GamePc Pro Gigabyte Edit. 25R560TC Ryzen 5 7600X/32Gb/1Tb/RTX 5060Ti - Sobremesa Gaming",
@@ -5745,8 +5764,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 164.01,
-      "drop_pct": 0.02
+      "prev_price": 163.97,
+      "drop_pct": null
     }
   ]
 }
