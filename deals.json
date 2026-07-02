@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T11:09:09.333892+00:00",
+  "updated": "2026-07-02T11:13:22.212933+00:00",
   "total_products": 809,
   "deals": [
     {
@@ -592,8 +592,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 219.0,
-      "drop_pct": 9.13
+      "prev_price": 199.0,
+      "drop_pct": null
     },
     {
       "name": "Sérum Antimanchas LA ROCHE-POSAY Mela B3 (30 Ml)",
@@ -1069,8 +1069,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 594.09,
-      "drop_pct": 0.64
+      "prev_price": 590.28,
+      "drop_pct": null
     },
     {
       "name": "Thermal Grizzly Aeronaut 3 ml",
@@ -1108,26 +1108,6 @@
       "history_days": 2,
       "is_lowest": true,
       "prev_price": 129.89,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara KODAK PIXPRO FZ55",
-      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-8296754",
-      "store": "Worten",
-      "current_price": 159.0,
-      "original_price": 256.45,
-      "discount_pct": 38.0,
-      "image_url": "https://www.worten.es/i/108e3b59390738091c6dc70c2f8fe08099395ae6",
-      "category": null,
-      "price_history": [
-        159.0,
-        159.0,
-        159.0,
-        159.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 159.0,
       "drop_pct": null
     },
     {
@@ -1724,8 +1704,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 315.48,
-      "drop_pct": 0.16
+      "prev_price": 314.99,
+      "drop_pct": null
     },
     {
       "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
@@ -1744,7 +1724,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 1125.15,
+      "prev_price": 1142.89,
       "drop_pct": null
     },
     {
@@ -2007,6 +1987,26 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara KODAK PIXPRO FZ55",
+      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-8296754",
+      "store": "Worten",
+      "current_price": 169.0,
+      "original_price": 241.65,
+      "discount_pct": 30.06,
+      "image_url": "https://www.worten.es/i/108e3b59390738091c6dc70c2f8fe08099395ae6",
+      "category": null,
+      "price_history": [
+        159.0,
+        159.0,
+        159.0,
+        159.0
+      ],
+      "history_days": 4,
+      "is_lowest": false,
+      "prev_price": 159.0,
+      "drop_pct": null
+    },
+    {
       "name": "Auriculares JBL Sense Lite - Negro",
       "url": "https://www.carrefour.es/auriculares-jbl-sense-lite-negro/VC4A-32395378/p",
       "store": "Carrefour",
@@ -2117,7 +2117,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 427.78,
       "drop_pct": null
     },
     {
@@ -3023,7 +3023,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 155.99,
       "drop_pct": null
     },
     {
@@ -3040,7 +3040,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 155.99,
       "drop_pct": null
     },
     {
@@ -3160,7 +3160,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 171.78,
+      "prev_price": 175.06,
       "drop_pct": null
     },
     {
@@ -3534,8 +3534,8 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 174.99,
-      "drop_pct": 1.71
+      "prev_price": 171.99,
+      "drop_pct": null
     },
     {
       "name": "Portátil - ASUS Chromebook CX1405CTA-S60633, 14\" Full-HD, Intel® N50, 4 GB RAM, 64 GB eMMC, UHD Graphics, Google Chrome OS",
@@ -4332,8 +4332,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 699.0,
-      "drop_pct": 23.89
+      "prev_price": 532.0,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi 15 256GB + 8GB RAM - Gris",
@@ -5878,6 +5878,25 @@
       "drop_pct": null
     },
     {
+      "name": "Funda Subblim con Teclado para Tablet 10.1\"",
+      "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
+      "store": "Carrefour",
+      "current_price": 21.81,
+      "original_price": 23.12,
+      "discount_pct": 5.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        21.96,
+        19.99,
+        21.78
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 21.87,
+      "drop_pct": 0.27
+    },
+    {
       "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
       "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
       "store": "Carrefour",
@@ -5894,26 +5913,7 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 1209.5,
-      "drop_pct": 0.02
-    },
-    {
-      "name": "Funda Subblim con Teclado para Tablet 10.1\"",
-      "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
-      "store": "Carrefour",
-      "current_price": 21.87,
-      "original_price": 23.18,
-      "discount_pct": 5.65,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        21.96,
-        19.99,
-        21.78
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 21.78,
+      "prev_price": 1209.26,
       "drop_pct": null
     },
     {
@@ -5998,8 +5998,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 161.53,
-      "original_price": 164.76,
+      "current_price": 161.41,
+      "original_price": 164.64,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -6011,8 +6011,8 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 161.32,
-      "drop_pct": null
+      "prev_price": 161.53,
+      "drop_pct": 0.07
     }
   ]
 }
