@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:42:16.841810+00:00",
+  "updated": "2026-07-03T13:47:27.902014+00:00",
   "total_products": 880,
   "deals": [
     {
@@ -1384,6 +1384,27 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
+      "store": "Worten",
+      "current_price": 598.29,
+      "original_price": 921.55,
+      "discount_pct": 35.08,
+      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
+      "category": null,
+      "price_history": [
+        590.97,
+        606.06,
+        594.09,
+        586.65,
+        598.29
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 586.65,
+      "drop_pct": null
+    },
+    {
       "name": "Convertible 2 en 1 - HP OmniBook 5 Flip 14-fp0006ns, 14\" 2K, Intel® Core™ i5-1334U, 16 GB RAM, 512 GB SSD, Intel Iris Xe, Windows 11 Home, Azul",
       "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-hp-omnibook-5-flip-14-fp0006ns-14-2k-intel-core-i5-1334u-16-gb-ram-512-gb-ssd-intel-iris-xe-windows-11-home-azul-celeste-1596117.html",
       "store": "MediaMarkt",
@@ -2506,6 +2527,24 @@
       "history_days": 5,
       "is_lowest": false,
       "prev_price": 73.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
+      "store": "Worten",
+      "current_price": 585.82,
+      "original_price": 791.1,
+      "discount_pct": 25.95,
+      "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
+      "category": null,
+      "price_history": [
+        585.37,
+        585.82
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 585.37,
       "drop_pct": null
     },
     {
@@ -4644,6 +4683,23 @@
       "drop_pct": null
     },
     {
+      "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
+      "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
+      "store": "Carrefour",
+      "current_price": 441.56,
+      "original_price": 516.63,
+      "discount_pct": 14.53,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        441.56
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 441.57,
+      "drop_pct": 0.0
+    },
+    {
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-blanco-8600279",
       "store": "Worten",
@@ -5722,23 +5778,6 @@
       "history_days": 4,
       "is_lowest": true,
       "prev_price": 229.98,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
-      "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
-      "store": "Carrefour",
-      "current_price": 441.57,
-      "original_price": 476.9,
-      "discount_pct": 7.41,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        441.56
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 441.57,
       "drop_pct": null
     },
     {
