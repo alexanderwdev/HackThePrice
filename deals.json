@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T14:03:42.480043+00:00",
+  "updated": "2026-07-03T14:08:55.402891+00:00",
   "total_products": 881,
   "deals": [
     {
@@ -4762,7 +4762,7 @@
       "name": "Iphone 17 256gb Lavanda Lavanda Apple",
       "url": "https://www.worten.es/productos/iphone-17-256gb-lavanda-lavanda-apple-mrkean-0195950644180",
       "store": "Worten",
-      "current_price": 854.99,
+      "current_price": 855.0,
       "original_price": 999.99,
       "discount_pct": 14.5,
       "image_url": "https://www.worten.es/i/60db0bc4f1d6725a4f5796c68a82021418c06752",
@@ -4783,7 +4783,7 @@
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Negro)",
       "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-negro-mrkean-0195950643589",
       "store": "Worten",
-      "current_price": 854.99,
+      "current_price": 855.0,
       "original_price": 999.99,
       "discount_pct": 14.5,
       "image_url": "https://www.worten.es/i/29ef0c583d01f3381c3351f01d2409135b1a2336",
@@ -5571,7 +5571,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 119.08,
+      "prev_price": 119.21,
       "drop_pct": null
     },
     {
@@ -6004,6 +6004,27 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 319.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
+      "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
+      "store": "Carrefour",
+      "current_price": 308.38,
+      "original_price": 326.88,
+      "discount_pct": 5.66,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        307.84,
+        307.93,
+        308.07,
+        308.07,
+        308.16
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 308.16,
       "drop_pct": null
     },
     {
