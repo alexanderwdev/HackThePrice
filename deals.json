@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:20:31.799877+00:00",
+  "updated": "2026-07-03T13:25:48.671549+00:00",
   "total_products": 880,
   "deals": [
     {
@@ -58,7 +58,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 87.87,
       "drop_pct": null
     },
     {
@@ -199,7 +199,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 39.99,
       "drop_pct": null
     },
     {
@@ -262,8 +262,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 49.99,
-      "drop_pct": 20.0
+      "prev_price": 39.99,
+      "drop_pct": null
     },
     {
       "name": "Silla de Oficina Ejecutiva MITSAI Roma II Negra (Brazos Fijos - Malla)",
@@ -283,8 +283,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 59.99,
-      "drop_pct": 33.34
+      "prev_price": 39.99,
+      "drop_pct": null
     },
     {
       "name": "Máquina de Remo y Sentadillas MERACH, Resistencia Ajustables, LCD, Diseño Compacto, Fácil Instalación, Máx. 160 kg, Ejercicio Completo, Gris",
@@ -304,7 +304,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 59.99,
+      "prev_price": 69.99,
       "drop_pct": null
     },
     {
@@ -365,8 +365,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 49.99,
-      "drop_pct": 10.0
+      "prev_price": 44.99,
+      "drop_pct": null
     },
     {
       "name": "Mesa auxiliar SHAF Alaska (antracita)",
@@ -444,7 +444,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 89.0,
       "drop_pct": null
     },
     {
@@ -655,6 +655,27 @@
       "drop_pct": null
     },
     {
+      "name": "Monitor - Lenovo L24D-4C, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, FreeSync, Docking USB-C, Ajustable altura, Altavoces incorporados",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l24d-4c-238-full-hd-144-hz-1-ms-ips-freesync-docking-usb-c-ajustable-altura-altavoces-incorporados-1624333.html",
+      "store": "MediaMarkt",
+      "current_price": 109.0,
+      "original_price": 189.99,
+      "discount_pct": 42.63,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173589844",
+      "category": null,
+      "price_history": [
+        109.0,
+        109.0,
+        109.0,
+        109.0,
+        109.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 109.0,
+      "drop_pct": null
+    },
+    {
       "name": "Cinta de Correr BODYTONE DT12+ (Hasta:12 km/h)",
       "url": "https://www.worten.es/productos/cinta-de-correr-bodytone-dt12-hasta-12-km-h-7480983",
       "store": "Worten",
@@ -838,6 +859,27 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 5.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Samsung Galaxy Tab S10 Lite, 10.9\" WUXGA+, 6 GB RAM, 128 GB, Gris, Con S Pen",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-s10-lite-109-wuxga-6-gb-ram-128-gb-gris-sin-adaptador-de-corriente-con-s-pen-1604107.html",
+      "store": "MediaMarkt",
+      "current_price": 269.0,
+      "original_price": 449.0,
+      "discount_pct": 40.09,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160273716",
+      "category": null,
+      "price_history": [
+        269.0,
+        269.0,
+        269.0,
+        269.0,
+        269.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 269.0,
       "drop_pct": null
     },
     {
@@ -1068,7 +1110,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 199.0,
+      "prev_price": 219.0,
       "drop_pct": null
     },
     {
@@ -1111,6 +1153,27 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 259.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Samsung Galaxy Tab S10 FE, 10.9\" WUXGA+, 8 GB RAM, 128 GB, Gris, Con S Pen",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-s10-fe-109-wuxga-8-gb-ram-128-gb-gris-sin-adaptador-de-corriente-con-s-pen-1596717.html",
+      "store": "MediaMarkt",
+      "current_price": 399.0,
+      "original_price": 629.0,
+      "discount_pct": 36.57,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151950817",
+      "category": null,
+      "price_history": [
+        399.0,
+        399.0,
+        399.0,
+        399.0,
+        399.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 399.0,
       "drop_pct": null
     },
     {
@@ -1337,7 +1400,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 390.07,
       "drop_pct": null
     },
     {
@@ -1375,7 +1438,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 249.0,
       "drop_pct": null
     },
     {
@@ -1520,8 +1583,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 139.99,
-      "drop_pct": 0.01
+      "prev_price": 139.97,
+      "drop_pct": null
     },
     {
       "name": "Lámpara de techo moderna blanca con 6 focos orientables, de metal, GU10, para oficina, dormitorio y comedor, sin bombilla. Nettlife",
@@ -1583,8 +1646,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 339.99,
-      "drop_pct": 11.77
+      "prev_price": 299.97,
+      "drop_pct": null
     },
     {
       "name": "PC Gaming - BEASTCOM Q5 | Pro Gaming, AMD Ryzen™ 7 5700X, 32 GB RAM, 1 TB SSD, GeForce RTX™ 5060 Ti, Windows 11 Home, Blanco",
@@ -1621,7 +1684,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 179.99,
       "drop_pct": null
     },
     {
@@ -1638,7 +1701,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 199.99,
       "drop_pct": null
     },
     {
@@ -1932,6 +1995,27 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 135.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Lenovo Tab, WIFI, 10.1\" WUXGA, 4GB RAM, 128GB, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-tab-wifi-101-wuxga-4gb-ram-128gb-gris-1603846.html",
+      "store": "MediaMarkt",
+      "current_price": 139.0,
+      "original_price": 199.0,
+      "discount_pct": 30.15,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177624080",
+      "category": null,
+      "price_history": [
+        139.0,
+        139.0,
+        139.0,
+        139.0,
+        139.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 139.0,
       "drop_pct": null
     },
     {
@@ -2588,7 +2672,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 299.0,
       "drop_pct": null
     },
     {
@@ -2689,7 +2773,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 528.99,
       "drop_pct": null
     },
     {
@@ -2710,7 +2794,28 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 227.88,
+      "prev_price": 227.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Convertible 2 en 1 - Lenovo IdeaPad Flex 5 14ABR8, 14\" WUXGA, AMD Ryzen™ 7 5825U, 16GB RAM, 512GB, Radeon™ Onboard Graphics, Windows 11 Home, Azul",
+      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-lenovo-ideapad-flex-5-14abr8-14-wuxga-amd-ryzentm-7-5825u-16gb-ram-512gb-radeontm-onboard-graphics-windows-11-home-azul-1597219.html",
+      "store": "MediaMarkt",
+      "current_price": 649.0,
+      "original_price": 849.0,
+      "discount_pct": 23.56,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157170176",
+      "category": null,
+      "price_history": [
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -2832,7 +2937,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.98,
       "drop_pct": null
     },
     {
@@ -2868,7 +2973,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.99,
       "drop_pct": null
     },
     {
@@ -2950,7 +3055,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 224.98,
+      "prev_price": 229.26,
       "drop_pct": null
     },
     {
@@ -3160,8 +3265,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 249.0,
-      "drop_pct": 4.02
+      "prev_price": 239.0,
+      "drop_pct": null
     },
     {
       "name": "TV Stick Xiaomi Mi Versión EU",
@@ -3444,7 +3549,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 175.06,
+      "prev_price": 177.11,
       "drop_pct": null
     },
     {
@@ -3482,7 +3587,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 1299.0,
       "drop_pct": null
     },
     {
@@ -3503,8 +3608,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 219.99,
-      "drop_pct": 0.01
+      "prev_price": 219.97,
+      "drop_pct": null
     },
     {
       "name": "Portátil - HP 15-fd1020ns, 15,6\" Full HD, Intel® Core™ Ultra 7 155H, 32 GB RAM, 1 TB SSD, Intel® Arc Graphics, Windows 11 Home, Azul lunar",
@@ -3625,7 +3730,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 739.98,
       "drop_pct": null
     },
     {
@@ -3797,6 +3902,27 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
+      "store": "MediaMarkt",
+      "current_price": 649.0,
+      "original_price": 779.0,
+      "discount_pct": 16.69,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
+      "category": null,
+      "price_history": [
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 649.0,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 65\" (165,1 cm) LG 65QNED8EB3B con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
       "url": "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-lg-65qned8eb3b-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33666189/p",
       "store": "Carrefour",
@@ -3831,7 +3957,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.9,
       "drop_pct": null
     },
     {
@@ -3873,7 +3999,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 551.65,
+      "prev_price": 605.0,
       "drop_pct": null
     },
     {
@@ -3894,7 +4020,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 108.75,
+      "prev_price": 108.76,
       "drop_pct": null
     },
     {
@@ -4017,7 +4143,7 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 124.98,
+      "prev_price": 124.99,
       "drop_pct": null
     },
     {
@@ -4596,7 +4722,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 59.9,
       "drop_pct": null
     },
     {
@@ -4715,7 +4841,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 239.99,
       "drop_pct": null
     },
     {
@@ -4940,7 +5066,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 69.99,
       "drop_pct": null
     },
     {
@@ -5024,8 +5150,29 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 271.18,
+      "prev_price": 271.2,
       "drop_pct": null
+    },
+    {
+      "name": "Consola PlayStation 5 Digital 825GB + 2º Mando DualSense Blanco",
+      "url": "https://www.carrefour.es/consola-playstation-5-digital-825gb-2-mando-dualsense-blanco/VC4A-32306522/p",
+      "store": "Carrefour",
+      "current_price": 615.0,
+      "original_price": 699.0,
+      "discount_pct": 12.02,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/671690_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        620.0,
+        615.0,
+        620.0,
+        620.0,
+        615.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 620.0,
+      "drop_pct": 0.81
     },
     {
       "name": "APPLE Watch Ultra 3 GPS + Cellular 49 mm Titanio Negro con Correa Ocean Negro",
@@ -5041,7 +5188,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 749.0,
       "drop_pct": null
     },
     {
@@ -5063,27 +5210,6 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 189.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola PlayStation 5 Digital 825GB + 2º Mando DualSense Blanco",
-      "url": "https://www.carrefour.es/consola-playstation-5-digital-825gb-2-mando-dualsense-blanco/VC4A-32306522/p",
-      "store": "Carrefour",
-      "current_price": 620.0,
-      "original_price": 700.0,
-      "discount_pct": 11.43,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/671690_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        620.0,
-        615.0,
-        620.0,
-        620.0,
-        620.0
-      ],
-      "history_days": 5,
-      "is_lowest": false,
-      "prev_price": 620.0,
       "drop_pct": null
     },
     {
@@ -5142,7 +5268,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 441.56,
       "drop_pct": null
     },
     {
@@ -5163,7 +5289,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 594.5,
+      "prev_price": 625.0,
       "drop_pct": null
     },
     {
@@ -5288,8 +5414,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 178.26,
-      "drop_pct": 0.07
+      "prev_price": 178.14,
+      "drop_pct": null
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5350,8 +5476,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 119.12,
-      "drop_pct": 0.03
+      "prev_price": 119.08,
+      "drop_pct": null
     },
     {
       "name": "Disco HDD Externo WESTERN DIGITAL Elements SE Portable (Negro - 2 TB - USB 3.0)",
@@ -5369,7 +5495,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 128.0,
+      "prev_price": 128.21,
       "drop_pct": null
     },
     {
@@ -5390,7 +5516,7 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 224.13,
+      "prev_price": 224.14,
       "drop_pct": null
     },
     {
@@ -5434,27 +5560,6 @@
       "is_lowest": true,
       "prev_price": 59.0,
       "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.59,
-      "original_price": 177.75,
-      "discount_pct": 9.09,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27,
-        161.28,
-        161.32,
-        161.32,
-        161.59
-      ],
-      "history_days": 5,
-      "is_lowest": false,
-      "prev_price": 161.72,
-      "drop_pct": 0.08
     },
     {
       "name": "Secadora KUBO KBDM9343HP (8 Kg - Bomba de Calor - Blanco)",
@@ -5512,7 +5617,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 199.99,
       "drop_pct": null
     },
     {
@@ -5824,7 +5929,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 308.2,
+      "prev_price": 308.38,
       "drop_pct": null
     },
     {
@@ -5845,8 +5950,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 1209.23,
-      "drop_pct": 0.0
+      "prev_price": 1209.21,
+      "drop_pct": null
     },
     {
       "name": "Funda Subblim con Teclado para Tablet 10.1\"",
@@ -5865,8 +5970,8 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 21.93,
-      "drop_pct": 1.64
+      "prev_price": 21.57,
+      "drop_pct": null
     },
     {
       "name": "GamePc Pro Gigabyte Edit. 25R560TC Ryzen 5 7600X/32Gb/1Tb/RTX 5060Ti - Sobremesa Gaming",
@@ -5922,7 +6027,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 949.99,
       "drop_pct": null
     },
     {
@@ -5965,6 +6070,27 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 1759.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.6,
+      "original_price": 164.83,
+      "discount_pct": 1.96,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27,
+        161.28,
+        161.32,
+        161.32,
+        161.59
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 161.59,
       "drop_pct": null
     }
   ]
