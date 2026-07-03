@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:47:27.902014+00:00",
+  "updated": "2026-07-03T13:53:05.844869+00:00",
   "total_products": 880,
   "deals": [
     {
@@ -1401,7 +1401,7 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 586.65,
+      "prev_price": 598.29,
       "drop_pct": null
     },
     {
@@ -2544,7 +2544,7 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 585.37,
+      "prev_price": 585.82,
       "drop_pct": null
     },
     {
@@ -4696,8 +4696,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 441.57,
-      "drop_pct": 0.0
+      "prev_price": 441.56,
+      "drop_pct": null
     },
     {
       "name": "iPhone 17 APPLE (6.3'' - 256 GB - Blanco)",
@@ -5993,9 +5993,9 @@
       "name": "Funda Subblim con Teclado para Tablet 10.1\"",
       "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
       "store": "Carrefour",
-      "current_price": 21.57,
-      "original_price": 22.86,
-      "discount_pct": 5.64,
+      "current_price": 21.88,
+      "original_price": 23.19,
+      "discount_pct": 5.65,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
       "category": "Componentes",
       "price_history": [
@@ -6127,27 +6127,6 @@
       "history_days": 5,
       "is_lowest": false,
       "prev_price": 161.6,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
-      "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-xiaomi-l55mb-apeu-con-ia-4k-uhd-120hz-dolby-audio-dts-x-dts-virtual-x-support/VC4A-33923017/p",
-      "store": "Carrefour",
-      "current_price": 360.91,
-      "original_price": 368.13,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/732566_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        329.0,
-        329.0,
-        356.84,
-        357.71,
-        360.91
-      ],
-      "history_days": 5,
-      "is_lowest": false,
-      "prev_price": 360.91,
       "drop_pct": null
     }
   ]
