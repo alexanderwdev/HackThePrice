@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T13:53:05.844869+00:00",
-  "total_products": 880,
+  "updated": "2026-07-03T13:58:23.036945+00:00",
+  "total_products": 881,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -2632,6 +2632,23 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet - Acer Iconia V11 -11-81BJ, 11 \" WUXGA, 6GB RAM, 256 GB, Mediatek MT8786, 1x USB Tipo C, Funda incluida",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-acer-iconia-v11-11-81bj-11-wuxga-6gb-ram-256-gb-mediatek-mt8786-1x-usb-tipo-c-funda-incluida-1608123.html",
+      "store": "MediaMarkt",
+      "current_price": 149.0,
+      "original_price": 199.0,
+      "discount_pct": 25.13,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163688478",
+      "category": null,
+      "price_history": [
+        149.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Auriculares de Diadema JBL Tune 720BT - Negro",
       "url": "https://www.carrefour.es/auriculares-de-diadema-jbl-tune-720bt-negro/VC4A-23248733/p",
       "store": "Carrefour",
@@ -4683,6 +4700,27 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.59,
+      "original_price": 189.06,
+      "discount_pct": 14.53,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27,
+        161.28,
+        161.32,
+        161.32,
+        161.59
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 161.6,
+      "drop_pct": 0.01
+    },
+    {
       "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
       "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
       "store": "Carrefour",
@@ -6006,7 +6044,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 21.57,
+      "prev_price": 21.88,
       "drop_pct": null
     },
     {
@@ -6106,27 +6144,6 @@
       "history_days": 5,
       "is_lowest": true,
       "prev_price": 1759.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
-      "store": "Carrefour",
-      "current_price": 161.6,
-      "original_price": 164.83,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        161.27,
-        161.28,
-        161.32,
-        161.32,
-        161.59
-      ],
-      "history_days": 5,
-      "is_lowest": false,
-      "prev_price": 161.6,
       "drop_pct": null
     }
   ]
