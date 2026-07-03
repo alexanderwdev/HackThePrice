@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T15:08:58.885178+00:00",
-  "total_products": 829,
+  "updated": "2026-07-03T13:20:31.799877+00:00",
+  "total_products": 880,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,37 +9,18 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783084064",
       "category": "Racores",
       "price_history": [
         0.95,
         0.95,
         0.95,
+        0.95,
         0.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 0.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavadora KUNFT KWM10311 (6 kg - 1200 rpm - Blanco)",
-      "url": "https://www.worten.es/productos/lavadora-kunft-kwm10311-6-kg-1200-rpm-blanco-8590625",
-      "store": "Worten",
-      "current_price": 189.98,
-      "original_price": 999.0,
-      "discount_pct": 80.98,
-      "image_url": "https://www.worten.es/i/d8ec8d46d445f78424aa43b9425929f9f9f33204",
-      "category": null,
-      "price_history": [
-        199.99,
-        189.98,
-        189.98,
-        189.98
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 189.98,
       "drop_pct": null
     },
     {
@@ -49,17 +30,35 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1783084064",
       "category": "Ratones",
       "price_history": [
         3.95,
         3.95,
         3.95,
+        3.95,
         3.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 3.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Pack Portátil INSYS PT1-140C (14.1'' - Intel Core i3-10110U - RAM: 8 GB - 256 GB SSD - Intel UHD Graphics) + Mochila + Ratón",
+      "url": "https://www.worten.es/productos/pack-portatil-insys-pt1-140c-14-1-intel-core-i3-10110u-ram-8-gb-256-gb-ssd-intel-uhd-graphics-mochila-raton-7463983",
+      "store": "Worten",
+      "current_price": 87.87,
+      "original_price": 439.99,
+      "discount_pct": 80.03,
+      "image_url": "https://www.worten.es/i/e46295419b47d097c71e9f15f109cdad0b638153",
+      "category": null,
+      "price_history": [
+        87.87
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -69,15 +68,16 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783084064",
       "category": "Racores",
       "price_history": [
         1.95,
         1.95,
         1.95,
+        1.95,
         1.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1.95,
       "drop_pct": null
@@ -95,9 +95,10 @@
         64.99,
         64.99,
         64.99,
+        64.99,
         64.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 64.99,
       "drop_pct": null
@@ -115,11 +116,31 @@
         31.6,
         31.6,
         31.6,
+        31.6,
         31.6
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 31.6,
+      "drop_pct": null
+    },
+    {
+      "name": "Máquina de Sentadillas y Remada MERACH, Resistencia Ajustable, Plegable, Pantalla LCD, Asas Ergonómicas, Máx. 160 kg, para Abdominales, Piernas, Espalda",
+      "url": "https://www.worten.es/productos/maquina-de-sentadillas-y-remada-merach-resistencia-ajustable-plegable-pantalla-lcd-asas-ergonomicas-max-160-kg-para-abdominales-piernas-espalda-mrkean-6978235144834",
+      "store": "Worten",
+      "current_price": 49.99,
+      "original_price": 169.99,
+      "discount_pct": 70.59,
+      "image_url": "https://www.worten.es/i/e389c86a3c0cccae19c931c4ab267002d1377aac",
+      "category": null,
+      "price_history": [
+        49.99,
+        49.99,
+        49.99
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 49.99,
       "drop_pct": null
     },
     {
@@ -135,9 +156,10 @@
         69.99,
         69.99,
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 69.99,
       "drop_pct": null
@@ -155,31 +177,29 @@
         9.9,
         9.9,
         9.9,
+        9.9,
         9.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 9.9,
       "drop_pct": null
     },
     {
-      "name": "Máquina de Remo y Sentadillas MERACH, Resistencia Ajustables, LCD, Diseño Compacto, Fácil Instalación, Máx. 160 kg, Ejercicio Completo, Gris",
-      "url": "https://www.worten.es/productos/maquina-de-remo-y-sentadillas-merach-resistencia-ajustables-lcd-diseno-compacto-facil-instalacion-max-160-kg-ejercicio-completo-gris-mrkean-6978235144827",
+      "name": "Silla de Oficina Ejecutiva MITSAI Manhattan Negra (Brazos Fijos - Malla)",
+      "url": "https://www.worten.es/productos/silla-de-oficina-ejecutiva-mitsai-manhattan-negra-brazos-fijos-malla-7545930",
       "store": "Worten",
-      "current_price": 59.99,
-      "original_price": 169.99,
-      "discount_pct": 64.71,
-      "image_url": "https://www.worten.es/i/1b67fca10f7419562ed87d525495a92f9b714756",
+      "current_price": 39.99,
+      "original_price": 109.99,
+      "discount_pct": 63.64,
+      "image_url": "https://www.worten.es/i/42d1ef785c0967fbd31d53b81c62fccd01d62877",
       "category": null,
       "price_history": [
-        43.99,
-        59.99,
-        59.99,
-        59.99
+        39.99
       ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 59.99,
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -189,15 +209,16 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1783084064",
       "category": "Tubos",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -209,34 +230,81 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783084064",
       "category": "Racores",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
     },
     {
-      "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
-      "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 7.95,
-      "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1783004851",
-      "category": "Racores",
+      "name": "Escritorio con Estantes MITSAI Riga Marrón Oscuro y Negro (50 x 73 x 120 cm - Madera y Metal)",
+      "url": "https://www.worten.es/productos/escritorio-con-estantes-mitsai-riga-marron-oscuro-y-negro-50-x-73-x-120-cm-madera-y-metal-7545928",
+      "store": "Worten",
+      "current_price": 39.99,
+      "original_price": 99.99,
+      "discount_pct": 60.01,
+      "image_url": "https://www.worten.es/i/fb57eb372d9042db2988a444730cb5d6d33e3857",
+      "category": null,
       "price_history": [
-        2.95
+        39.99,
+        39.99,
+        49.99,
+        49.99,
+        39.99
       ],
-      "history_days": 1,
+      "history_days": 5,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.99,
+      "drop_pct": 20.0
+    },
+    {
+      "name": "Silla de Oficina Ejecutiva MITSAI Roma II Negra (Brazos Fijos - Malla)",
+      "url": "https://www.worten.es/productos/silla-de-oficina-ejecutiva-mitsai-roma-ii-negra-brazos-fijos-malla-8070152",
+      "store": "Worten",
+      "current_price": 39.99,
+      "original_price": 99.99,
+      "discount_pct": 60.01,
+      "image_url": "https://www.worten.es/i/1dba815ad964553e6f4064750fd595fc00f0d3ef",
+      "category": null,
+      "price_history": [
+        39.99,
+        39.99,
+        59.99,
+        59.99,
+        39.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 59.99,
+      "drop_pct": 33.34
+    },
+    {
+      "name": "Máquina de Remo y Sentadillas MERACH, Resistencia Ajustables, LCD, Diseño Compacto, Fácil Instalación, Máx. 160 kg, Ejercicio Completo, Gris",
+      "url": "https://www.worten.es/productos/maquina-de-remo-y-sentadillas-merach-resistencia-ajustables-lcd-diseno-compacto-facil-instalacion-max-160-kg-ejercicio-completo-gris-mrkean-6978235144827",
+      "store": "Worten",
+      "current_price": 69.99,
+      "original_price": 169.99,
+      "discount_pct": 58.83,
+      "image_url": "https://www.worten.es/i/1b67fca10f7419562ed87d525495a92f9b714756",
+      "category": null,
+      "price_history": [
+        43.99,
+        59.99,
+        59.99,
+        59.99,
+        69.99
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 59.99,
       "drop_pct": null
     },
     {
@@ -246,15 +314,16 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1783084064",
       "category": "Cables Red",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -270,11 +339,54 @@
       "category": null,
       "price_history": [
         157.99,
+        157.99,
         157.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 157.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Silla de Oficina Operativa MITSAI Paris Blanca (Brazos Fijos - Piel Sintética)",
+      "url": "https://www.worten.es/productos/silla-de-oficina-operativa-mitsai-paris-blanca-brazos-fijos-piel-sintetica-7612885",
+      "store": "Worten",
+      "current_price": 44.99,
+      "original_price": 99.99,
+      "discount_pct": 55.01,
+      "image_url": "https://www.worten.es/i/0d821bc9d9fe118883e08a96c5cba9e0dbcf9d36",
+      "category": null,
+      "price_history": [
+        44.99,
+        44.99,
+        49.99,
+        49.99,
+        44.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 49.99,
+      "drop_pct": 10.0
+    },
+    {
+      "name": "Mesa auxiliar SHAF Alaska (antracita)",
+      "url": "https://www.worten.es/productos/mesa-auxiliar-shaf-alaska-antracita-8404072",
+      "store": "Worten",
+      "current_price": 14.6,
+      "original_price": 31.2,
+      "discount_pct": 53.21,
+      "image_url": "https://www.worten.es/i/1723ec9ee7ba601b8424738efcdef957bfee5e73",
+      "category": null,
+      "price_history": [
+        14.6,
+        14.6,
+        14.6,
+        14.6,
+        14.6
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 14.6,
       "drop_pct": null
     },
     {
@@ -290,9 +402,10 @@
         135.0,
         135.0,
         135.0,
+        135.0,
         135.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 135.0,
       "drop_pct": null
@@ -309,51 +422,29 @@
       "price_history": [
         67.15,
         67.15,
+        67.15,
         67.15
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 67.15,
       "drop_pct": null
     },
     {
-      "name": "Silla de Oficina Operativa MITSAI Paris Blanca (Brazos Fijos - Piel Sintética)",
-      "url": "https://www.worten.es/productos/silla-de-oficina-operativa-mitsai-paris-blanca-brazos-fijos-piel-sintetica-7612885",
+      "name": "Robot de Cocina KUBO KBKM4570 (6 L - 1400 W - 7 accesorios)",
+      "url": "https://www.worten.es/productos/robot-de-cocina-kubo-kbkm4570-6-l-1400-w-7-accesorios-7208367",
       "store": "Worten",
-      "current_price": 49.99,
-      "original_price": 99.99,
-      "discount_pct": 50.01,
-      "image_url": "https://www.worten.es/i/0d821bc9d9fe118883e08a96c5cba9e0dbcf9d36",
+      "current_price": 89.0,
+      "original_price": 179.0,
+      "discount_pct": 50.28,
+      "image_url": "https://www.worten.es/i/0af6a7e4a372360376545f7db491459a7f3c73a1",
       "category": null,
       "price_history": [
-        44.99,
-        44.99,
-        49.99,
-        49.99
+        89.0
       ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 49.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Escritorio con Estantes MITSAI Riga Marrón Oscuro y Negro (50 x 73 x 120 cm - Madera y Metal)",
-      "url": "https://www.worten.es/productos/escritorio-con-estantes-mitsai-riga-marron-oscuro-y-negro-50-x-73-x-120-cm-madera-y-metal-7545928",
-      "store": "Worten",
-      "current_price": 49.99,
-      "original_price": 99.99,
-      "discount_pct": 50.01,
-      "image_url": "https://www.worten.es/i/fb57eb372d9042db2988a444730cb5d6d33e3857",
-      "category": null,
-      "price_history": [
-        39.99,
-        39.99,
-        49.99,
-        49.99
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 49.99,
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -369,9 +460,10 @@
         37.98,
         37.98,
         37.98,
+        37.98,
         37.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 37.98,
       "drop_pct": null
@@ -389,9 +481,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 79.99,
       "drop_pct": null
@@ -409,11 +502,30 @@
         189.99,
         189.99,
         179.0,
+        179.0,
         179.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 179.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html",
+      "store": "MediaMarkt",
+      "current_price": 109.0,
+      "original_price": 199.0,
+      "discount_pct": 45.23,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265122",
+      "category": null,
+      "price_history": [
+        109.0,
+        109.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 109.0,
       "drop_pct": null
     },
     {
@@ -429,31 +541,12 @@
         399.99,
         399.99,
         399.99,
+        399.99,
         399.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 399.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 98\" (248,92 cm) Hisense 98E7Q, 4K UHD, 144 Hz, Dolby Visio, Dolby Vision IQ; HDR+, Dolby MS12, DTS X",
-      "url": "https://www.carrefour.es/smart-tv-qled-98-24892-cm-hisense-98e7q-4k-uhd-144-hz-dolby-visio-dolby-vision-iq-hdr-dolby-ms12-dts-x/VC4A-33349636/p",
-      "store": "Carrefour",
-      "current_price": 1104.15,
-      "original_price": 1999.0,
-      "discount_pct": 44.76,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706713_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1104.15,
-        1104.15,
-        1104.15,
-        1104.15
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 1104.15,
       "drop_pct": null
     },
     {
@@ -469,9 +562,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 139.0,
       "drop_pct": null
@@ -489,9 +583,10 @@
         449.98,
         449.98,
         449.98,
+        449.98,
         449.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 449.98,
       "drop_pct": null
@@ -509,31 +604,12 @@
         13.0,
         13.0,
         13.0,
+        13.0,
         13.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 13.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-xiaomi-g-pro-27i-27-qhd-1-ms-180-hz-mini-led-freesync-negro-1579053.html",
-      "store": "MediaMarkt",
-      "current_price": 199.0,
-      "original_price": 349.99,
-      "discount_pct": 43.14,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_144333915",
-      "category": null,
-      "price_history": [
-        219.0,
-        219.0,
-        219.0,
-        199.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 199.0,
       "drop_pct": null
     },
     {
@@ -549,9 +625,10 @@
         25.99,
         25.99,
         25.99,
+        25.99,
         25.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 25.99,
       "drop_pct": null
@@ -569,31 +646,12 @@
         569.0,
         569.0,
         569.0,
+        569.0,
         569.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 569.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor - Lenovo L24D-4C, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, FreeSync, Docking USB-C, Ajustable altura, Altavoces incorporados",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l24d-4c-238-full-hd-144-hz-1-ms-ips-freesync-docking-usb-c-ajustable-altura-altavoces-incorporados-1624333.html",
-      "store": "MediaMarkt",
-      "current_price": 109.0,
-      "original_price": 189.99,
-      "discount_pct": 42.63,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173589844",
-      "category": null,
-      "price_history": [
-        109.0,
-        109.0,
-        109.0,
-        109.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 109.0,
       "drop_pct": null
     },
     {
@@ -609,9 +667,10 @@
         229.0,
         229.0,
         229.0,
+        229.0,
         229.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 229.0,
       "drop_pct": null
@@ -626,9 +685,10 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157894034",
       "category": null,
       "price_history": [
+        104.0,
         104.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 104.0,
       "drop_pct": null
@@ -646,9 +706,10 @@
         279.99,
         279.99,
         279.99,
+        279.99,
         279.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 279.99,
       "drop_pct": null
@@ -666,9 +727,10 @@
         429.0,
         429.0,
         428.0,
+        428.0,
         428.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 428.0,
       "drop_pct": null
@@ -686,11 +748,33 @@
         99.0,
         89.0,
         89.0,
+        89.0,
         89.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 89.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV OLED 55\" (139,7 cm) LG 55C54LA con IA, 4K UHD, 144 Hz, Procesador Inteligente a9 AI Processor, ",
+      "url": "https://www.carrefour.es/smart-tv-oled-55-1397-cm-lg-55c54la-con-ia-4k-uhd-144-hz-procesador-inteligente-a9-ai-processor/VC4A-30495020/p",
+      "store": "Carrefour",
+      "current_price": 949.0,
+      "original_price": 1599.0,
+      "discount_pct": 40.65,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587621_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        949.0,
+        949.0,
+        949.0,
+        949.0,
+        949.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 949.0,
       "drop_pct": null
     },
     {
@@ -706,9 +790,10 @@
         28.49,
         28.49,
         28.49,
+        28.49,
         28.49
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 28.49,
       "drop_pct": null
@@ -726,9 +811,10 @@
         119.99,
         119.99,
         119.0,
+        119.0,
         119.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 119.0,
       "drop_pct": null
@@ -740,37 +826,18 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1783084064",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
         5.95,
         5.95,
+        5.95,
         5.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 5.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab S10 Lite, 10.9\" WUXGA+, 6 GB RAM, 128 GB, Gris, Con S Pen",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-s10-lite-109-wuxga-6-gb-ram-128-gb-gris-sin-adaptador-de-corriente-con-s-pen-1604107.html",
-      "store": "MediaMarkt",
-      "current_price": 269.0,
-      "original_price": 449.0,
-      "discount_pct": 40.09,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160273716",
-      "category": null,
-      "price_history": [
-        269.0,
-        269.0,
-        269.0,
-        269.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 269.0,
       "drop_pct": null
     },
     {
@@ -786,9 +853,10 @@
         80.0,
         59.9,
         59.9,
+        59.9,
         59.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 59.9,
       "drop_pct": null
@@ -800,15 +868,16 @@
       "current_price": 14.95,
       "original_price": 24.95,
       "discount_pct": 40.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1783084064",
       "category": "Almacenamiento",
       "price_history": [
         9.95,
         9.95,
         9.95,
-        9.95
+        9.95,
+        14.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 14.95,
       "drop_pct": null
@@ -826,9 +895,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 599.0,
       "drop_pct": null
@@ -846,9 +916,10 @@
         29.99,
         29.99,
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 29.99,
       "drop_pct": null
@@ -860,15 +931,16 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1783084064",
       "category": "Simulación",
       "price_history": [
         149.95,
         149.95,
         149.95,
+        149.95,
         149.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 149.95,
       "drop_pct": null
@@ -886,31 +958,12 @@
         17.99,
         17.99,
         17.99,
+        17.99,
         17.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 17.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Silla de Oficina Ejecutiva MITSAI Roma II Negra (Brazos Fijos - Malla)",
-      "url": "https://www.worten.es/productos/silla-de-oficina-ejecutiva-mitsai-roma-ii-negra-brazos-fijos-malla-8070152",
-      "store": "Worten",
-      "current_price": 59.99,
-      "original_price": 99.99,
-      "discount_pct": 40.0,
-      "image_url": "https://www.worten.es/i/1dba815ad964553e6f4064750fd595fc00f0d3ef",
-      "category": null,
-      "price_history": [
-        39.99,
-        39.99,
-        59.99,
-        59.99
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 59.99,
       "drop_pct": null
     },
     {
@@ -926,9 +979,10 @@
         199.0,
         199.0,
         199.0,
+        199.0,
         199.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 199.0,
       "drop_pct": null
@@ -946,9 +1000,10 @@
         199.0,
         199.0,
         199.0,
+        199.0,
         199.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 199.0,
       "drop_pct": null
@@ -966,31 +1021,12 @@
         59.99,
         59.99,
         59.99,
+        59.99,
         59.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 59.99,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Hisense 50\" (127 cm), 50U7Q  MiniLED, 4K UDH, 144 Hz, Smart TV, HDR, Dolby MS12, Quantum Dot",
-      "url": "https://www.carrefour.es/tv-hisense-50-127-cm-50u7q-miniled-4k-udh-144-hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30709925/p",
-      "store": "Carrefour",
-      "current_price": 364.65,
-      "original_price": 599.0,
-      "discount_pct": 39.12,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595098_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        364.65,
-        364.65,
-        364.65,
-        364.65
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 364.65,
       "drop_pct": null
     },
     {
@@ -1000,35 +1036,39 @@
       "current_price": 7.95,
       "original_price": 12.95,
       "discount_pct": 38.61,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1783084064",
       "category": "Compuestos Térmicos",
       "price_history": [
         7.95,
         7.95,
         7.95,
+        7.95,
         7.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 7.95,
       "drop_pct": null
     },
     {
-      "name": "Smart Tv 32 Pulgadas Full Hd Con Samsung Tv Tizen Os 8.0. Televisores 2026 - Td Systems Prime32fc22tizen",
-      "url": "https://www.worten.es/productos/smart-tv-32-pulgadas-full-hd-con-samsung-tv-tizen-os-8-0-televisores-2026-td-systems-prime32fc22tizen-mrkean-8436613002285",
-      "store": "Worten",
-      "current_price": 129.89,
-      "original_price": 209.89,
-      "discount_pct": 38.12,
-      "image_url": "https://www.worten.es/i/57f00f6f57d8d699e4c86270d0fc32483c9f34fe",
+      "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-xiaomi-g-pro-27i-27-qhd-1-ms-180-hz-mini-led-freesync-negro-1579053.html",
+      "store": "MediaMarkt",
+      "current_price": 219.0,
+      "original_price": 349.99,
+      "discount_pct": 37.43,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_144333915",
       "category": null,
       "price_history": [
-        129.89,
-        129.89
+        219.0,
+        219.0,
+        219.0,
+        199.0,
+        219.0
       ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 129.89,
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 199.0,
       "drop_pct": null
     },
     {
@@ -1044,9 +1084,10 @@
         169.0,
         169.0,
         169.0,
+        169.0,
         169.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 169.0,
       "drop_pct": null
@@ -1064,31 +1105,12 @@
         259.0,
         259.0,
         259.0,
+        259.0,
         259.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 259.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab S10 FE, 10.9\" WUXGA+, 8 GB RAM, 128 GB, Gris, Con S Pen",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-s10-fe-109-wuxga-8-gb-ram-128-gb-gris-sin-adaptador-de-corriente-con-s-pen-1596717.html",
-      "store": "MediaMarkt",
-      "current_price": 399.0,
-      "original_price": 629.0,
-      "discount_pct": 36.57,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151950817",
-      "category": null,
-      "price_history": [
-        399.0,
-        399.0,
-        399.0,
-        399.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 399.0,
       "drop_pct": null
     },
     {
@@ -1104,32 +1126,13 @@
         70.0,
         70.0,
         70.0,
+        70.0,
         70.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 70.0,
       "drop_pct": null
-    },
-    {
-      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
-      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
-      "store": "Worten",
-      "current_price": 586.65,
-      "original_price": 921.55,
-      "discount_pct": 36.34,
-      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
-      "category": null,
-      "price_history": [
-        590.97,
-        606.06,
-        594.09,
-        586.65
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 590.28,
-      "drop_pct": 0.61
     },
     {
       "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
@@ -1144,9 +1147,10 @@
         184.0,
         184.0,
         184.0,
+        184.0,
         184.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 184.0,
       "drop_pct": null
@@ -1164,9 +1168,10 @@
         509.99,
         509.99,
         509.99,
+        509.99,
         509.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 509.99,
       "drop_pct": null
@@ -1184,31 +1189,12 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 139.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Sérum Facial LA ROCHEPOSAY Effaclar Ultra Concentrado (30 ml)",
-      "url": "https://www.worten.es/productos/serum-facial-la-rocheposay-effaclar-ultra-concentrado-30-ml-mrkean-3337875722827",
-      "store": "Worten",
-      "current_price": 23.98,
-      "original_price": 37.58,
-      "discount_pct": 36.19,
-      "image_url": "https://www.worten.es/i/18b0aaf49034152647f325df329828c2ab56ad78",
-      "category": null,
-      "price_history": [
-        20.98,
-        20.98,
-        23.98,
-        23.98
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 23.98,
       "drop_pct": null
     },
     {
@@ -1224,9 +1210,10 @@
         159.0,
         159.0,
         159.0,
+        159.0,
         159.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 159.0,
       "drop_pct": null
@@ -1244,9 +1231,10 @@
         319.99,
         319.99,
         319.99,
+        319.99,
         319.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 319.99,
       "drop_pct": null
@@ -1264,9 +1252,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 449.0,
       "drop_pct": null
@@ -1284,9 +1273,10 @@
         419.0,
         419.0,
         419.0,
+        419.0,
         419.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 419.0,
       "drop_pct": null
@@ -1298,15 +1288,16 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1783084064",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
         12.95,
         12.95,
+        12.95,
         12.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 12.95,
       "drop_pct": null
@@ -1324,11 +1315,29 @@
         699.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 649.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Aire Acondicionado BECKEN BAC8699 (36 m² - 4732 Frig/H - Blanco)",
+      "url": "https://www.worten.es/productos/aire-acondicionado-becken-bac8699-36-m2-4732-frig-h-blanco-7728417",
+      "store": "Worten",
+      "current_price": 390.07,
+      "original_price": 599.99,
+      "discount_pct": 34.99,
+      "image_url": "https://www.worten.es/i/0359809a63bd7c4a2871ed6b873542b8fb60b0d0",
+      "category": null,
+      "price_history": [
+        390.07
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1344,11 +1353,29 @@
         229.0,
         229.0,
         229.0,
+        229.0,
         229.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 229.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Samsung Galaxy Tab A11+, 5G, 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-5g-11-wuxga-6-gb-ram-128-gb-gris-1610713.html",
+      "store": "MediaMarkt",
+      "current_price": 249.0,
+      "original_price": 379.0,
+      "discount_pct": 34.3,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028116",
+      "category": null,
+      "price_history": [
+        249.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1362,9 +1389,10 @@
       "category": null,
       "price_history": [
         59.0,
+        59.0,
         59.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 59.0,
       "drop_pct": null
@@ -1376,15 +1404,16 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1783084064",
       "category": "Compuestos Térmicos",
       "price_history": [
         9.95,
         9.95,
         9.95,
+        9.95,
         9.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 9.95,
       "drop_pct": null
@@ -1396,15 +1425,16 @@
       "current_price": 19.95,
       "original_price": 29.95,
       "discount_pct": 33.39,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1783084064",
       "category": "Repetidores",
       "price_history": [
         20.95,
         19.95,
         19.95,
+        19.95,
         19.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 19.95,
       "drop_pct": null
@@ -1422,9 +1452,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -1442,48 +1473,12 @@
         799.0,
         799.0,
         799.0,
+        799.0,
         799.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 799.0,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX3 RGB 7200DPI Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx3-rgb-7200dpi-negro-raton-gaming/220163",
-      "store": "GAME",
-      "current_price": 9.99,
-      "original_price": 14.99,
-      "discount_pct": 33.36,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220163.png",
-      "category": "Gaming",
-      "price_history": [
-        9.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil gaming - Gigabyte A16 CVH, 16\" Full-HD, Intel® Core™ i7-13620H, 32 GB RAM, 1 TB SSD, GeForce RTX™ 5060, Sin sistema operativo",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-gigabyte-a16-cvh-16-full-hd-intelr-coretm-i7-13620h-32-gb-ram-1-tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1609073.html",
-      "store": "MediaMarkt",
-      "current_price": 1099.0,
-      "original_price": 1649.0,
-      "discount_pct": 33.35,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165596692",
-      "category": null,
-      "price_history": [
-        1099.0,
-        1099.0,
-        1099.0,
-        1099.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 1099.0,
       "drop_pct": null
     },
     {
@@ -1499,12 +1494,34 @@
         39.99,
         39.99,
         39.99,
+        39.99,
         39.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 39.99,
       "drop_pct": null
+    },
+    {
+      "name": "Cocina KUBO 50X50 KBGS9955 (55 L - Gás Butano/Propano - Blanco )",
+      "url": "https://www.worten.es/productos/cocina-kubo-50x50-kbgs9955-55-l-gas-butano-propano-blanco-8285206",
+      "store": "Worten",
+      "current_price": 139.97,
+      "original_price": 209.99,
+      "discount_pct": 33.34,
+      "image_url": "https://www.worten.es/i/3cc80a76f0029bd8faeb0ed55ffde0a83fcb74a9",
+      "category": null,
+      "price_history": [
+        139.99,
+        139.99,
+        139.99,
+        139.99,
+        139.97
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 139.99,
+      "drop_pct": 0.01
     },
     {
       "name": "Lámpara de techo moderna blanca con 6 focos orientables, de metal, GU10, para oficina, dormitorio y comedor, sin bombilla. Nettlife",
@@ -1519,9 +1536,10 @@
         45.99,
         45.99,
         45.99,
+        45.99,
         45.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 45.99,
       "drop_pct": null
@@ -1539,12 +1557,34 @@
         99.99,
         99.99,
         99.99,
+        99.99,
         99.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 99.99,
       "drop_pct": null
+    },
+    {
+      "name": "Cocina BECKEN BFE4510N IX (64 L - Eléctrico de Vitrocerámica - Inox)",
+      "url": "https://www.worten.es/productos/cocina-becken-bfe4510n-ix-64-l-electrico-de-vitroceramica-inox-7704729",
+      "store": "Worten",
+      "current_price": 299.97,
+      "original_price": 449.99,
+      "discount_pct": 33.34,
+      "image_url": "https://www.worten.es/i/92dccbe53be69257fa6c3098a5639c764d3d6ca5",
+      "category": null,
+      "price_history": [
+        339.99,
+        339.99,
+        339.99,
+        339.99,
+        299.97
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 339.99,
+      "drop_pct": 11.77
     },
     {
       "name": "PC Gaming - BEASTCOM Q5 | Pro Gaming, AMD Ryzen™ 7 5700X, 32 GB RAM, 1 TB SSD, GeForce RTX™ 5060 Ti, Windows 11 Home, Blanco",
@@ -1559,31 +1599,46 @@
         1099.99,
         1099.99,
         1099.99,
+        1099.99,
         1099.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1099.99,
       "drop_pct": null
     },
     {
-      "name": "Cocina KUBO 50X50 KBGS9955 (55 L - Gás Butano/Propano - Blanco )",
-      "url": "https://www.worten.es/productos/cocina-kubo-50x50-kbgs9955-55-l-gas-butano-propano-blanco-8285206",
-      "store": "Worten",
-      "current_price": 139.99,
-      "original_price": 209.99,
+      "name": "GAME Disco Duro Interno M.2 2TB SSD NVMe con disipador para PS5",
+      "url": "https://www.game.es/almacenamiento/tarjeta-memoria/playstation-5/game-disco-duro-interno-m2-2tb-ssd-nvme-con-disipador-para-ps5/221810",
+      "store": "GAME",
+      "current_price": 179.99,
+      "original_price": 269.99,
       "discount_pct": 33.33,
-      "image_url": "https://www.worten.es/i/3cc80a76f0029bd8faeb0ed55ffde0a83fcb74a9",
+      "image_url": "https://media.game.es/COVERV2/3D_L/221/221810.png",
+      "category": "Gaming",
+      "price_history": [
+        179.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico KUNFT KDD5195 (Estático - 143 cm - 206 L - Blanco)",
+      "url": "https://www.worten.es/productos/frigorifico-kunft-kdd5195-estatico-143-cm-206-l-blanco-7245176",
+      "store": "Worten",
+      "current_price": 199.99,
+      "original_price": 299.99,
+      "discount_pct": 33.33,
+      "image_url": "https://www.worten.es/i/d392358879da2ed096b5d74daa7eb05eae656584",
       "category": null,
       "price_history": [
-        139.99,
-        139.99,
-        139.99,
-        139.99
+        199.99
       ],
-      "history_days": 4,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 139.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1599,9 +1654,10 @@
         19.95,
         19.95,
         19.95,
+        19.95,
         19.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 19.95,
       "drop_pct": null
@@ -1619,9 +1675,10 @@
         649.99,
         649.99,
         649.99,
+        649.99,
         649.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 649.99,
       "drop_pct": null
@@ -1639,31 +1696,12 @@
         316.15,
         316.15,
         315.48,
+        314.99,
         314.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 314.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
-      "url": "https://www.carrefour.es/smart-tv-neoqled-75-1905-cm-samsung-tq75qn74fat-con-ia-4k-mini-led-120-hz-nq4-ai-gen2-processor-neo-quantum-hdr-ots-lite-color-booster-pro/VC4A-30873320/p",
-      "store": "Carrefour",
-      "current_price": 1142.89,
-      "original_price": 1699.99,
-      "discount_pct": 32.77,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597919_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1075.0,
-        1131.22,
-        1125.15,
-        1125.15
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 1142.89,
       "drop_pct": null
     },
     {
@@ -1679,9 +1717,10 @@
         60.0,
         60.0,
         60.0,
+        60.0,
         60.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 60.0,
       "drop_pct": null
@@ -1699,11 +1738,33 @@
         269.99,
         269.99,
         269.99,
+        269.99,
         269.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 269.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Aspiradora vertical PROSCENIC P20 Onepass de 70 kPa y 600 W, 70 min de autonomía, cámara de 1,5 l, potencia autoajustable, aspira y limpia todo en uno, PROSCENIC",
+      "url": "https://www.worten.es/productos/aspiradora-vertical-proscenic-p20-onepass-de-70-kpa-y-600-w-70-min-de-autonomia-camara-de-1-5-l-potencia-autoajustable-aspira-y-limpia-todo-en-uno-proscenic-mrkean-6924843236829",
+      "store": "Worten",
+      "current_price": 135.0,
+      "original_price": 199.99,
+      "discount_pct": 32.5,
+      "image_url": "https://www.worten.es/i/40ffe785343d38c1d77d727e8b243f1c61732f78",
+      "category": null,
+      "price_history": [
+        135.0,
+        135.0,
+        135.0,
+        135.0,
+        135.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 135.0,
       "drop_pct": null
     },
     {
@@ -1713,15 +1774,16 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1783084064",
       "category": "Compuestos Térmicos",
       "price_history": [
         14.95,
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 14.95,
       "drop_pct": null
@@ -1739,9 +1801,10 @@
         479.0,
         479.0,
         479.0,
+        479.0,
         479.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 479.0,
       "drop_pct": null
@@ -1759,9 +1822,10 @@
         329.98,
         329.98,
         329.98,
+        329.98,
         329.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 329.98,
       "drop_pct": null
@@ -1778,9 +1842,10 @@
       "price_history": [
         13.64,
         13.64,
+        13.64,
         13.64
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 13.64,
       "drop_pct": null
@@ -1798,9 +1863,10 @@
         34.0,
         34.0,
         34.0,
+        34.0,
         34.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 34.0,
       "drop_pct": null
@@ -1818,9 +1884,10 @@
         159.0,
         159.0,
         159.0,
+        159.0,
         159.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 159.0,
       "drop_pct": null
@@ -1838,9 +1905,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -1858,31 +1926,12 @@
         135.99,
         135.99,
         135.99,
+        135.99,
         135.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 135.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Lenovo Tab, WIFI, 10.1\" WUXGA, 4GB RAM, 128GB, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-tab-wifi-101-wuxga-4gb-ram-128gb-gris-1603846.html",
-      "store": "MediaMarkt",
-      "current_price": 139.0,
-      "original_price": 199.0,
-      "discount_pct": 30.15,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177624080",
-      "category": null,
-      "price_history": [
-        139.0,
-        139.0,
-        139.0,
-        139.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 139.0,
       "drop_pct": null
     },
     {
@@ -1898,9 +1947,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 139.0,
       "drop_pct": null
@@ -1918,31 +1968,51 @@
         159.0,
         159.0,
         159.0,
-        159.0
+        159.0,
+        169.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 169.0,
       "drop_pct": null
     },
     {
-      "name": "TV Hisense 65\" (165,1 cm) 65E79Q con IA, QLED, 4K UHD, 60 Hz, Smart TV, HDR, Quantum Dot, Dolby MS12, DTS X",
-      "url": "https://www.carrefour.es/tv-hisense-65-1651-cm-65e79q-con-ia-qled-4k-uhd-60-hz-smart-tv-hdr-quantum-dot-dolby-ms12-dts-x/VC4A-30742115/p",
+      "name": "Auriculares JBL Sense Lite - Negro",
+      "url": "https://www.carrefour.es/auriculares-jbl-sense-lite-negro/VC4A-32395378/p",
       "store": "Carrefour",
-      "current_price": 441.15,
-      "original_price": 629.0,
-      "discount_pct": 29.86,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595089_00_1.jpg",
+      "current_price": 69.99,
+      "original_price": 99.99,
+      "discount_pct": 30.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/683586_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        441.15,
-        441.15,
-        441.15,
-        441.15
+        69.99,
+        69.99,
+        69.99,
+        69.99,
+        69.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
-      "prev_price": 441.15,
+      "prev_price": 69.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet T90 Android 16 11'' 24GB RAM 128 GB ROM-SD 2 TB 8000 Mah Gemini AI, con Teclado, Funda, Stcylet, Ratón",
+      "url": "https://www.worten.es/productos/tablet-t90-android-16-11-24gb-ram-128-gb-rom-sd-2-tb-8000-mah-gemini-ai-con-teclado-funda-stcylet-raton-mrkean-0612840770229",
+      "store": "Worten",
+      "current_price": 132.99,
+      "original_price": 189.99,
+      "discount_pct": 30.0,
+      "image_url": "https://www.worten.es/i/124d44bc9b6b2a31f9da72cb09a045edd0f5bfbf",
+      "category": null,
+      "price_history": [
+        132.99,
+        132.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 132.99,
       "drop_pct": null
     },
     {
@@ -1958,9 +2028,10 @@
         259.89,
         259.89,
         259.89,
+        259.89,
         259.89
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 259.89,
       "drop_pct": null
@@ -1978,9 +2049,10 @@
         259.89,
         259.89,
         259.89,
+        259.89,
         259.89
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 259.89,
       "drop_pct": null
@@ -1998,9 +2070,10 @@
         119.0,
         119.0,
         119.0,
+        119.0,
         119.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 119.0,
       "drop_pct": null
@@ -2018,9 +2091,10 @@
         31.99,
         31.99,
         31.99,
+        31.99,
         31.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 31.99,
       "drop_pct": null
@@ -2038,9 +2112,10 @@
         634.98,
         634.98,
         634.98,
+        634.98,
         634.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 634.98,
       "drop_pct": null
@@ -2058,9 +2133,10 @@
         169.89,
         169.89,
         169.89,
+        169.89,
         169.89
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 169.89,
       "drop_pct": null
@@ -2078,9 +2154,10 @@
         49.99,
         49.99,
         49.99,
+        49.99,
         49.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 49.99,
       "drop_pct": null
@@ -2096,11 +2173,32 @@
       "category": null,
       "price_history": [
         99.98,
+        99.98,
         99.98
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 99.98,
+      "drop_pct": null
+    },
+    {
+      "name": "Logitech Tap Para MeetUp USB Grafito",
+      "url": "https://www.coolmod.com/logitech-tap-para-meetup-usb-grafito/",
+      "store": "Coolmod",
+      "current_price": 699.95,
+      "original_price": 979.95,
+      "discount_pct": 28.57,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036702_1.jpg?v=1783084064",
+      "category": "Pantallas Digitales",
+      "price_history": [
+        699.95,
+        699.95,
+        699.95,
+        699.95
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 699.95,
       "drop_pct": null
     },
     {
@@ -2114,31 +2212,12 @@
       "category": null,
       "price_history": [
         269.9,
+        269.9,
         269.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 269.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html",
-      "store": "MediaMarkt",
-      "current_price": 115.0,
-      "original_price": 159.9,
-      "discount_pct": 28.08,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135782229",
-      "category": null,
-      "price_history": [
-        115.0,
-        115.0,
-        115.0,
-        115.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 115.0,
       "drop_pct": null
     },
     {
@@ -2154,9 +2233,10 @@
         649.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
@@ -2168,15 +2248,16 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1783084064",
       "category": "Ventiladores",
       "price_history": [
         20.95,
         20.95,
         20.95,
+        20.95,
         20.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 20.95,
       "drop_pct": null
@@ -2194,9 +2275,10 @@
         631.99,
         630.99,
         630.99,
+        630.99,
         630.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 630.99,
       "drop_pct": null
@@ -2214,9 +2296,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 399.0,
       "drop_pct": null
@@ -2231,31 +2314,12 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160327951",
       "category": null,
       "price_history": [
+        799.0,
         799.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 799.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora multifunción tinta - HP Envy 6122e, Serie 6020, HP+, Wi-Fi, Fax móvil, Impresión fotográfica a doble cara automática, Instant Ink, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-envy-6122e-hp-wi-fi-fax-movil-impresion-fotografica-a-doble-cara-automatica-blanco-1587274.html",
-      "store": "MediaMarkt",
-      "current_price": 69.0,
-      "original_price": 94.9,
-      "discount_pct": 27.29,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179518728",
-      "category": null,
-      "price_history": [
-        69.0,
-        69.0,
-        69.0,
-        69.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 69.0,
       "drop_pct": null
     },
     {
@@ -2271,9 +2335,10 @@
         599.0,
         549.0,
         549.0,
+        549.0,
         549.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 549.0,
       "drop_pct": null
@@ -2291,48 +2356,12 @@
         439.0,
         439.0,
         439.0,
+        440.0,
         440.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 440.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Aire Acondicionado Split Hisense HC35WU00G Confort 12, 1x1, Wifi , Bomba de Calor A++/A+",
-      "url": "https://www.carrefour.es/aire-acondicionado-split-hisense-hc35wu00g-confort-12-1x1-wifi-bomba-de-calor-a-a/VC4A-33449858/p",
-      "store": "Carrefour",
-      "current_price": 419.0,
-      "original_price": 569.0,
-      "discount_pct": 26.36,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/704864_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        419.0,
-        419.0,
-        419.0,
-        419.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 419.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavavajillas INDESIT Push & Go DFO 3T133AFX (14 Cubiertos - 59.5 cm - Inox)",
-      "url": "https://www.worten.es/productos/lavavajillas-indesit-push-and-go-dfo-3t133afx-14-cubiertos-59-5-cm-inox-7167240",
-      "store": "Worten",
-      "current_price": 329.98,
-      "original_price": 445.99,
-      "discount_pct": 26.01,
-      "image_url": "https://www.worten.es/i/594d734fa5dbc557f27011643eafbfe80806ffac",
-      "category": null,
-      "price_history": [
-        329.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2348,9 +2377,10 @@
         295.99,
         295.99,
         295.99,
+        295.99,
         295.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 295.99,
       "drop_pct": null
@@ -2368,9 +2398,10 @@
         63.99,
         73.99,
         73.99,
+        73.99,
         73.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 73.99,
       "drop_pct": null
@@ -2388,9 +2419,10 @@
         459.0,
         459.0,
         459.0,
+        459.0,
         459.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 459.0,
       "drop_pct": null
@@ -2408,9 +2440,10 @@
         185.0,
         185.0,
         185.0,
+        185.0,
         185.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 185.0,
       "drop_pct": null
@@ -2428,9 +2461,10 @@
         669.0,
         669.0,
         669.0,
+        669.0,
         669.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 669.0,
       "drop_pct": null
@@ -2442,15 +2476,16 @@
       "current_price": 2.95,
       "original_price": 3.95,
       "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1783084064",
       "category": "Cables Vídeo",
       "price_history": [
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -2468,9 +2503,10 @@
         49.0,
         59.9,
         50.0,
+        59.9,
         59.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 59.9,
       "drop_pct": null
@@ -2488,9 +2524,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -2508,9 +2545,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -2522,17 +2560,35 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1783084064",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 14.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - Acer Chromebook 314 CBOA314-1H-C065, 14\" Full-HD, Intel® Celeron®  N4500, 8GB RAM, 128GB, UHD Graphics, Google Chrome OS, Ratón incluido",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-acer-chromebook-314-cboa314-1h-c065-14-full-hd-intelr-celeron-n4500-8gb-ram-128gb-emmc-uhd-graphics-google-chrome-os-negro-1590080.html",
+      "store": "MediaMarkt",
+      "current_price": 299.0,
+      "original_price": 399.0,
+      "discount_pct": 25.06,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161864991",
+      "category": null,
+      "price_history": [
+        299.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2548,62 +2604,33 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 599.0,
       "drop_pct": null
     },
     {
-      "name": "GAME MX-W3 Wireless RGB 3200DPI Blanco - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w3-wireless-rgb-3200dpi-blanco-raton-gaming/220165",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220165.png",
-      "category": "Gaming",
+      "name": "TV TCL 65C71K 65\" (165,1 cm), MiniLED, 4K UHD, 144 Hz, Smart TV, AiPQ Pro Processor, Dolby AC4 Dolby TrueHD, Quantum Dot",
+      "url": "https://www.carrefour.es/tv-tcl-65c71k-65-1651-cm-miniled-4k-uhd-144-hz-smart-tv-aipq-pro-processor-dolby-ac4-dolby-truehd-quantum-dot/VC4A-30937038/p",
+      "store": "Carrefour",
+      "current_price": 899.0,
+      "original_price": 1199.0,
+      "discount_pct": 25.02,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/600988_00_1.jpg",
+      "category": "TV y Audio",
       "price_history": [
-        14.99
+        899.0,
+        899.0,
+        899.0,
+        899.0,
+        899.0
       ],
-      "history_days": 1,
+      "history_days": 5,
       "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-W3 Wireless RGB 3200DPI Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w3-wireless-rgb-3200dpi-negro-raton-gaming/220164",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220164.png",
-      "category": "Gaming",
-      "price_history": [
-        14.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-WC2T RGB Carcasa Intercambiable con pesas - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-wc2t-rgb-carcasa-intercambiable-con-pesas-raton-gaming/243772",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/243/243772.png",
-      "category": "Gaming",
-      "price_history": [
-        14.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 899.0,
       "drop_pct": null
     },
     {
@@ -2619,9 +2646,10 @@
         389.99,
         389.99,
         389.99,
+        389.99,
         389.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 389.99,
       "drop_pct": null
@@ -2639,51 +2667,50 @@
         49.0,
         49.0,
         49.0,
+        49.0,
         49.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 49.0,
       "drop_pct": null
     },
     {
-      "name": "Cocina BECKEN BFE4510N IX (64 L - Eléctrico de Vitrocerámica - Inox)",
-      "url": "https://www.worten.es/productos/cocina-becken-bfe4510n-ix-64-l-electrico-de-vitroceramica-inox-7704729",
+      "name": "Smartphone SAMSUNG Galaxy S25 FE (6.7'' - 8 GB - 256 GB - Azul Marino)",
+      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-s25-fe-6-7-8-gb-256-gb-azul-marino-8563514",
       "store": "Worten",
-      "current_price": 339.99,
-      "original_price": 449.99,
-      "discount_pct": 24.44,
-      "image_url": "https://www.worten.es/i/92dccbe53be69257fa6c3098a5639c764d3d6ca5",
+      "current_price": 528.99,
+      "original_price": 699.0,
+      "discount_pct": 24.32,
+      "image_url": "https://www.worten.es/i/3bd636dae1c9261fc7e0fed72cc3d8baf3176ae2",
       "category": null,
       "price_history": [
-        339.99,
-        339.99,
-        339.99,
-        339.99
+        528.99
       ],
-      "history_days": 4,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 339.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
-      "name": "Convertible 2 en 1 - Lenovo IdeaPad Flex 5 14ABR8, 14\" WUXGA, AMD Ryzen™ 7 5825U, 16GB RAM, 512GB, Radeon™ Onboard Graphics, Windows 11 Home, Azul",
-      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-lenovo-ideapad-flex-5-14abr8-14-wuxga-amd-ryzentm-7-5825u-16gb-ram-512gb-radeontm-onboard-graphics-windows-11-home-azul-1597219.html",
-      "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 849.0,
-      "discount_pct": 23.56,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157170176",
-      "category": null,
+      "name": "Tablet Xiaomi Redmi PAD2 PRO, Snapdragon® 7s Gen 4, 6 Gb Ram, 128 Gb, HyperOS 2 basado en Android 15, Gris",
+      "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad2-pro-snapdragon-7s-gen-4-6-gb-ram-128-gb-hyperos-2-basado-en-android-15-gris/VC4A-32026724/p",
+      "store": "Carrefour",
+      "current_price": 227.9,
+      "original_price": 299.99,
+      "discount_pct": 24.03,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/674497_00_1.jpg",
+      "category": "Componentes",
       "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0
+        227.9,
+        227.88,
+        227.88,
+        227.88,
+        227.9
       ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 649.0,
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 227.88,
       "drop_pct": null
     },
     {
@@ -2693,15 +2720,16 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1783084064",
       "category": "Hubs",
       "price_history": [
         22.95,
         22.95,
         22.95,
+        22.95,
         22.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 22.95,
       "drop_pct": null
@@ -2719,9 +2747,10 @@
         199.0,
         199.0,
         199.0,
+        199.0,
         199.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 199.0,
       "drop_pct": null
@@ -2739,9 +2768,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -2759,9 +2789,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -2779,11 +2810,29 @@
         999.0,
         999.0,
         999.0,
+        999.0,
         999.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 999.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Termo Eléctrico TEKA Smart EWH30VED (30 L - 7.5 bar)",
+      "url": "https://www.worten.es/productos/termo-electrico-teka-smart-ewh30ved-30-l-7-5-bar-6716066",
+      "store": "Worten",
+      "current_price": 99.98,
+      "original_price": 129.99,
+      "discount_pct": 23.09,
+      "image_url": "https://www.worten.es/i/9a4e92fff1946c8f9bfef11ef951ae986a9f7422",
+      "category": null,
+      "price_history": [
+        99.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2797,11 +2846,50 @@
       "category": null,
       "price_history": [
         349.9,
+        349.9,
         349.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 349.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora HP Envy Inspire 7920E (Multifunción - Inyección de Tinta - Wi-Fi - Instant Ink)",
+      "url": "https://www.worten.es/productos/impresora-hp-envy-inspire-7920e-multifuncion-inyeccion-de-tinta-wi-fi-instant-ink-7520093",
+      "store": "Worten",
+      "current_price": 99.99,
+      "original_price": 129.99,
+      "discount_pct": 23.08,
+      "image_url": "https://www.worten.es/i/74e38bb3da1b13ea866cbdbf7a9319bb4a41100e",
+      "category": null,
+      "price_history": [
+        99.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Carpa de jardín plegable BORA BORA (3x3m - Blanca)",
+      "url": "https://www.worten.es/productos/carpa-de-jardin-plegable-bora-bora-3x3m-blanca-8511834",
+      "store": "Worten",
+      "current_price": 26.99,
+      "original_price": 34.99,
+      "discount_pct": 22.86,
+      "image_url": "https://www.worten.es/i/b4e3d8fabcb7ccb09302d538d8086721aa2999ad",
+      "category": null,
+      "price_history": [
+        26.99,
+        26.99,
+        26.99,
+        26.99,
+        26.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 26.99,
       "drop_pct": null
     },
     {
@@ -2815,9 +2903,10 @@
       "category": null,
       "price_history": [
         169.0,
+        169.0,
         169.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 169.0,
       "drop_pct": null
@@ -2835,11 +2924,33 @@
         849.0,
         849.0,
         849.0,
+        849.0,
         849.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 849.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
+      "store": "Carrefour",
+      "current_price": 229.26,
+      "original_price": 294.99,
+      "discount_pct": 22.28,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        224.98,
+        224.98,
+        224.98,
+        224.98,
+        229.26
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 224.98,
       "drop_pct": null
     },
     {
@@ -2855,11 +2966,33 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 699.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Altavoz Portátil JBL Go 4 - Negro",
+      "url": "https://www.carrefour.es/altavoz-portatil-jbl-go-4-negro/VC4A-28479783/p",
+      "store": "Carrefour",
+      "current_price": 35.0,
+      "original_price": 44.99,
+      "discount_pct": 22.2,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/433604_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        36.99,
+        36.99,
+        35.0,
+        35.0,
+        35.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 35.0,
       "drop_pct": null
     },
     {
@@ -2875,45 +3008,12 @@
         549.0,
         549.0,
         549.0,
+        549.0,
         549.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 549.0,
-      "drop_pct": null
-    },
-    {
-      "name": "MOZA Racing HGP Shifter - Palanca de Cambios",
-      "url": "https://www.game.es/accesorios/simulacion-conduccion/pc-gaming/moza-racing-hgp-shifter-palanca-de-cambios/v1imkz",
-      "store": "GAME",
-      "current_price": 155.99,
-      "original_price": 198.23,
-      "discount_pct": 21.31,
-      "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IMKZ.png",
-      "category": "Gaming",
-      "price_history": [
-        155.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 155.99,
-      "drop_pct": null
-    },
-    {
-      "name": "MOZA Racing SR-P Acelerador + Freno - Pedales",
-      "url": "https://www.game.es/accesorios/simulacion-conduccion/pc-gaming/moza-racing-sr-p-acelerador-freno-pedales/v1imkn",
-      "store": "GAME",
-      "current_price": 155.99,
-      "original_price": 198.23,
-      "discount_pct": 21.31,
-      "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IMKN.png",
-      "category": "Gaming",
-      "price_history": [
-        155.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 155.99,
       "drop_pct": null
     },
     {
@@ -2929,9 +3029,10 @@
         369.99,
         369.99,
         369.99,
+        369.99,
         369.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 369.99,
       "drop_pct": null
@@ -2949,9 +3050,10 @@
         14.99,
         14.99,
         14.99,
+        14.99,
         14.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 14.99,
       "drop_pct": null
@@ -2969,31 +3071,12 @@
         339.99,
         339.99,
         339.99,
+        339.99,
         339.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 339.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartphone GOOGLE Pixel 9 Pro (6.3'' - 16 GB - 256 GB - Obsidian)",
-      "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-6-3-16-gb-256-gb-obsidian-8119763",
-      "store": "Worten",
-      "current_price": 634.88,
-      "original_price": 799.0,
-      "discount_pct": 20.54,
-      "image_url": "https://www.worten.es/i/5bd72ce035a25fd71e1aa91bdaf4bfd68c83d327",
-      "category": null,
-      "price_history": [
-        634.88,
-        634.88,
-        634.88,
-        634.88
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 634.88,
       "drop_pct": null
     },
     {
@@ -3009,31 +3092,12 @@
         159.0,
         159.0,
         159.0,
+        159.0,
         159.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 159.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-256gb-8gb-ram-negro/VC4A-32381778/p",
-      "store": "Carrefour",
-      "current_price": 175.06,
-      "original_price": 220.0,
-      "discount_pct": 20.43,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        178.28,
-        171.78,
-        171.78,
-        171.78
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 175.06,
       "drop_pct": null
     },
     {
@@ -3049,9 +3113,10 @@
         94.99,
         94.99,
         94.99,
+        94.99,
         94.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 94.99,
       "drop_pct": null
@@ -3069,12 +3134,34 @@
         215.0,
         215.0,
         215.0,
+        215.0,
         215.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 215.0,
       "drop_pct": null
+    },
+    {
+      "name": "Móvil Oppo A6 PRO 5G 256GB + 8GB RAM - Azul",
+      "url": "https://www.carrefour.es/movil-oppo-a6-pro-5g-256gb-8gb-ram-azul/VC4A-33011833/p",
+      "store": "Carrefour",
+      "current_price": 239.0,
+      "original_price": 299.0,
+      "discount_pct": 20.07,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/683011_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        249.0,
+        249.0,
+        249.0,
+        249.0,
+        239.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 249.0,
+      "drop_pct": 4.02
     },
     {
       "name": "TV Stick Xiaomi Mi Versión EU",
@@ -3089,9 +3176,10 @@
         39.9,
         39.9,
         39.9,
+        39.9,
         39.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 39.9,
       "drop_pct": null
@@ -3109,9 +3197,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 599.0,
       "drop_pct": null
@@ -3129,9 +3218,10 @@
         999.0,
         999.0,
         999.0,
+        999.0,
         999.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 999.0,
       "drop_pct": null
@@ -3143,15 +3233,16 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1783084064",
       "category": "Sais",
       "price_history": [
         39.95,
         39.95,
         39.95,
+        39.95,
         39.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 39.95,
       "drop_pct": null
@@ -3169,9 +3260,10 @@
         1199.0,
         1199.0,
         1199.0,
+        1199.0,
         1199.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1199.0,
       "drop_pct": null
@@ -3189,11 +3281,93 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 79.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Altavoz Gran potencia JBL PartyBox Club 120, 160W - Negro",
+      "url": "https://www.carrefour.es/altavoz-gran-potencia-jbl-partybox-club-120-160w-negro/VC4A-31500635/p",
+      "store": "Carrefour",
+      "current_price": 319.99,
+      "original_price": 399.99,
+      "discount_pct": 20.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/655985_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        319.99,
+        319.99,
+        319.99,
+        319.99,
+        319.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 319.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Auriculares Inalámbricos JBL Tune Flex 2 - Blanco",
+      "url": "https://www.carrefour.es/auriculares-inalambricos-jbl-tune-flex-2-blanco/VC4A-31680023/p",
+      "store": "Carrefour",
+      "current_price": 79.99,
+      "original_price": 99.99,
+      "discount_pct": 20.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/663361_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        79.99,
+        79.99,
+        79.99,
+        79.99,
+        79.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 79.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Altavoz Portátil JBL Grip, 16W - Negro",
+      "url": "https://www.carrefour.es/altavoz-portatil-jbl-grip-16w-negro/VC4A-31572445/p",
+      "store": "Carrefour",
+      "current_price": 79.99,
+      "original_price": 99.99,
+      "discount_pct": 20.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/655988_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        79.99,
+        79.99,
+        79.99,
+        79.99,
+        79.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 79.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico 2 puertas KUBO KBDD8358 (Estático - 143 cm - 206 L - Blanco)",
+      "url": "https://www.worten.es/productos/frigorifico-2-puertas-kubo-kbdd8358-estatico-143-cm-206-l-blanco-7610054",
+      "store": "Worten",
+      "current_price": 199.99,
+      "original_price": 249.99,
+      "discount_pct": 20.0,
+      "image_url": "https://www.worten.es/i/bd9f03aeafcb205983bad37276e3ad8bd0b2584f",
+      "category": null,
+      "price_history": [
+        199.99,
+        199.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 199.99,
       "drop_pct": null
     },
     {
@@ -3207,9 +3381,10 @@
       "category": null,
       "price_history": [
         199.98,
+        199.98,
         199.98
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 199.98,
       "drop_pct": null
@@ -3225,29 +3400,12 @@
       "category": null,
       "price_history": [
         127.2,
+        127.2,
         127.2
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 127.2,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavavajillas KUBO KBDW9059 (12 Cubiertos - 60 cm - Inox)",
-      "url": "https://www.worten.es/productos/lavavajillas-kubo-kbdw9059-12-cubiertos-60-cm-inox-8256522",
-      "store": "Worten",
-      "current_price": 199.98,
-      "original_price": 249.99,
-      "discount_pct": 20.0,
-      "image_url": "https://www.worten.es/i/aff218b920a43ec54fb7ff8fa6b012f9e6b19aef",
-      "category": null,
-      "price_history": [
-        199.98,
-        199.98
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 199.98,
       "drop_pct": null
     },
     {
@@ -3260,11 +3418,33 @@
       "image_url": "https://media.game.es/COVERV2/3D_L/V1H/V1HVA2.png",
       "category": "Gaming",
       "price_history": [
+        79.99,
         79.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 79.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi Note 15 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-256gb-8gb-ram-negro/VC4A-32381778/p",
+      "store": "Carrefour",
+      "current_price": 177.11,
+      "original_price": 220.0,
+      "discount_pct": 19.5,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        178.28,
+        171.78,
+        171.78,
+        171.78,
+        177.11
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 175.06,
       "drop_pct": null
     },
     {
@@ -3280,32 +3460,51 @@
         647.81,
         647.81,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 649.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - ASUS Zenbook 14 OLED UX3405CA-QD1310W, 14 \" WUXGA, Intel® Core™ Ultra 9 285H, 32GB RAM, 1TB SSD, Arc™ GPU, W11H, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-14-oled-ux3405ca-qd1310w-14-wqxga-intelr-coretm-ultra-9-285h-32gb-ram-1tb-ssd-arctm-gpu-windows-11-home-1619418.html",
+      "store": "MediaMarkt",
+      "current_price": 1299.0,
+      "original_price": 1599.0,
+      "discount_pct": 18.76,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170451083",
+      "category": null,
+      "price_history": [
+        1299.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
       "name": "Cocina KUBO KBGS8230 IX (64 L - Gas Butano-Propano - Inox) 60x60",
       "url": "https://www.worten.es/productos/cocina-kubo-kbgs8230-ix-64-l-gas-butano-propano-inox-60x60-8237826",
       "store": "Worten",
-      "current_price": 219.99,
+      "current_price": 219.97,
       "original_price": 269.99,
-      "discount_pct": 18.52,
+      "discount_pct": 18.53,
       "image_url": "https://www.worten.es/i/601f90239af16cafee58a82445fb71ef6c93c9c4",
       "category": null,
       "price_history": [
         219.99,
         219.99,
         219.99,
-        219.99
+        219.99,
+        219.97
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 219.99,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Portátil - HP 15-fd1020ns, 15,6\" Full HD, Intel® Core™ Ultra 7 155H, 32 GB RAM, 1 TB SSD, Intel® Arc Graphics, Windows 11 Home, Azul lunar",
@@ -3320,9 +3519,10 @@
         899.0,
         899.0,
         899.0,
+        899.0,
         899.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 899.0,
       "drop_pct": null
@@ -3340,9 +3540,10 @@
         269.0,
         253.0,
         253.0,
+        253.0,
         253.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 253.0,
       "drop_pct": null
@@ -3360,9 +3561,10 @@
         229.0,
         229.0,
         229.0,
+        229.0,
         229.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 229.0,
       "drop_pct": null
@@ -3380,9 +3582,10 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 599.0,
       "drop_pct": null
@@ -3400,11 +3603,29 @@
         369.0,
         369.0,
         369.0,
+        369.0,
         369.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 369.0,
+      "drop_pct": null
+    },
+    {
+      "name": "OnePlus 13 5g 16gb/512gb Negro Dual Sim (Eclipse negro)",
+      "url": "https://www.worten.es/productos/oneplus-13-5g-16gb-512gb-negro-dual-sim-eclipse-negro-mrkean-6921815627937",
+      "store": "Worten",
+      "current_price": 739.98,
+      "original_price": 899.0,
+      "discount_pct": 17.69,
+      "image_url": "https://www.worten.es/i/d2aece98ec717a14d6387e9faf523eb3d590d147",
+      "category": null,
+      "price_history": [
+        739.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3420,9 +3641,10 @@
         1399.0,
         1399.0,
         1399.0,
+        1399.0,
         1399.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1399.0,
       "drop_pct": null
@@ -3440,9 +3662,10 @@
         329.0,
         329.0,
         329.0,
+        329.0,
         329.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 329.0,
       "drop_pct": null
@@ -3460,9 +3683,10 @@
         99.0,
         99.0,
         99.0,
+        99.0,
         99.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 99.0,
       "drop_pct": null
@@ -3480,9 +3704,10 @@
         579.0,
         579.0,
         579.0,
+        579.0,
         579.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 579.0,
       "drop_pct": null
@@ -3500,9 +3725,10 @@
         829.0,
         829.0,
         829.0,
+        829.0,
         829.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 829.0,
       "drop_pct": null
@@ -3520,9 +3746,10 @@
         64.0,
         64.0,
         64.0,
+        64.0,
         64.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 64.0,
       "drop_pct": null
@@ -3540,31 +3767,12 @@
         49.9,
         49.9,
         49.9,
+        49.9,
         49.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 49.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Oppo A6 PRO 5G 256GB + 8GB RAM - Azul",
-      "url": "https://www.carrefour.es/movil-oppo-a6-pro-5g-256gb-8gb-ram-azul/VC4A-33011833/p",
-      "store": "Carrefour",
-      "current_price": 249.0,
-      "original_price": 299.0,
-      "discount_pct": 16.72,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/683011_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        249.0,
-        249.0,
-        249.0,
-        249.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 249.0,
       "drop_pct": null
     },
     {
@@ -3580,31 +3788,12 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
-      "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 779.0,
-      "discount_pct": 16.69,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
-      "category": null,
-      "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -3620,16 +3809,17 @@
         749.0,
         749.0,
         749.0,
+        749.0,
         749.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 749.0,
       "drop_pct": null
     },
     {
       "name": "Impresora Multifunción HP DeskJet 2923E, Inyección de Tinta, Wifi, Color, 5,5 ppm, 3 Meses Instant Ink HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2923e-inyeccion-de-tinta-wifi-color-55-ppm-6-meses-instant-ink-hp/VC4A-33279425/p",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2923e-inyeccion-de-tinta-wifi-color-55-ppm-3-meses-instant-ink-hp/VC4A-33279425/p",
       "store": "Carrefour",
       "current_price": 49.9,
       "original_price": 59.9,
@@ -3637,14 +3827,11 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706409_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        49.9,
-        49.9,
-        49.9,
         49.9
       ],
-      "history_days": 4,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3660,79 +3847,41 @@
         999.0,
         999.0,
         999.0,
+        999.0,
         999.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 999.0,
       "drop_pct": null
     },
     {
-      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
+      "name": "Smart TV MiniLED 55\" (139,7 cm) Hisense 55U7SE, 4K UHD, 144 Hz, Dolby Vision, Dolby Vision IQ, HDR+, Dolby MS12, DTS X",
+      "url": "https://www.carrefour.es/smart-tv-miniled-55-1397-cm-hisense-55u7se-4k-uhd-144-hz-dolby-vision-dolby-vision-iq-hdr-dolby-ms12-dts-x/VC4A-33367541/p",
       "store": "Carrefour",
-      "current_price": 224.98,
-      "original_price": 269.98,
+      "current_price": 605.0,
+      "original_price": 726.0,
       "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
-      "category": "Móviles",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706719_00_1.jpg",
+      "category": "TV y Audio",
       "price_history": [
-        224.98,
-        224.98,
-        224.98,
-        224.98
+        551.65,
+        551.65,
+        551.65,
+        551.65,
+        605.0
       ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 224.98,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
-      "store": "Carrefour",
-      "current_price": 124.98,
-      "original_price": 149.98,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        124.98,
-        124.98,
-        124.98,
-        124.98
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 124.98,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-negro/VC4A-32381779/p",
-      "store": "Carrefour",
-      "current_price": 271.18,
-      "original_price": 325.42,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682206_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        271.18,
-        271.18,
-        271.18,
-        271.18
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 271.18,
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 551.65,
       "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi A5 128 GB + 4GB RAM - Azul",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-a5-128-gb-4gb-ram-azul/VC4A-33162732/p",
       "store": "Carrefour",
-      "current_price": 108.75,
-      "original_price": 130.5,
+      "current_price": 108.76,
+      "original_price": 130.52,
       "discount_pct": 16.67,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705206_00_1.jpg",
       "category": "Móviles",
@@ -3740,51 +3889,12 @@
         106.99,
         106.99,
         106.99,
-        106.99
+        106.99,
+        108.76
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 108.75,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 128GB + 6GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-128gb-6gb-ram-negro/VC4A-32381838/p",
-      "store": "Carrefour",
-      "current_price": 166.09,
-      "original_price": 199.31,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682199_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        166.1,
-        166.1,
-        166.09,
-        166.09
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 166.09,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-5g-256gb-8gb-ram-negro/VC4A-32395353/p",
-      "store": "Carrefour",
-      "current_price": 224.13,
-      "original_price": 268.96,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682203_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        224.13,
-        224.13,
-        224.13,
-        224.13
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 224.13,
       "drop_pct": null
     },
     {
@@ -3800,126 +3910,12 @@
         24.99,
         24.99,
         24.99,
+        24.99,
         24.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 24.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Lenovo Tab MediaTek Helio G85, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 14",
-      "url": "https://www.carrefour.es/tablet-lenovo-tab-mediatek-helio-g85-4gb-ram-128gb-101-2565-cm-android-14/VC4A-31657424/p",
-      "store": "Carrefour",
-      "current_price": 142.33,
-      "original_price": 170.8,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645090_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        141.96,
-        141.96,
-        142.33,
-        142.33
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 142.33,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Lenovo Idea Tab MediaTek Dimensity 6300, 8GB RAM, 128GB, 11\" - 27,94 cm, Android 15 con Lenovo Tab Pen",
-      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-128gb-11-2794-cm-android-15-con-lenovo-tab-pen/VC4A-31928411/p",
-      "store": "Carrefour",
-      "current_price": 185.02,
-      "original_price": 222.02,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/667179_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        166.6,
-        166.6,
-        185.02,
-        185.02
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 185.02,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Lenovo  IDea Tab, MediaTek Dimensity 6300, 8Gb Ram ,256 Gb, 11'', Pen, Android™ 15,",
-      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-256-gb-11-pen-android-15/VC4A-31455792/p",
-      "store": "Carrefour",
-      "current_price": 212.06,
-      "original_price": 254.47,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645087_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        213.86,
-        212.06,
-        212.06,
-        212.06
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 212.06,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet Xiaomi Redmi PAD2 PRO, Snapdragon® 7s Gen 4, 6 Gb Ram, 128 Gb, HyperOS 2 basado en Android 15, Gris",
-      "url": "https://www.carrefour.es/tablet-xiaomi-redmi-pad2-pro-snapdragon-7s-gen-4-6-gb-ram-128-gb-hyperos-2-basado-en-android-15-gris/VC4A-32026724/p",
-      "store": "Carrefour",
-      "current_price": 227.88,
-      "original_price": 273.46,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/674497_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        227.9,
-        227.88,
-        227.88,
-        227.88
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 227.88,
-      "drop_pct": null
-    },
-    {
-      "name": "Plancha de Pelo BABYLISS ST250E (Cerámica - 180 °C - 230 °C)",
-      "url": "https://www.worten.es/productos/plancha-de-pelo-babyliss-st250e-ceramica-180-degc-230-degc-7033743",
-      "store": "Worten",
-      "current_price": 40.95,
-      "original_price": 49.14,
-      "discount_pct": 16.67,
-      "image_url": "https://www.worten.es/i/f096bcd99b803876e624b4163a2ddac421351fcc",
-      "category": null,
-      "price_history": [
-        44.88,
-        40.95
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 44.88,
-      "drop_pct": 8.76
-    },
-    {
-      "name": "GAME MX-W5 RGB Inalambrico Bluetooth Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w5-rgb-inalambrico-bluetooth-negro-raton-gaming/232333",
-      "store": "GAME",
-      "current_price": 24.99,
-      "original_price": 29.99,
-      "discount_pct": 16.67,
-      "image_url": "https://media.game.es/COVERV2/3D_L/232/232333.png",
-      "category": "Gaming",
-      "price_history": [
-        24.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3934,11 +3930,31 @@
       "price_history": [
         21.92,
         21.92,
+        21.92,
         21.92
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 21.92,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portatil HP Elitebook 1040 G9 35 6 Cm 14 Wuxga Intel Core I5 I5-1235U 16 Gb Ddr5-Sdram 512 Gb Ssd Wi-Fi 6 802.11Ax Windows 11 Pro Pr",
+      "url": "https://www.worten.es/productos/ordenador-portatil-hp-elitebook-1040-g9-35-6-cm-14-wuxga-intel-core-i5-i5-1235u-16-gb-ddr5-sdram-512-gb-ssd-wi-fi-6-802-11ax-windows-11-pro-pr-mrkean-0196786015359",
+      "store": "Worten",
+      "current_price": 625.0,
+      "original_price": 749.0,
+      "discount_pct": 16.56,
+      "image_url": "https://www.worten.es/i/2849a82bfdab58655c80c9e9dcecbfdf900e82f5",
+      "category": null,
+      "price_history": [
+        625.0,
+        625.0,
+        625.0
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 21.92,
+      "prev_price": 625.0,
       "drop_pct": null
     },
     {
@@ -3954,9 +3970,10 @@
         99.41,
         99.41,
         99.41,
+        99.41,
         99.41
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 99.41,
       "drop_pct": null
@@ -3974,11 +3991,33 @@
         159.15,
         159.15,
         158.15,
+        158.15,
         158.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 158.15,
+      "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p",
+      "store": "Carrefour",
+      "current_price": 124.99,
+      "original_price": 149.0,
+      "discount_pct": 16.11,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        124.98,
+        124.98,
+        124.98,
+        124.98,
+        124.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 124.98,
       "drop_pct": null
     },
     {
@@ -3988,14 +4027,15 @@
       "current_price": 15.95,
       "original_price": 18.95,
       "discount_pct": 15.83,
-      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1783084064",
       "category": "Pantallas/Accesorios",
       "price_history": [
         15.95,
         15.95,
+        15.95,
         15.95
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 15.95,
       "drop_pct": null
@@ -4013,9 +4053,10 @@
         1599.0,
         1599.0,
         1599.0,
+        1599.0,
         1599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1599.0,
       "drop_pct": null
@@ -4033,9 +4074,10 @@
         1179.0,
         1179.0,
         1179.0,
+        1179.0,
         1179.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1179.0,
       "drop_pct": null
@@ -4053,9 +4095,10 @@
         379.0,
         379.0,
         379.0,
+        379.0,
         379.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 379.0,
       "drop_pct": null
@@ -4067,15 +4110,16 @@
       "current_price": 168.95,
       "original_price": 199.95,
       "discount_pct": 15.5,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1783084064",
       "category": "Monitores",
       "price_history": [
         128.95,
         128.95,
         168.95,
+        168.95,
         168.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 168.95,
       "drop_pct": null
@@ -4093,9 +4137,10 @@
         828.88,
         865.99,
         865.99,
+        865.99,
         865.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 865.99,
       "drop_pct": null
@@ -4113,9 +4158,10 @@
         838.88,
         868.87,
         868.87,
+        868.87,
         868.87
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 868.87,
       "drop_pct": null
@@ -4133,29 +4179,10 @@
         838.88,
         863.99,
         868.87,
-        868.87
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 868.87,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Negro",
-      "url": "https://www.carrefour.es/apple-iphone-17-256-gb-63-pantalla-super-retina-xdr-chip-a19-negro/VC4A-31500615/p",
-      "store": "Carrefour",
-      "current_price": 868.87,
-      "original_price": 1023.6,
-      "discount_pct": 15.12,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658719_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        828.88,
-        868.87,
         868.87,
         868.87
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 868.87,
       "drop_pct": null
@@ -4173,12 +4200,13 @@
         532.0,
         532.0,
         532.0,
+        497.0,
         497.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
-      "prev_price": 532.0,
-      "drop_pct": 6.58
+      "prev_price": 497.0,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi 15 256GB + 8GB RAM - Gris",
@@ -4193,9 +4221,10 @@
         152.15,
         152.15,
         152.15,
+        152.15,
         152.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 152.15,
       "drop_pct": null
@@ -4213,9 +4242,10 @@
         126.65,
         126.65,
         126.65,
+        126.65,
         126.65
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 126.65,
       "drop_pct": null
@@ -4233,9 +4263,10 @@
         194.65,
         194.65,
         194.65,
+        194.65,
         194.65
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 194.65,
       "drop_pct": null
@@ -4253,29 +4284,10 @@
         152.15,
         152.15,
         152.15,
-        152.15
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 152.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi 15 256GB + 8GB RAM - Negro ",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-15-256gb-8gb-ram-negro/VC4A-31495536/p",
-      "store": "Carrefour",
-      "current_price": 152.15,
-      "original_price": 179.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645220_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        152.15,
-        152.15,
         152.15,
         152.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 152.15,
       "drop_pct": null
@@ -4293,9 +4305,10 @@
         211.65,
         211.65,
         211.65,
+        211.65,
         211.65
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 211.65,
       "drop_pct": null
@@ -4313,9 +4326,10 @@
         628.15,
         628.15,
         628.15,
+        628.15,
         628.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 628.15,
       "drop_pct": null
@@ -4333,9 +4347,10 @@
         124.9,
         124.9,
         124.9,
+        135.15,
         135.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 135.15,
       "drop_pct": null
@@ -4353,9 +4368,10 @@
         679.15,
         679.15,
         679.15,
+        679.15,
         679.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 679.15,
       "drop_pct": null
@@ -4373,9 +4389,10 @@
         424.15,
         424.15,
         424.15,
+        424.15,
         424.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 424.15,
       "drop_pct": null
@@ -4393,9 +4410,10 @@
         577.15,
         577.15,
         577.15,
+        577.15,
         577.15
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 577.15,
       "drop_pct": null
@@ -4412,9 +4430,10 @@
       "price_history": [
         211.65,
         211.65,
+        211.65,
         211.65
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 211.65,
       "drop_pct": null
@@ -4431,31 +4450,12 @@
       "price_history": [
         696.15,
         696.15,
+        696.15,
         696.15
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 696.15,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 43\" (109,22 cm) Hisense 43E79S con IA , 4K UHD, 60 Hz",
-      "url": "https://www.carrefour.es/smart-tv-qled-43-10922-cm-hisense-43e79s-con-ia-4k-uhd-60-hz/VC4A-33162769/p",
-      "store": "Carrefour",
-      "current_price": 313.65,
-      "original_price": 369.0,
-      "discount_pct": 15.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706696_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        313.65,
-        313.65,
-        313.65,
-        313.65
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 313.65,
+      "prev_price": 696.15,
       "drop_pct": null
     },
     {
@@ -4471,9 +4471,10 @@
         398.65,
         398.65,
         398.65,
+        398.65,
         398.65
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 398.65,
       "drop_pct": null
@@ -4490,51 +4491,12 @@
       "price_history": [
         36.19,
         36.19,
+        36.19,
         36.19
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 36.19,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola PlayStation 5 Estándar E 1TB - Blanco",
-      "url": "https://www.carrefour.es/consola-playstation-5-estandar-e-1tb-blanco/VC4A-31794263/p",
-      "store": "Carrefour",
-      "current_price": 594.5,
-      "original_price": 699.0,
-      "discount_pct": 14.95,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654346_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        594.96,
-        594.47,
-        594.47,
-        594.5
-      ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 594.5,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Acer Aspire Go 15 AG15-42P-R73N, 15.6\" Full-HD, AMD Ryzen™  5 7430U, 8GB RAM, 512 GB SSD, Radeon™ Onboard Graphics, Sin sistema operativo",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-acer-aspire-go-15-ag15-42p-r73n-156-full-hd-amd-ryzentm-5-7430u-8gb-ram-512-gb-ssd-radeontm-onboard-graphics-sin-sistema-operativo-1618472.html",
-      "store": "MediaMarkt",
-      "current_price": 399.0,
-      "original_price": 469.0,
-      "discount_pct": 14.93,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169854256",
-      "category": null,
-      "price_history": [
-        399.0,
-        399.0,
-        399.0,
-        399.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 399.0,
       "drop_pct": null
     },
     {
@@ -4550,11 +4512,12 @@
         854.4,
         854.36,
         854.56,
-        854.88
+        854.88,
+        854.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
-      "prev_price": 854.88,
+      "prev_price": 854.99,
       "drop_pct": null
     },
     {
@@ -4570,9 +4533,10 @@
         854.99,
         854.99,
         854.99,
+        854.99,
         854.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 854.99,
       "drop_pct": null
@@ -4589,9 +4553,10 @@
       "price_history": [
         854.99,
         854.99,
+        854.99,
         854.99
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 854.99,
       "drop_pct": null
@@ -4609,16 +4574,17 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 599.0,
       "drop_pct": null
     },
     {
       "name": "Impresora Multifuncion Hp Deskjet 4330E AIO, Inyección de Tinta, Blanco, Negro y Color, 8,5 ppm, 3 Meses Instant Ink con HP+",
-      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-4330e-aio-inyeccion-de-tinta-blanco-negro-y-color-85-ppm-6-meses-instant-ink-con-hp/VC4A-33189158/p",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-4330e-aio-inyeccion-de-tinta-blanco-negro-y-color-85-ppm-3-meses-instant-ink-con-hp/VC4A-33189158/p",
       "store": "Carrefour",
       "current_price": 59.9,
       "original_price": 69.9,
@@ -4626,14 +4592,11 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682754_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        64.0,
-        64.0,
-        59.9,
         59.9
       ],
-      "history_days": 4,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4646,9 +4609,10 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151654238",
       "category": null,
       "price_history": [
+        1199.0,
         1199.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 1199.0,
       "drop_pct": null
@@ -4666,11 +4630,33 @@
         299.99,
         299.99,
         299.99,
+        299.99,
         299.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.99,
+      "drop_pct": null
+    },
+    {
+      "name": "GamePc HW-A Ryzen5/16gb/512Gb/Nv GT710/WindowsH11 - Ordenador Sobremesa",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-hw-a-ryzen5-16gb-512gb-nv-gt710-windowsh11-ordenador-sobremesa/261517",
+      "store": "GAME",
+      "current_price": 599.99,
+      "original_price": 699.99,
+      "discount_pct": 14.29,
+      "image_url": "https://media.game.es/COVERV2/3D_L/261/261517.png",
+      "category": "Gaming",
+      "price_history": [
+        599.99,
+        599.99,
+        599.99,
+        599.99,
+        599.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 599.99,
       "drop_pct": null
     },
     {
@@ -4686,9 +4672,10 @@
         299.98,
         299.98,
         299.98,
+        299.98,
         299.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.98,
       "drop_pct": null
@@ -4706,11 +4693,29 @@
         429.0,
         429.0,
         429.0,
+        429.0,
         429.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 429.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora HP Smart Tank 7306 (Multifunción - Inyección de Tinta - Wi-Fi - Bluetooth - Bluetooth)",
+      "url": "https://www.worten.es/productos/impresora-hp-smart-tank-7306-multifuncion-inyeccion-de-tinta-wi-fi-bluetooth-bluetooth-7519728",
+      "store": "Worten",
+      "current_price": 239.99,
+      "original_price": 279.0,
+      "discount_pct": 13.98,
+      "image_url": "https://www.worten.es/i/ab4a300b83149938f55e3bf23b66603b78e955fe",
+      "category": null,
+      "price_history": [
+        239.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4726,9 +4731,31 @@
         861.99,
         861.99,
         861.99,
+        861.99,
         861.99
       ],
-      "history_days": 4,
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 861.99,
+      "drop_pct": null
+    },
+    {
+      "name": "iPhone 17 APPLE (6.3'' - 256 GB - Verde salvia)",
+      "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-verde-salvia-8600332",
+      "store": "Worten",
+      "current_price": 861.99,
+      "original_price": 999.99,
+      "discount_pct": 13.8,
+      "image_url": "https://www.worten.es/i/6cc822353c04c321d1a57fc51771979f595f245a",
+      "category": null,
+      "price_history": [
+        861.99,
+        861.99,
+        861.99,
+        861.99,
+        861.99
+      ],
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 861.99,
       "drop_pct": null
@@ -4744,9 +4771,10 @@
       "category": null,
       "price_history": [
         861.99,
+        861.99,
         861.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 861.99,
       "drop_pct": null
@@ -4764,9 +4792,10 @@
         129.0,
         129.0,
         129.0,
+        129.0,
         129.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 129.0,
       "drop_pct": null
@@ -4784,30 +4813,12 @@
         64.99,
         64.99,
         64.99,
+        64.99,
         64.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 64.99,
-      "drop_pct": null
-    },
-    {
-      "name": "iPhone 17 APPLE (6.3'' - 256 GB - Azul neblina)",
-      "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-azul-neblina-8600280",
-      "store": "Worten",
-      "current_price": 868.84,
-      "original_price": 999.99,
-      "discount_pct": 13.12,
-      "image_url": "https://www.worten.es/i/da4fdfecc604a262b7ecb7046a150a9398d1e550",
-      "category": null,
-      "price_history": [
-        868.84,
-        868.84,
-        868.84
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 868.84,
       "drop_pct": null
     },
     {
@@ -4823,9 +4834,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 399.0,
       "drop_pct": null
@@ -4843,9 +4855,10 @@
         199.98,
         199.98,
         199.98,
+        199.98,
         199.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 199.98,
       "drop_pct": null
@@ -4863,9 +4876,10 @@
         475.88,
         475.88,
         475.88,
+        475.88,
         475.88
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 475.88,
       "drop_pct": null
@@ -4883,9 +4897,10 @@
         479.0,
         479.0,
         479.0,
+        479.0,
         479.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 479.0,
       "drop_pct": null
@@ -4903,11 +4918,29 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 699.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Logitech G325 Lightspeed Wireless Negro PC - PS5 - PS4 - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/logitech-g325-lightspeed-wireless-negro-pc-ps5-ps4-switch-auriculares-gaming/256722",
+      "store": "GAME",
+      "current_price": 69.99,
+      "original_price": 79.99,
+      "discount_pct": 12.5,
+      "image_url": "https://media.game.es/COVERV2/3D_L/256/256722.png",
+      "category": "Gaming",
+      "price_history": [
+        69.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4917,15 +4950,16 @@
       "current_price": 788.95,
       "original_price": 899.95,
       "discount_pct": 12.33,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1783084064",
       "category": "Monitores",
       "price_history": [
         358.95,
         358.95,
         788.95,
+        788.95,
         788.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 788.95,
       "drop_pct": null
@@ -4943,9 +4977,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -4963,44 +4998,46 @@
         233.8,
         236.99,
         236.0,
+        236.0,
         236.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 236.0,
       "drop_pct": null
     },
     {
-      "name": "Frigorífico Combi HISENSE RB440N4BWE (Estático - 200 cm - 336 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb440n4bwe-estatico-200-cm-336-l-blanco-7506830",
-      "store": "Worten",
-      "current_price": 482.0,
-      "original_price": 545.0,
-      "discount_pct": 11.56,
-      "image_url": "https://www.worten.es/i/35bfbb6bbc7eb2d69ee6ff78582f4d90cfb0e6d0",
-      "category": null,
+      "name": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-negro/VC4A-32381779/p",
+      "store": "Carrefour",
+      "current_price": 271.2,
+      "original_price": 309.0,
+      "discount_pct": 12.23,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682206_00_1.jpg",
+      "category": "Móviles",
       "price_history": [
-        459.99,
-        459.99,
-        487.08,
-        482.0
+        271.18,
+        271.18,
+        271.18,
+        271.18,
+        271.2
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
-      "prev_price": 487.08,
-      "drop_pct": 1.04
+      "prev_price": 271.18,
+      "drop_pct": null
     },
     {
-      "name": "Frigorífico Combi BOSCH KGN39VIEB (No Frost - 203 cm - 368 L - Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-bosch-kgn39vieb-no-frost-203-cm-368-l-inox-8601816",
+      "name": "APPLE Watch Ultra 3 GPS + Cellular 49 mm Titanio Negro con Correa Ocean Negro",
+      "url": "https://www.worten.es/productos/apple-watch-ultra-3-gps-cellular-49-mm-titanio-negro-con-correa-ocean-negro-8600457",
       "store": "Worten",
-      "current_price": 628.0,
-      "original_price": 710.0,
-      "discount_pct": 11.55,
-      "image_url": "https://www.worten.es/i/5c831d7348c66d5fae4ad238d72945b5787e865c",
+      "current_price": 749.0,
+      "original_price": 849.0,
+      "discount_pct": 11.78,
+      "image_url": "https://www.worten.es/i/82bced2499ca916c374e3c2ca4a34d1a23b74ebb",
       "category": null,
       "price_history": [
-        628.0
+        749.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -5008,20 +5045,24 @@
       "drop_pct": null
     },
     {
-      "name": "Lavavajillas BOSCH Serie 4 SMS46KW02E (13 Cubiertos - 60 cm - Blanco)",
-      "url": "https://www.worten.es/productos/lavavajillas-bosch-serie-4-sms46kw02e-13-cubiertos-60-cm-blanco-8181552",
-      "store": "Worten",
-      "current_price": 432.0,
-      "original_price": 488.0,
-      "discount_pct": 11.48,
-      "image_url": "https://www.worten.es/i/3e2ca29b6efb07ed83949d8ee5e779f921d43871",
-      "category": null,
+      "name": "Smart TV 43″ Stream System Google TV, 5 Años De Garantía – Full HD, Android 14, Frameless (sin Marco)",
+      "url": "https://www.carrefour.es/smart-tv-43-stream-system-google-tv-5-anos-de-garantia-full-hd-android-14-frameless-sin-marco/6133283002998/p",
+      "store": "Carrefour",
+      "current_price": 189.9,
+      "original_price": 214.9,
+      "discount_pct": 11.63,
+      "image_url": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_350x_/6133283002998_1.jpg",
+      "category": "TV y Audio",
       "price_history": [
-        432.0
+        189.9,
+        189.9,
+        189.9,
+        189.9,
+        189.9
       ],
-      "history_days": 1,
+      "history_days": 5,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 189.9,
       "drop_pct": null
     },
     {
@@ -5037,120 +5078,12 @@
         620.0,
         615.0,
         620.0,
+        620.0,
         620.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 620.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico Americano HISENSE RQ5P470SETE (No Frost - 483 L - 178.5 cm - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-americano-hisense-rq5p470sete-no-frost-483-l-178-5-cm-blanco-8041098",
-      "store": "Worten",
-      "current_price": 783.0,
-      "original_price": 884.0,
-      "discount_pct": 11.43,
-      "image_url": "https://www.worten.es/i/343b84e4da402d55428f5b25e1883dbc525d34f0",
-      "category": null,
-      "price_history": [
-        783.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico Combi HISENSE RB390N4DWD (No Frost - 186 cm - 304 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb390n4dwd-no-frost-186-cm-304-l-blanco-7730342",
-      "store": "Worten",
-      "current_price": 481.0,
-      "original_price": 543.0,
-      "discount_pct": 11.42,
-      "image_url": "https://www.worten.es/i/df3442936243f0f5bd297fed43644133cc0a3224",
-      "category": null,
-      "price_history": [
-        469.99,
-        469.99
-      ],
-      "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 469.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Lavadora LG F4A10S8NWK (8 kg - 1400 rpm - Blanco)",
-      "url": "https://www.worten.es/productos/lavadora-lg-f4a10s8nwk-8-kg-1400-rpm-blanco-8284465",
-      "store": "Worten",
-      "current_price": 405.0,
-      "original_price": 457.0,
-      "discount_pct": 11.38,
-      "image_url": "https://www.worten.es/i/87680c80f6b4921ad0b3f699815735b7493c2a48",
-      "category": null,
-      "price_history": [
-        405.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Horno BALAY 3HB5131N3 Multifunción (71 L - 59,4 cm - Hidrolítico - Negro)",
-      "url": "https://www.worten.es/productos/horno-balay-3hb5131n3-multifuncion-71-l-59-4-cm-hidrolitico-negro-8168163",
-      "store": "Worten",
-      "current_price": 359.0,
-      "original_price": 405.0,
-      "discount_pct": 11.36,
-      "image_url": "https://www.worten.es/i/951b06868ae8a1916dbe92c6a1aeaa891efea93d",
-      "category": null,
-      "price_history": [
-        359.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 362.55,
-      "drop_pct": 0.98
-    },
-    {
-      "name": "Frigorífico Combi HISENSE RB390N4CCD (No Frost - 186 cm - 304 L - Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb390n4ccd-no-frost-186-cm-304-l-inox-7506833",
-      "store": "Worten",
-      "current_price": 472.0,
-      "original_price": 532.0,
-      "discount_pct": 11.28,
-      "image_url": "https://www.worten.es/i/b9a51988e7302b17a5c81dba970e38638396aad8",
-      "category": null,
-      "price_history": [
-        490.0,
-        490.0,
-        490.0,
-        472.0
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 490.0,
-      "drop_pct": 3.67
-    },
-    {
-      "name": "Frigorífico Combi CANDY CNCQ2T518EX (No Frost - 183 cm - 279 L - Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-candy-cncq2t518ex-no-frost-183-cm-279-l-inox-8074303",
-      "store": "Worten",
-      "current_price": 372.6,
-      "original_price": 419.99,
-      "discount_pct": 11.28,
-      "image_url": "https://www.worten.es/i/fbed81d5b840c93756b0ae58c2fc531c258352e5",
-      "category": null,
-      "price_history": [
-        372.6,
-        372.6,
-        372.6,
-        372.6
-      ],
-      "history_days": 4,
-      "is_lowest": true,
-      "prev_price": 372.6,
       "drop_pct": null
     },
     {
@@ -5166,11 +5099,71 @@
         79.0,
         79.0,
         79.0,
+        79.0,
         79.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 79.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 43\" (109,22 cm) Daewoo 43VB56QV, 4K UHD, 60Hz, HDR10, Dolby audio",
+      "url": "https://www.carrefour.es/smart-tv-qled-43-10922-cm-daewoo-43vb56qv-4k-uhd-60hz-hdr10-dolby-audio/VC4A-33666357/p",
+      "store": "Carrefour",
+      "current_price": 249.0,
+      "original_price": 279.0,
+      "discount_pct": 10.75,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714067_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        249.0,
+        249.0,
+        249.0,
+        249.0,
+        249.0
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 249.0,
+      "drop_pct": null
+    },
+    {
+      "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
+      "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
+      "store": "Carrefour",
+      "current_price": 441.56,
+      "original_price": 494.55,
+      "discount_pct": 10.71,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        441.56
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Consola PlayStation 5 Estándar E 1TB - Blanco",
+      "url": "https://www.carrefour.es/consola-playstation-5-estandar-e-1tb-blanco/VC4A-31794263/p",
+      "store": "Carrefour",
+      "current_price": 625.0,
+      "original_price": 699.0,
+      "discount_pct": 10.59,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654346_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        594.96,
+        594.47,
+        594.47,
+        594.5,
+        625.0
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 594.5,
       "drop_pct": null
     },
     {
@@ -5186,9 +5179,10 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 699.0,
       "drop_pct": null
@@ -5200,15 +5194,16 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1783084064",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 8.95,
       "drop_pct": null
@@ -5225,9 +5220,10 @@
       "price_history": [
         619.99,
         619.99,
+        619.99,
         619.99
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 619.99,
       "drop_pct": null
@@ -5245,9 +5241,10 @@
         89.99,
         89.99,
         89.99,
+        89.99,
         89.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 89.99,
       "drop_pct": null
@@ -5265,9 +5262,10 @@
         44.99,
         44.99,
         44.99,
+        44.99,
         44.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 44.99,
       "drop_pct": null
@@ -5276,8 +5274,8 @@
       "name": "Microcadena PHILIPS TAM4205",
       "url": "https://www.worten.es/productos/microcadena-philips-tam4205-7333107",
       "store": "Worten",
-      "current_price": 178.26,
-      "original_price": 198.07,
+      "current_price": 178.14,
+      "original_price": 197.93,
       "discount_pct": 10.0,
       "image_url": "https://www.worten.es/i/7d61c3a4860cb636470bc31e0764d85e46ec55cc",
       "category": null,
@@ -5285,12 +5283,13 @@
         178.73,
         178.73,
         178.31,
-        178.26
+        178.26,
+        178.14
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 178.26,
-      "drop_pct": null
+      "drop_pct": 0.07
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5305,9 +5304,10 @@
         539.99,
         539.99,
         539.99,
+        539.99,
         539.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 539.99,
       "drop_pct": null
@@ -5325,66 +5325,72 @@
         28.34,
         28.34,
         28.34,
+        28.34,
         28.34
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 28.34,
       "drop_pct": null
     },
     {
-      "name": "Disco Externo SEAGATE Expansion (4 TB - USB 3.0 - Negro)",
-      "url": "https://www.worten.es/productos/disco-externo-seagate-expansion-4-tb-usb-3-0-negro-7612797",
-      "store": "Worten",
-      "current_price": 163.15,
-      "original_price": 181.28,
-      "discount_pct": 10.0,
-      "image_url": "https://www.worten.es/i/d2e6f7ff324a214ef169ca830872ce272890dcd6",
-      "category": null,
-      "price_history": [
-        163.27,
-        163.15
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 163.69,
-      "drop_pct": 0.33
-    },
-    {
       "name": "Smartwatch AMAZFIT Bip 6 Negro",
       "url": "https://www.worten.es/productos/smartwatch-amazfit-bip-6-negro-8388523",
       "store": "Worten",
-      "current_price": 119.12,
-      "original_price": 132.36,
+      "current_price": 119.08,
+      "original_price": 132.31,
       "discount_pct": 10.0,
       "image_url": "https://www.worten.es/i/e96b0d5bb97cd3ecebcca6b932e779451dec6314",
       "category": null,
       "price_history": [
         119.44,
         119.18,
-        119.12
+        119.12,
+        119.08
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 119.12,
-      "drop_pct": null
+      "drop_pct": 0.03
     },
     {
       "name": "Disco HDD Externo WESTERN DIGITAL Elements SE Portable (Negro - 2 TB - USB 3.0)",
       "url": "https://www.worten.es/productos/disco-hdd-externo-western-digital-elements-se-portable-negro-2-tb-usb-3-0-7453029",
       "store": "Worten",
-      "current_price": 128.0,
-      "original_price": 142.22,
+      "current_price": 128.21,
+      "original_price": 142.46,
       "discount_pct": 10.0,
       "image_url": "https://www.worten.es/i/c5831f7a684247005c70b73ce4b43565e9c4e798",
       "category": null,
       "price_history": [
         128.05,
-        128.0
+        128.0,
+        128.21
       ],
-      "history_days": 2,
-      "is_lowest": true,
+      "history_days": 3,
+      "is_lowest": false,
       "prev_price": 128.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-5g-256gb-8gb-ram-negro/VC4A-32395353/p",
+      "store": "Carrefour",
+      "current_price": 224.14,
+      "original_price": 249.0,
+      "discount_pct": 9.98,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682203_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        224.13,
+        224.13,
+        224.13,
+        224.13,
+        224.14
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 224.13,
       "drop_pct": null
     },
     {
@@ -5400,9 +5406,10 @@
         379.98,
         379.98,
         379.98,
+        379.98,
         379.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 379.98,
       "drop_pct": null
@@ -5420,12 +5427,34 @@
         59.0,
         59.0,
         59.0,
+        59.0,
         59.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 59.0,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
+      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "store": "Carrefour",
+      "current_price": 161.59,
+      "original_price": 177.75,
+      "discount_pct": 9.09,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        161.27,
+        161.28,
+        161.32,
+        161.32,
+        161.59
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 161.72,
+      "drop_pct": 0.08
     },
     {
       "name": "Secadora KUBO KBDM9343HP (8 Kg - Bomba de Calor - Blanco)",
@@ -5440,9 +5469,10 @@
         299.98,
         299.98,
         299.98,
+        299.98,
         299.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 299.98,
       "drop_pct": null
@@ -5460,11 +5490,50 @@
         499.98,
         499.98,
         499.98,
+        499.98,
         499.98
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 499.98,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora HP Smart Tank 7006 28B55A (Multifunción - Inyección de Tinta - Wi-Fi - Bluetooth)",
+      "url": "https://www.worten.es/productos/impresora-hp-smart-tank-7006-28b55a-multifuncion-inyeccion-de-tinta-wi-fi-bluetooth-7506209",
+      "store": "Worten",
+      "current_price": 199.99,
+      "original_price": 219.99,
+      "discount_pct": 9.09,
+      "image_url": "https://www.worten.es/i/e9612582c816f3bb6680b4782682fa6edbefd3e8",
+      "category": null,
+      "price_history": [
+        199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GamePc Player-A I5-12400/16Gb/1Tb/Rtx 5050Nv/750W/ref Liquida/FreeDos - Sobremesa Gaming",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-player-a-i5-12400-16gb-1tb-rtx-5050nv-750w-ref-liquida-freedos-sobremesa-gaming/261515",
+      "store": "GAME",
+      "current_price": 1099.99,
+      "original_price": 1199.99,
+      "discount_pct": 8.33,
+      "image_url": "https://media.game.es/COVERV2/3D_L/261/261515.png",
+      "category": "Gaming",
+      "price_history": [
+        1099.99,
+        1099.99,
+        1099.99,
+        1099.99,
+        1099.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 1099.99,
       "drop_pct": null
     },
     {
@@ -5479,9 +5548,10 @@
       "price_history": [
         46.05,
         46.05,
+        46.05,
         46.05
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 46.05,
       "drop_pct": null
@@ -5493,34 +5563,18 @@
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1783004851",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1783084064",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95,
         23.95,
         23.95,
+        23.95,
         23.95
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 23.95,
-      "drop_pct": null
-    },
-    {
-      "name": "GamePc Pro-A Ryzen 7-5700/16Gb/1Tb/Rtx 5060Nv/750W/Ref Liqu +/FreeDos - Sobremesa Gaming",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-ryzen-7-5700-16gb-1tb-rtx-5060nv-750w-ref-liqu-freedos-sobremesa-gaming/261507",
-      "store": "GAME",
-      "current_price": 1199.99,
-      "original_price": 1299.99,
-      "discount_pct": 7.69,
-      "image_url": "https://media.game.es/COVERV2/3D_L/261/261507.png",
-      "category": "Gaming",
-      "price_history": [
-        1199.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5536,9 +5590,10 @@
         369.99,
         369.99,
         369.99,
+        369.99,
         369.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 369.99,
       "drop_pct": null
@@ -5555,9 +5610,10 @@
       "price_history": [
         229.98,
         229.98,
+        229.98,
         229.98
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 229.98,
       "drop_pct": null
@@ -5575,9 +5631,10 @@
         649.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
@@ -5595,9 +5652,10 @@
         649.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
@@ -5615,9 +5673,10 @@
         279.97,
         279.97,
         279.97,
+        279.97,
         279.97
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 279.97,
       "drop_pct": null
@@ -5635,9 +5694,10 @@
         694.43,
         694.43,
         619.53,
+        619.53,
         619.53
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 619.53,
       "drop_pct": null
@@ -5655,9 +5715,10 @@
         74.0,
         74.0,
         74.0,
+        74.0,
         74.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 74.0,
       "drop_pct": null
@@ -5675,9 +5736,10 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 74.99,
       "drop_pct": null
@@ -5695,28 +5757,12 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 74.99,
-      "drop_pct": null
-    },
-    {
-      "name": "GamePc Pro-A Ryzen 7-5700/32Gb/2Tb/Rtx 5060/750W/Ref Liquida 240/FreeDos -Sobremesa Gaming",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-ryzen-7-5700-32gb-2tb-rtx-5060-750w-ref-liquida-240-freedos--sobremesa-gaming/261508",
-      "store": "GAME",
-      "current_price": 1499.99,
-      "original_price": 1599.99,
-      "discount_pct": 6.25,
-      "image_url": "https://media.game.es/COVERV2/3D_L/261/261508.png",
-      "category": "Gaming",
-      "price_history": [
-        1499.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5731,9 +5777,10 @@
       "price_history": [
         629.0,
         629.0,
+        629.0,
         629.0
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 629.0,
       "drop_pct": null
@@ -5751,9 +5798,10 @@
         319.99,
         319.99,
         319.99,
+        319.99,
         319.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 319.99,
       "drop_pct": null
@@ -5762,8 +5810,8 @@
       "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
       "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
       "store": "Carrefour",
-      "current_price": 308.2,
-      "original_price": 326.69,
+      "current_price": 308.38,
+      "original_price": 326.88,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
       "category": "TV y Audio",
@@ -5771,12 +5819,73 @@
         307.84,
         307.93,
         308.07,
-        308.07
+        308.07,
+        308.38
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 308.2,
+      "drop_pct": null
+    },
+    {
+      "name": "TV LG 86NANO81A6A 86\" (218,44 cm), NanoCell LED, 4K UHD, 60 Hz, Smart TV",
+      "url": "https://www.carrefour.es/tv-lg-86nano81a6a-86-21844-cm-nanocell-led-4k-uhd-60-hz-smart-tv/VC4A-30444939/p",
+      "store": "Carrefour",
+      "current_price": 1209.21,
+      "original_price": 1281.76,
+      "discount_pct": 5.66,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587822_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1218.14,
+        1210.07,
+        1209.53,
+        1209.23,
+        1209.21
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 1209.23,
+      "drop_pct": 0.0
+    },
+    {
+      "name": "Funda Subblim con Teclado para Tablet 10.1\"",
+      "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
+      "store": "Carrefour",
+      "current_price": 21.57,
+      "original_price": 22.86,
+      "discount_pct": 5.64,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        21.96,
+        19.99,
+        21.78,
+        21.57
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 308.29,
-      "drop_pct": 0.03
+      "prev_price": 21.93,
+      "drop_pct": 1.64
+    },
+    {
+      "name": "GamePc Pro Gigabyte Edit. 25R560TC Ryzen 5 7600X/32Gb/1Tb/RTX 5060Ti - Sobremesa Gaming",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-gigabyte-edit-25r560tc-ryzen-5-7600x-32gb-1tb-rtx-5060ti-sobremesa-gaming/248089",
+      "store": "GAME",
+      "current_price": 1799.99,
+      "original_price": 1899.99,
+      "discount_pct": 5.26,
+      "image_url": "https://media.game.es/COVERV2/3D_L/248/248089.png",
+      "category": "Gaming",
+      "price_history": [
+        1799.99,
+        1799.99,
+        1799.99
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 1799.99,
+      "drop_pct": null
     },
     {
       "name": "Frigorífico Americano BECKEN BSB5193 IX (No Frost - 180 cm - 362 L - Inox)",
@@ -5791,31 +5900,71 @@
         569.99,
         569.99,
         569.99,
+        569.99,
         569.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 569.99,
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
-      "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
+      "name": "Gigabyte A16  i7-13620H/16Gb/1Tb/Rtx 5050  16´´ 165Hz 180º  FreeDOS  Portatil Gaming",
+      "url": "https://www.game.es/ordenadores/portatil/pc-gaming/gigabyte-a16-i7-13620h-16gb-1tb-rtx-5050-16-165hz-180º-freedos-portatil-gaming/248369",
+      "store": "GAME",
+      "current_price": 949.99,
+      "original_price": 999.99,
+      "discount_pct": 5.0,
+      "image_url": "https://media.game.es/COVERV2/3D_L/248/248369.png",
+      "category": "Gaming",
+      "price_history": [
+        949.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV OLED 55\" (139,7 cm) Samsung TQ55QS95FAT, 4K UHD, 165 Hz, NQ4 AI Gen3 Processor, Dolby Atmos, Object Tracking Sound, Q-Symphony",
+      "url": "https://www.carrefour.es/smart-tv-oled-55-1397-cm-samsung-tq55qs95fat-4k-uhd-165-hz-nq4-ai-gen3-processor-dolby-atmos-object-tracking-sound-q-symphony/VC4A-32549875/p",
       "store": "Carrefour",
-      "current_price": 161.72,
-      "original_price": 164.95,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
+      "current_price": 1299.0,
+      "original_price": 1349.0,
+      "discount_pct": 3.71,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/685776_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        161.27,
-        161.28,
-        161.32,
-        161.32
+        1299.0,
+        1299.0,
+        1299.0,
+        1299.0,
+        1299.0
       ],
-      "history_days": 4,
-      "is_lowest": false,
-      "prev_price": 161.4,
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 1299.0,
+      "drop_pct": null
+    },
+    {
+      "name": "GamePc Pro-A R7-5700/32Gb/1Tb/Rtx 5070Nv/750W/Ref Liquida+/FreeDos - Sobremesa Gaming",
+      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-r7-5700-32gb-1tb-rtx-5070nv-750w-ref-liquida-freedos-sobremesa-gaming/261510",
+      "store": "GAME",
+      "current_price": 1759.99,
+      "original_price": 1799.99,
+      "discount_pct": 2.22,
+      "image_url": "https://media.game.es/COVERV2/3D_L/261/261510.png",
+      "category": "Gaming",
+      "price_history": [
+        1759.99,
+        1759.99,
+        1759.99,
+        1759.99,
+        1759.99
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 1759.99,
       "drop_pct": null
     }
   ]
