@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T11:11:59.994993+00:00",
+  "updated": "2026-07-04T11:21:49.586942+00:00",
   "total_products": 912,
   "deals": [
     {
@@ -150,6 +150,28 @@
       "history_days": 6,
       "is_lowest": true,
       "prev_price": 69.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Mando KLACK compatible con PS4 T00883 Negro (Bluetooth - Inalámbrico)",
+      "url": "https://www.worten.es/productos/mando-klack-compatible-con-ps4-t00883-negro-bluetooth-inalambrico-mrkean-8435003007626",
+      "store": "Worten",
+      "current_price": 9.9,
+      "original_price": 31.95,
+      "discount_pct": 69.01,
+      "image_url": "https://www.worten.es/i/0b32c6d058f664319b95fb5e53677f0a1e8e67af",
+      "category": null,
+      "price_history": [
+        9.9,
+        9.9,
+        9.9,
+        9.9,
+        9.9,
+        9.9
+      ],
+      "history_days": 6,
+      "is_lowest": true,
+      "prev_price": 9.9,
       "drop_pct": null
     },
     {
@@ -612,7 +634,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 358.42,
       "drop_pct": null
     },
     {
@@ -783,8 +805,8 @@
       ],
       "history_days": 4,
       "is_lowest": true,
-      "prev_price": 439.99,
-      "drop_pct": 8.93
+      "prev_price": 400.72,
+      "drop_pct": null
     },
     {
       "name": "Altavoz Portátil JBL Flip 6 - Negro",
@@ -1597,6 +1619,28 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
+      "store": "Worten",
+      "current_price": 613.74,
+      "original_price": 921.55,
+      "discount_pct": 33.4,
+      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
+      "category": null,
+      "price_history": [
+        590.97,
+        606.06,
+        594.09,
+        586.65,
+        589.89,
+        589.89
+      ],
+      "history_days": 6,
+      "is_lowest": false,
+      "prev_price": 613.98,
+      "drop_pct": 0.04
+    },
+    {
       "name": "TP-Link Universal AC750 WiFi",
       "url": "https://www.coolmod.com/tp-link-universal-ac750-wifi-repetidor/",
       "store": "Coolmod",
@@ -1638,28 +1682,6 @@
       "history_days": 6,
       "is_lowest": true,
       "prev_price": 499.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
-      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
-      "store": "Worten",
-      "current_price": 613.98,
-      "original_price": 921.55,
-      "discount_pct": 33.38,
-      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
-      "category": null,
-      "price_history": [
-        590.97,
-        606.06,
-        594.09,
-        586.65,
-        589.89,
-        589.89
-      ],
-      "history_days": 6,
-      "is_lowest": false,
-      "prev_price": 589.89,
       "drop_pct": null
     },
     {
@@ -2178,7 +2200,7 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 159.0,
+      "prev_price": 169.0,
       "drop_pct": null
     },
     {
@@ -3196,8 +3218,8 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 229.2,
-      "drop_pct": 0.02
+      "prev_price": 229.15,
+      "drop_pct": null
     },
     {
       "name": "Smart TV QLED 75\" (190,5 cm) Samsung TQ75Q7F5AU con IA, 4K UHD, 50 Hz, Q4 AI Processor, Smart TV, OTS Lite, Q-Symphony, Adaptive Sound",
@@ -4111,7 +4133,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 99.98,
       "drop_pct": null
     },
     {
@@ -4199,8 +4221,8 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 177.06,
-      "drop_pct": 0.01
+      "prev_price": 177.05,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi Note 15 128GB + 6GB RAM - Negro",
@@ -4353,8 +4375,8 @@
       ],
       "history_days": 6,
       "is_lowest": true,
-      "prev_price": 212.07,
-      "drop_pct": 0.0
+      "prev_price": 212.06,
+      "drop_pct": null
     },
     {
       "name": "Tablet Xiaomi Redmi PAD2 PRO, Snapdragon® 7s Gen 4, 6 Gb Ram, 128 Gb, HyperOS 2 basado en Android 15, Gris",
@@ -4627,8 +4649,8 @@
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 440.92,
-      "drop_pct": 0.05
+      "prev_price": 440.7,
+      "drop_pct": null
     },
     {
       "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Lavanda",
@@ -5764,8 +5786,8 @@
       ],
       "history_days": 6,
       "is_lowest": true,
-      "prev_price": 178.14,
-      "drop_pct": 0.03
+      "prev_price": 178.08,
+      "drop_pct": null
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5827,8 +5849,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 164.9,
-      "drop_pct": 0.04
+      "prev_price": 164.84,
+      "drop_pct": null
     },
     {
       "name": "Smartwatch AMAZFIT Bip 6 Negro",
@@ -6034,7 +6056,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 449.0,
       "drop_pct": null
     },
     {
@@ -6274,15 +6296,15 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 312.45,
+      "prev_price": 314.65,
       "drop_pct": null
     },
     {
       "name": "Funda Subblim con Teclado para Tablet 10.1\"",
       "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
       "store": "Carrefour",
-      "current_price": 21.66,
-      "original_price": 22.96,
+      "current_price": 21.85,
+      "original_price": 23.16,
       "discount_pct": 5.66,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
       "category": "Componentes",
@@ -6295,8 +6317,8 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 21.95,
-      "drop_pct": 1.32
+      "prev_price": 21.66,
+      "drop_pct": null
     },
     {
       "name": "GamePc Pro Gigabyte Edit. 25R560TC Ryzen 5 7600X/32Gb/1Tb/RTX 5060Ti - Sobremesa Gaming",
@@ -6372,7 +6394,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 229.99,
       "drop_pct": null
     },
     {
@@ -6456,8 +6478,8 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 161.7,
-      "drop_pct": 0.07
+      "prev_price": 161.59,
+      "drop_pct": null
     },
     {
       "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
@@ -6478,8 +6500,8 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 361.12,
-      "drop_pct": 0.5
+      "prev_price": 359.3,
+      "drop_pct": null
     }
   ]
 }
