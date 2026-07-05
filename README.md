@@ -1,6 +1,6 @@
 # HackThePrice
 
-**Agregador automático de ofertas tecnológicas** para las principales tiendas españolas.
+**Agregador automático de ofertas** para las principales tiendas españolas.
 
 > Proyecto personal desarrollado como parte de mi formación en FP Superior de DAM.
 
