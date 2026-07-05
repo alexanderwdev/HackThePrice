@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T12:38:26.620851+00:00",
+  "updated": "2026-07-05T12:43:34.507279+00:00",
   "total_products": 929,
   "deals": [
     {
@@ -62,7 +62,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 199.97,
       "drop_pct": null
     },
     {
@@ -500,8 +500,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 368.0,
-      "drop_pct": 0.11
+      "prev_price": 367.59,
+      "drop_pct": null
     },
     {
       "name": "Auriculares Deportivos con Bluetooth JBL Live Pro 2 TWS - Negro",
@@ -791,7 +791,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 104.0,
+      "prev_price": 105.0,
       "drop_pct": null
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 296.92,
       "drop_pct": null
     },
     {
@@ -1170,8 +1170,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 79.0,
-      "drop_pct": 0.13
+      "prev_price": 78.9,
+      "drop_pct": null
     },
     {
       "name": "Thermal Grizzly Aeronaut 3 ml",
@@ -1235,8 +1235,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 184.0,
-      "drop_pct": 2.72
+      "prev_price": 179.0,
+      "drop_pct": null
     },
     {
       "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
@@ -1525,8 +1525,8 @@
       ],
       "history_days": 5,
       "is_lowest": true,
-      "prev_price": 59.0,
-      "drop_pct": 0.17
+      "prev_price": 58.9,
+      "drop_pct": null
     },
     {
       "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
@@ -1546,8 +1546,8 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 1142.89,
-      "drop_pct": 1.19
+      "prev_price": 1129.34,
+      "drop_pct": null
     },
     {
       "name": "Thermal Grizzly Hydronaut 1,5 ml",
@@ -1952,7 +1952,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 159.0,
+      "prev_price": 169.0,
       "drop_pct": null
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 599.0,
+      "prev_price": 679.0,
       "drop_pct": null
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 229.0,
+      "prev_price": 239.0,
       "drop_pct": null
     },
     {
@@ -2178,7 +2178,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 199.0,
+      "prev_price": 229.0,
       "drop_pct": null
     },
     {
@@ -2201,7 +2201,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 199.0,
+      "prev_price": 229.0,
       "drop_pct": null
     },
     {
@@ -2586,7 +2586,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 649.0,
+      "prev_price": 729.0,
       "drop_pct": null
     },
     {
@@ -2904,8 +2904,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 49.0,
-      "drop_pct": 0.2
+      "prev_price": 48.9,
+      "drop_pct": null
     },
     {
       "name": "Impresora multifunción tinta – HP Smart Tank 6006, Wi-Fi Direct, USB, Impresión a doble cara",
@@ -2923,8 +2923,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 189.9,
-      "drop_pct": 0.47
+      "prev_price": 189.0,
+      "drop_pct": null
     },
     {
       "name": "Tablet - Honor Pad X8a, WiFi, 11\" WUXGA, 4GB RAM, 128GB, Qualcomm Snapdragon® 680 4G, Space Gray",
@@ -2946,7 +2946,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 119.0,
+      "prev_price": 129.0,
       "drop_pct": null
     },
     {
@@ -3145,29 +3145,6 @@
       "drop_pct": null
     },
     {
-      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
-      "store": "Carrefour",
-      "current_price": 229.07,
-      "original_price": 294.99,
-      "discount_pct": 22.35,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        224.98,
-        224.98,
-        224.98,
-        224.98,
-        229.2,
-        229.1,
-        229.07
-      ],
-      "history_days": 7,
-      "is_lowest": false,
-      "prev_price": 229.1,
-      "drop_pct": 0.01
-    },
-    {
       "name": "Smart TV QLED 75\" (190,5 cm) Samsung TQ75Q7F5AU con IA, 4K UHD, 50 Hz, Q4 AI Processor, Smart TV, OTS Lite, Q-Symphony, Adaptive Sound",
       "url": "https://www.carrefour.es/smart-tv-qled-75-1905-cm-samsung-tq75q7f5au-con-ia-4k-uhd-50-hz-q4-ai-processor-smart-tv-ots-lite-q-symphony-adaptive-sound/VC4A-31177236/p",
       "store": "Carrefour",
@@ -3229,8 +3206,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 85.0,
-      "drop_pct": 0.12
+      "prev_price": 84.9,
+      "drop_pct": null
     },
     {
       "name": "Impresora multifunción tinta - HP DeskJet 4322, Impresión doble cara, Impresión a Color, Wi-Fi, Instank Ink, Blanco",
@@ -3246,7 +3223,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 58.9,
       "drop_pct": null
     },
     {
@@ -3398,7 +3375,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 74.0,
+      "prev_price": 78.9,
       "drop_pct": null
     },
     {
@@ -3421,8 +3398,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 94.99,
-      "drop_pct": 0.09
+      "prev_price": 94.9,
+      "drop_pct": null
     },
     {
       "name": "Tablet - Lenovo Idea Tab, WIFI, 11\" 2.5K, 8GB RAM, 256GB, Gris, Incluye Lápiz digital",
@@ -3559,8 +3536,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 1580.94,
-      "drop_pct": 24.16
+      "prev_price": 1199.0,
+      "drop_pct": null
     },
     {
       "name": "Auriculares Inalámbricos JBL Tune Flex 2 - Negro",
@@ -3715,8 +3692,8 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 177.05,
-      "drop_pct": 0.04
+      "prev_price": 176.98,
+      "drop_pct": null
     },
     {
       "name": "Smart TV NanoCell 75\" (190,5 cm) LG 75NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
@@ -3826,7 +3803,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 649.0,
+      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -3918,8 +3895,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 64.0,
-      "drop_pct": 0.16
+      "prev_price": 63.9,
+      "drop_pct": null
     },
     {
       "name": "Splatoon Raiders para Switch 2",
@@ -3964,7 +3941,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 229.0,
+      "prev_price": 249.0,
       "drop_pct": null
     },
     {
@@ -4072,6 +4049,29 @@
       "is_lowest": true,
       "prev_price": 99.98,
       "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
+      "store": "Carrefour",
+      "current_price": 229.06,
+      "original_price": 274.87,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        224.98,
+        224.98,
+        224.98,
+        224.98,
+        229.2,
+        229.1,
+        229.06
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 229.07,
+      "drop_pct": 0.0
     },
     {
       "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
@@ -5326,8 +5326,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 64.99,
-      "drop_pct": 0.14
+      "prev_price": 64.9,
+      "drop_pct": null
     },
     {
       "name": "Tablet TCL Tab 10L GEN4 Mediatek MT8786, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 15",
@@ -5389,7 +5389,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -5478,7 +5478,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 253.0,
+      "prev_price": 269.0,
       "drop_pct": null
     },
     {
@@ -5635,7 +5635,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 1399.0,
+      "prev_price": 1499.0,
       "drop_pct": null
     },
     {
@@ -5841,8 +5841,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 178.02,
-      "drop_pct": 0.03
+      "prev_price": 177.96,
+      "drop_pct": null
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -6017,8 +6017,8 @@
       ],
       "history_days": 7,
       "is_lowest": true,
-      "prev_price": 59.0,
-      "drop_pct": 0.17
+      "prev_price": 58.9,
+      "drop_pct": null
     },
     {
       "name": "Portátil gaming - Lenovo LOQ 15AHP10, 15.6\" Full-HD, AMD Ryzen™ 7 250, 24GB RAM, 512GB SSD, GeForce RTX™ 5050, Windows 11 Home, Gris",
@@ -6260,25 +6260,6 @@
       "drop_pct": null
     },
     {
-      "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
-      "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
-      "store": "Carrefour",
-      "current_price": 439.8,
-      "original_price": 474.98,
-      "discount_pct": 7.41,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        441.07,
-        440.29,
-        439.8
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 440.29,
-      "drop_pct": 0.11
-    },
-    {
       "name": "Portátil - Samsung Galaxy Book4, 15.6\" FHD, Intel® Core™ i5-1335U, 16GB RAM, 512GB SSD, Intel® Graphics, W11H, Gris",
       "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-156-fhd-intelr-coretm-5-120u-16gb-ram-512gb-ssd-intelr-graphics-w11h-gris-1578835.html",
       "store": "MediaMarkt",
@@ -6298,7 +6279,7 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 549.0,
+      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -6361,7 +6342,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 749.0,
       "drop_pct": null
     },
     {
@@ -6474,8 +6455,31 @@
       ],
       "history_days": 6,
       "is_lowest": false,
-      "prev_price": 21.64,
+      "prev_price": 21.76,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV NanoCell 43\" (109,22 cm) LG 43NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
+      "url": "https://www.carrefour.es/smart-tv-nanocell-43-10922-cm-lg-43nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33684365/p",
+      "store": "Carrefour",
+      "current_price": 311.05,
+      "original_price": 329.71,
+      "discount_pct": 5.66,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714818_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        307.84,
+        307.93,
+        308.07,
+        308.07,
+        308.16,
+        311.54,
+        311.05
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 311.1,
+      "drop_pct": 0.02
     },
     {
       "name": "Máquina de Lavar e Secar SAMSUNG AI EcoBubble (9/6Kg - 1400Rpm - Negro)",
@@ -6593,8 +6597,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 493.45,
-      "drop_pct": 0.0
+      "prev_price": 493.43,
+      "drop_pct": null
     },
     {
       "name": "Smart TV OLED 55\" (139,7 cm) Samsung TQ55QS95FAT, 4K UHD, 165 Hz, NQ4 AI Gen3 Processor, Dolby Atmos, Object Tracking Sound, Q-Symphony",
@@ -6646,8 +6650,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 161.58,
-      "original_price": 164.81,
+      "current_price": 161.56,
+      "original_price": 164.79,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -6658,12 +6662,12 @@
         161.32,
         161.53,
         161.28,
-        161.58
+        161.56
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 161.66,
-      "drop_pct": 0.05
+      "prev_price": 161.58,
+      "drop_pct": 0.01
     },
     {
       "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
@@ -6685,8 +6689,8 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 358.54,
-      "drop_pct": 0.4
+      "prev_price": 357.1,
+      "drop_pct": null
     }
   ]
 }
