@@ -1044,10 +1044,6 @@
       <span class="deals-count" id="deals-count"></span>
     </div>
     <div class="filter-row">
-      <span class="filter-label">Categoría</span>
-      <div id="category-filters" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
-    </div>
-    <div class="filter-row">
       <span class="filter-label">Precio</span>
       <div class="discount-slider-wrap">
         <input type="range" id="price-slider" min="1" max="2000" value="2000" step="1">
@@ -1139,7 +1135,7 @@
     <div class="feature reveal" data-delay="2">
       <div class="feature-icon">🔍</div>
       <h3>Filtros potentes</h3>
-      <p>Filtra por tienda, categoría, precio máximo y descuento mínimo. Encuentra exactamente lo que buscas en segundos.</p>
+      <p>Filtra por tienda, precio máximo y descuento mínimo. Encuentra exactamente lo que buscas en segundos.</p>
     </div>
     <div class="feature reveal" data-delay="3">
       <div class="feature-icon">⚡</div>
@@ -1194,59 +1190,10 @@ const STORE_COLORS = {
 
 const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod', 'Worten'];
 
-// Classification priority:
-//   1. A specific bucket assigned by the scraper wins outright. Carrefour tags
-//      every product with its source page (TV y Audio / Móviles / Hogar /
-//      Gaming), GAME is always Gaming — that data is authoritative, so an
-//      "aire acondicionado portátil" from the Hogar page can never leak into
-//      Portátiles via the word "portátil".
-//   2. "Componentes" from Carrefour is its generic informática page (contains
-//      laptops, monitors, peripherals...) — refine it with name keywords
-//      first, fall back to Componentes if nothing matches.
-//   3. Stores with no category at all (PcComponentes, MediaMarkt): name
-//      keywords, then keywords over the store category text, then Otros.
-const BUCKETS = ['Portátiles', 'Móviles', 'Monitores', 'Periféricos', 'Componentes', 'Gaming', 'TV y Audio', 'Hogar'];
-const TRUSTED_BUCKETS = ['TV y Audio', 'Móviles', 'Hogar', 'Gaming', 'Portátiles', 'Monitores', 'Periféricos'];
-
-const NAME_RULES = [
-  // Unambiguous appliance terms first so "aire acondicionado portátil",
-  // "ventilador de techo", etc. never reach the Portátiles/Componentes rules.
-  ['Hogar',       /frigor[ií]fico|lavadora|lavavajillas|aspirador|cafetera|microondas|horno|secadora|freidora|congelador|campana extractora|plancha|batidora|aire acondicionado|climatizador|deshumidificador|calefactor|radiador/i],
-  ['Monitores',   /monitor|adaptive sync|freesync|g-?sync|\b(ips|va|tn)\b.*\d+\s?hz|\d+\s?hz.*\b(ips|va|tn)\b/i],
-  ['Móviles',     /iphone|galaxy [szam]|smartphone|redmi|\bpoco [xfmc]|pixel \d|oneplus|smartwatch|pulsera de actividad|\btel[eé]fono\b/i],
-  ['Gaming',      /consola|\bps5\b|\bps4\b|playstation|xbox|nintendo|\bmando\b|gamepad|videojuego|figura|amiibo/i],
-  ['Periféricos', /teclado|rat[oó]n|\bmouse\b|auricular|cascos|headset|webcam|alfombrilla|micr[oó]fono|silla gaming|volante|trackir/i],
-  ['TV y Audio',  /smart tv|\btv\b|televisor|televisi[oó]n|barra de sonido|altavoz|soundbar|proyector|home cinema/i],
-  ['Portátiles',  /port[aá]til|laptop|notebook|macbook|chromebook/i],
-  ['Componentes', /\brtx\b|\bgtx\b|radeon|tarjeta gr[aá]fica|procesador|ryzen|intel core|placa base|\bram\b|ddr[45]|\bssd\b|nvme|disco duro|fuente de alim|refrigeraci[oó]n|impresora|\bnas\b|router|ventilador|\brpm\b|\bpwm\b|pasta t[eé]rmica|thermal|disipador|pcie/i],
-];
-
-const STORE_CATEGORY_RULES = [
-  ['Móviles',     /m[oó]vil|foto/i],
-  ['Hogar',       /electrodom[eé]stico|hogar/i],
-  ['Gaming',      /gaming|videojuego|consola/i],
-  ['TV y Audio',  /tv|sonido|audio/i],
-  ['Componentes', /inform[aá]tica|componente|almacenamiento/i],
-  ['Periféricos', /perif[eé]rico/i],
-  ['Portátiles',  /port[aá]til/i],
-  ['Monitores',   /monitor/i],
-];
-
-function inferCategory(deal) {
-  if (TRUSTED_BUCKETS.includes(deal.category)) return deal.category;
-  for (const [cat, re] of NAME_RULES) if (re.test(deal.name)) return cat;
-  if (BUCKETS.includes(deal.category)) return deal.category;
-  if (deal.category) {
-    for (const [cat, re] of STORE_CATEGORY_RULES) if (re.test(deal.category)) return cat;
-  }
-  return 'Otros';
-}
-
 const ITEMS_PER_PAGE = 12;
 
 let allDeals       = [];
 let activeStore    = 'all';
-let activeCategory = 'all';
 let activeSort     = 'discount';
 let searchQuery    = '';
 let minDiscount    = 1;
@@ -1349,9 +1296,6 @@ function applyFilters(resetPage = true) {
   if (activeStore !== 'all')
     deals = deals.filter(d => d.store === activeStore);
 
-  if (activeCategory !== 'all')
-    deals = deals.filter(d => d._category === activeCategory);
-
   deals = deals.filter(d => d.discount_pct >= minDiscount);
 
   if (maxPrice !== Infinity)
@@ -1397,27 +1341,6 @@ function buildStoreFilters() {
     btn.addEventListener('click', () => {
       activeStore = btn.dataset.store;
       container.querySelectorAll('[data-store]').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      applyFilters();
-    });
-  });
-}
-
-function buildCategoryFilters() {
-  const present   = [...new Set(allDeals.map(d => d._category))];
-  const order     = [...BUCKETS, 'Otros'];
-  const cats      = ['all', ...order.filter(c => present.includes(c))];
-  const container = document.getElementById('category-filters');
-  container.innerHTML = cats.map(c => {
-    const label  = c === 'all' ? 'Todas' : c;
-    const active = c === 'all' ? ' active' : '';
-    return `<button class="filter-btn${active}" data-cat="${escapeHtml(c)}">${escapeHtml(label)}</button>`;
-  }).join('');
-
-  container.querySelectorAll('[data-cat]').forEach(btn => {
-    btn.addEventListener('click', () => {
-      activeCategory = btn.dataset.cat;
-      container.querySelectorAll('[data-cat]').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       applyFilters();
     });
@@ -1533,7 +1456,7 @@ fetch('./deals.json?t=' + Date.now())
       return;
     }
 
-    allDeals = data.deals.map(d => ({ ...d, _category: inferCategory(d) }));
+    allDeals = data.deals;
 
     document.getElementById('hero-deal-count').textContent = allDeals.length;
 
@@ -1549,7 +1472,6 @@ fetch('./deals.json?t=' + Date.now())
 
     document.getElementById('deals-controls').classList.add('visible');
     buildStoreFilters();
-    buildCategoryFilters();
     applyFilters();
     updateTicker(allDeals);
 
