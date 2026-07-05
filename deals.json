@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T12:43:34.507279+00:00",
+  "updated": "2026-07-05T12:48:55.764116+00:00",
   "total_products": 929,
   "deals": [
     {
@@ -1128,6 +1128,29 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Plata",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-plata-1610711.html",
+      "store": "MediaMarkt",
+      "current_price": 199.0,
+      "original_price": 329.0,
+      "discount_pct": 39.51,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028090",
+      "category": null,
+      "price_history": [
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 229.0,
+      "drop_pct": 13.1
+    },
+    {
       "name": "Auriculares DiademaJBL Tune 660 NC - Negro",
       "url": "https://www.carrefour.es/auriculares-diademajbl-tune-660-nc-negro/VC4A-19498368/p",
       "store": "Carrefour",
@@ -1216,29 +1239,6 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2876-con-deposito-recargable-10-ppm-hasta-3-anos-de-tinta-incluida-conexion-wi-fi-blanco-1566509.html",
-      "store": "MediaMarkt",
-      "current_price": 179.0,
-      "original_price": 289.0,
-      "discount_pct": 38.06,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174648030",
-      "category": null,
-      "price_history": [
-        184.0,
-        184.0,
-        184.0,
-        184.0,
-        184.0,
-        184.0,
-        179.0
-      ],
-      "history_days": 7,
-      "is_lowest": true,
-      "prev_price": 179.0,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-xiaomi-g-pro-27i-27-qhd-1-ms-180-hz-mini-led-freesync-negro-1579053.html",
       "store": "MediaMarkt",
@@ -1285,6 +1285,29 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
+      "store": "MediaMarkt",
+      "current_price": 259.0,
+      "original_price": 409.0,
+      "discount_pct": 36.67,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028106",
+      "category": null,
+      "price_history": [
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 259.0,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Samsung Galaxy Tab S10 FE, 10.9\" WUXGA+, 8 GB RAM, 128 GB, Gris, Con S Pen",
       "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-s10-fe-109-wuxga-8-gb-ram-128-gb-gris-sin-adaptador-de-corriente-con-s-pen-1596717.html",
       "store": "MediaMarkt",
@@ -1328,6 +1351,29 @@
       "history_days": 7,
       "is_lowest": true,
       "prev_price": 70.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2876-con-deposito-recargable-10-ppm-hasta-3-anos-de-tinta-incluida-conexion-wi-fi-blanco-1566509.html",
+      "store": "MediaMarkt",
+      "current_price": 184.0,
+      "original_price": 289.0,
+      "discount_pct": 36.33,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174648030",
+      "category": null,
+      "price_history": [
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        179.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 179.0,
       "drop_pct": null
     },
     {
@@ -2166,29 +2212,6 @@
       "original_price": 329.0,
       "discount_pct": 30.4,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028097",
-      "category": null,
-      "price_history": [
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        229.0
-      ],
-      "history_days": 7,
-      "is_lowest": false,
-      "prev_price": 229.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Plata",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-plata-1610711.html",
-      "store": "MediaMarkt",
-      "current_price": 229.0,
-      "original_price": 329.0,
-      "discount_pct": 30.4,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028090",
       "category": null,
       "price_history": [
         199.0,
@@ -3968,6 +3991,29 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
+      "store": "MediaMarkt",
+      "current_price": 649.0,
+      "original_price": 779.0,
+      "discount_pct": 16.69,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
+      "category": null,
+      "price_history": [
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 649.0,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 65\" (165,1 cm) LG 65QNED8EB3B con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
       "url": "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-lg-65qned8eb3b-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33666189/p",
       "store": "Carrefour",
@@ -4070,8 +4116,8 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 229.07,
-      "drop_pct": 0.0
+      "prev_price": 229.06,
+      "drop_pct": null
     },
     {
       "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
@@ -4520,29 +4566,6 @@
       "history_days": 7,
       "is_lowest": true,
       "prev_price": 1179.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
-      "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 769.0,
-      "discount_pct": 15.6,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
-      "category": null,
-      "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 7,
-      "is_lowest": true,
-      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -5350,29 +5373,6 @@
       "history_days": 7,
       "is_lowest": true,
       "prev_price": 129.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
-      "store": "MediaMarkt",
-      "current_price": 259.0,
-      "original_price": 299.0,
-      "discount_pct": 13.38,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028106",
-      "category": null,
-      "price_history": [
-        259.0,
-        259.0,
-        259.0,
-        259.0,
-        259.0,
-        259.0,
-        259.0
-      ],
-      "history_days": 7,
-      "is_lowest": true,
-      "prev_price": 259.0,
       "drop_pct": null
     },
     {
@@ -6260,6 +6260,25 @@
       "drop_pct": null
     },
     {
+      "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
+      "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
+      "store": "Carrefour",
+      "current_price": 439.75,
+      "original_price": 474.93,
+      "discount_pct": 7.41,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        441.07,
+        440.29,
+        439.75
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 439.79,
+      "drop_pct": 0.01
+    },
+    {
       "name": "Portátil - Samsung Galaxy Book4, 15.6\" FHD, Intel® Core™ i5-1335U, 16GB RAM, 512GB SSD, Intel® Graphics, W11H, Gris",
       "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-156-fhd-intelr-coretm-5-120u-16gb-ram-512gb-ssd-intelr-graphics-w11h-gris-1578835.html",
       "store": "MediaMarkt",
@@ -6478,8 +6497,8 @@
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 311.1,
-      "drop_pct": 0.02
+      "prev_price": 311.05,
+      "drop_pct": null
     },
     {
       "name": "Máquina de Lavar e Secar SAMSUNG AI EcoBubble (9/6Kg - 1400Rpm - Negro)",
@@ -6650,8 +6669,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 161.56,
-      "original_price": 164.79,
+      "current_price": 161.52,
+      "original_price": 164.75,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -6662,35 +6681,12 @@
         161.32,
         161.53,
         161.28,
-        161.56
+        161.52
       ],
       "history_days": 7,
       "is_lowest": false,
-      "prev_price": 161.58,
-      "drop_pct": 0.01
-    },
-    {
-      "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
-      "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-xiaomi-l55mb-apeu-con-ia-4k-uhd-120hz-dolby-audio-dts-x-dts-virtual-x-support/VC4A-33923017/p",
-      "store": "Carrefour",
-      "current_price": 357.1,
-      "original_price": 364.24,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/732566_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        329.0,
-        329.0,
-        356.84,
-        357.71,
-        358.53,
-        356.44,
-        357.1
-      ],
-      "history_days": 7,
-      "is_lowest": false,
-      "prev_price": 357.1,
-      "drop_pct": null
+      "prev_price": 161.56,
+      "drop_pct": 0.02
     }
   ]
 }
