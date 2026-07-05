@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T22:51:03.110150+00:00",
-  "total_products": 922,
+  "updated": "2026-07-05T12:38:26.620851+00:00",
+  "total_products": 929,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783255023",
       "category": "Racores",
       "price_history": [
         0.95,
@@ -17,9 +17,10 @@
         0.95,
         0.95,
         0.95,
+        0.95,
         0.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 0.95,
       "drop_pct": null
@@ -31,7 +32,7 @@
       "current_price": 3.95,
       "original_price": 19.95,
       "discount_pct": 80.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/cherry-mc1000-1200dpi-negro-ratan-001.jpg?v=1783255023",
       "category": "Ratones",
       "price_history": [
         3.95,
@@ -39,11 +40,48 @@
         3.95,
         3.95,
         3.95,
+        3.95,
         3.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 3.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavasecadora Integrable TEKA LSI5 1480  (Outlet Grado B - 5/8 kg - 1400 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavasecadora-integrable-teka-lsi5-1480-outlet-grado-b-5-8-kg-1400-rpm-blanco-7374450",
+      "store": "Worten",
+      "current_price": 199.97,
+      "original_price": 929.99,
+      "discount_pct": 78.5,
+      "image_url": "https://www.worten.es/i/800a8d898e579fe101acf8eeff953cd0bbed59d2",
+      "category": null,
+      "price_history": [
+        199.97
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Teléfono Inalámbrico  PANASONIC KX-TG1611SPH",
+      "url": "https://www.worten.es/productos/telefono-inalambrico-panasonic-kx-tg1611sph-4723062",
+      "store": "Worten",
+      "current_price": 4.97,
+      "original_price": 22.13,
+      "discount_pct": 77.54,
+      "image_url": "https://www.worten.es/i/4139f95044d412e0751ab6c955198e5f4898d856",
+      "category": null,
+      "price_history": [
+        4.97,
+        4.97,
+        4.97
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 4.97,
       "drop_pct": null
     },
     {
@@ -53,7 +91,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783255023",
       "category": "Racores",
       "price_history": [
         1.95,
@@ -61,9 +99,10 @@
         1.95,
         1.95,
         1.95,
+        1.95,
         1.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1.95,
       "drop_pct": null
@@ -83,9 +122,10 @@
         64.99,
         64.99,
         64.99,
+        64.99,
         64.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 64.99,
       "drop_pct": null
@@ -105,9 +145,10 @@
         31.6,
         31.6,
         31.6,
+        31.6,
         31.6
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 31.6,
       "drop_pct": null
@@ -122,9 +163,10 @@
       "image_url": "https://www.worten.es/i/284b8a37eaa126b128557305d723889021e754f2",
       "category": null,
       "price_history": [
+        89.99,
         89.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 89.99,
       "drop_pct": null
@@ -144,9 +186,10 @@
         69.99,
         69.99,
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 69.99,
       "drop_pct": null
@@ -166,9 +209,10 @@
         9.9,
         9.9,
         9.9,
+        9.9,
         9.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 9.9,
       "drop_pct": null
@@ -180,7 +224,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1783255023",
       "category": "Tubos",
       "price_history": [
         2.95,
@@ -188,9 +232,10 @@
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -202,7 +247,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783255023",
       "category": "Racores",
       "price_history": [
         2.95,
@@ -210,28 +255,10 @@
         2.95,
         2.95,
         2.95,
-        2.95
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 2.95,
-      "drop_pct": null
-    },
-    {
-      "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
-      "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
-      "store": "Coolmod",
-      "current_price": 2.95,
-      "original_price": 7.95,
-      "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1783204584",
-      "category": "Racores",
-      "price_history": [
-        2.95,
         2.95,
         2.95
       ],
-      "history_days": 3,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -251,9 +278,10 @@
         49.99,
         49.99,
         39.99,
+        39.99,
         39.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 39.99,
       "drop_pct": null
@@ -273,9 +301,10 @@
         59.99,
         59.99,
         39.99,
+        39.99,
         39.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 39.99,
       "drop_pct": null
@@ -295,9 +324,10 @@
         59.99,
         59.99,
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 69.99,
       "drop_pct": null
@@ -309,7 +339,7 @@
       "current_price": 2.95,
       "original_price": 6.95,
       "discount_pct": 57.55,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003201_1.jpg?v=1783255023",
       "category": "Cables Red",
       "price_history": [
         2.95,
@@ -317,9 +347,10 @@
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -339,9 +370,10 @@
         49.99,
         49.99,
         44.99,
+        44.99,
         44.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 44.99,
       "drop_pct": null
@@ -361,9 +393,10 @@
         135.0,
         135.0,
         135.0,
+        135.0,
         135.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 135.0,
       "drop_pct": null
@@ -382,9 +415,10 @@
         67.15,
         67.15,
         67.15,
+        67.15,
         67.15
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 67.15,
       "drop_pct": null
@@ -399,29 +433,12 @@
       "image_url": "https://www.worten.es/i/face7331bc2cebb705491b15ed8553c4f397aac2",
       "category": null,
       "price_history": [
+        179.47,
         179.47
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 179.47,
-      "drop_pct": null
-    },
-    {
-      "name": "Robot de Cocina KUBO KBKM4570 (6 L - 1400 W - 7 accesorios)",
-      "url": "https://www.worten.es/productos/robot-de-cocina-kubo-kbkm4570-6-l-1400-w-7-accesorios-7208367",
-      "store": "Worten",
-      "current_price": 89.0,
-      "original_price": 179.0,
-      "discount_pct": 50.28,
-      "image_url": "https://www.worten.es/i/0af6a7e4a372360376545f7db491459a7f3c73a1",
-      "category": null,
-      "price_history": [
-        89.0,
-        89.0
       ],
       "history_days": 2,
       "is_lowest": true,
-      "prev_price": 89.0,
+      "prev_price": 179.47,
       "drop_pct": null
     },
     {
@@ -436,9 +453,10 @@
       "price_history": [
         19.99,
         19.99,
+        19.99,
         19.99
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 19.99,
       "drop_pct": null
@@ -458,12 +476,32 @@
         37.98,
         37.98,
         37.98,
+        37.98,
         37.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 37.98,
       "drop_pct": null
+    },
+    {
+      "name": "Central Eléctrica Portátil Oukitel P1000 Plus 1800w 1024wh Generador Solar Con Batería Lifepo4 Carga Rápida Control Inteligente App",
+      "url": "https://www.worten.es/productos/central-electrica-portatil-oukitel-p1000-plus-1800w-1024wh-generador-solar-con-bateria-lifepo4-carga-rapida-control-inteligente-app-mrkean-0631514728816",
+      "store": "Worten",
+      "current_price": 367.59,
+      "original_price": 699.99,
+      "discount_pct": 47.49,
+      "image_url": "https://www.worten.es/i/b0b68b60be18eaee806b895c42d672b90c7bfe06",
+      "category": null,
+      "price_history": [
+        368.0,
+        368.0,
+        367.59
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 368.0,
+      "drop_pct": 0.11
     },
     {
       "name": "Auriculares Deportivos con Bluetooth JBL Live Pro 2 TWS - Negro",
@@ -480,9 +518,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 79.99,
       "drop_pct": null
@@ -502,30 +541,12 @@
         179.0,
         179.0,
         179.0,
+        179.0,
         179.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 179.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html",
-      "store": "MediaMarkt",
-      "current_price": 109.0,
-      "original_price": 199.0,
-      "discount_pct": 45.23,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265122",
-      "category": null,
-      "price_history": [
-        109.0,
-        109.0,
-        109.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 109.0,
       "drop_pct": null
     },
     {
@@ -543,9 +564,10 @@
         399.99,
         399.99,
         399.99,
+        399.99,
         399.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 399.99,
       "drop_pct": null
@@ -565,9 +587,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 139.0,
       "drop_pct": null
@@ -587,9 +610,10 @@
         23.98,
         23.98,
         20.98,
+        20.98,
         20.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 20.98,
       "drop_pct": null
@@ -609,9 +633,10 @@
         449.98,
         449.98,
         449.98,
+        449.98,
         449.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 449.98,
       "drop_pct": null
@@ -626,9 +651,10 @@
       "image_url": "https://www.worten.es/i/2df65be418733a6ae7bb9c23c5ba6f5bf9033459",
       "category": null,
       "price_history": [
+        358.42,
         358.42
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 358.42,
       "drop_pct": null
@@ -648,9 +674,10 @@
         25.99,
         25.99,
         25.99,
+        25.99,
         25.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 25.99,
       "drop_pct": null
@@ -670,9 +697,10 @@
         569.0,
         569.0,
         569.0,
+        569.0,
         569.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 569.0,
       "drop_pct": null
@@ -692,9 +720,10 @@
         109.0,
         109.0,
         109.0,
+        109.0,
         109.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 109.0,
       "drop_pct": null
@@ -714,30 +743,12 @@
         229.0,
         229.0,
         229.0,
+        229.0,
         229.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 229.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor - MSI PRO MP275PG, 27\" Full-HD, 100 Hz, 4 ms, IPS, Adaptive Sync, Altura Ajustable, HDR, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-msi-pro-mp275pg-27-full-hd-100-hz-4-ms-ips-adaptive-sync-altura-ajustable-hdr-negro-1591311.html",
-      "store": "MediaMarkt",
-      "current_price": 104.0,
-      "original_price": 179.0,
-      "discount_pct": 41.9,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157894034",
-      "category": null,
-      "price_history": [
-        104.0,
-        104.0,
-        104.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 104.0,
       "drop_pct": null
     },
     {
@@ -755,11 +766,32 @@
         279.99,
         279.99,
         279.99,
+        279.99,
         279.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 279.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor - MSI PRO MP275PG, 27\" Full-HD, 100 Hz, 4 ms, IPS, Adaptive Sync, Altura Ajustable, HDR, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-msi-pro-mp275pg-27-full-hd-100-hz-4-ms-ips-adaptive-sync-altura-ajustable-hdr-negro-1591311.html",
+      "store": "MediaMarkt",
+      "current_price": 105.0,
+      "original_price": 179.0,
+      "discount_pct": 41.34,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157894034",
+      "category": null,
+      "price_history": [
+        104.0,
+        104.0,
+        104.0,
+        105.0
+      ],
+      "history_days": 4,
+      "is_lowest": false,
+      "prev_price": 104.0,
       "drop_pct": null
     },
     {
@@ -777,9 +809,10 @@
         428.0,
         428.0,
         428.0,
+        428.0,
         428.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 428.0,
       "drop_pct": null
@@ -797,9 +830,10 @@
         407.0,
         439.99,
         439.99,
+        400.72,
         400.72
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 400.72,
       "drop_pct": null
@@ -819,9 +853,10 @@
         89.0,
         89.0,
         89.0,
+        89.0,
         89.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 89.0,
       "drop_pct": null
@@ -841,9 +876,10 @@
         949.0,
         949.0,
         949.0,
+        949.0,
         949.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 949.0,
       "drop_pct": null
@@ -863,9 +899,10 @@
         28.49,
         28.49,
         28.49,
+        28.49,
         28.49
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 28.49,
       "drop_pct": null
@@ -885,9 +922,10 @@
         119.0,
         119.0,
         119.0,
+        119.0,
         119.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 119.0,
       "drop_pct": null
@@ -903,9 +941,10 @@
       "category": null,
       "price_history": [
         160.99,
+        160.99,
         160.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 160.99,
       "drop_pct": null
@@ -917,7 +956,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-multi-adaptador-ig-g1-4-matt-black-001.jpg?v=1783255023",
       "category": "Codos/Adaptadores",
       "price_history": [
         5.95,
@@ -925,9 +964,10 @@
         5.95,
         5.95,
         5.95,
+        5.95,
         5.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 5.95,
       "drop_pct": null
@@ -947,9 +987,10 @@
         269.0,
         269.0,
         269.0,
+        269.0,
         269.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 269.0,
       "drop_pct": null
@@ -969,9 +1010,10 @@
         59.9,
         59.9,
         59.9,
+        59.9,
         59.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 59.9,
       "drop_pct": null
@@ -983,7 +1025,7 @@
       "current_price": 14.95,
       "original_price": 24.95,
       "discount_pct": 40.08,
-      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/pendrive-usb-intenso-ultra-line-usb-30-128gb-gris-001.jpg?v=1783255023",
       "category": "Almacenamiento",
       "price_history": [
         9.95,
@@ -991,33 +1033,12 @@
         9.95,
         9.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 14.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Samsung Galaxy Book4 Edge Copilot+ PC, 15.6\" FHD, Snapdragon® X1-26-100 45 TOPS 16GB RAM, 512GB SSD, Adreno™, Full IA, W11H, Sapphire Blue",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-edge-copilot-pc-156-fhd-snapdragonr-x126100-40-tops-16-gb-ram-512-gb-ssd-adrenotm-full-ia-w11h-sapphire-blue-1620198.html",
-      "store": "MediaMarkt",
-      "current_price": 599.0,
-      "original_price": 999.0,
-      "discount_pct": 40.04,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174274318",
-      "category": null,
-      "price_history": [
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 599.0,
       "drop_pct": null
     },
     {
@@ -1035,9 +1056,10 @@
         29.99,
         29.99,
         29.99,
+        29.99,
         29.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 29.99,
       "drop_pct": null
@@ -1049,7 +1071,7 @@
       "current_price": 149.95,
       "original_price": 249.95,
       "discount_pct": 40.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/natural-point-trackir-5pro-plus-trackclip-pro-001.jpg?v=1783255023",
       "category": "Simulación",
       "price_history": [
         149.95,
@@ -1057,9 +1079,10 @@
         149.95,
         149.95,
         149.95,
+        149.95,
         149.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 149.95,
       "drop_pct": null
@@ -1079,55 +1102,29 @@
         17.99,
         17.99,
         17.99,
+        17.99,
         17.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 17.99,
       "drop_pct": null
     },
     {
-      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris-1610710.html",
-      "store": "MediaMarkt",
-      "current_price": 199.0,
-      "original_price": 329.0,
-      "discount_pct": 39.51,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028097",
+      "name": "Microondas Integrable BALAY 3CG5175N2 (25 L - Con grill - Negro)",
+      "url": "https://www.worten.es/productos/microondas-integrable-balay-3cg5175n2-25-l-con-grill-negro-7573242",
+      "store": "Worten",
+      "current_price": 296.92,
+      "original_price": 492.75,
+      "discount_pct": 39.74,
+      "image_url": "https://www.worten.es/i/8ddd14db7fc1b4894ea2533223897afc50de1c3e",
       "category": null,
       "price_history": [
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0
+        296.92
       ],
-      "history_days": 6,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Plata",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-plata-1610711.html",
-      "store": "MediaMarkt",
-      "current_price": 199.0,
-      "original_price": 329.0,
-      "discount_pct": 39.51,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028090",
-      "category": null,
-      "price_history": [
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0,
-        199.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1145,30 +1142,36 @@
         59.99,
         59.99,
         59.99,
+        59.99,
         59.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 59.99,
       "drop_pct": null
     },
     {
-      "name": "Impresora láser - HP LaserJet M207dw, Impresión doble cara, Monocromo, Wi-Fi",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-laser-hp-laserjet-m207dw-panel-de-control-con-led-usb-wi-fi-impresion-doble-cara-automatica-blanco-1583581.html",
+      "name": "Monitor gaming - Acer Nitro KG243YX1BMIPX, 24\" Full-HD, 200 Hz, 1 ms, IPS, FreeSync Premium, Altavoces integrados, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-acer-nitro-kg243yx1bmipx-24-full-hd-200-hz-1-ms-ips-freesync-premium-altavoces-integrados-negro-1593875.html",
       "store": "MediaMarkt",
-      "current_price": 94.9,
-      "original_price": 154.9,
-      "discount_pct": 38.73,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146974678",
+      "current_price": 78.9,
+      "original_price": 129.0,
+      "discount_pct": 38.84,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157105194",
       "category": null,
       "price_history": [
-        94.9,
-        94.9
+        79.0,
+        79.0,
+        79.0,
+        79.0,
+        79.0,
+        79.0,
+        78.9
       ],
-      "history_days": 2,
+      "history_days": 7,
       "is_lowest": true,
-      "prev_price": 94.9,
-      "drop_pct": null
+      "prev_price": 79.0,
+      "drop_pct": 0.13
     },
     {
       "name": "Thermal Grizzly Aeronaut 3 ml",
@@ -1177,7 +1180,7 @@
       "current_price": 7.95,
       "original_price": 12.95,
       "discount_pct": 38.61,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-aeronaut-3-ml-pasta-tarmica-001.jpg?v=1783255023",
       "category": "Compuestos Térmicos",
       "price_history": [
         7.95,
@@ -1185,9 +1188,10 @@
         7.95,
         7.95,
         7.95,
+        7.95,
         7.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 7.95,
       "drop_pct": null
@@ -1203,12 +1207,36 @@
       "category": null,
       "price_history": [
         15.92,
+        15.92,
         15.92
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 15.92,
       "drop_pct": null
+    },
+    {
+      "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2876-con-deposito-recargable-10-ppm-hasta-3-anos-de-tinta-incluida-conexion-wi-fi-blanco-1566509.html",
+      "store": "MediaMarkt",
+      "current_price": 179.0,
+      "original_price": 289.0,
+      "discount_pct": 38.06,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174648030",
+      "category": null,
+      "price_history": [
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        184.0,
+        179.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 184.0,
+      "drop_pct": 2.72
     },
     {
       "name": "Monitor gaming - Xiaomi G Pro 27i, 27\", QHD, 1 ms, 180 Hz, Mini LED, FreeSync, Negro",
@@ -1225,9 +1253,10 @@
         219.0,
         199.0,
         219.0,
+        219.0,
         219.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 219.0,
       "drop_pct": null
@@ -1247,33 +1276,12 @@
         169.0,
         169.0,
         169.0,
+        169.0,
         169.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 169.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
-      "store": "MediaMarkt",
-      "current_price": 259.0,
-      "original_price": 409.0,
-      "discount_pct": 36.67,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028106",
-      "category": null,
-      "price_history": [
-        259.0,
-        259.0,
-        259.0,
-        259.0,
-        259.0,
-        259.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 259.0,
       "drop_pct": null
     },
     {
@@ -1291,9 +1299,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 399.0,
       "drop_pct": null
@@ -1313,33 +1322,12 @@
         70.0,
         70.0,
         70.0,
+        70.0,
         70.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 70.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2876-con-deposito-recargable-10-ppm-hasta-3-anos-de-tinta-incluida-conexion-wi-fi-blanco-1566509.html",
-      "store": "MediaMarkt",
-      "current_price": 184.0,
-      "original_price": 289.0,
-      "discount_pct": 36.33,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174648030",
-      "category": null,
-      "price_history": [
-        184.0,
-        184.0,
-        184.0,
-        184.0,
-        184.0,
-        184.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 184.0,
       "drop_pct": null
     },
     {
@@ -1357,9 +1345,10 @@
         509.99,
         509.99,
         509.99,
+        509.99,
         509.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 509.99,
       "drop_pct": null
@@ -1379,33 +1368,12 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 139.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Honor Pad X9a, 11.5\" QHD+, 6 GB RAM, 128 GB, Qualcomm® Snapdragon® 685 (6nm), Android 15 – Magic OS 9.0, 8300 mAh, Gris espacial",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x9a-115-qhd-6-gb-ram-128-gb-qualcommr-snapdragonr-685-6nm-android-15-magic-os-90-8300-mah-gris-espacial-1608839.html",
-      "store": "MediaMarkt",
-      "current_price": 159.0,
-      "original_price": 249.0,
-      "discount_pct": 36.14,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164862542",
-      "category": null,
-      "price_history": [
-        159.0,
-        159.0,
-        159.0,
-        159.0,
-        159.0,
-        159.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 159.0,
       "drop_pct": null
     },
     {
@@ -1423,9 +1391,10 @@
         319.99,
         319.99,
         319.99,
+        319.99,
         319.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 319.99,
       "drop_pct": null
@@ -1445,9 +1414,10 @@
         449.0,
         449.0,
         449.0,
+        449.0,
         449.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 449.0,
       "drop_pct": null
@@ -1464,9 +1434,10 @@
       "price_history": [
         129.89,
         129.89,
+        134.89,
         134.89
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": false,
       "prev_price": 134.89,
       "drop_pct": null
@@ -1486,9 +1457,10 @@
         419.0,
         419.0,
         419.0,
+        419.0,
         419.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 419.0,
       "drop_pct": null
@@ -1500,7 +1472,7 @@
       "current_price": 12.95,
       "original_price": 19.95,
       "discount_pct": 35.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/approx-apppcie4-usb-tarjeta-pci-001.jpg?v=1783255023",
       "category": "Tarjetas PCI",
       "price_history": [
         12.95,
@@ -1508,95 +1480,12 @@
         12.95,
         12.95,
         12.95,
+        12.95,
         12.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 12.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Convertible 2 en 1 - HP OmniBook 5 Flip 14-fp0006ns, 14\" 2K, Intel® Core™ i5-1334U, 16 GB RAM, 512 GB SSD, Intel Iris Xe, Windows 11 Home, Azul",
-      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-hp-omnibook-5-flip-14-fp0006ns-14-2k-intel-core-i5-1334u-16-gb-ram-512-gb-ssd-intel-iris-xe-windows-11-home-azul-celeste-1596117.html",
-      "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 999.0,
-      "discount_pct": 35.04,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158510612",
-      "category": null,
-      "price_history": [
-        699.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 649.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Aire Acondicionado BECKEN BAC8699 (36 m² - 4732 Frig/H - Blanco)",
-      "url": "https://www.worten.es/productos/aire-acondicionado-becken-bac8699-36-m2-4732-frig-h-blanco-7728417",
-      "store": "Worten",
-      "current_price": 390.07,
-      "original_price": 599.99,
-      "discount_pct": 34.99,
-      "image_url": "https://www.worten.es/i/0359809a63bd7c4a2871ed6b873542b8fb60b0d0",
-      "category": null,
-      "price_history": [
-        390.07,
-        390.07
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 390.07,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Negro - 20,3 MP - ISO 100-3200)",
-      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-negro-20-3-mp-iso-100-3200-8252915",
-      "store": "Worten",
-      "current_price": 604.32,
-      "original_price": 921.55,
-      "discount_pct": 34.42,
-      "image_url": "https://www.worten.es/i/a0c3c40a6e2847924af1250583d0a90387bc6bcf",
-      "category": null,
-      "price_history": [
-        590.97,
-        606.06,
-        594.09,
-        586.65,
-        589.89,
-        589.89
-      ],
-      "history_days": 6,
-      "is_lowest": false,
-      "prev_price": 606.48,
-      "drop_pct": 0.36
-    },
-    {
-      "name": "Tablet - Honor Pad 10, 12.1\" DCI 2K, 8GB RAM, 256GB, FullView TFT LCD (IPS), 120 Hz, Qualcomm® Snapdragon® 7 Gen 3, Android 15, Gris espacial",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-10-121-dci-2k-8gb-ram-256gb-fullview-tft-lcd-ips-120-hz-qualcommr-snapdragonr-7-gen-3-android-15-gris-espacial-1602942.html",
-      "store": "MediaMarkt",
-      "current_price": 229.0,
-      "original_price": 349.0,
-      "discount_pct": 34.38,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265229",
-      "category": null,
-      "price_history": [
-        229.0,
-        229.0,
-        229.0,
-        229.0,
-        229.0,
-        229.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 229.0,
       "drop_pct": null
     },
     {
@@ -1610,9 +1499,10 @@
       "category": null,
       "price_history": [
         249.0,
+        249.0,
         249.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 249.0,
       "drop_pct": null
@@ -1621,21 +1511,43 @@
       "name": "Impresora multifunción tinta - Canon PIXMA TS6550i, WiFi, Pantalla OLED de 1.42\", Doble Cara, Blanco",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-tinta-canon-pixma-ts6550i-wifi-pantalla-oled-de-142-doble-cara-blanco-1612488.html",
       "store": "MediaMarkt",
-      "current_price": 59.0,
+      "current_price": 58.9,
       "original_price": 89.0,
-      "discount_pct": 33.71,
+      "discount_pct": 33.82,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175074717",
       "category": null,
       "price_history": [
         59.0,
         59.0,
         59.0,
-        59.0
+        59.0,
+        58.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 59.0,
-      "drop_pct": null
+      "drop_pct": 0.17
+    },
+    {
+      "name": "Smart TV NeoQLED 75’’ (190,5 cm) Samsung TQ75QN74FAT con IA, 4K Mini LED, 120 Hz, NQ4 AI Gen2 Processor, Neo Quantum HDR, OTS Lite, Color Booster Pro",
+      "url": "https://www.carrefour.es/smart-tv-neoqled-75-1905-cm-samsung-tq75qn74fat-con-ia-4k-mini-led-120-hz-nq4-ai-gen2-processor-neo-quantum-hdr-ots-lite-color-booster-pro/VC4A-30873320/p",
+      "store": "Carrefour",
+      "current_price": 1129.34,
+      "original_price": 1699.99,
+      "discount_pct": 33.57,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597919_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1075.0,
+        1131.22,
+        1125.15,
+        1125.15,
+        1129.34
+      ],
+      "history_days": 5,
+      "is_lowest": false,
+      "prev_price": 1142.89,
+      "drop_pct": 1.19
     },
     {
       "name": "Thermal Grizzly Hydronaut 1,5 ml",
@@ -1644,7 +1556,7 @@
       "current_price": 9.95,
       "original_price": 14.95,
       "discount_pct": 33.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-15-ml-pasta-tarmica-001.jpg?v=1783255023",
       "category": "Compuestos Térmicos",
       "price_history": [
         9.95,
@@ -1652,9 +1564,10 @@
         9.95,
         9.95,
         9.95,
+        9.95,
         9.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 9.95,
       "drop_pct": null
@@ -1666,7 +1579,7 @@
       "current_price": 19.95,
       "original_price": 29.95,
       "discount_pct": 33.39,
-      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/tp-link-universal-ac750-wifi-repetidor-001.jpg?v=1783255023",
       "category": "Repetidores",
       "price_history": [
         20.95,
@@ -1674,9 +1587,10 @@
         19.95,
         19.95,
         19.95,
+        19.95,
         19.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 19.95,
       "drop_pct": null
@@ -1696,9 +1610,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -1718,46 +1633,12 @@
         799.0,
         799.0,
         799.0,
+        799.0,
         799.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 799.0,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX3 RGB 7200DPI Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx3-rgb-7200dpi-negro-raton-gaming/220163",
-      "store": "GAME",
-      "current_price": 9.99,
-      "original_price": 14.99,
-      "discount_pct": 33.36,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220163.png",
-      "category": "Gaming",
-      "price_history": [
-        9.99,
-        9.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 9.99,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME Home and Work HW-M1 Wireless Bluetooth negro - Raton",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-home-and-work-hw-m1-wireless-bluetooth-negro-raton/248347",
-      "store": "GAME",
-      "current_price": 9.99,
-      "original_price": 14.99,
-      "discount_pct": 33.36,
-      "image_url": "https://media.game.es/COVERV2/3D_L/248/248347.png",
-      "category": "Gaming",
-      "price_history": [
-        9.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 9.99,
       "drop_pct": null
     },
     {
@@ -1775,9 +1656,10 @@
         39.99,
         39.99,
         39.99,
+        39.99,
         39.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 39.99,
       "drop_pct": null
@@ -1797,9 +1679,10 @@
         139.99,
         139.99,
         139.97,
+        139.97,
         139.97
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 139.97,
       "drop_pct": null
@@ -1819,9 +1702,10 @@
         45.99,
         45.99,
         45.99,
+        45.99,
         45.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 45.99,
       "drop_pct": null
@@ -1841,9 +1725,10 @@
         339.99,
         339.99,
         299.97,
+        299.97,
         299.97
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.97,
       "drop_pct": null
@@ -1863,9 +1748,10 @@
         1099.99,
         1099.99,
         1099.99,
+        1099.99,
         1099.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1099.99,
       "drop_pct": null
@@ -1881,9 +1767,10 @@
       "category": "Gaming",
       "price_history": [
         179.99,
+        179.99,
         179.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 179.99,
       "drop_pct": null
@@ -1903,9 +1790,10 @@
         19.95,
         19.95,
         19.95,
+        19.95,
         19.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 19.95,
       "drop_pct": null
@@ -1925,9 +1813,10 @@
         649.99,
         649.99,
         649.99,
+        649.99,
         649.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 649.99,
       "drop_pct": null
@@ -1947,9 +1836,10 @@
         315.48,
         314.99,
         314.99,
+        314.99,
         314.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 314.99,
       "drop_pct": null
@@ -1969,9 +1859,10 @@
         60.0,
         60.0,
         60.0,
+        60.0,
         60.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 60.0,
       "drop_pct": null
@@ -1987,9 +1878,10 @@
       "category": null,
       "price_history": [
         14.5,
+        14.5,
         14.5
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 14.5,
       "drop_pct": null
@@ -2009,9 +1901,10 @@
         269.99,
         269.99,
         269.99,
+        269.99,
         269.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 269.99,
       "drop_pct": null
@@ -2031,11 +1924,58 @@
         135.0,
         135.0,
         135.0,
+        135.0,
         135.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 135.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Honor Pad X9a, 11.5\" QHD+, 6 GB RAM, 128 GB, Qualcomm® Snapdragon® 685 (6nm), Android 15 – Magic OS 9.0, 8300 mAh, Gris espacial",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x9a-115-qhd-6-gb-ram-128-gb-qualcommr-snapdragonr-685-6nm-android-15-magic-os-90-8300-mah-gris-espacial-1608839.html",
+      "store": "MediaMarkt",
+      "current_price": 169.0,
+      "original_price": 249.0,
+      "discount_pct": 32.13,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164862542",
+      "category": null,
+      "price_history": [
+        159.0,
+        159.0,
+        159.0,
+        159.0,
+        159.0,
+        159.0,
+        169.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 159.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - Samsung Galaxy Book4 Edge Copilot+ PC, 15.6\" FHD, Snapdragon® X1-26-100 45 TOPS 16GB RAM, 512GB SSD, Adreno™, Full IA, W11H, Sapphire Blue",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-edge-copilot-pc-156-fhd-snapdragonr-x126100-40-tops-16-gb-ram-512-gb-ssd-adrenotm-full-ia-w11h-sapphire-blue-1620198.html",
+      "store": "MediaMarkt",
+      "current_price": 679.0,
+      "original_price": 999.0,
+      "discount_pct": 32.03,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174274318",
+      "category": null,
+      "price_history": [
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        599.0,
+        679.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 599.0,
       "drop_pct": null
     },
     {
@@ -2045,7 +1985,7 @@
       "current_price": 14.95,
       "original_price": 21.95,
       "discount_pct": 31.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-3-ml-pasta-tarmica-001.jpg?v=1783255023",
       "category": "Compuestos Térmicos",
       "price_history": [
         14.95,
@@ -2053,11 +1993,35 @@
         14.95,
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 14.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Honor Pad 10, 12.1\" DCI 2K, 8GB RAM, 256GB, FullView TFT LCD (IPS), 120 Hz, Qualcomm® Snapdragon® 7 Gen 3, Android 15, Gris espacial",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-10-121-dci-2k-8gb-ram-256gb-fullview-tft-lcd-ips-120-hz-qualcommr-snapdragonr-7-gen-3-android-15-gris-espacial-1602942.html",
+      "store": "MediaMarkt",
+      "current_price": 239.0,
+      "original_price": 349.0,
+      "discount_pct": 31.52,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265229",
+      "category": null,
+      "price_history": [
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        239.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 229.0,
       "drop_pct": null
     },
     {
@@ -2075,11 +2039,32 @@
         479.0,
         479.0,
         479.0,
+        479.0,
         479.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 479.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavadora BALAY 3TS382B (8 kg - 1200 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-balay-3ts382b-8-kg-1200-rpm-blanco-8617625",
+      "store": "Worten",
+      "current_price": 456.42,
+      "original_price": 664.7,
+      "discount_pct": 31.33,
+      "image_url": "https://www.worten.es/i/a0dc32136e8590c1aa8370db571e19d5857077b9",
+      "category": null,
+      "price_history": [
+        456.42,
+        456.42,
+        456.42,
+        456.42
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 456.42,
       "drop_pct": null
     },
     {
@@ -2097,9 +2082,10 @@
         329.98,
         329.98,
         329.98,
+        329.98,
         329.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 329.98,
       "drop_pct": null
@@ -2118,9 +2104,10 @@
         13.64,
         13.64,
         13.64,
+        13.64,
         13.64
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 13.64,
       "drop_pct": null
@@ -2140,9 +2127,10 @@
         34.0,
         34.0,
         34.0,
+        34.0,
         34.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 34.0,
       "drop_pct": null
@@ -2162,11 +2150,58 @@
         159.0,
         159.0,
         159.0,
+        159.0,
         159.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 159.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris-1610710.html",
+      "store": "MediaMarkt",
+      "current_price": 229.0,
+      "original_price": 329.0,
+      "discount_pct": 30.4,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028097",
+      "category": null,
+      "price_history": [
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        229.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 199.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Plata",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-plata-1610711.html",
+      "store": "MediaMarkt",
+      "current_price": 229.0,
+      "original_price": 329.0,
+      "discount_pct": 30.4,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028090",
+      "category": null,
+      "price_history": [
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        199.0,
+        229.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 199.0,
       "drop_pct": null
     },
     {
@@ -2184,9 +2219,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -2206,9 +2242,10 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 139.0,
       "drop_pct": null
@@ -2228,33 +2265,12 @@
         139.0,
         139.0,
         139.0,
+        139.0,
         139.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 139.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara KODAK PIXPRO FZ55",
-      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-8296754",
-      "store": "Worten",
-      "current_price": 169.0,
-      "original_price": 241.65,
-      "discount_pct": 30.06,
-      "image_url": "https://www.worten.es/i/108e3b59390738091c6dc70c2f8fe08099395ae6",
-      "category": null,
-      "price_history": [
-        159.0,
-        159.0,
-        159.0,
-        159.0,
-        159.0,
-        159.0
-      ],
-      "history_days": 6,
-      "is_lowest": false,
-      "prev_price": 169.0,
       "drop_pct": null
     },
     {
@@ -2272,9 +2288,10 @@
         69.99,
         69.99,
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 69.99,
       "drop_pct": null
@@ -2294,9 +2311,10 @@
         259.89,
         259.89,
         259.89,
+        259.89,
         259.89
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 259.89,
       "drop_pct": null
@@ -2316,9 +2334,10 @@
         259.89,
         259.89,
         259.89,
+        259.89,
         259.89
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 259.89,
       "drop_pct": null
@@ -2334,33 +2353,12 @@
       "category": null,
       "price_history": [
         139.97,
+        139.97,
         139.97
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 139.97,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Honor Pad X8a, WiFi, 11\" WUXGA, 4GB RAM, 128GB, Qualcomm Snapdragon® 680 4G, Space Gray",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x8a-wifi-11-wuxga-4gb-ram-128gb-qualcomm-snapdragonr-680-4g-space-gray-1602941.html",
-      "store": "MediaMarkt",
-      "current_price": 119.0,
-      "original_price": 169.0,
-      "discount_pct": 29.59,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159378102",
-      "category": null,
-      "price_history": [
-        119.0,
-        119.0,
-        119.0,
-        119.0,
-        119.0,
-        119.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 119.0,
       "drop_pct": null
     },
     {
@@ -2378,33 +2376,12 @@
         31.99,
         31.99,
         31.99,
+        31.99,
         31.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 31.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Smartphone GOOGLE Pixel 9 PRO XL (6.73'' - 16 GB - 256 GB - Porcelain)",
-      "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-xl-6-73-16-gb-256-gb-porcelain-8119768",
-      "store": "Worten",
-      "current_price": 634.98,
-      "original_price": 899.0,
-      "discount_pct": 29.37,
-      "image_url": "https://www.worten.es/i/4cda3dc02eb0621477a6b81db5bed7bfa08885b5",
-      "category": null,
-      "price_history": [
-        634.98,
-        634.98,
-        634.98,
-        634.98,
-        634.98,
-        634.98
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 634.98,
       "drop_pct": null
     },
     {
@@ -2422,9 +2399,10 @@
         169.89,
         169.89,
         169.89,
+        169.89,
         169.89
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 169.89,
       "drop_pct": null
@@ -2444,9 +2422,10 @@
         49.99,
         49.99,
         49.99,
+        49.99,
         49.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 49.99,
       "drop_pct": null
@@ -2464,33 +2443,12 @@
         269.9,
         269.9,
         269.9,
+        269.9,
         269.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 269.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html",
-      "store": "MediaMarkt",
-      "current_price": 115.0,
-      "original_price": 159.9,
-      "discount_pct": 28.08,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135782229",
-      "category": null,
-      "price_history": [
-        115.0,
-        115.0,
-        115.0,
-        115.0,
-        115.0,
-        115.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 115.0,
       "drop_pct": null
     },
     {
@@ -2508,9 +2466,10 @@
         669.0,
         669.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
@@ -2530,9 +2489,10 @@
         649.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
@@ -2544,7 +2504,7 @@
       "current_price": 20.95,
       "original_price": 28.95,
       "discount_pct": 27.63,
-      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/ventilador-noctua-nf-f12-1500-rpm-pwm-22dba-002.jpg?v=1783255023",
       "category": "Ventiladores",
       "price_history": [
         20.95,
@@ -2552,9 +2512,10 @@
         20.95,
         20.95,
         20.95,
+        20.95,
         20.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 20.95,
       "drop_pct": null
@@ -2574,9 +2535,10 @@
         630.99,
         630.99,
         630.99,
+        630.99,
         630.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 630.99,
       "drop_pct": null
@@ -2596,52 +2558,35 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 399.0,
       "drop_pct": null
     },
     {
-      "name": "Portátil - HP OmniBook 5 NGAI 14-he0001ns Copilot+PC, 14\" 2K OLED, Qualcomm Snapdragon X Plus X1P-42-100 45 TOPS, 32GB RAM, 1TB SSD, W11H, Plata",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-5-ngai-14-he0001ns-14-2k-oled-qualcomm-snapdragon-x-plus-x1p-42-100-32-gb-ram-1-tb-ssd-qualcomm-adreno-gpu-w11h-plata-1604246.html",
+      "name": "Convertible 2 en 1 - HP OmniBook 5 Flip 14-fp0006ns, 14\" 2K, Intel® Core™ i5-1334U, 16 GB RAM, 512 GB SSD, Intel Iris Xe, Windows 11 Home, Azul",
+      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-hp-omnibook-5-flip-14-fp0006ns-14-2k-intel-core-i5-1334u-16-gb-ram-512-gb-ssd-intel-iris-xe-windows-11-home-azul-celeste-1596117.html",
       "store": "MediaMarkt",
-      "current_price": 799.0,
-      "original_price": 1099.0,
-      "discount_pct": 27.3,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160327951",
+      "current_price": 729.0,
+      "original_price": 999.0,
+      "discount_pct": 27.03,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158510612",
       "category": null,
       "price_history": [
-        799.0,
-        799.0,
-        799.0
+        699.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        729.0
       ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 799.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Samsung Galaxy Book4, 15.6\" FHD, Intel® Core™ i5-1335U, 16GB RAM, 512GB SSD, Intel® Graphics, W11H, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-156-fhd-intelr-coretm-5-120u-16gb-ram-512gb-ssd-intelr-graphics-w11h-gris-1578835.html",
-      "store": "MediaMarkt",
-      "current_price": 549.0,
-      "original_price": 749.0,
-      "discount_pct": 26.7,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_142866982",
-      "category": null,
-      "price_history": [
-        599.0,
-        549.0,
-        549.0,
-        549.0,
-        549.0,
-        549.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 549.0,
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -2659,30 +2604,12 @@
         439.0,
         440.0,
         440.0,
+        440.0,
         440.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 440.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
-      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
-      "store": "Worten",
-      "current_price": 585.13,
-      "original_price": 791.1,
-      "discount_pct": 26.04,
-      "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
-      "category": null,
-      "price_history": [
-        585.37,
-        585.07,
-        585.04
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 585.04,
       "drop_pct": null
     },
     {
@@ -2700,9 +2627,10 @@
         295.99,
         295.99,
         295.99,
+        295.99,
         295.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 295.99,
       "drop_pct": null
@@ -2722,9 +2650,10 @@
         73.99,
         73.99,
         73.99,
+        73.99,
         73.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 73.99,
       "drop_pct": null
@@ -2744,9 +2673,10 @@
         459.0,
         459.0,
         459.0,
+        459.0,
         459.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 459.0,
       "drop_pct": null
@@ -2766,9 +2696,10 @@
         185.0,
         185.0,
         185.0,
+        185.0,
         185.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 185.0,
       "drop_pct": null
@@ -2780,7 +2711,7 @@
       "current_price": 2.95,
       "original_price": 3.95,
       "discount_pct": 25.32,
-      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/adaptador-dvi-a-vga-001.jpg?v=1783255023",
       "category": "Cables Vídeo",
       "price_history": [
         2.95,
@@ -2788,9 +2719,10 @@
         2.95,
         2.95,
         2.95,
+        2.95,
         2.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 2.95,
       "drop_pct": null
@@ -2806,9 +2738,10 @@
       "category": null,
       "price_history": [
         149.0,
+        149.0,
         149.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 149.0,
       "drop_pct": null
@@ -2828,9 +2761,10 @@
         50.0,
         59.9,
         59.9,
+        59.9,
         59.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 59.9,
       "drop_pct": null
@@ -2850,9 +2784,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -2872,9 +2807,10 @@
         299.0,
         299.0,
         299.0,
+        299.0,
         299.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.0,
       "drop_pct": null
@@ -2886,7 +2822,7 @@
       "current_price": 14.95,
       "original_price": 19.95,
       "discount_pct": 25.06,
-      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/d-link-go-sw-5g-5-puertos-10-100-1000mbps-g-switch-001.jpg?v=1783255023",
       "category": "Hubs/Switchs",
       "price_history": [
         14.95,
@@ -2894,29 +2830,12 @@
         14.95,
         14.95,
         14.95,
+        14.95,
         14.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 14.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Acer Chromebook 314 CBOA314-1H-C065, 14\" Full-HD, Intel® Celeron®  N4500, 8GB RAM, 128GB, UHD Graphics, Google Chrome OS, Ratón incluido",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-acer-chromebook-314-cboa314-1h-c065-14-full-hd-intelr-celeron-n4500-8gb-ram-128gb-emmc-uhd-graphics-google-chrome-os-negro-1590080.html",
-      "store": "MediaMarkt",
-      "current_price": 299.0,
-      "original_price": 399.0,
-      "discount_pct": 25.06,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161864991",
-      "category": null,
-      "price_history": [
-        299.0,
-        299.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 299.0,
       "drop_pct": null
     },
     {
@@ -2934,65 +2853,12 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 599.0,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-W3 Wireless RGB 3200DPI Blanco - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w3-wireless-rgb-3200dpi-blanco-raton-gaming/220165",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220165.png",
-      "category": "Gaming",
-      "price_history": [
-        14.99,
-        14.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 14.99,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-W3 Wireless RGB 3200DPI Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w3-wireless-rgb-3200dpi-negro-raton-gaming/220164",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/220/220164.png",
-      "category": "Gaming",
-      "price_history": [
-        14.99,
-        14.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 14.99,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-WC2T RGB Carcasa Intercambiable con pesas - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-wc2t-rgb-carcasa-intercambiable-con-pesas-raton-gaming/243772",
-      "store": "GAME",
-      "current_price": 14.99,
-      "original_price": 19.99,
-      "discount_pct": 25.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/243/243772.png",
-      "category": "Gaming",
-      "price_history": [
-        14.99,
-        14.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 14.99,
       "drop_pct": null
     },
     {
@@ -3010,9 +2876,10 @@
         389.99,
         389.99,
         389.99,
+        389.99,
         389.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 389.99,
       "drop_pct": null
@@ -3021,9 +2888,9 @@
       "name": "Impresora multifunción tinta – HP DeskJet 2921, Impresión, Copia, Escáner, Wi-Fi, HP Instant Ink, Gris",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-deskjet-2921-impresion-copia-escaner-wi-fi-hp-instant-ink-gris-1608553.html",
       "store": "MediaMarkt",
-      "current_price": 49.0,
+      "current_price": 48.9,
       "original_price": 64.9,
-      "discount_pct": 24.5,
+      "discount_pct": 24.65,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179518689",
       "category": null,
       "price_history": [
@@ -3032,73 +2899,54 @@
         49.0,
         49.0,
         49.0,
-        49.0
+        49.0,
+        48.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 49.0,
-      "drop_pct": null
+      "drop_pct": 0.2
     },
     {
       "name": "Impresora multifunción tinta – HP Smart Tank 6006, Wi-Fi Direct, USB, Impresión a doble cara",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-smart-tank-6006-wi-fi-direct-usb-impresion-a-doble-cara-1611848.html",
       "store": "MediaMarkt",
-      "current_price": 189.9,
+      "current_price": 189.0,
       "original_price": 249.9,
-      "discount_pct": 24.01,
+      "discount_pct": 24.37,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168870195",
       "category": null,
       "price_history": [
         189.9,
-        189.9
+        189.9,
+        189.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 189.9,
-      "drop_pct": null
+      "drop_pct": 0.47
     },
     {
-      "name": "Convertible 2 en 1 - Lenovo IdeaPad Flex 5 14ABR8, 14\" WUXGA, AMD Ryzen™ 7 5825U, 16GB RAM, 512GB, Radeon™ Onboard Graphics, Windows 11 Home, Azul",
-      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-lenovo-ideapad-flex-5-14abr8-14-wuxga-amd-ryzentm-7-5825u-16gb-ram-512gb-radeontm-onboard-graphics-windows-11-home-azul-1597219.html",
+      "name": "Tablet - Honor Pad X8a, WiFi, 11\" WUXGA, 4GB RAM, 128GB, Qualcomm Snapdragon® 680 4G, Space Gray",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x8a-wifi-11-wuxga-4gb-ram-128gb-qualcomm-snapdragonr-680-4g-space-gray-1602941.html",
       "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 849.0,
-      "discount_pct": 23.56,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157170176",
+      "current_price": 129.0,
+      "original_price": 169.0,
+      "discount_pct": 23.67,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159378102",
       "category": null,
       "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
+        119.0,
+        119.0,
+        119.0,
+        119.0,
+        119.0,
+        119.0,
+        129.0
       ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 649.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Xiaomi Redmi Pad 2 Pro, Wifi, 12.1\" WQHD, 6 GB RAM, 128 GB, Qualcomm Snapdragon® 7s Gen 4, Gray",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-pro-wifi-121-wqhd-6-gb-ram-128-gb-snapdragonr-7s-gen-4-gray-1605582.html",
-      "store": "MediaMarkt",
-      "current_price": 229.0,
-      "original_price": 299.0,
-      "discount_pct": 23.41,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170754697",
-      "category": null,
-      "price_history": [
-        229.0,
-        229.0,
-        229.0,
-        229.0,
-        229.0,
-        229.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 229.0,
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 119.0,
       "drop_pct": null
     },
     {
@@ -3108,7 +2956,7 @@
       "current_price": 22.95,
       "original_price": 29.95,
       "discount_pct": 23.37,
-      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/startech-st4300minu3w-usb-30-super-speed-4-puertos-blanco-hub-001.jpg?v=1783255023",
       "category": "Hubs",
       "price_history": [
         22.95,
@@ -3116,9 +2964,10 @@
         22.95,
         22.95,
         22.95,
+        22.95,
         22.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 22.95,
       "drop_pct": null
@@ -3138,9 +2987,10 @@
         199.0,
         199.0,
         199.0,
+        199.0,
         199.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 199.0,
       "drop_pct": null
@@ -3160,9 +3010,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -3182,33 +3033,12 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Convertible 2 en 1 - HP OmniBook X 14-fk0002ns Copilot+ PC, 50 TOPS, 14 \", 3K, AMD Ryzen™ AI 7 350, 32GB RAM, 1TB SSD, AMD Radeon™ 860M, W11 H, Plata",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-x-flipngai-14-fk0002ns-copilot-pc-14-3k-32gb-ram-1tb-ssd-graficos-amd-radeontm-860m-w11-h-plateado-1596126.html",
-      "store": "MediaMarkt",
-      "current_price": 999.0,
-      "original_price": 1299.0,
-      "discount_pct": 23.09,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172374256",
-      "category": null,
-      "price_history": [
-        999.0,
-        999.0,
-        999.0,
-        999.0,
-        999.0,
-        999.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 999.0,
       "drop_pct": null
     },
     {
@@ -3222,9 +3052,10 @@
       "category": null,
       "price_history": [
         99.98,
+        99.98,
         99.98
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 99.98,
       "drop_pct": null
@@ -3242,9 +3073,10 @@
         349.9,
         349.9,
         349.9,
+        349.9,
         349.9
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 349.9,
       "drop_pct": null
@@ -3260,9 +3092,10 @@
       "category": null,
       "price_history": [
         99.99,
+        99.99,
         99.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 99.99,
       "drop_pct": null
@@ -3280,9 +3113,10 @@
         169.0,
         169.0,
         169.0,
+        169.0,
         169.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 169.0,
       "drop_pct": null
@@ -3302,9 +3136,10 @@
         849.0,
         849.0,
         849.0,
+        849.0,
         849.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 849.0,
       "drop_pct": null
@@ -3313,9 +3148,9 @@
       "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p",
       "store": "Carrefour",
-      "current_price": 229.1,
+      "current_price": 229.07,
       "original_price": 294.99,
-      "discount_pct": 22.34,
+      "discount_pct": 22.35,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
       "category": "Móviles",
       "price_history": [
@@ -3324,12 +3159,13 @@
         224.98,
         224.98,
         229.2,
-        229.1
+        229.1,
+        229.07
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 229.1,
-      "drop_pct": null
+      "drop_pct": 0.01
     },
     {
       "name": "Smart TV QLED 75\" (190,5 cm) Samsung TQ75Q7F5AU con IA, 4K UHD, 50 Hz, Q4 AI Processor, Smart TV, OTS Lite, Q-Symphony, Adaptive Sound",
@@ -3346,9 +3182,10 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 699.0,
       "drop_pct": null
@@ -3368,11 +3205,48 @@
         35.0,
         35.0,
         35.0,
+        35.0,
         35.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 35.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor gaming - LG UltraGear™ 24G411A-B, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, HDR10, Morado Grisáceo",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-24g411a-b-238-full-hd-144-hz-5-ms-ips-hdr10-morado-grisaceo-1607403.html",
+      "store": "MediaMarkt",
+      "current_price": 84.9,
+      "original_price": 109.0,
+      "discount_pct": 22.11,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164595992",
+      "category": null,
+      "price_history": [
+        85.0,
+        85.0,
+        84.9
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 85.0,
+      "drop_pct": 0.12
+    },
+    {
+      "name": "Impresora multifunción tinta - HP DeskJet 4322, Impresión doble cara, Impresión a Color, Wi-Fi, Instank Ink, Blanco",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-tinta-hp-deskjet-4322-impresion-doble-cara-impresion-a-color-wi-fi-blanco-1608554.html",
+      "store": "MediaMarkt",
+      "current_price": 58.9,
+      "original_price": 74.9,
+      "discount_pct": 21.36,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179518691",
+      "category": null,
+      "price_history": [
+        58.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3390,9 +3264,10 @@
         369.99,
         369.99,
         369.99,
+        369.99,
         369.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 369.99,
       "drop_pct": null
@@ -3412,9 +3287,10 @@
         14.99,
         14.99,
         14.99,
+        14.99,
         14.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 14.99,
       "drop_pct": null
@@ -3430,9 +3306,10 @@
       "category": null,
       "price_history": [
         15.0,
+        15.0,
         15.0
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 15.0,
       "drop_pct": null
@@ -3447,9 +3324,10 @@
       "image_url": "https://www.worten.es/i/c37d6b63b72a8ca78ab5b003e8e19540bcb3314f",
       "category": null,
       "price_history": [
+        94.95,
         94.95
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 94.95,
       "drop_pct": null
@@ -3469,9 +3347,10 @@
         339.99,
         339.99,
         339.99,
+        339.99,
         339.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 339.99,
       "drop_pct": null
@@ -3491,20 +3370,44 @@
         159.0,
         159.0,
         159.0,
+        159.0,
         159.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 159.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-acer-sa243yp1bi-24-full-hd-144-hz-4-ms-ips-1x-vga-1x-hdmi-14-freesync-negro-1604093.html",
+      "store": "MediaMarkt",
+      "current_price": 78.9,
+      "original_price": 99.0,
+      "discount_pct": 20.3,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159183323",
+      "category": null,
+      "price_history": [
+        74.0,
+        74.0,
+        74.0,
+        74.0,
+        74.0,
+        74.0,
+        78.9
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 74.0,
       "drop_pct": null
     },
     {
       "name": "Monitor gaming - LG 27G411A-B, 27\" Full-HD, 144 Hz, 1 ms, IPS, HDR10, Morado Grisáceo",
       "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-27g411a-b-27-full-hd-144-hz-5-ms-ips-hdr10-morado-grisaceo-1607404.html",
       "store": "MediaMarkt",
-      "current_price": 94.99,
+      "current_price": 94.9,
       "original_price": 119.0,
-      "discount_pct": 20.18,
+      "discount_pct": 20.25,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164945859",
       "category": null,
       "price_history": [
@@ -3513,12 +3416,13 @@
         94.99,
         94.99,
         94.99,
-        94.99
+        94.99,
+        94.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 94.99,
-      "drop_pct": null
+      "drop_pct": 0.09
     },
     {
       "name": "Tablet - Lenovo Idea Tab, WIFI, 11\" 2.5K, 8GB RAM, 256GB, Gris, Incluye Lápiz digital",
@@ -3535,9 +3439,10 @@
         215.0,
         215.0,
         215.0,
+        215.0,
         215.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 215.0,
       "drop_pct": null
@@ -3557,9 +3462,10 @@
         249.0,
         249.0,
         239.0,
+        239.0,
         239.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 239.0,
       "drop_pct": null
@@ -3579,9 +3485,10 @@
         39.9,
         39.9,
         39.9,
+        39.9,
         39.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 39.9,
       "drop_pct": null
@@ -3601,33 +3508,12 @@
         599.0,
         599.0,
         599.0,
+        599.0,
         599.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 599.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil gaming - Lenovo LOQ 15AHP10, 15.6\" Full-HD, AMD Ryzen™ 7 250, 24GB RAM, 512GB SSD, GeForce RTX™ 5050, Windows 11 Home, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-loq-15ahp10-156-full-hd-amd-ryzentm-7-250-24gb-ram-512gb-ssd-geforce-rtxtm-5050-windows-11-home-gris-1608851.html",
-      "store": "MediaMarkt",
-      "current_price": 999.0,
-      "original_price": 1249.0,
-      "discount_pct": 20.02,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165083429",
-      "category": null,
-      "price_history": [
-        999.0,
-        999.0,
-        999.0,
-        999.0,
-        999.0,
-        999.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 999.0,
       "drop_pct": null
     },
     {
@@ -3637,7 +3523,7 @@
       "current_price": 39.95,
       "original_price": 49.95,
       "discount_pct": 20.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/riello-iplug-se-ipe-600-360w-600va-sai-001.jpg?v=1783255023",
       "category": "Sais",
       "price_history": [
         39.95,
@@ -3645,12 +3531,36 @@
         39.95,
         39.95,
         39.95,
+        39.95,
         39.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 39.95,
       "drop_pct": null
+    },
+    {
+      "name": "Smart TV MiniLED 85\" (215,9 cm) LG 85QNED7EB3A con IA, 4K MiniLED, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
+      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-lg-85qned7eb3a-con-ia-4k-miniled-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33666187/p",
+      "store": "Carrefour",
+      "current_price": 1199.0,
+      "original_price": 1499.0,
+      "discount_pct": 20.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714809_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1199.0,
+        1199.0,
+        1199.0,
+        1199.0,
+        1199.0,
+        1199.0,
+        1199.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 1580.94,
+      "drop_pct": 24.16
     },
     {
       "name": "Auriculares Inalámbricos JBL Tune Flex 2 - Negro",
@@ -3667,9 +3577,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 79.99,
       "drop_pct": null
@@ -3689,9 +3600,10 @@
         319.99,
         319.99,
         319.99,
+        319.99,
         319.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 319.99,
       "drop_pct": null
@@ -3711,9 +3623,10 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 79.99,
       "drop_pct": null
@@ -3733,30 +3646,12 @@
         79.99,
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 79.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico 2 puertas KUBO KBDD8358 (Estático - 143 cm - 206 L - Blanco)",
-      "url": "https://www.worten.es/productos/frigorifico-2-puertas-kubo-kbdd8358-estatico-143-cm-206-l-blanco-7610054",
-      "store": "Worten",
-      "current_price": 199.99,
-      "original_price": 249.99,
-      "discount_pct": 20.0,
-      "image_url": "https://www.worten.es/i/bd9f03aeafcb205983bad37276e3ad8bd0b2584f",
-      "category": null,
-      "price_history": [
-        199.99,
-        199.99,
-        199.99
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 199.99,
       "drop_pct": null
     },
     {
@@ -3772,9 +3667,10 @@
         127.2,
         127.2,
         127.2,
+        127.2,
         127.2
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 127.2,
       "drop_pct": null
@@ -3791,12 +3687,36 @@
       "price_history": [
         79.99,
         79.99,
+        79.99,
         79.99
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 79.99,
       "drop_pct": null
+    },
+    {
+      "name": "Móvil Xiaomi Redmi Note 15 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-256gb-8gb-ram-negro/VC4A-32381778/p",
+      "store": "Carrefour",
+      "current_price": 176.98,
+      "original_price": 220.0,
+      "discount_pct": 19.55,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        178.28,
+        171.78,
+        171.78,
+        171.78,
+        177.09,
+        177.05,
+        176.98
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 177.05,
+      "drop_pct": 0.04
     },
     {
       "name": "Smart TV NanoCell 75\" (190,5 cm) LG 75NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
@@ -3813,29 +3733,12 @@
         649.0,
         649.0,
         649.0,
+        649.0,
         649.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 649.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - ASUS Zenbook 14 OLED UX3405CA-QD1310W, 14 \" WUXGA, Intel® Core™ Ultra 9 285H, 32GB RAM, 1TB SSD, Arc™ GPU, W11H, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-14-oled-ux3405ca-qd1310w-14-wqxga-intelr-coretm-ultra-9-285h-32gb-ram-1tb-ssd-arctm-gpu-windows-11-home-1619418.html",
-      "store": "MediaMarkt",
-      "current_price": 1299.0,
-      "original_price": 1599.0,
-      "discount_pct": 18.76,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170451083",
-      "category": null,
-      "price_history": [
-        1299.0,
-        1299.0
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 1299.0,
       "drop_pct": null
     },
     {
@@ -3853,55 +3756,12 @@
         219.99,
         219.99,
         219.97,
+        219.97,
         219.97
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 219.97,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - HP 15-fd1020ns, 15,6\" Full HD, Intel® Core™ Ultra 7 155H, 32 GB RAM, 1 TB SSD, Intel® Arc Graphics, Windows 11 Home, Azul lunar",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-15-fd1020ns-156-full-hd-intelr-coretm-ultra-7-155h-32-gb-ram-1-tb-ssd-intelr-arc-graphics-windows-11-home-azul-lunar-1600832.html",
-      "store": "MediaMarkt",
-      "current_price": 899.0,
-      "original_price": 1099.0,
-      "discount_pct": 18.2,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160324112",
-      "category": null,
-      "price_history": [
-        899.0,
-        899.0,
-        899.0,
-        899.0,
-        899.0,
-        899.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 899.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet - Lenovo Idea Tab, Wifi Only, 11\" 2.5K , 8GB RAM, 256GB, Incluye Teclado y lápiz digital, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-wifi-only-11-25k-8gb-ram-256gb-incluye-teclado-y-pen-gris-1603849.html",
-      "store": "MediaMarkt",
-      "current_price": 253.0,
-      "original_price": 309.0,
-      "discount_pct": 18.12,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177624083",
-      "category": null,
-      "price_history": [
-        269.0,
-        253.0,
-        253.0,
-        253.0,
-        253.0,
-        253.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 253.0,
       "drop_pct": null
     },
     {
@@ -3919,9 +3779,10 @@
         369.0,
         369.0,
         369.0,
+        369.0,
         369.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 369.0,
       "drop_pct": null
@@ -3937,33 +3798,35 @@
       "category": null,
       "price_history": [
         739.98,
+        739.98,
         739.98
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 739.98,
       "drop_pct": null
     },
     {
-      "name": "Portátil gaming - Lenovo Legion 5 15IRX10, 15.1\" WQXGA OLED, Intel® Core™ i7-13650HX, 32GB RAM, 1TB SSD, GeForce RTX™ 5060, Windows 11 Home, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-legion-5-15irx10-151-wqxga-oled-intelr-coretm-i7-13650hx-32gb-ram-1tb-ssd-geforce-rtxtm-5060-windows-11-home-negro-1602588.html",
+      "name": "Convertible 2 en 1 - Lenovo IdeaPad Flex 5 14ABR8, 14\" WUXGA, AMD Ryzen™ 7 5825U, 16GB RAM, 512GB, Radeon™ Onboard Graphics, Windows 11 Home, Azul",
+      "url": "https://www.mediamarkt.es/es/product/_convertible-2-en-1-lenovo-ideapad-flex-5-14abr8-14-wuxga-amd-ryzentm-7-5825u-16gb-ram-512gb-radeontm-onboard-graphics-windows-11-home-azul-1597219.html",
       "store": "MediaMarkt",
-      "current_price": 1399.0,
-      "original_price": 1699.0,
-      "discount_pct": 17.66,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159772835",
+      "current_price": 699.0,
+      "original_price": 849.0,
+      "discount_pct": 17.67,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157170176",
       "category": null,
       "price_history": [
-        1399.0,
-        1399.0,
-        1399.0,
-        1399.0,
-        1399.0,
-        1399.0
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        699.0
       ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 1399.0,
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -3981,9 +3844,10 @@
         329.0,
         329.0,
         329.0,
+        329.0,
         329.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 329.0,
       "drop_pct": null
@@ -4003,9 +3867,10 @@
         99.0,
         99.0,
         99.0,
+        99.0,
         99.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 99.0,
       "drop_pct": null
@@ -4025,9 +3890,10 @@
         579.0,
         579.0,
         579.0,
+        579.0,
         579.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 579.0,
       "drop_pct": null
@@ -4036,9 +3902,9 @@
       "name": "Impresora multifunción tinta - Epson Expression Home XP-2200, Impresión doble cara, Color, WiFi, A4, Negro",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-expression-home-xp-2200-inyeccion-de-tinta-27-ppm-5760-x-1440-wifi-a4-negro-1540423.html",
       "store": "MediaMarkt",
-      "current_price": 64.0,
+      "current_price": 63.9,
       "original_price": 76.99,
-      "discount_pct": 16.87,
+      "discount_pct": 17.0,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_98523480",
       "category": null,
       "price_history": [
@@ -4047,12 +3913,13 @@
         64.0,
         64.0,
         64.0,
-        64.0
+        64.0,
+        63.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 64.0,
-      "drop_pct": null
+      "drop_pct": 0.16
     },
     {
       "name": "Splatoon Raiders para Switch 2",
@@ -4069,11 +3936,35 @@
         49.9,
         49.9,
         49.9,
+        49.9,
         49.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 49.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Xiaomi Redmi Pad 2 Pro, Wifi, 12.1\" WQHD, 6 GB RAM, 128 GB, Qualcomm Snapdragon® 7s Gen 4, Gray",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-pro-wifi-121-wqhd-6-gb-ram-128-gb-snapdragonr-7s-gen-4-gray-1605582.html",
+      "store": "MediaMarkt",
+      "current_price": 249.0,
+      "original_price": 299.0,
+      "discount_pct": 16.72,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170754697",
+      "category": null,
+      "price_history": [
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        229.0,
+        249.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 229.0,
       "drop_pct": null
     },
     {
@@ -4091,33 +3982,12 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
-      "store": "MediaMarkt",
-      "current_price": 649.0,
-      "original_price": 779.0,
-      "discount_pct": 16.69,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
-      "category": null,
-      "price_history": [
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0,
-        649.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 649.0,
       "drop_pct": null
     },
     {
@@ -4135,9 +4005,10 @@
         749.0,
         749.0,
         749.0,
+        749.0,
         749.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 749.0,
       "drop_pct": null
@@ -4153,9 +4024,10 @@
       "category": "Componentes",
       "price_history": [
         49.9,
+        49.9,
         49.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 49.9,
       "drop_pct": null
@@ -4175,9 +4047,10 @@
         999.0,
         999.0,
         999.0,
+        999.0,
         999.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 999.0,
       "drop_pct": null
@@ -4192,9 +4065,10 @@
       "image_url": "https://www.worten.es/i/83950e6ae53aa09cba37452255645e50b8ce7c7f",
       "category": null,
       "price_history": [
+        99.98,
         99.98
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 99.98,
       "drop_pct": null
@@ -4214,9 +4088,10 @@
         124.98,
         124.98,
         124.98,
+        124.98,
         124.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 124.98,
       "drop_pct": null
@@ -4236,9 +4111,10 @@
         271.18,
         271.18,
         271.18,
+        271.18,
         271.18
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 271.18,
       "drop_pct": null
@@ -4258,33 +4134,12 @@
         106.99,
         106.99,
         108.75,
+        108.75,
         108.75
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 108.75,
-      "drop_pct": null
-    },
-    {
-      "name": "Móvil Xiaomi Redmi Note 15 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-256gb-8gb-ram-negro/VC4A-32381778/p",
-      "store": "Carrefour",
-      "current_price": 177.05,
-      "original_price": 212.46,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        178.28,
-        171.78,
-        171.78,
-        171.78,
-        177.09,
-        177.05
-      ],
-      "history_days": 6,
-      "is_lowest": false,
-      "prev_price": 177.05,
       "drop_pct": null
     },
     {
@@ -4302,9 +4157,10 @@
         166.09,
         166.09,
         166.09,
-        166.09
+        166.09,
+        167.49
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 167.49,
       "drop_pct": null
@@ -4324,9 +4180,10 @@
         224.13,
         224.13,
         224.13,
+        224.13,
         224.13
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 224.13,
       "drop_pct": null
@@ -4346,9 +4203,10 @@
         594.47,
         594.5,
         624.96,
+        624.96,
         624.96
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 624.96,
       "drop_pct": null
@@ -4368,9 +4226,10 @@
         24.99,
         24.99,
         24.99,
+        24.99,
         24.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 24.99,
       "drop_pct": null
@@ -4390,9 +4249,10 @@
         142.33,
         142.33,
         142.33,
+        142.33,
         142.33
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 142.33,
       "drop_pct": null
@@ -4412,9 +4272,10 @@
         185.02,
         185.02,
         185.02,
+        185.02,
         185.02
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 185.02,
       "drop_pct": null
@@ -4434,9 +4295,10 @@
         212.06,
         212.06,
         212.07,
-        212.06
+        212.06,
+        226.66
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 226.66,
       "drop_pct": null
@@ -4456,29 +4318,12 @@
         227.88,
         227.88,
         227.88,
+        227.88,
         227.88
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 227.88,
-      "drop_pct": null
-    },
-    {
-      "name": "GAME MX-W5 RGB Inalambrico Bluetooth Negro - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/game-mx-w5-rgb-inalambrico-bluetooth-negro-raton-gaming/232333",
-      "store": "GAME",
-      "current_price": 24.99,
-      "original_price": 29.99,
-      "discount_pct": 16.67,
-      "image_url": "https://media.game.es/COVERV2/3D_L/232/232333.png",
-      "category": "Gaming",
-      "price_history": [
-        24.99,
-        24.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 24.99,
       "drop_pct": null
     },
     {
@@ -4492,29 +4337,12 @@
       "category": "Móviles",
       "price_history": [
         125.99,
+        125.99,
         125.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 125.99,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Toshiba 65QV3463DG 65\" (164 cm), QLED, 4K UHD, 60Hz, Dolby Vision, Smart TV, HDR, Dolby Atmos",
-      "url": "https://www.carrefour.es/tv-toshiba-65qv3463dg-65-164-cm-qled-4k-uhd-60hz-dolby-vision-smart-tv-hdr-dolby-atmos/VC4A-28512884/p",
-      "store": "Carrefour",
-      "current_price": 493.45,
-      "original_price": 592.14,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/481912_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        493.43,
-        493.42
-      ],
-      "history_days": 2,
-      "is_lowest": false,
-      "prev_price": 493.43,
       "drop_pct": null
     },
     {
@@ -4531,9 +4359,10 @@
         21.92,
         21.92,
         21.92,
+        21.92,
         21.92
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 21.92,
       "drop_pct": null
@@ -4551,9 +4380,10 @@
         625.0,
         625.0,
         625.0,
+        625.0,
         625.0
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 625.0,
       "drop_pct": null
@@ -4573,9 +4403,10 @@
         99.41,
         99.41,
         99.41,
+        99.41,
         99.41
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 99.41,
       "drop_pct": null
@@ -4595,9 +4426,10 @@
         158.15,
         158.15,
         158.15,
+        158.15,
         158.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 158.15,
       "drop_pct": null
@@ -4609,18 +4441,39 @@
       "current_price": 15.95,
       "original_price": 18.95,
       "discount_pct": 15.83,
-      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/soporte-proyector-tooq-pj1010tn-b-giratorio-inclinable-negro-001.jpg?v=1783255023",
       "category": "Pantallas/Accesorios",
       "price_history": [
         15.95,
         15.95,
         15.95,
         15.95,
+        15.95,
         15.95
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 15.95,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - HP OmniBook 5 NGAI 14-he0001ns Copilot+PC, 14\" 2K OLED, Qualcomm Snapdragon X Plus X1P-42-100 45 TOPS, 32GB RAM, 1TB SSD, W11H, Plata",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-5-ngai-14-he0001ns-14-2k-oled-qualcomm-snapdragon-x-plus-x1p-42-100-32-gb-ram-1-tb-ssd-qualcomm-adreno-gpu-w11h-plata-1604246.html",
+      "store": "MediaMarkt",
+      "current_price": 799.0,
+      "original_price": 949.0,
+      "discount_pct": 15.81,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160327951",
+      "category": null,
+      "price_history": [
+        799.0,
+        799.0,
+        799.0,
+        799.0
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 799.0,
       "drop_pct": null
     },
     {
@@ -4638,9 +4491,10 @@
         1599.0,
         1599.0,
         1599.0,
+        1599.0,
         1599.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1599.0,
       "drop_pct": null
@@ -4660,11 +4514,58 @@
         1179.0,
         1179.0,
         1179.0,
+        1179.0,
         1179.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1179.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH031W, 16\" WUXGA, AMD Ryzen™ 7 170, 16GB RAM, 512GB SSD, Radeon™ 680M, W11H, Sin cargador",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh031w-16-wuxga-amd-ryzentm-7-170-16-gb-ram-512-gb-ssd-radeontm-680m-windows-11-home-1618714.html",
+      "store": "MediaMarkt",
+      "current_price": 649.0,
+      "original_price": 769.0,
+      "discount_pct": 15.6,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_169878355",
+      "category": null,
+      "price_history": [
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0,
+        649.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 649.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - HP 15-fd1020ns, 15,6\" Full HD, Intel® Core™ Ultra 7 155H, 32 GB RAM, 1 TB SSD, Intel® Arc Graphics, Windows 11 Home, Azul lunar",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-hp-15-fd1020ns-156-full-hd-intelr-coretm-ultra-7-155h-32-gb-ram-1-tb-ssd-intelr-arc-graphics-windows-11-home-azul-lunar-1600832.html",
+      "store": "MediaMarkt",
+      "current_price": 899.0,
+      "original_price": 1065.0,
+      "discount_pct": 15.59,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160324112",
+      "category": null,
+      "price_history": [
+        899.0,
+        899.0,
+        899.0,
+        899.0,
+        899.0,
+        899.0,
+        899.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 899.0,
       "drop_pct": null
     },
     {
@@ -4682,9 +4583,10 @@
         379.0,
         379.0,
         379.0,
+        379.0,
         379.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 379.0,
       "drop_pct": null
@@ -4696,7 +4598,7 @@
       "current_price": 168.95,
       "original_price": 199.95,
       "discount_pct": 15.5,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034545_1.jpg?v=1783255023",
       "category": "Monitores",
       "price_history": [
         128.95,
@@ -4704,9 +4606,10 @@
         168.95,
         168.95,
         168.95,
+        168.95,
         168.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 168.95,
       "drop_pct": null
@@ -4726,9 +4629,10 @@
         865.99,
         865.99,
         865.99,
+        865.99,
         865.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 865.99,
       "drop_pct": null
@@ -4748,9 +4652,10 @@
         868.87,
         868.87,
         868.87,
+        868.87,
         868.87
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 868.87,
       "drop_pct": null
@@ -4770,9 +4675,10 @@
         868.87,
         868.87,
         868.87,
+        868.87,
         868.87
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 868.87,
       "drop_pct": null
@@ -4792,9 +4698,10 @@
         152.15,
         152.15,
         152.15,
+        152.15,
         152.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 152.15,
       "drop_pct": null
@@ -4814,9 +4721,10 @@
         126.65,
         126.65,
         126.65,
+        126.65,
         126.65
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 126.65,
       "drop_pct": null
@@ -4836,9 +4744,10 @@
         194.65,
         194.65,
         194.65,
+        194.65,
         194.65
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 194.65,
       "drop_pct": null
@@ -4858,9 +4767,10 @@
         152.15,
         152.15,
         152.15,
+        152.15,
         152.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 152.15,
       "drop_pct": null
@@ -4880,9 +4790,10 @@
         211.65,
         211.65,
         211.65,
+        211.65,
         211.65
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 211.65,
       "drop_pct": null
@@ -4902,9 +4813,10 @@
         628.15,
         628.15,
         628.15,
+        628.15,
         628.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 628.15,
       "drop_pct": null
@@ -4924,9 +4836,10 @@
         124.9,
         135.15,
         135.15,
+        135.15,
         135.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 135.15,
       "drop_pct": null
@@ -4946,9 +4859,10 @@
         679.15,
         679.15,
         679.15,
+        679.15,
         679.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 679.15,
       "drop_pct": null
@@ -4968,9 +4882,10 @@
         424.15,
         424.15,
         424.15,
+        424.15,
         424.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 424.15,
       "drop_pct": null
@@ -4990,9 +4905,10 @@
         577.15,
         577.15,
         577.15,
+        577.15,
         577.15
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 577.15,
       "drop_pct": null
@@ -5011,9 +4927,10 @@
         211.65,
         211.65,
         211.65,
+        211.65,
         211.65
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 211.65,
       "drop_pct": null
@@ -5032,9 +4949,10 @@
         696.15,
         696.15,
         696.15,
+        696.15,
         696.15
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 696.15,
       "drop_pct": null
@@ -5054,9 +4972,10 @@
         398.65,
         398.65,
         398.65,
+        398.65,
         398.65
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 398.65,
       "drop_pct": null
@@ -5076,9 +4995,10 @@
         532.0,
         497.0,
         497.0,
+        517.0,
         517.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 517.0,
       "drop_pct": null
@@ -5098,11 +5018,33 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 399.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Kensington Reposamuñecas Gel Azul/Negro",
+      "url": "https://www.coolmod.com/kensington-reposamuaecas-gel-azul-negro-alfombrilla/",
+      "store": "Coolmod",
+      "current_price": 28.95,
+      "original_price": 33.95,
+      "discount_pct": 14.73,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-003869_1.jpg?v=1783255023",
+      "category": "Alfombrillas",
+      "price_history": [
+        28.95,
+        28.95,
+        28.95,
+        28.95,
+        28.95
+      ],
+      "history_days": 5,
+      "is_lowest": true,
+      "prev_price": 28.95,
       "drop_pct": null
     },
     {
@@ -5120,54 +5062,31 @@
         854.56,
         854.88,
         854.99,
+        854.99,
         854.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 854.99,
       "drop_pct": null
     },
     {
-      "name": "iPhone 17 APPLE (6.3'' - 256 GB - Negro)",
-      "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-negro-mrkean-0195950643589",
-      "store": "Worten",
-      "current_price": 854.99,
-      "original_price": 999.99,
-      "discount_pct": 14.5,
-      "image_url": "https://www.worten.es/i/29ef0c583d01f3381c3351f01d2409135b1a2336",
-      "category": null,
-      "price_history": [
-        854.99,
-        854.99,
-        854.99,
-        854.99,
-        854.99
-      ],
-      "history_days": 5,
-      "is_lowest": true,
-      "prev_price": 854.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i5-13420H, 16GB, 512GB SSD, UHD Graphics, Windows 11 Home, Sin cargador",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15irh10-153-wuxga-intelr-coretm-i5-13420h-16gb-512gb-ssd-uhd-graphics-windows-11-home-sin-cargador-1623673.html",
+      "name": "Portátil - Acer Chromebook 314 CBOA314-1H-C065, 14\" Full-HD, Intel® Celeron®  N4500, 8GB RAM, 128GB, UHD Graphics, Google Chrome OS, Ratón incluido",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-acer-chromebook-314-cboa314-1h-c065-14-full-hd-intelr-celeron-n4500-8gb-ram-128gb-emmc-uhd-graphics-google-chrome-os-negro-1590080.html",
       "store": "MediaMarkt",
-      "current_price": 599.0,
-      "original_price": 699.0,
-      "discount_pct": 14.31,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176049090",
+      "current_price": 299.0,
+      "original_price": 349.0,
+      "discount_pct": 14.33,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161864991",
       "category": null,
       "price_history": [
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0,
-        599.0
+        299.0,
+        299.0,
+        299.0
       ],
-      "history_days": 6,
+      "history_days": 3,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": 299.0,
       "drop_pct": null
     },
     {
@@ -5181,9 +5100,10 @@
       "category": "Componentes",
       "price_history": [
         59.9,
+        59.9,
         59.9
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 59.9,
       "drop_pct": null
@@ -5200,9 +5120,10 @@
       "price_history": [
         1199.0,
         1199.0,
+        1199.0,
         1199.0
       ],
-      "history_days": 3,
+      "history_days": 4,
       "is_lowest": true,
       "prev_price": 1199.0,
       "drop_pct": null
@@ -5222,9 +5143,10 @@
         299.99,
         299.99,
         299.99,
+        299.99,
         299.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.99,
       "drop_pct": null
@@ -5244,9 +5166,10 @@
         599.99,
         599.99,
         599.99,
+        599.99,
         599.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 599.99,
       "drop_pct": null
@@ -5266,9 +5189,10 @@
         299.98,
         299.98,
         299.98,
+        299.98,
         299.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.98,
       "drop_pct": null
@@ -5288,9 +5212,10 @@
         429.0,
         429.0,
         429.0,
+        429.0,
         429.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 429.0,
       "drop_pct": null
@@ -5306,9 +5231,10 @@
       "category": null,
       "price_history": [
         239.99,
+        239.99,
         239.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 239.99,
       "drop_pct": null
@@ -5328,9 +5254,10 @@
         861.99,
         861.99,
         861.99,
+        861.99,
         861.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 861.99,
       "drop_pct": null
@@ -5350,9 +5277,10 @@
         861.99,
         861.99,
         861.99,
+        861.99,
         861.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 861.99,
       "drop_pct": null
@@ -5370,12 +5298,36 @@
         861.99,
         861.99,
         861.99,
+        861.99,
         861.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 861.99,
       "drop_pct": null
+    },
+    {
+      "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
+      "store": "MediaMarkt",
+      "current_price": 64.9,
+      "original_price": 74.99,
+      "discount_pct": 13.46,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166354188",
+      "category": null,
+      "price_history": [
+        64.99,
+        64.99,
+        64.99,
+        64.99,
+        64.99,
+        64.99,
+        64.9
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 64.99,
+      "drop_pct": 0.14
     },
     {
       "name": "Tablet TCL Tab 10L GEN4 Mediatek MT8786, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 15",
@@ -5392,33 +5344,72 @@
         129.0,
         129.0,
         129.0,
+        129.0,
         129.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 129.0,
       "drop_pct": null
     },
     {
-      "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
+      "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
       "store": "MediaMarkt",
-      "current_price": 64.99,
-      "original_price": 74.9,
-      "discount_pct": 13.23,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166354188",
+      "current_price": 259.0,
+      "original_price": 299.0,
+      "discount_pct": 13.38,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166028106",
       "category": null,
       "price_history": [
-        64.99,
-        64.99,
-        64.99,
-        64.99,
-        64.99,
-        64.99
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0,
+        259.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
-      "prev_price": 64.99,
+      "prev_price": 259.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - ASUS Vivobook 15 F1504VA-BQ268W, 15.6 \" Full-HD, Intel® Core™ 7 150U, 16 GB RAM, 512 GB SSD, UHD Graphics, Windows 11 Home",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-15-f1504va-bq268w-156-full-hd-intelr-coretm-7-150u-16-gb-ram-512-gb-ssd-uhd-graphics-windows-11-home-1606634.html",
+      "store": "MediaMarkt",
+      "current_price": 649.0,
+      "original_price": 749.0,
+      "discount_pct": 13.35,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_162832639",
+      "category": null,
+      "price_history": [
+        649.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "iPhone 17 APPLE (6.3'' - 256 GB - Azul neblina)",
+      "url": "https://www.worten.es/productos/iphone-17-apple-6-3-256-gb-azul-neblina-8600280",
+      "store": "Worten",
+      "current_price": 868.84,
+      "original_price": 999.99,
+      "discount_pct": 13.12,
+      "image_url": "https://www.worten.es/i/da4fdfecc604a262b7ecb7046a150a9398d1e550",
+      "category": null,
+      "price_history": [
+        868.84,
+        868.84,
+        868.84,
+        868.84
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 868.84,
       "drop_pct": null
     },
     {
@@ -5436,9 +5427,10 @@
         399.0,
         399.0,
         399.0,
+        399.0,
         399.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 399.0,
       "drop_pct": null
@@ -5458,11 +5450,35 @@
         475.88,
         475.88,
         475.88,
+        475.88,
         475.88
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 475.88,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet - Lenovo Idea Tab, Wifi Only, 11\" 2.5K , 8GB RAM, 256GB, Incluye Teclado y lápiz digital, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-wifi-only-11-25k-8gb-ram-256gb-incluye-teclado-y-pen-gris-1603849.html",
+      "store": "MediaMarkt",
+      "current_price": 269.0,
+      "original_price": 309.0,
+      "discount_pct": 12.94,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177624083",
+      "category": null,
+      "price_history": [
+        269.0,
+        253.0,
+        253.0,
+        253.0,
+        253.0,
+        253.0,
+        269.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 253.0,
       "drop_pct": null
     },
     {
@@ -5480,33 +5496,12 @@
         479.0,
         479.0,
         479.0,
+        479.0,
         479.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 479.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i7-13620H, 16GB RAM, 1TB SSD, UHD Graphics, Windows 11 Home, Azul",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15irh10-153-wuxga-intelr-coretm-i7-13620h-16gb-ram-1tb-ssd-uhd-graphics-windows-11-home-azul-1590175.html",
-      "store": "MediaMarkt",
-      "current_price": 699.0,
-      "original_price": 799.0,
-      "discount_pct": 12.52,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157452870",
-      "category": null,
-      "price_history": [
-        699.0,
-        699.0,
-        699.0,
-        699.0,
-        699.0,
-        699.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -5520,9 +5515,10 @@
       "category": "Gaming",
       "price_history": [
         69.99,
+        69.99,
         69.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 69.99,
       "drop_pct": null
@@ -5534,7 +5530,7 @@
       "current_price": 788.95,
       "original_price": 899.95,
       "discount_pct": 12.33,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017965_1.jpg?v=1783255023",
       "category": "Monitores",
       "price_history": [
         358.95,
@@ -5542,9 +5538,10 @@
         788.95,
         788.95,
         788.95,
+        788.95,
         788.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 788.95,
       "drop_pct": null
@@ -5564,9 +5561,10 @@
         499.0,
         499.0,
         499.0,
+        499.0,
         499.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.0,
       "drop_pct": null
@@ -5586,9 +5584,10 @@
         236.0,
         236.0,
         236.0,
+        236.0,
         236.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
       "prev_price": 236.0,
       "drop_pct": null
@@ -5608,11 +5607,35 @@
         620.0,
         620.0,
         615.0,
+        615.0,
         615.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 615.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil gaming - Lenovo Legion 5 15IRX10, 15.1\" WQXGA OLED, Intel® Core™ i7-13650HX, 32GB RAM, 1TB SSD, GeForce RTX™ 5060, Windows 11 Home, Negro",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-legion-5-15irx10-151-wqxga-oled-intelr-coretm-i7-13650hx-32gb-ram-1tb-ssd-geforce-rtxtm-5060-windows-11-home-negro-1602588.html",
+      "store": "MediaMarkt",
+      "current_price": 1499.0,
+      "original_price": 1699.0,
+      "discount_pct": 11.77,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159772835",
+      "category": null,
+      "price_history": [
+        1399.0,
+        1399.0,
+        1399.0,
+        1399.0,
+        1399.0,
+        1399.0,
+        1499.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 1399.0,
       "drop_pct": null
     },
     {
@@ -5630,46 +5653,12 @@
         189.9,
         189.9,
         189.9,
+        189.9,
         189.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 189.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico Combi  KUBO KBC8232IX (No Frost - 185 cm -304 L -Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-combi-kubo-kbc8232ix-no-frost-185-cm-304-l-inox-8027236",
-      "store": "Worten",
-      "current_price": 379.98,
-      "original_price": 429.99,
-      "discount_pct": 11.63,
-      "image_url": "https://www.worten.es/i/216e19564d1c91864b82126ba3701d0b62906162",
-      "category": null,
-      "price_history": [
-        379.98,
-        379.98
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 379.98,
-      "drop_pct": null
-    },
-    {
-      "name": "Frigorífico Americano Side By Side HISENSE RS3P538NAIE (No Frost - 178 cm - 534 L - Inox)",
-      "url": "https://www.worten.es/productos/frigorifico-americano-side-by-side-hisense-rs3p538naie-no-frost-178-cm-534-l-inox-8405406",
-      "store": "Worten",
-      "current_price": 722.0,
-      "original_price": 815.0,
-      "discount_pct": 11.41,
-      "image_url": "https://www.worten.es/i/bf16c9e4d01dec79e8fa07d9592d161d3d3f28f8",
-      "category": null,
-      "price_history": [
-        722.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5687,33 +5676,12 @@
         490.0,
         472.0,
         472.0,
+        472.0,
         472.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 472.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor gaming - Acer Nitro KG243YX1BMIPX, 24\" Full-HD, 200 Hz, 1 ms, IPS, FreeSync Premium, Altavoces integrados, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-acer-nitro-kg243yx1bmipx-24-full-hd-200-hz-1-ms-ips-freesync-premium-altavoces-integrados-negro-1593875.html",
-      "store": "MediaMarkt",
-      "current_price": 79.0,
-      "original_price": 89.0,
-      "discount_pct": 11.24,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157105194",
-      "category": null,
-      "price_history": [
-        79.0,
-        79.0,
-        79.0,
-        79.0,
-        79.0,
-        79.0
-      ],
-      "history_days": 6,
-      "is_lowest": true,
-      "prev_price": 79.0,
       "drop_pct": null
     },
     {
@@ -5731,9 +5699,10 @@
         249.0,
         249.0,
         249.0,
+        249.0,
         249.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 249.0,
       "drop_pct": null
@@ -5753,9 +5722,10 @@
         699.0,
         699.0,
         699.0,
+        699.0,
         699.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 699.0,
       "drop_pct": null
@@ -5767,7 +5737,7 @@
       "current_price": 8.95,
       "original_price": 9.95,
       "discount_pct": 10.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/steelpad-qck-mini-alfombrilla-001.jpg?v=1783255023",
       "category": "Alfombrillas",
       "price_history": [
         8.95,
@@ -5775,9 +5745,10 @@
         8.95,
         8.95,
         8.95,
+        8.95,
         8.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 8.95,
       "drop_pct": null
@@ -5796,9 +5767,10 @@
         619.99,
         619.99,
         619.99,
+        619.99,
         619.99
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 619.99,
       "drop_pct": null
@@ -5818,9 +5790,10 @@
         89.99,
         89.99,
         89.99,
+        89.99,
         89.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 89.99,
       "drop_pct": null
@@ -5840,12 +5813,36 @@
         44.99,
         44.99,
         44.99,
+        44.99,
         44.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 44.99,
       "drop_pct": null
+    },
+    {
+      "name": "Microcadena PHILIPS TAM4205",
+      "url": "https://www.worten.es/productos/microcadena-philips-tam4205-7333107",
+      "store": "Worten",
+      "current_price": 177.96,
+      "original_price": 197.73,
+      "discount_pct": 10.0,
+      "image_url": "https://www.worten.es/i/7d61c3a4860cb636470bc31e0764d85e46ec55cc",
+      "category": null,
+      "price_history": [
+        178.73,
+        178.73,
+        178.31,
+        178.26,
+        178.14,
+        178.02,
+        177.96
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 178.02,
+      "drop_pct": 0.03
     },
     {
       "name": "Frigorífico Americano KUBO KBSBS9578 (No Frost - 177 cm - 529 L - Inox)",
@@ -5862,9 +5859,10 @@
         539.99,
         539.99,
         539.99,
+        539.99,
         539.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 539.99,
       "drop_pct": null
@@ -5884,9 +5882,10 @@
         28.34,
         28.34,
         28.34,
+        28.34,
         28.34
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 28.34,
       "drop_pct": null
@@ -5905,9 +5904,10 @@
         119.18,
         119.12,
         116.65,
+        116.65,
         116.65
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 116.65,
       "drop_pct": null
@@ -5925,9 +5925,10 @@
         128.05,
         128.0,
         128.21,
-        128.21
+        128.21,
+        128.37
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": false,
       "prev_price": 128.37,
       "drop_pct": null
@@ -5942,9 +5943,10 @@
       "image_url": "https://www.worten.es/i/fdab9a5ec320c43182b93584f1f36d0166891547",
       "category": null,
       "price_history": [
+        13.86,
         13.86
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 13.86,
       "drop_pct": null
@@ -5964,20 +5966,44 @@
         379.98,
         379.98,
         379.98,
+        379.98,
         379.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 379.98,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html",
+      "store": "MediaMarkt",
+      "current_price": 115.0,
+      "original_price": 127.0,
+      "discount_pct": 9.45,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135782229",
+      "category": null,
+      "price_history": [
+        115.0,
+        115.0,
+        115.0,
+        115.0,
+        115.0,
+        115.0,
+        115.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 115.0,
       "drop_pct": null
     },
     {
       "name": "Monitor - PEAQ PMO S225-VFC, 22\" Full-HD, 75 Hz, 6 ms, VA (Alineación Vertical), Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s225-vfc-22-full-hd-75-hz-6-ms-va-alineacion-vertical-negro-1602476.html",
       "store": "MediaMarkt",
-      "current_price": 59.0,
-      "original_price": 64.9,
-      "discount_pct": 9.09,
+      "current_price": 58.9,
+      "original_price": 64.99,
+      "discount_pct": 9.37,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166115854",
       "category": null,
       "price_history": [
@@ -5986,11 +6012,35 @@
         59.0,
         59.0,
         59.0,
-        59.0
+        59.0,
+        58.9
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 59.0,
+      "drop_pct": 0.17
+    },
+    {
+      "name": "Portátil gaming - Lenovo LOQ 15AHP10, 15.6\" Full-HD, AMD Ryzen™ 7 250, 24GB RAM, 512GB SSD, GeForce RTX™ 5050, Windows 11 Home, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-loq-15ahp10-156-full-hd-amd-ryzentm-7-250-24gb-ram-512gb-ssd-geforce-rtxtm-5050-windows-11-home-gris-1608851.html",
+      "store": "MediaMarkt",
+      "current_price": 999.0,
+      "original_price": 1099.0,
+      "discount_pct": 9.1,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165083429",
+      "category": null,
+      "price_history": [
+        999.0,
+        999.0,
+        999.0,
+        999.0,
+        999.0,
+        999.0,
+        999.0
+      ],
+      "history_days": 7,
+      "is_lowest": true,
+      "prev_price": 999.0,
       "drop_pct": null
     },
     {
@@ -6008,9 +6058,10 @@
         299.98,
         299.98,
         299.98,
+        299.98,
         299.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 299.98,
       "drop_pct": null
@@ -6030,9 +6081,10 @@
         499.98,
         499.98,
         499.98,
+        499.98,
         499.98
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 499.98,
       "drop_pct": null
@@ -6048,11 +6100,32 @@
       "category": null,
       "price_history": [
         199.99,
+        199.99,
         199.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 199.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
+      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html",
+      "store": "MediaMarkt",
+      "current_price": 109.0,
+      "original_price": 119.0,
+      "discount_pct": 8.4,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265122",
+      "category": null,
+      "price_history": [
+        109.0,
+        109.0,
+        109.0,
+        109.0
+      ],
+      "history_days": 4,
+      "is_lowest": true,
+      "prev_price": 109.0,
       "drop_pct": null
     },
     {
@@ -6070,9 +6143,10 @@
         1099.99,
         1099.99,
         1099.99,
+        1099.99,
         1099.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1099.99,
       "drop_pct": null
@@ -6091,9 +6165,10 @@
         46.05,
         46.05,
         46.05,
+        46.05,
         46.05
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 46.05,
       "drop_pct": null
@@ -6108,9 +6183,10 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/704376_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
+        449.0,
         449.0
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 449.0,
       "drop_pct": null
@@ -6122,7 +6198,7 @@
       "current_price": 23.95,
       "original_price": 25.95,
       "discount_pct": 7.71,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1783204584",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-kryonaut-3-ml-pasta-termica-001.jpg?v=1783255023",
       "category": "Compuestos Térmicos",
       "price_history": [
         23.95,
@@ -6130,29 +6206,12 @@
         23.95,
         23.95,
         23.95,
+        23.95,
         23.95
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 23.95,
-      "drop_pct": null
-    },
-    {
-      "name": "GamePc Pro-A Ryzen 7-5700/16Gb/1Tb/Rtx 5060Nv/750W/Ref Liqu +/FreeDos - Sobremesa Gaming",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-ryzen-7-5700-16gb-1tb-rtx-5060nv-750w-ref-liqu-freedos-sobremesa-gaming/261507",
-      "store": "GAME",
-      "current_price": 1199.99,
-      "original_price": 1299.99,
-      "discount_pct": 7.69,
-      "image_url": "https://media.game.es/COVERV2/3D_L/261/261507.png",
-      "category": "Gaming",
-      "price_history": [
-        1199.99,
-        1199.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 1199.99,
       "drop_pct": null
     },
     {
@@ -6170,9 +6229,10 @@
         369.99,
         369.99,
         369.99,
+        369.99,
         369.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 369.99,
       "drop_pct": null
@@ -6191,9 +6251,10 @@
         229.98,
         229.98,
         229.98,
+        229.98,
         229.98
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 229.98,
       "drop_pct": null
@@ -6202,19 +6263,43 @@
       "name": "TV Daewo 65DM55QV 65\" (165,1 cm), QLED, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
       "url": "https://www.carrefour.es/tv-daewo-65dm55qv-65-1651-cm-qled-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p",
       "store": "Carrefour",
-      "current_price": 440.29,
-      "original_price": 475.51,
+      "current_price": 439.8,
+      "original_price": 474.98,
       "discount_pct": 7.41,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/666107_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
         441.07,
-        440.29
+        440.29,
+        439.8
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
-      "prev_price": 440.35,
-      "drop_pct": 0.01
+      "prev_price": 440.29,
+      "drop_pct": 0.11
+    },
+    {
+      "name": "Portátil - Samsung Galaxy Book4, 15.6\" FHD, Intel® Core™ i5-1335U, 16GB RAM, 512GB SSD, Intel® Graphics, W11H, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-samsung-galaxy-book4-156-fhd-intelr-coretm-5-120u-16gb-ram-512gb-ssd-intelr-graphics-w11h-gris-1578835.html",
+      "store": "MediaMarkt",
+      "current_price": 699.0,
+      "original_price": 749.0,
+      "discount_pct": 6.68,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_142866982",
+      "category": null,
+      "price_history": [
+        599.0,
+        549.0,
+        549.0,
+        549.0,
+        549.0,
+        549.0,
+        699.0
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 549.0,
+      "drop_pct": null
     },
     {
       "name": "Lavadora CANDY RO 284DWMS7/1-S 8KG A (8 kg - 1200 RPM - Blanco)",
@@ -6231,9 +6316,10 @@
         279.97,
         279.97,
         279.97,
+        279.97,
         279.97
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 279.97,
       "drop_pct": null
@@ -6253,33 +6339,29 @@
         619.53,
         619.53,
         619.53,
+        619.53,
         619.53
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 619.53,
       "drop_pct": null
     },
     {
-      "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-acer-sa243yp1bi-24-full-hd-144-hz-4-ms-ips-1x-vga-1x-hdmi-14-freesync-negro-1604093.html",
+      "name": "Portátil - Acer Aspire Go 15 AG15-42P-R3C6, 15.6\" Full-HD, AMD Ryzen™  7 5825U, 32GB RAM, 1 TB SSD, Radeon™ Onboard Graphics, Windows 11 Home",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-acer-aspire-go-15-ag15-42p-r3c6-156-full-hd-amd-ryzentm-7-5825u-32gb-ram-1-tb-ssd-radeontm-onboard-graphics-windows-11-home-1598306.html",
       "store": "MediaMarkt",
-      "current_price": 74.0,
-      "original_price": 79.0,
-      "discount_pct": 6.33,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159183323",
+      "current_price": 749.0,
+      "original_price": 799.0,
+      "discount_pct": 6.26,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161867969",
       "category": null,
       "price_history": [
-        74.0,
-        74.0,
-        74.0,
-        74.0,
-        74.0,
-        74.0
+        749.0
       ],
-      "history_days": 6,
+      "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6297,9 +6379,10 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 74.99,
       "drop_pct": null
@@ -6319,29 +6402,12 @@
         74.99,
         74.99,
         74.99,
+        74.99,
         74.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 74.99,
-      "drop_pct": null
-    },
-    {
-      "name": "GamePc Pro-A Ryzen 7-5700/32Gb/2Tb/Rtx 5060/750W/Ref Liquida 240/FreeDos -Sobremesa Gaming",
-      "url": "https://www.game.es/ordenadores/sobremesa/pc-gaming/gamepc-pro-a-ryzen-7-5700-32gb-2tb-rtx-5060-750w-ref-liquida-240-freedos--sobremesa-gaming/261508",
-      "store": "GAME",
-      "current_price": 1499.99,
-      "original_price": 1599.99,
-      "discount_pct": 6.25,
-      "image_url": "https://media.game.es/COVERV2/3D_L/261/261508.png",
-      "category": "Gaming",
-      "price_history": [
-        1499.99,
-        1499.99
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 1499.99,
       "drop_pct": null
     },
     {
@@ -6358,9 +6424,10 @@
         629.0,
         629.0,
         629.0,
+        629.0,
         629.0
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": true,
       "prev_price": 629.0,
       "drop_pct": null
@@ -6380,9 +6447,10 @@
         319.99,
         319.99,
         319.99,
+        319.99,
         319.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 319.99,
       "drop_pct": null
@@ -6391,9 +6459,9 @@
       "name": "Funda Subblim con Teclado para Tablet 10.1\"",
       "url": "https://www.carrefour.es/funda-subblim-con-teclado-para-tablet-101/VC4A-10704185/p",
       "store": "Carrefour",
-      "current_price": 21.64,
-      "original_price": 22.94,
-      "discount_pct": 5.67,
+      "current_price": 21.76,
+      "original_price": 23.07,
+      "discount_pct": 5.68,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/915244_00_1.jpg",
       "category": "Componentes",
       "price_history": [
@@ -6401,12 +6469,13 @@
         19.99,
         21.78,
         21.57,
-        21.64
+        21.64,
+        21.76
       ],
-      "history_days": 5,
+      "history_days": 6,
       "is_lowest": false,
-      "prev_price": 21.77,
-      "drop_pct": 0.6
+      "prev_price": 21.64,
+      "drop_pct": null
     },
     {
       "name": "Máquina de Lavar e Secar SAMSUNG AI EcoBubble (9/6Kg - 1400Rpm - Negro)",
@@ -6419,9 +6488,10 @@
       "category": null,
       "price_history": [
         529.98,
+        529.98,
         529.98
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 529.98,
       "drop_pct": null
@@ -6439,9 +6509,10 @@
         1799.99,
         1799.99,
         1799.99,
+        1799.99,
         1799.99
       ],
-      "history_days": 4,
+      "history_days": 5,
       "is_lowest": true,
       "prev_price": 1799.99,
       "drop_pct": null
@@ -6461,9 +6532,10 @@
         569.99,
         569.99,
         569.99,
+        569.99,
         569.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 569.99,
       "drop_pct": null
@@ -6479,9 +6551,10 @@
       "category": "Gaming",
       "price_history": [
         949.99,
+        949.99,
         949.99
       ],
-      "history_days": 2,
+      "history_days": 3,
       "is_lowest": true,
       "prev_price": 949.99,
       "drop_pct": null
@@ -6496,12 +6569,32 @@
       "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IMKT.png",
       "category": "Gaming",
       "price_history": [
+        229.99,
         229.99
       ],
-      "history_days": 1,
+      "history_days": 2,
       "is_lowest": true,
       "prev_price": 229.99,
       "drop_pct": null
+    },
+    {
+      "name": "TV Toshiba 65QV3463DG 65\" (164 cm), QLED, 4K UHD, 60Hz, Dolby Vision, Smart TV, HDR, Dolby Atmos",
+      "url": "https://www.carrefour.es/tv-toshiba-65qv3463dg-65-164-cm-qled-4k-uhd-60hz-dolby-vision-smart-tv-hdr-dolby-atmos/VC4A-28512884/p",
+      "store": "Carrefour",
+      "current_price": 493.43,
+      "original_price": 513.17,
+      "discount_pct": 3.85,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/481912_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        493.43,
+        493.42,
+        493.43
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 493.45,
+      "drop_pct": 0.0
     },
     {
       "name": "Smart TV OLED 55\" (139,7 cm) Samsung TQ55QS95FAT, 4K UHD, 165 Hz, NQ4 AI Gen3 Processor, Dolby Atmos, Object Tracking Sound, Q-Symphony",
@@ -6518,9 +6611,10 @@
         1299.0,
         1299.0,
         1299.0,
+        1299.0,
         1299.0
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1299.0,
       "drop_pct": null
@@ -6540,9 +6634,10 @@
         1759.99,
         1759.99,
         1759.99,
+        1759.99,
         1759.99
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": true,
       "prev_price": 1759.99,
       "drop_pct": null
@@ -6551,8 +6646,8 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 161.66,
-      "original_price": 164.89,
+      "current_price": 161.58,
+      "original_price": 164.81,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
@@ -6562,12 +6657,36 @@
         161.32,
         161.32,
         161.53,
-        161.28
+        161.28,
+        161.58
       ],
-      "history_days": 6,
+      "history_days": 7,
       "is_lowest": false,
-      "prev_price": 161.33,
-      "drop_pct": null
+      "prev_price": 161.66,
+      "drop_pct": 0.05
+    },
+    {
+      "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
+      "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-xiaomi-l55mb-apeu-con-ia-4k-uhd-120hz-dolby-audio-dts-x-dts-virtual-x-support/VC4A-33923017/p",
+      "store": "Carrefour",
+      "current_price": 357.1,
+      "original_price": 364.24,
+      "discount_pct": 1.96,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/732566_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        329.0,
+        329.0,
+        356.84,
+        357.71,
+        358.53,
+        356.44,
+        357.1
+      ],
+      "history_days": 7,
+      "is_lowest": false,
+      "prev_price": 358.54,
+      "drop_pct": 0.4
     }
   ]
 }
