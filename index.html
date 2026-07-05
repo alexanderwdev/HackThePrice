@@ -4,636 +4,608 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HackThePrice — Ofertas verificadas en España</title>
-<meta name="description" content="Agregador automático de ofertas en España. Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten cada hora.">
+<meta name="description" content="Agregador automático de ofertas en España. Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten cada hora. Solo descuentos reales verificados.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #0a0a0a;
-    --bg-soft: #0d0d0d;
-    --surface: #111113;
-    --surface-2: #16161a;
-    --border: rgba(255,255,255,0.07);
-    --border-strong: rgba(255,255,255,0.13);
-    --accent: #00ff88;
-    --accent-dim: rgba(0,255,136,0.12);
-    --accent-border: rgba(0,255,136,0.35);
-    --text: #f2f2f2;
-    --text-soft: #b8b8b8;
-    --muted: #6b6b6b;
-    --mono: 'Space Mono', monospace;
-    --sans: 'Syne', sans-serif;
-    --nav-h: 64px;
-    --radius: 12px;
-    --ease: cubic-bezier(0.22, 1, 0.36, 1);
+    --bg:         #FAF7F2;
+    --surface:    #FFFFFF;
+    --ink:        #131C3B;
+    --muted:      #5C6684;
+    --faint:      #8B93AB;
+    --line:       #EAE3D8;
+    --line-soft:  #F1ECE3;
+    --coral:      #FF4B3A;
+    --coral-dark: #E13A2A;
+    --coral-soft: #FFF0EE;
+    --green:      #0B9E6C;
+    --green-soft: #E9F7F1;
+    --navy:       #131C3B;
+    --navy-2:     #1C2850;
+    --radius:     14px;
+    --radius-sm:  9px;
+    --shadow-sm:  0 1px 2px rgba(19,28,59,0.05);
+    --shadow-md:  0 6px 24px -8px rgba(19,28,59,0.14);
+    --shadow-lg:  0 18px 44px -12px rgba(19,28,59,0.18);
+    --sans:       'Inter', system-ui, sans-serif;
+    --display:    'Bricolage Grotesque', 'Inter', sans-serif;
+    --nav-h:      64px;
   }
 
   html { scroll-behavior: smooth; }
 
   body {
     background: var(--bg);
-    color: var(--text);
+    color: var(--ink);
     font-family: var(--sans);
-    min-height: 100vh;
-    overflow-x: hidden;
+    font-size: 16px;
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
   }
 
-  /* ── BACKGROUND LAYERS ── */
-  .bg-grid {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,255,136,0.025) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0,255,136,0.025) 1px, transparent 1px);
-    background-size: 48px 48px;
-    mask-image: radial-gradient(ellipse 90% 60% at 50% 0%, black 30%, transparent 80%);
-    -webkit-mask-image: radial-gradient(ellipse 90% 60% at 50% 0%, black 30%, transparent 80%);
-    pointer-events: none;
-    z-index: 0;
-  }
-  .bg-glow {
-    position: fixed;
-    top: -25%;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 900px;
-    height: 900px;
-    background: radial-gradient(circle, rgba(0,255,136,0.08) 0%, rgba(0,255,136,0.02) 40%, transparent 70%);
-    pointer-events: none;
-    z-index: 0;
-    filter: blur(20px);
-  }
+  ::selection { background: var(--coral); color: #fff; }
 
-  [id] { scroll-margin-top: calc(var(--nav-h) + 24px); }
+  [id] { scroll-margin-top: calc(var(--nav-h) + 16px); }
 
-  /* ── NAV ── */
+  img { max-width: 100%; }
+
+  /* ───────────────────────── NAV ───────────────────────── */
   nav {
     position: fixed;
     top: 0; left: 0; right: 0;
     z-index: 100;
     height: var(--nav-h);
-    padding: 0 32px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid var(--border);
-    backdrop-filter: blur(24px) saturate(1.4);
-    -webkit-backdrop-filter: blur(24px) saturate(1.4);
-    background: rgba(10,10,10,0.72);
+    padding: 0 clamp(16px, 4vw, 40px);
+    background: rgba(250,247,242,0.85);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--line);
   }
   .logo {
-    font-family: var(--mono);
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--accent);
-    text-decoration: none;
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: 1.15rem;
     letter-spacing: -0.02em;
-  }
-  .logo span { color: var(--text); }
-  .nav-links {
+    color: var(--navy);
+    text-decoration: none;
     display: flex;
     align-items: center;
-    gap: 28px;
+    gap: 2px;
   }
-  .nav-links a {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    color: var(--muted);
-    text-decoration: none;
-    transition: color 0.2s;
-    letter-spacing: 0.02em;
-  }
-  .nav-links a:hover { color: var(--accent); }
-  .nav-status {
+  .logo em { font-style: normal; color: var(--coral); }
+  .nav-right { display: flex; align-items: center; gap: 14px; }
+  .nav-live {
     display: inline-flex;
     align-items: center;
     gap: 7px;
-    font-family: var(--mono);
-    font-size: 0.65rem;
-    color: var(--accent);
-    border: 1px solid var(--accent-border);
-    background: var(--accent-dim);
-    padding: 5px 12px;
-    border-radius: 100px;
-  }
-  .nav-status::before {
-    content: '';
-    width: 6px; height: 6px;
-    background: var(--accent);
-    border-radius: 50%;
-    box-shadow: 0 0 8px var(--accent);
-    animation: blink 1.6s ease-in-out infinite;
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.25; }
-  }
-
-  /* ── TICKER ── */
-  .ticker-wrap {
-    position: relative;
-    z-index: 1;
-    margin-top: var(--nav-h);
-    overflow: hidden;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg-soft);
-    padding: 11px 0;
-  }
-  .ticker-wrap::before, .ticker-wrap::after {
-    content: '';
-    position: absolute;
-    top: 0; bottom: 0;
-    width: 80px;
-    z-index: 2;
-    pointer-events: none;
-  }
-  .ticker-wrap::before { left: 0; background: linear-gradient(90deg, var(--bg) 0%, transparent 100%); }
-  .ticker-wrap::after { right: 0; background: linear-gradient(-90deg, var(--bg) 0%, transparent 100%); }
-  .ticker-wrap:hover .ticker { animation-play-state: paused; }
-  .ticker {
-    display: flex;
-    gap: 56px;
-    width: max-content;
-    animation: ticker-scroll 28s linear infinite;
-  }
-  .ticker-item {
-    font-family: var(--mono);
     font-size: 0.72rem;
-    color: var(--muted);
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-shrink: 0;
-    white-space: nowrap;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--green);
+    background: var(--green-soft);
+    padding: 6px 12px;
+    border-radius: 99px;
   }
-  .ticker-item .pct {
-    color: var(--accent);
-    font-weight: 700;
-    background: var(--accent-dim);
-    padding: 1px 7px;
-    border-radius: 4px;
+  .nav-live::before {
+    content: '';
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--green);
+    animation: pulse 1.6s ease-in-out infinite;
   }
-  @keyframes ticker-scroll {
-    0%   { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%      { opacity: 0.4; transform: scale(0.82); }
   }
+  .nav-cta {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--navy);
+    padding: 9px 18px;
+    border-radius: 99px;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.2s;
+  }
+  .nav-cta:hover { background: var(--navy-2); transform: translateY(-1px); }
+  @media (max-width: 560px) { .nav-cta { display: none; } }
 
-  /* ── HERO ── */
+  /* ───────────────────────── HERO ───────────────────────── */
   .hero {
     position: relative;
-    z-index: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    padding: calc(var(--nav-h) + clamp(48px, 10vh, 96px)) 20px clamp(48px, 8vh, 72px);
     text-align: center;
-    padding: 110px 24px 90px;
+    max-width: 880px;
+    margin: 0 auto;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: min(900px, 100vw);
+    height: 480px;
+    background:
+      radial-gradient(ellipse 60% 55% at 30% 20%, rgba(255,75,58,0.07), transparent 70%),
+      radial-gradient(ellipse 55% 50% at 72% 30%, rgba(11,158,108,0.06), transparent 70%);
+    pointer-events: none;
+    z-index: -1;
   }
   .hero-badge {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-family: var(--mono);
-    font-size: 0.68rem;
-    color: var(--text-soft);
-    border: 1px solid var(--border-strong);
-    background: rgba(255,255,255,0.03);
-    padding: 6px 16px;
-    border-radius: 100px;
-    margin-bottom: 36px;
-    animation: heroUp 0.7s var(--ease) both;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--muted);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 99px;
+    padding: 7px 16px;
+    margin-bottom: 28px;
+    box-shadow: var(--shadow-sm);
+    animation: fadeUp 0.55s ease both;
   }
-  .hero-badge b { color: var(--accent); font-weight: 700; }
+  .hero-badge b { color: var(--ink); font-weight: 700; }
   h1 {
-    font-family: var(--sans);
-    font-size: clamp(2.6rem, 7.5vw, 5.6rem);
+    font-family: var(--display);
+    font-size: clamp(2.4rem, 6.4vw, 4.4rem);
     font-weight: 800;
-    line-height: 1.0;
-    letter-spacing: -0.045em;
-    margin-bottom: 26px;
-    animation: heroUp 0.7s 0.08s var(--ease) both;
+    line-height: 1.04;
+    letter-spacing: -0.035em;
+    margin-bottom: 20px;
+    animation: fadeUp 0.55s 0.08s ease both;
   }
   h1 em {
     font-style: normal;
-    color: var(--accent);
+    color: var(--coral);
     position: relative;
-    text-shadow: 0 0 60px rgba(0,255,136,0.4);
+    white-space: nowrap;
+  }
+  h1 em svg {
+    position: absolute;
+    left: 0; bottom: -6px;
+    width: 100%;
+    height: 12px;
   }
   .subtitle {
-    font-family: var(--mono);
-    font-size: clamp(0.78rem, 1.8vw, 0.92rem);
+    font-size: clamp(0.98rem, 2vw, 1.12rem);
     color: var(--muted);
-    max-width: 520px;
-    line-height: 1.8;
-    margin-bottom: 44px;
-    animation: heroUp 0.7s 0.16s var(--ease) both;
+    max-width: 560px;
+    margin: 0 auto 36px;
+    animation: fadeUp 0.55s 0.16s ease both;
   }
   .hero-search {
     display: flex;
-    width: min(520px, 100%);
-    gap: 0;
-    margin-bottom: 18px;
-    border: 1px solid var(--border-strong);
+    max-width: 560px;
+    margin: 0 auto 18px;
     background: var(--surface);
-    border-radius: var(--radius);
-    overflow: hidden;
-    transition: border-color 0.25s, box-shadow 0.25s;
-    animation: heroUp 0.7s 0.24s var(--ease) both;
+    border: 1px solid var(--line);
+    border-radius: 99px;
+    padding: 6px;
+    box-shadow: var(--shadow-md);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    animation: fadeUp 0.55s 0.24s ease both;
   }
   .hero-search:focus-within {
-    border-color: var(--accent-border);
-    box-shadow: 0 0 0 3px rgba(0,255,136,0.08), 0 8px 40px rgba(0,255,136,0.06);
+    border-color: var(--coral);
+    box-shadow: 0 0 0 4px rgba(255,75,58,0.10), var(--shadow-md);
   }
   .hero-search input {
     flex: 1;
-    background: transparent;
+    min-width: 0;
     border: none;
     outline: none;
-    color: var(--text);
-    font-family: var(--mono);
-    font-size: 0.82rem;
-    padding: 16px 20px;
+    background: transparent;
+    font-family: var(--sans);
+    font-size: 0.95rem;
+    color: var(--ink);
+    padding: 10px 18px;
   }
-  .hero-search input::placeholder { color: var(--muted); }
+  .hero-search input::placeholder { color: var(--faint); }
   .hero-search button {
-    background: var(--accent);
-    color: #000;
     border: none;
-    font-family: var(--mono);
-    font-size: 0.78rem;
-    font-weight: 700;
-    padding: 0 26px;
     cursor: pointer;
-    transition: filter 0.2s;
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--coral);
+    padding: 11px 26px;
+    border-radius: 99px;
+    transition: background 0.2s, transform 0.15s;
+    white-space: nowrap;
   }
-  .hero-search button:hover { filter: brightness(1.15); }
+  .hero-search button:hover { background: var(--coral-dark); transform: scale(1.02); }
   .hero-meta {
-    font-family: var(--mono);
-    font-size: 0.68rem;
+    font-size: 0.85rem;
     color: var(--muted);
-    animation: heroUp 0.7s 0.32s var(--ease) both;
+    animation: fadeUp 0.55s 0.3s ease both;
   }
-  .hero-meta b { color: var(--accent); font-weight: 700; }
-  @keyframes heroUp {
-    from { opacity: 0; transform: translateY(26px); }
-    to   { opacity: 1; transform: translateY(0); }
+  .hero-meta b { color: var(--coral); font-weight: 700; }
+  .hero-stores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 10px;
+    margin-top: 30px;
+    animation: fadeUp 0.55s 0.36s ease both;
+  }
+  .hero-store {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: var(--muted);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 99px;
+    padding: 5px 13px;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .hero-store i {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--dot, var(--faint));
   }
 
-  /* ── SCROLL REVEAL ── */
-  .reveal {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.7s var(--ease), transform 0.7s var(--ease);
+  /* ───────────────────────── TICKER ───────────────────────── */
+  .ticker-wrap {
+    overflow: hidden;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    background: var(--surface);
+    padding: 13px 0;
   }
-  .reveal.in { opacity: 1; transform: translateY(0); }
-  .reveal[data-delay="1"] { transition-delay: 0.08s; }
-  .reveal[data-delay="2"] { transition-delay: 0.16s; }
-  .reveal[data-delay="3"] { transition-delay: 0.24s; }
+  .ticker-wrap:hover .ticker { animation-play-state: paused; }
+  .ticker {
+    display: flex;
+    gap: 52px;
+    white-space: nowrap;
+    animation: scroll 30s linear infinite;
+    width: max-content;
+  }
+  .ticker-item {
+    font-size: 0.8rem;
+    color: var(--muted);
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+  }
+  .ticker-item .pct {
+    color: var(--coral);
+    font-weight: 700;
+    background: var(--coral-soft);
+    padding: 1px 8px;
+    border-radius: 6px;
+  }
+  @keyframes scroll {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
 
-  /* ── SECTIONS ── */
+  /* ───────────────────────── SECTIONS ───────────────────────── */
   .section {
-    position: relative;
-    z-index: 1;
     max-width: 1120px;
     margin: 0 auto;
-    padding: 0 24px 110px;
+    padding: clamp(56px, 9vh, 96px) 20px 0;
   }
-  .section-head { margin-bottom: 44px; }
+  .section-head { max-width: 640px; margin-bottom: 40px; }
+  .section-head.center { margin-left: auto; margin-right: auto; text-align: center; }
   .section-label {
-    font-family: var(--mono);
-    font-size: 0.68rem;
-    color: var(--accent);
-    letter-spacing: 0.14em;
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
-    margin-bottom: 14px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  .section-label::before {
-    content: '';
-    width: 24px;
-    height: 1px;
-    background: var(--accent);
+    color: var(--coral);
+    background: var(--coral-soft);
+    padding: 5px 13px;
+    border-radius: 99px;
+    margin-bottom: 16px;
   }
   .section-title {
-    font-family: var(--sans);
-    font-size: clamp(1.5rem, 3.6vw, 2.4rem);
+    font-family: var(--display);
+    font-size: clamp(1.7rem, 4vw, 2.5rem);
     font-weight: 800;
     letter-spacing: -0.03em;
-    line-height: 1.1;
+    line-height: 1.12;
+    margin-bottom: 12px;
   }
-  .section-sub {
-    font-family: var(--mono);
-    font-size: 0.76rem;
-    color: var(--muted);
-    margin-top: 12px;
-    line-height: 1.7;
-    max-width: 560px;
-  }
+  .section-sub { color: var(--muted); font-size: 1rem; }
 
-  /* ── FILTERS ── */
+  /* ───────────────────────── FILTERS ───────────────────────── */
   .deals-controls {
     display: none;
     flex-direction: column;
-    gap: 14px;
-    margin-bottom: 28px;
-    padding: 20px;
+    gap: 16px;
     background: var(--surface);
-    border: 1px solid var(--border);
+    border: 1px solid var(--line);
     border-radius: var(--radius);
+    padding: 20px 22px;
+    margin-bottom: 26px;
+    box-shadow: var(--shadow-sm);
   }
   .deals-controls.visible { display: flex; }
   .filter-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
     align-items: center;
+    gap: 8px 10px;
   }
   .filter-label {
-    font-family: var(--mono);
-    font-size: 0.62rem;
-    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
-    min-width: 72px;
+    color: var(--faint);
+    min-width: 76px;
   }
   .filter-btn {
-    font-family: var(--mono);
-    font-size: 0.7rem;
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    font-weight: 500;
     padding: 7px 15px;
-    border-radius: 100px;
-    border: 1px solid var(--border-strong);
+    border-radius: 99px;
+    border: 1px solid var(--line);
     background: transparent;
-    color: var(--text-soft);
+    color: var(--muted);
     cursor: pointer;
-    transition: all 0.2s var(--ease);
+    transition: all 0.15s;
     white-space: nowrap;
   }
-  .filter-btn:hover {
-    border-color: var(--accent-border);
-    color: var(--accent);
-    transform: translateY(-1px);
-  }
+  .filter-btn:hover { border-color: var(--navy); color: var(--navy); }
   .filter-btn.active {
-    border-color: var(--accent);
-    color: #000;
-    background: var(--accent);
-    font-weight: 700;
-    box-shadow: 0 0 18px rgba(0,255,136,0.25);
+    border-color: var(--navy);
+    background: var(--navy);
+    color: #fff;
+    font-weight: 600;
   }
   .search-input {
-    font-family: var(--mono);
-    font-size: 0.74rem;
+    font-family: var(--sans);
+    font-size: 0.85rem;
     padding: 8px 16px;
     background: var(--bg);
-    border: 1px solid var(--border-strong);
-    color: var(--text);
-    border-radius: 100px;
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 99px;
     outline: none;
     width: 230px;
-    transition: border-color 0.2s, box-shadow 0.2s;
+    transition: border-color 0.15s, box-shadow 0.15s;
   }
-  .search-input::placeholder { color: var(--muted); }
+  .search-input::placeholder { color: var(--faint); }
   .search-input:focus {
-    border-color: var(--accent-border);
-    box-shadow: 0 0 0 3px rgba(0,255,136,0.08);
+    border-color: var(--coral);
+    box-shadow: 0 0 0 3px rgba(255,75,58,0.10);
   }
   .deals-count {
-    font-family: var(--mono);
-    font-size: 0.7rem;
+    font-size: 0.82rem;
     color: var(--muted);
     margin-left: auto;
   }
-  .deals-count span { color: var(--accent); font-weight: 700; }
-  .discount-slider-wrap { display: flex; align-items: center; gap: 12px; }
-  .discount-value {
-    font-family: var(--mono);
-    font-size: 0.76rem;
-    color: var(--accent);
+  .deals-count span { color: var(--coral); font-weight: 700; }
+  .slider-wrap { display: flex; align-items: center; gap: 12px; }
+  .slider-value {
+    font-size: 0.82rem;
     font-weight: 700;
+    color: var(--navy);
     min-width: 52px;
   }
   input[type="range"] {
     -webkit-appearance: none;
     appearance: none;
     width: 170px;
-    height: 3px;
-    background: var(--border-strong);
-    border-radius: 2px;
+    height: 4px;
+    background: var(--line);
+    border-radius: 4px;
     outline: none;
     cursor: pointer;
   }
   input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
-    width: 15px; height: 15px;
-    background: var(--accent);
+    width: 17px; height: 17px;
+    background: var(--surface);
+    border: 2.5px solid var(--coral);
     border-radius: 50%;
     cursor: pointer;
-    transition: transform 0.15s, box-shadow 0.15s;
-    box-shadow: 0 0 0 0 rgba(0,255,136,0.3);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.12s;
   }
-  input[type="range"]::-webkit-slider-thumb:hover {
-    transform: scale(1.25);
-    box-shadow: 0 0 0 6px rgba(0,255,136,0.12);
-  }
+  input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.18); }
   input[type="range"]::-moz-range-thumb {
-    width: 15px; height: 15px;
-    background: var(--accent);
-    border: none;
+    width: 17px; height: 17px;
+    background: var(--surface);
+    border: 2.5px solid var(--coral);
     border-radius: 50%;
     cursor: pointer;
   }
 
-  /* ── DEALS GRID ── */
+  /* ───────────────────────── DEAL CARDS ───────────────────────── */
   .deals-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
+    gap: 18px;
   }
   .deal-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
+    position: relative;
     display: flex;
     flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
     overflow: hidden;
-    transition: transform 0.3s var(--ease), border-color 0.3s, box-shadow 0.3s;
-    animation: cardIn 0.5s var(--ease) both;
-  }
-  .deal-card:nth-child(2)  { animation-delay: 0.04s; }
-  .deal-card:nth-child(3)  { animation-delay: 0.08s; }
-  .deal-card:nth-child(4)  { animation-delay: 0.12s; }
-  .deal-card:nth-child(5)  { animation-delay: 0.16s; }
-  .deal-card:nth-child(6)  { animation-delay: 0.20s; }
-  .deal-card:nth-child(7)  { animation-delay: 0.24s; }
-  .deal-card:nth-child(8)  { animation-delay: 0.28s; }
-  .deal-card:nth-child(n+9){ animation-delay: 0.32s; }
-  @keyframes cardIn {
-    from { opacity: 0; transform: translateY(18px); }
-    to   { opacity: 1; transform: translateY(0); }
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s;
   }
   .deal-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--accent-border);
-    box-shadow: 0 16px 48px rgba(0,0,0,0.5), 0 0 24px rgba(0,255,136,0.07);
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: transparent;
   }
-  .deal-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 14px;
-    border-bottom: 1px solid var(--border);
-  }
-  .deal-store {
-    font-family: var(--mono);
-    font-size: 0.6rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: #fff;
-    padding: 3px 10px;
-    border-radius: 100px;
-  }
-  .deal-pct {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    font-weight: 700;
-    color: var(--accent);
-    background: var(--accent-dim);
-    border: 1px solid var(--accent-border);
-    padding: 2px 9px;
-    border-radius: 100px;
-  }
-  .deal-img-wrap {
-    width: 100%;
-    height: 150px;
+  .deal-media {
+    position: relative;
+    height: 170px;
     background: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
-    flex-shrink: 0;
+    border-bottom: 1px solid var(--line-soft);
   }
-  .deal-img-wrap.img-fallback { background: var(--surface-2); }
-  .deal-img-wrap.img-fallback::after {
-    content: '📷';
-    font-size: 1.8rem;
-    opacity: 0.2;
-  }
-  .deal-img {
+  .deal-media img {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    padding: 10px;
-    transition: transform 0.4s var(--ease);
+    padding: 14px;
+    transition: transform 0.25s ease;
   }
-  .deal-card:hover .deal-img { transform: scale(1.05); }
+  .deal-card:hover .deal-media img { transform: scale(1.045); }
+  .deal-media.noimg {
+    background: var(--bg);
+    color: var(--faint);
+    font-size: 1.8rem;
+  }
+  .deal-pct {
+    position: absolute;
+    top: 10px; left: 10px;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: #fff;
+    background: var(--coral);
+    padding: 4px 10px;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px -2px rgba(255,75,58,0.5);
+  }
   .deal-body {
-    padding: 18px;
-    flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 10px;
+    padding: 15px 16px 16px;
+    flex: 1;
+  }
+  .deal-store {
+    align-self: flex-start;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--store-c, var(--muted));
+    background: color-mix(in srgb, var(--store-c, var(--muted)) 10%, #fff);
+    padding: 3px 9px;
+    border-radius: 6px;
   }
   .deal-name {
-    font-family: var(--sans);
-    font-size: 0.86rem;
+    font-size: 0.9rem;
     font-weight: 600;
-    line-height: 1.45;
-    color: var(--text);
+    line-height: 1.42;
+    color: var(--ink);
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    min-height: 2.55em;
   }
-  .deal-prices { display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap; }
-  .deal-price-now {
-    font-family: var(--mono);
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: var(--accent);
-  }
-  .deal-price-old {
-    font-family: var(--mono);
-    font-size: 0.78rem;
-    color: var(--muted);
-    text-decoration: line-through;
-  }
-  .deal-badges {
+  .deal-prices {
     display: flex;
-    align-items: center;
-    gap: 8px;
+    align-items: baseline;
+    gap: 9px;
     flex-wrap: wrap;
   }
-  .deal-saving {
-    font-family: var(--mono);
-    font-size: 0.68rem;
-    color: var(--text-soft);
+  .deal-price-now {
+    font-family: var(--display);
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: var(--navy);
+    font-variant-numeric: tabular-nums;
   }
-  .deal-lowest {
-    font-family: var(--mono);
-    font-size: 0.62rem;
-    font-weight: 700;
-    color: var(--accent);
-    background: var(--accent-dim);
-    border: 1px solid var(--accent-border);
-    padding: 2px 8px;
-    border-radius: 100px;
-    white-space: nowrap;
+  .deal-price-old {
+    font-size: 0.83rem;
+    color: var(--faint);
+    text-decoration: line-through;
+    font-variant-numeric: tabular-nums;
   }
-  .deal-spark {
+  .deal-foot {
+    margin-top: auto;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 8px;
+    padding-top: 4px;
   }
-  .spark {
-    width: 100px;
-    height: 26px;
-    flex-shrink: 0;
+  .deal-saving {
+    font-size: 0.76rem;
+    font-weight: 600;
+    color: var(--green);
+    background: var(--green-soft);
+    padding: 3px 9px;
+    border-radius: 6px;
   }
-  .spark-label {
-    font-family: var(--mono);
-    font-size: 0.6rem;
-    color: var(--muted);
-  }
-  .deal-btn {
-    margin-top: auto;
-    display: block;
-    text-align: center;
-    background: rgba(255,255,255,0.04);
-    border: 1px solid var(--border-strong);
-    color: var(--text);
-    font-family: var(--mono);
-    font-size: 0.72rem;
+  .deal-go {
+    font-size: 0.8rem;
     font-weight: 700;
-    padding: 11px;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: all 0.2s var(--ease);
+    color: var(--coral);
+    transition: transform 0.15s;
   }
-  .deal-btn:hover {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: #000;
+  .deal-card:hover .deal-go { transform: translateX(3px); }
+  .deal-link {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
   }
 
-  /* ── SKELETON ── */
+  /* ───────────────────────── PAGINATION ───────────────────────── */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+  }
+  .page-btn {
+    font-family: var(--sans);
+    font-size: 0.84rem;
+    font-weight: 500;
+    min-width: 38px;
+    padding: 8px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .page-btn:hover:not(:disabled) { border-color: var(--navy); color: var(--navy); }
+  .page-btn.active {
+    background: var(--navy);
+    border-color: var(--navy);
+    color: #fff;
+    font-weight: 700;
+  }
+  .page-btn:disabled { opacity: 0.4; cursor: default; }
+  .page-ellipsis { color: var(--faint); font-size: 0.85rem; padding: 0 2px; }
+
+  /* ───────────────────────── STATES / META ───────────────────────── */
   .skeleton-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
+    gap: 18px;
   }
   .skeleton-card {
     background: var(--surface);
-    border: 1px solid var(--border);
+    border: 1px solid var(--line);
     border-radius: var(--radius);
-    height: 360px;
+    height: 340px;
     position: relative;
     overflow: hidden;
   }
@@ -641,398 +613,266 @@
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.03) 50%, transparent 100%);
+    background: linear-gradient(90deg, transparent 0%, rgba(19,28,59,0.04) 50%, transparent 100%);
     animation: shimmer 1.6s ease-in-out infinite;
   }
   @keyframes shimmer {
     0%   { transform: translateX(-100%); }
     100% { transform: translateX(100%); }
   }
-
-  /* ── EMPTY / ERROR ── */
   .deals-empty, .deals-error {
-    font-family: var(--mono);
-    font-size: 0.78rem;
+    font-size: 0.92rem;
     color: var(--muted);
     text-align: center;
-    padding: 80px 24px;
-    border: 1px dashed var(--border-strong);
+    padding: 72px 24px;
+    background: var(--surface);
+    border: 1px dashed var(--line);
     border-radius: var(--radius);
     line-height: 2;
   }
-  .state-icon {
-    font-size: 2rem;
-    display: block;
-    margin-bottom: 14px;
-    opacity: 0.45;
-  }
-
+  .state-icon { font-size: 2rem; display: block; margin-bottom: 12px; }
   .deals-meta {
-    font-family: var(--mono);
-    font-size: 0.66rem;
-    color: var(--muted);
+    font-size: 0.75rem;
+    color: var(--faint);
     margin-top: 18px;
     text-align: right;
   }
 
-  /* ── PAGINATION ── */
-  .pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 6px;
-    margin-top: 32px;
-    flex-wrap: wrap;
-  }
-  .page-btn {
-    font-family: var(--mono);
-    font-size: 0.74rem;
-    min-width: 36px;
-    height: 36px;
-    padding: 0 9px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid var(--border-strong);
-    background: transparent;
-    color: var(--text-soft);
-    cursor: pointer;
-    border-radius: 8px;
-    transition: all 0.2s var(--ease);
-  }
-  .page-btn:hover:not([disabled]):not(.active) {
-    border-color: var(--accent-border);
-    color: var(--accent);
-    transform: translateY(-1px);
-  }
-  .page-btn.active {
-    border-color: var(--accent);
-    background: var(--accent);
-    color: #000;
-    font-weight: 700;
-    box-shadow: 0 0 16px rgba(0,255,136,0.22);
-  }
-  .page-btn[disabled] { opacity: 0.3; cursor: not-allowed; }
-  .page-dots {
-    font-family: var(--mono);
-    font-size: 0.74rem;
-    color: var(--muted);
-    padding: 0 3px;
-  }
-
-  /* ── HOW IT WORKS ── */
+  /* ───────────────────────── STEPS ───────────────────────── */
   .steps {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 18px;
   }
   .step {
     background: var(--surface);
-    border: 1px solid var(--border);
+    border: 1px solid var(--line);
     border-radius: var(--radius);
-    padding: 32px 28px;
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.3s var(--ease), border-color 0.3s;
+    padding: 30px 26px;
+    transition: transform 0.22s, box-shadow 0.22s;
   }
-  .step:hover {
-    transform: translateY(-4px);
-    border-color: var(--accent-border);
-  }
+  .step:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
   .step-num {
-    font-family: var(--mono);
-    font-size: 0.7rem;
-    font-weight: 700;
-    color: var(--accent);
-    letter-spacing: 0.1em;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px; height: 40px;
+    font-family: var(--display);
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: var(--coral);
+    background: var(--coral-soft);
+    border-radius: 12px;
     margin-bottom: 18px;
-    padding: 4px 11px;
-    border: 1px solid var(--accent-border);
-    background: var(--accent-dim);
-    border-radius: 100px;
   }
   .step h3 {
-    font-family: var(--sans);
-    font-size: 1.05rem;
+    font-family: var(--display);
+    font-size: 1.12rem;
     font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-bottom: 10px;
+    letter-spacing: -0.01em;
+    margin-bottom: 8px;
   }
-  .step p {
-    font-family: var(--mono);
-    font-size: 0.73rem;
-    color: var(--muted);
-    line-height: 1.8;
-  }
-  .step::after {
-    content: '';
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    height: 2px;
-    background: linear-gradient(90deg, var(--accent), transparent);
-    transform: scaleX(0);
-    transform-origin: left;
-    transition: transform 0.4s var(--ease);
-  }
-  .step:hover::after { transform: scaleX(1); }
+  .step p { font-size: 0.88rem; color: var(--muted); }
 
-  /* ── FEATURES ── */
+  /* ───────────────────────── TRUST / FEATURES ───────────────────────── */
   .features {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
   }
   .feature {
     background: var(--surface);
-    border: 1px solid var(--border);
+    border: 1px solid var(--line);
     border-radius: var(--radius);
-    padding: 30px 28px;
-    transition: transform 0.3s var(--ease), border-color 0.3s, background 0.3s;
-    position: relative;
+    padding: 28px 26px;
+    transition: transform 0.22s, box-shadow 0.22s;
   }
-  .feature:hover {
-    transform: translateY(-4px);
-    border-color: var(--accent-border);
-    background: var(--surface-2);
-  }
+  .feature:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
   .feature-icon {
-    width: 40px; height: 40px;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.15rem;
-    background: var(--accent-dim);
-    border: 1px solid var(--accent-border);
-    border-radius: 10px;
-    margin-bottom: 18px;
+    width: 44px; height: 44px;
+    font-size: 1.25rem;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    margin-bottom: 16px;
   }
   .feature h3 {
-    font-family: var(--sans);
-    font-size: 1rem;
+    font-family: var(--display);
+    font-size: 1.05rem;
     font-weight: 700;
-    margin-bottom: 9px;
-    letter-spacing: -0.02em;
+    margin-bottom: 8px;
   }
-  .feature p {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    color: var(--muted);
-    line-height: 1.8;
-  }
+  .feature p { font-size: 0.87rem; color: var(--muted); }
   .feature .vs {
     display: inline-block;
     margin-top: 12px;
-    font-family: var(--mono);
-    font-size: 0.64rem;
-    color: var(--muted);
-    border: 1px dashed var(--border-strong);
-    padding: 3px 10px;
-    border-radius: 100px;
+    font-size: 0.76rem;
+    color: var(--faint);
   }
-  .feature .vs s { color: #555; }
+  .feature .vs s { opacity: 0.75; }
 
-  /* ── STATS ── */
+  /* ───────────────────────── STATS BAND ───────────────────────── */
+  .stats-band {
+    margin-top: clamp(56px, 9vh, 96px);
+    background: var(--navy);
+    color: #fff;
+    padding: clamp(48px, 8vh, 80px) 20px;
+  }
   .stats {
+    max-width: 1000px;
+    margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
-  }
-  .stat {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 42px 32px;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 32px;
     text-align: center;
-    transition: transform 0.3s var(--ease), border-color 0.3s;
-    position: relative;
-    overflow: hidden;
-  }
-  .stat:hover {
-    transform: translateY(-4px);
-    border-color: var(--accent-border);
-  }
-  .stat::before {
-    content: '';
-    position: absolute;
-    top: -40px; left: 50%;
-    transform: translateX(-50%);
-    width: 120px; height: 80px;
-    background: radial-gradient(ellipse, rgba(0,255,136,0.1) 0%, transparent 70%);
-    pointer-events: none;
   }
   .stat-num {
-    font-family: var(--mono);
-    font-size: 2.6rem;
-    font-weight: 700;
-    color: var(--accent);
+    font-family: var(--display);
+    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
     display: block;
-    margin-bottom: 8px;
-    letter-spacing: -0.02em;
-    text-shadow: 0 0 30px rgba(0,255,136,0.3);
+    color: #fff;
+    font-variant-numeric: tabular-nums;
   }
+  .stat-num .accent { color: var(--coral); }
   .stat-label {
-    font-family: var(--mono);
-    font-size: 0.66rem;
-    color: var(--muted);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
+    font-size: 0.8rem;
+    color: rgba(255,255,255,0.55);
+    margin-top: 6px;
+    display: block;
   }
 
-  /* ── CTA BOTTOM ── */
+  /* ───────────────────────── CTA BOTTOM ───────────────────────── */
   .cta-bottom {
-    position: relative;
-    z-index: 1;
     text-align: center;
-    padding: 100px 24px;
-    border-top: 1px solid var(--border);
-    overflow: hidden;
-  }
-  .cta-bottom::before {
-    content: '';
-    position: absolute;
-    bottom: -50%;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 700px; height: 500px;
-    background: radial-gradient(ellipse, rgba(0,255,136,0.07) 0%, transparent 70%);
-    pointer-events: none;
+    padding: clamp(64px, 10vh, 110px) 20px;
   }
   .cta-bottom h2 {
-    font-family: var(--sans);
-    font-size: clamp(1.8rem, 5vw, 3.4rem);
+    font-family: var(--display);
+    font-size: clamp(1.9rem, 5vw, 3.2rem);
     font-weight: 800;
-    letter-spacing: -0.04em;
-    margin-bottom: 16px;
-    line-height: 1.05;
+    letter-spacing: -0.035em;
+    line-height: 1.08;
+    margin-bottom: 14px;
   }
-  .cta-bottom p {
-    font-family: var(--mono);
-    font-size: 0.78rem;
-    color: var(--muted);
-    margin-bottom: 38px;
-  }
+  .cta-bottom p { color: var(--muted); margin-bottom: 32px; }
   .btn-primary {
     display: inline-flex;
     align-items: center;
     gap: 10px;
-    background: var(--accent);
-    color: #000;
-    font-family: var(--mono);
-    font-size: 0.8rem;
+    background: var(--coral);
+    color: #fff;
+    font-size: 0.95rem;
     font-weight: 700;
-    padding: 15px 32px;
-    border-radius: 10px;
+    padding: 15px 34px;
+    border-radius: 99px;
     text-decoration: none;
-    transition: all 0.25s var(--ease);
-    position: relative;
-    z-index: 1;
+    box-shadow: 0 8px 24px -6px rgba(255,75,58,0.45);
+    transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
   }
   .btn-primary:hover {
+    background: var(--coral-dark);
     transform: translateY(-2px);
-    box-shadow: 0 12px 40px rgba(0,255,136,0.3);
-    filter: brightness(1.1);
+    box-shadow: 0 12px 30px -6px rgba(255,75,58,0.5);
   }
 
-  /* ── FOOTER ── */
+  /* ───────────────────────── FOOTER ───────────────────────── */
   footer {
-    position: relative;
-    z-index: 1;
-    border-top: 1px solid var(--border);
-    padding: 30px 32px;
+    background: var(--navy);
+    color: rgba(255,255,255,0.6);
+    padding: 34px clamp(16px, 4vw, 40px);
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 14px;
   }
-  footer > * { flex: 1; }
-  footer p {
-    font-family: var(--mono);
-    font-size: 0.68rem;
-    color: var(--muted);
-  }
-  footer p:first-of-type { text-align: center; }
-  footer p:last-of-type  { text-align: right; }
+  footer .logo { color: #fff; }
+  footer p { font-size: 0.8rem; }
 
-  /* ── REDUCED MOTION ── */
+  /* ───────────────────────── REVEAL ───────────────────────── */
+  .reveal {
+    opacity: 0;
+    transform: translateY(22px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal[data-delay="1"] { transition-delay: 0.08s; }
+  .reveal[data-delay="2"] { transition-delay: 0.16s; }
+  .reveal[data-delay="3"] { transition-delay: 0.24s; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
   @media (prefers-reduced-motion: reduce) {
-    *, *::before, *::after {
-      animation-duration: 0.01ms !important;
-      animation-iteration-count: 1 !important;
-      transition-duration: 0.01ms !important;
-    }
-    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation: none !important; transition: none !important; }
     .reveal { opacity: 1; transform: none; }
   }
 
-  /* ── RESPONSIVE ── */
-  @media (max-width: 860px) {
-    .steps { grid-template-columns: 1fr; }
-    .stats { grid-template-columns: 1fr; }
-    .nav-links a:not(:last-child) { display: none; }
-  }
+  /* ───────────────────────── RESPONSIVE ───────────────────────── */
   @media (max-width: 640px) {
-    nav { padding: 0 20px; }
-    .hero { padding: 80px 20px 70px; }
-    .hero-search { flex-direction: column; }
-    .hero-search button { padding: 14px; }
-    .search-input { width: 100%; }
     .filter-label { min-width: 100%; }
+    .search-input { width: 100%; }
     .deals-count { margin-left: 0; width: 100%; }
     input[type="range"] { width: 130px; }
-    footer { padding: 24px 20px; flex-direction: column; align-items: center; }
-    footer p:first-of-type, footer p:last-of-type { text-align: center; }
+    .deals-grid, .skeleton-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+    .deal-media { height: 130px; }
+    .deal-name { font-size: 0.82rem; }
+    .deal-price-now { font-size: 1.15rem; }
+    .hero-search button { padding: 11px 18px; }
+    footer { flex-direction: column; align-items: flex-start; }
   }
 </style>
 </head>
 <body>
 
-<div class="bg-grid"></div>
-<div class="bg-glow"></div>
-
 <nav>
-  <a class="logo" href="#">Hack<span>The</span>Price</a>
-  <div class="nav-links">
-    <a href="#ofertas-live">Ofertas</a>
-    <a href="#como-funciona">Cómo funciona</a>
-    <a href="#por-que">Por qué</a>
-    <span class="nav-status">LIVE</span>
+  <a class="logo" href="#">Hack<em>The</em>Price</a>
+  <div class="nav-right">
+    <span class="nav-live">Live</span>
+    <a class="nav-cta" href="#ofertas-live">Ver ofertas</a>
   </div>
 </nav>
 
+<section class="hero">
+  <div class="hero-badge">Escaneo automático cada <b>hora</b> · <b>6</b> tiendas de España</div>
+  <h1>Los descuentos <em>reales</em><br>de España, detectados<br>automáticamente.</h1>
+  <p class="subtitle">
+    Monitorizamos los precios de las grandes tiendas online españolas y solo
+    publicamos ofertas con descuento verificado. Cero spam, cero fake deals.
+  </p>
+  <form class="hero-search" id="hero-search">
+    <input type="text" id="hero-search-input" placeholder="Busca un producto… (TV, freidora, portátil…)" autocomplete="off">
+    <button type="submit">Buscar</button>
+  </form>
+  <p class="hero-meta"><b id="hero-deal-count">…</b> ofertas activas ahora mismo ↓</p>
+  <div class="hero-stores" id="hero-stores"></div>
+</section>
+
 <div class="ticker-wrap">
   <div class="ticker" id="ticker">
-    <span class="ticker-item"><span class="pct">-43%</span> RTX 4070 Super · PcComponentes</span>
-    <span class="ticker-item"><span class="pct">-38%</span> iPhone 15 Pro · MediaMarkt</span>
-    <span class="ticker-item"><span class="pct">-55%</span> SSD Samsung 2TB · Carrefour</span>
-    <span class="ticker-item"><span class="pct">-29%</span> AirPods Pro 2 · Worten</span>
-    <span class="ticker-item"><span class="pct">-61%</span> Monitor LG 4K · Coolmod</span>
-    <span class="ticker-item"><span class="pct">-43%</span> RTX 4070 Super · PcComponentes</span>
-    <span class="ticker-item"><span class="pct">-38%</span> iPhone 15 Pro · MediaMarkt</span>
-    <span class="ticker-item"><span class="pct">-55%</span> SSD Samsung 2TB · Carrefour</span>
-    <span class="ticker-item"><span class="pct">-29%</span> AirPods Pro 2 · Worten</span>
-    <span class="ticker-item"><span class="pct">-61%</span> Monitor LG 4K · Coolmod</span>
+    <span class="ticker-item"><span class="pct">-43%</span> Smart TV 55" 4K · MediaMarkt</span>
+    <span class="ticker-item"><span class="pct">-38%</span> Freidora de aire 5.5L · Carrefour</span>
+    <span class="ticker-item"><span class="pct">-55%</span> SSD 2TB NVMe · PcComponentes</span>
+    <span class="ticker-item"><span class="pct">-29%</span> Auriculares inalámbricos · Worten</span>
+    <span class="ticker-item"><span class="pct">-61%</span> Robot aspirador · Coolmod</span>
+    <span class="ticker-item"><span class="pct">-43%</span> Smart TV 55" 4K · MediaMarkt</span>
+    <span class="ticker-item"><span class="pct">-38%</span> Freidora de aire 5.5L · Carrefour</span>
+    <span class="ticker-item"><span class="pct">-55%</span> SSD 2TB NVMe · PcComponentes</span>
+    <span class="ticker-item"><span class="pct">-29%</span> Auriculares inalámbricos · Worten</span>
+    <span class="ticker-item"><span class="pct">-61%</span> Robot aspirador · Coolmod</span>
   </div>
 </div>
 
-<section class="hero">
-  <div class="hero-badge">Sistema activo · escaneo cada <b>hora</b> · <b>6</b> tiendas</div>
-  <h1>Las mejores ofertas<br>en <em>España</em>.<br>Automático.</h1>
-  <p class="subtitle">
-    Monitorizamos PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten.
-    Solo deals con descuento publicado por la propia tienda. Cero spam, cero fake deals.
-  </p>
-  <form class="hero-search" id="hero-search">
-    <input type="text" id="hero-search-input" placeholder="Busca un producto… (RTX, SSD, monitor…)" autocomplete="off">
-    <button type="submit">Buscar →</button>
-  </form>
-  <p class="hero-meta">↓ <b id="hero-deal-count">…</b> ofertas activas ahora mismo</p>
-</section>
-
 <section class="section" id="ofertas-live">
   <div class="section-head reveal">
-    <div class="section-label">Ofertas en vivo</div>
+    <span class="section-label">Ofertas en vivo</span>
     <h2 class="section-title">Detectadas en el último escaneo.</h2>
     <p class="section-sub">Cada oferta muestra el precio tachado publicado por la propia tienda. Si la tienda no marca descuento, no aparece aquí.</p>
   </div>
@@ -1045,14 +885,14 @@
     </div>
     <div class="filter-row">
       <span class="filter-label">Precio</span>
-      <div class="discount-slider-wrap">
+      <div class="slider-wrap">
         <input type="range" id="price-slider" min="1" max="2000" value="2000" step="1">
-        <span class="discount-value" id="price-value">Todos</span>
+        <span class="slider-value" id="price-value">Todos</span>
       </div>
-      <span class="filter-label" style="margin-left:16px;min-width:auto;">Descuento</span>
-      <div class="discount-slider-wrap">
+      <span class="filter-label" style="min-width:auto;margin-left:14px;">Descuento</span>
+      <div class="slider-wrap">
         <input type="range" id="discount-slider" min="1" max="80" value="1" step="1">
-        <span class="discount-value" id="discount-value">1%+</span>
+        <span class="slider-value" id="discount-value">1%+</span>
       </div>
     </div>
     <div class="filter-row">
@@ -1072,6 +912,8 @@
       <div class="skeleton-card"></div>
       <div class="skeleton-card"></div>
       <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
     </div>
   </div>
   <div class="pagination" id="pagination"></div>
@@ -1079,8 +921,8 @@
 </section>
 
 <section class="section" id="como-funciona">
-  <div class="section-head reveal">
-    <div class="section-label">Cómo funciona</div>
+  <div class="section-head center reveal">
+    <span class="section-label">Cómo funciona</span>
     <h2 class="section-title">Tres pasos. Cero esfuerzo.</h2>
   </div>
   <div class="steps">
@@ -1103,59 +945,59 @@
 </section>
 
 <section class="section" id="por-que">
-  <div class="section-head reveal">
-    <div class="section-label">Por qué HackThePrice</div>
-    <h2 class="section-title">No somos otro Chollometro.</h2>
+  <div class="section-head center reveal">
+    <span class="section-label">Por qué HackThePrice</span>
+    <h2 class="section-title">No somos otro portal de chollos.</h2>
     <p class="section-sub">Sin votos, sin usuarios subiendo deals caducados, sin descuentos inflados. Solo datos verificados directamente de las tiendas.</p>
   </div>
   <div class="features">
     <div class="feature reveal" data-delay="1">
-      <div class="feature-icon">🤖</div>
+      <span class="feature-icon">🤖</span>
       <h3>100% Automático</h3>
       <p>Bots escaneando precios cada hora. Sin humanos subiendo deals manualmente ni ofertas caducadas de hace días.</p>
-      <span class="vs"><s>Chollometro: deals manuales</s></span>
+      <span class="vs"><s>Otros: deals manuales</s></span>
     </div>
     <div class="feature reveal" data-delay="2">
-      <div class="feature-icon">📊</div>
+      <span class="feature-icon">📊</span>
       <h3>Historial de precios real</h3>
       <p>Registramos cada precio en cada escaneo. Sabemos cuándo un descuento es real y cuándo es marketing.</p>
       <span class="vs"><s>Otros: sin datos históricos</s></span>
     </div>
     <div class="feature reveal" data-delay="3">
-      <div class="feature-icon">🇪🇸</div>
+      <span class="feature-icon">🇪🇸</span>
       <h3>Hecho para España</h3>
       <p>PcComponentes, MediaMarkt, Carrefour, GAME, Coolmod y Worten. Precios en euros, stock local, envíos a España.</p>
       <span class="vs"><s>Agregadores globales genéricos</s></span>
     </div>
     <div class="feature reveal" data-delay="1">
-      <div class="feature-icon">✅</div>
+      <span class="feature-icon">✅</span>
       <h3>Descuento verificado</h3>
       <p>Solo mostramos productos con precio tachado publicado por la propia tienda. Si no hay rebaja oficial, no sale.</p>
     </div>
     <div class="feature reveal" data-delay="2">
-      <div class="feature-icon">🔍</div>
+      <span class="feature-icon">🔍</span>
       <h3>Filtros potentes</h3>
       <p>Filtra por tienda, precio máximo y descuento mínimo. Encuentra exactamente lo que buscas en segundos.</p>
     </div>
     <div class="feature reveal" data-delay="3">
-      <div class="feature-icon">⚡</div>
+      <span class="feature-icon">⚡</span>
       <h3>Siempre actualizado</h3>
       <p>Cada hora se regenera la lista completa. Lo que ves está en oferta ahora — no ayer, no la semana pasada.</p>
     </div>
   </div>
 </section>
 
-<section class="section">
-  <div class="section-head reveal">
-    <div class="section-label">En números</div>
-    <h2 class="section-title">El sistema, en cifras.</h2>
-  </div>
+<div class="stats-band">
   <div class="stats">
     <div class="stat reveal" data-delay="1">
       <span class="stat-num" data-count="6" id="stat-stores">0</span>
       <span class="stat-label">Tiendas monitorizadas</span>
     </div>
     <div class="stat reveal" data-delay="2">
+      <span class="stat-num" data-count="0" id="stat-deals">0</span>
+      <span class="stat-label">Ofertas activas ahora</span>
+    </div>
+    <div class="stat reveal" data-delay="3">
       <span class="stat-num" data-count="90" data-suffix="d">0</span>
       <span class="stat-label">Días de historial de precios</span>
     </div>
@@ -1164,16 +1006,16 @@
       <span class="stat-label">Escaneos al día</span>
     </div>
   </div>
-</section>
+</div>
 
 <section class="cta-bottom">
-  <h2>Empieza a ahorrar<br>hoy mismo.</h2>
-  <p>Actualización automática cada hora. Solo deals reales verificados.</p>
-  <a href="#ofertas-live" class="btn-primary">Ver todas las ofertas →</a>
+  <h2 class="reveal">Empieza a ahorrar<br>hoy mismo.</h2>
+  <p class="reveal" data-delay="1">Actualización automática cada hora. Solo deals reales verificados.</p>
+  <a href="#ofertas-live" class="btn-primary reveal" data-delay="2">Ver todas las ofertas →</a>
 </section>
 
 <footer>
-  <div class="logo">Hack<span>The</span>Price</div>
+  <a class="logo" href="#">Hack<em>The</em>Price</a>
   <p>© 2026 HackThePrice · Hecho en España 🇪🇸</p>
   <p>Próximamente en hacktheprice.es</p>
 </footer>
@@ -1192,13 +1034,13 @@ const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod
 
 const ITEMS_PER_PAGE = 12;
 
-let allDeals       = [];
-let activeStore    = 'all';
-let activeSort     = 'discount';
-let searchQuery    = '';
-let minDiscount    = 1;
-let maxPrice       = Infinity;
-let currentPage    = 1;
+let allDeals    = [];
+let activeStore = 'all';
+let activeSort  = 'discount';
+let searchQuery = '';
+let minDiscount = 1;
+let maxPrice    = Infinity;
+let currentPage = 1;
 
 function escapeHtml(str) {
   return String(str)
@@ -1209,55 +1051,32 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
-function sparkline(points) {
-  const w = 100, h = 26, pad = 2;
-  const min = Math.min(...points), max = Math.max(...points);
-  const range = max - min || 1;
-  const step = (w - pad * 2) / (points.length - 1);
-  const coords = points.map((p, i) =>
-    `${(pad + i * step).toFixed(1)},${(h - pad - ((p - min) / range) * (h - pad * 2)).toFixed(1)}`
-  );
-  const lastX = pad + (points.length - 1) * step;
-  const lastY = h - pad - ((points[points.length - 1] - min) / range) * (h - pad * 2);
-  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" aria-hidden="true">
-    <polyline points="${coords.join(' ')}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" opacity="0.8"/>
-    <circle cx="${lastX.toFixed(1)}" cy="${lastY.toFixed(1)}" r="2.2" fill="var(--accent)"/>
-  </svg>`;
-}
-
 function renderDeal(d) {
-  const color   = STORE_COLORS[d.store] || '#555';
-  const saving  = (d.original_price - d.current_price).toFixed(2);
-  const hasHistory  = Array.isArray(d.price_history) && d.price_history.length > 1;
-  const sparkHtml   = hasHistory
-    ? `<div class="deal-spark">${sparkline(d.price_history)}<span class="spark-label">${d.history_days}d</span></div>`
-    : '';
-  const lowestBadge = d.is_lowest && d.history_days >= 7
-    ? '<span class="deal-lowest">🔥 Mínimo histórico</span>'
-    : '';
-  const imgHtml = d.image_url
-    ? `<div class="deal-img-wrap"><img class="deal-img" src="${escapeHtml(d.image_url)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.add('img-fallback'); this.remove()"></div>`
-    : '<div class="deal-img-wrap img-fallback"></div>';
+  const color  = STORE_COLORS[d.store] || '#5C6684';
+  const saving = (d.original_price - d.current_price).toFixed(2);
+  const media  = d.image_url
+    ? `<div class="deal-media">
+         <img src="${escapeHtml(d.image_url)}" alt="" loading="lazy"
+              onerror="this.parentElement.classList.add('noimg');this.remove();">
+         <span class="deal-pct">-${Math.round(d.discount_pct)}%</span>
+       </div>`
+    : `<div class="deal-media noimg">🛍️<span class="deal-pct">-${Math.round(d.discount_pct)}%</span></div>`;
   return `
   <article class="deal-card">
-    <div class="deal-top">
-      <span class="deal-store" style="background:${color}">${escapeHtml(d.store)}</span>
-      <span class="deal-pct">-${Math.round(d.discount_pct)}%</span>
-    </div>
-    ${imgHtml}
+    ${media}
     <div class="deal-body">
-      <p class="deal-name">${escapeHtml(d.name)}</p>
+      <span class="deal-store" style="--store-c:${color}">${escapeHtml(d.store)}</span>
+      <h3 class="deal-name">${escapeHtml(d.name)}</h3>
       <div class="deal-prices">
         <span class="deal-price-now">${d.current_price.toFixed(2)} €</span>
         <span class="deal-price-old">${d.original_price.toFixed(2)} €</span>
       </div>
-      ${sparkHtml}
-      <div class="deal-badges">
+      <div class="deal-foot">
         <span class="deal-saving">Ahorras ${saving} €</span>
-        ${lowestBadge}
+        <span class="deal-go">Ver oferta →</span>
       </div>
-      <a class="deal-btn" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer">Ver oferta →</a>
     </div>
+    <a class="deal-link" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(d.name)}"></a>
   </article>`;
 }
 
@@ -1265,25 +1084,29 @@ function renderPagination(totalPages) {
   const el = document.getElementById('pagination');
   if (totalPages <= 1) { el.innerHTML = ''; return; }
 
-  const pages = new Set([1, totalPages]);
-  for (let i = Math.max(2, currentPage - 1); i <= Math.min(totalPages - 1, currentPage + 1); i++) pages.add(i);
-  const sorted = [...pages].sort((a, b) => a - b);
+  const btn = (label, page, opts = {}) =>
+    `<button class="page-btn${opts.active ? ' active' : ''}" data-page="${page}"${opts.disabled ? ' disabled' : ''}>${label}</button>`;
 
-  let html = `<button class="page-btn" data-page="${currentPage - 1}" ${currentPage === 1 ? 'disabled' : ''}>&#8592;</button>`;
+  let pages = [];
+  const win = 2;
+  for (let p = 1; p <= totalPages; p++) {
+    if (p === 1 || p === totalPages || Math.abs(p - currentPage) <= win) pages.push(p);
+  }
+  let html = btn('‹', currentPage - 1, { disabled: currentPage === 1 });
   let prev = 0;
-  for (const p of sorted) {
-    if (prev && p - prev > 1) html += `<span class="page-dots">&#8230;</span>`;
-    html += `<button class="page-btn${p === currentPage ? ' active' : ''}" data-page="${p}">${p}</button>`;
+  for (const p of pages) {
+    if (p - prev > 1) html += '<span class="page-ellipsis">…</span>';
+    html += btn(p, p, { active: p === currentPage });
     prev = p;
   }
-  html += `<button class="page-btn" data-page="${currentPage + 1}" ${currentPage === totalPages ? 'disabled' : ''}>&#8594;</button>`;
+  html += btn('›', currentPage + 1, { disabled: currentPage === totalPages });
   el.innerHTML = html;
 
-  el.querySelectorAll('[data-page]:not([disabled])').forEach(btn => {
-    btn.addEventListener('click', () => {
-      currentPage = parseInt(btn.dataset.page);
+  el.querySelectorAll('.page-btn:not(:disabled)').forEach(b => {
+    b.addEventListener('click', () => {
+      currentPage = parseInt(b.dataset.page);
       applyFilters(false);
-      document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth' });
     });
   });
 }
@@ -1347,6 +1170,13 @@ function buildStoreFilters() {
   });
 }
 
+function buildHeroStores() {
+  const el = document.getElementById('hero-stores');
+  el.innerHTML = ALL_STORES.map(s =>
+    `<span class="hero-store"><i style="--dot:${STORE_COLORS[s]}"></i>${escapeHtml(s)}</span>`
+  ).join('');
+}
+
 function updateTicker(deals) {
   const ticker = document.getElementById('ticker');
   if (!ticker || !deals.length) return;
@@ -1356,69 +1186,36 @@ function updateTicker(deals) {
   ticker.innerHTML = [...items, ...items].join('');
 }
 
-/* ── Scroll reveal ── */
+/* ── Scroll reveal + animated counters ── */
 const revealObserver = new IntersectionObserver(entries => {
   entries.forEach(e => {
-    if (e.isIntersecting) {
-      e.target.classList.add('in');
-      revealObserver.unobserve(e.target);
-    }
+    if (!e.isIntersecting) return;
+    e.target.classList.add('in');
+    e.target.querySelectorAll('.stat-num[data-count]').forEach(animateCounter);
+    if (e.target.matches('.stat-num[data-count]')) animateCounter(e.target);
+    revealObserver.unobserve(e.target);
   });
-}, { threshold: 0.12 });
+}, { threshold: 0.15 });
+
 document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
 
-/* ── Count-up stats ── */
-function countUp(el) {
-  const target = parseInt(el.dataset.count);
+function animateCounter(el) {
+  if (el.dataset.done) return;
+  el.dataset.done = '1';
+  const target = parseInt(el.dataset.count) || 0;
   const suffix = el.dataset.suffix || '';
-  const dur    = 1400;
+  const dur    = 1100;
   const t0     = performance.now();
   function tick(now) {
-    const p    = Math.min((now - t0) / dur, 1);
-    const ease = 1 - Math.pow(1 - p, 3);
-    el.textContent = Math.round(target * ease) + suffix;
-    if (p < 1) requestAnimationFrame(tick);
+    const k = Math.min(1, (now - t0) / dur);
+    const eased = 1 - Math.pow(1 - k, 3);
+    el.textContent = Math.round(target * eased) + suffix;
+    if (k < 1) requestAnimationFrame(tick);
   }
   requestAnimationFrame(tick);
 }
-const statObserver = new IntersectionObserver(entries => {
-  entries.forEach(e => {
-    if (e.isIntersecting) {
-      countUp(e.target);
-      statObserver.unobserve(e.target);
-    }
-  });
-}, { threshold: 0.5 });
-document.querySelectorAll('[data-count]').forEach(el => statObserver.observe(el));
 
-/* ── Hero search ── */
-document.getElementById('hero-search').addEventListener('submit', e => {
-  e.preventDefault();
-  const q = document.getElementById('hero-search-input').value;
-  const filterInput = document.getElementById('search-input');
-  filterInput.value = q;
-  searchQuery = q.toLowerCase().trim();
-  applyFilters();
-  document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth', block: 'start' });
-});
-
-/* ── Precio ── */
-const priceSlider = document.getElementById('price-slider');
-const priceLabel  = document.getElementById('price-value');
-priceSlider.addEventListener('input', () => {
-  const val = parseInt(priceSlider.value);
-  const max = parseInt(priceSlider.max);
-  if (val >= max) {
-    maxPrice = Infinity;
-    priceLabel.textContent = 'Todos';
-  } else {
-    maxPrice = val;
-    priceLabel.textContent = `≤ ${val} €`;
-  }
-  applyFilters();
-});
-
-/* ── Ordenar ── */
+/* ── Filter events ── */
 document.querySelectorAll('[data-sort]').forEach(btn => {
   btn.addEventListener('click', () => {
     activeSort = btn.dataset.sort;
@@ -1428,22 +1225,45 @@ document.querySelectorAll('[data-sort]').forEach(btn => {
   });
 });
 
-/* ── Búsqueda ── */
 document.getElementById('search-input').addEventListener('input', e => {
   searchQuery = e.target.value.toLowerCase().trim();
   applyFilters();
 });
 
-/* ── Descuento ── */
-const slider        = document.getElementById('discount-slider');
-const discountLabel = document.getElementById('discount-value');
-slider.addEventListener('input', () => {
-  minDiscount = parseInt(slider.value);
+document.getElementById('hero-search').addEventListener('submit', e => {
+  e.preventDefault();
+  const q = document.getElementById('hero-search-input').value;
+  searchQuery = q.toLowerCase().trim();
+  document.getElementById('search-input').value = q;
+  applyFilters();
+  document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth' });
+});
+
+const discountSlider = document.getElementById('discount-slider');
+const discountLabel  = document.getElementById('discount-value');
+discountSlider.addEventListener('input', () => {
+  minDiscount = parseInt(discountSlider.value);
   discountLabel.textContent = minDiscount + '%+';
   applyFilters();
 });
 
-/* ── Carga inicial ── */
+const priceSlider = document.getElementById('price-slider');
+const priceLabel  = document.getElementById('price-value');
+priceSlider.addEventListener('input', () => {
+  const v = parseInt(priceSlider.value);
+  if (v >= parseInt(priceSlider.max)) {
+    maxPrice = Infinity;
+    priceLabel.textContent = 'Todos';
+  } else {
+    maxPrice = v;
+    priceLabel.textContent = '≤' + v + '€';
+  }
+  applyFilters();
+});
+
+buildHeroStores();
+
+/* ── Data load ── */
 fetch('./deals.json?t=' + Date.now())
   .then(r => r.json())
   .then(data => {
@@ -1461,8 +1281,8 @@ fetch('./deals.json?t=' + Date.now())
     document.getElementById('hero-deal-count').textContent = allDeals.length;
 
     const activeStores = new Set(allDeals.map(d => d.store)).size;
-    const storeStat = document.getElementById('stat-stores');
-    storeStat.dataset.count = activeStores;
+    document.getElementById('stat-stores').dataset.count = activeStores;
+    document.getElementById('stat-deals').dataset.count  = allDeals.length;
 
     const maxDealPrice = Math.ceil(Math.max(...allDeals.map(d => d.current_price)));
     priceSlider.max   = maxDealPrice;
@@ -1483,7 +1303,6 @@ fetch('./deals.json?t=' + Date.now())
   .catch(() => {
     document.getElementById('deals-container').innerHTML =
       '<div class="deals-error"><span class="state-icon">⚠️</span>Datos no disponibles en este momento.<br>Inténtalo de nuevo más tarde.</div>';
-    document.getElementById('hero-deal-count').textContent = '—';
   });
 </script>
 </body>
