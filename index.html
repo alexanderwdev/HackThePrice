@@ -26,14 +26,14 @@
     --green-soft: #E9F7F1;
     --navy:       #131C3B;
     --navy-2:     #1C2850;
-    --radius:     14px;
-    --radius-sm:  9px;
+    --radius:     16px;
+    --radius-sm:  10px;
     --shadow-sm:  0 1px 2px rgba(19,28,59,0.05);
     --shadow-md:  0 6px 24px -8px rgba(19,28,59,0.14);
     --shadow-lg:  0 18px 44px -12px rgba(19,28,59,0.18);
     --sans:       'Inter', system-ui, sans-serif;
     --display:    'Bricolage Grotesque', 'Inter', sans-serif;
-    --nav-h:      64px;
+    --nav-h:      62px;
   }
 
   html { scroll-behavior: smooth; }
@@ -49,9 +49,7 @@
   }
 
   ::selection { background: var(--coral); color: #fff; }
-
   [id] { scroll-margin-top: calc(var(--nav-h) + 16px); }
-
   img { max-width: 100%; }
 
   /* ───────────────────────── NAV ───────────────────────── */
@@ -64,7 +62,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 clamp(16px, 4vw, 40px);
-    background: rgba(250,247,242,0.85);
+    background: rgba(250,247,242,0.88);
     backdrop-filter: blur(14px);
     -webkit-backdrop-filter: blur(14px);
     border-bottom: 1px solid var(--line);
@@ -72,23 +70,20 @@
   .logo {
     font-family: var(--display);
     font-weight: 800;
-    font-size: 1.15rem;
+    font-size: 1.12rem;
     letter-spacing: -0.02em;
     color: var(--navy);
     text-decoration: none;
-    display: flex;
-    align-items: center;
-    gap: 2px;
   }
   .logo em { font-style: normal; color: var(--coral); }
-  .nav-right { display: flex; align-items: center; gap: 14px; }
+  .nav-right { display: flex; align-items: center; gap: 12px; }
   .nav-live {
     display: inline-flex;
     align-items: center;
     gap: 7px;
-    font-size: 0.72rem;
-    font-weight: 600;
-    letter-spacing: 0.06em;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
     text-transform: uppercase;
     color: var(--green);
     background: var(--green-soft);
@@ -107,11 +102,11 @@
     50%      { opacity: 0.4; transform: scale(0.82); }
   }
   .nav-cta {
-    font-size: 0.85rem;
+    font-size: 0.84rem;
     font-weight: 600;
     color: #fff;
     background: var(--navy);
-    padding: 9px 18px;
+    padding: 8px 17px;
     border-radius: 99px;
     text-decoration: none;
     transition: background 0.2s, transform 0.2s;
@@ -119,82 +114,79 @@
   .nav-cta:hover { background: var(--navy-2); transform: translateY(-1px); }
   @media (max-width: 560px) { .nav-cta { display: none; } }
 
-  /* ───────────────────────── HERO ───────────────────────── */
-  .hero {
-    position: relative;
-    padding: calc(var(--nav-h) + clamp(48px, 10vh, 96px)) 20px clamp(48px, 8vh, 72px);
-    text-align: center;
-    max-width: 880px;
+  /* ───────────────────────── MASTHEAD ───────────────────────── */
+  .masthead {
+    max-width: 1180px;
     margin: 0 auto;
+    padding: calc(var(--nav-h) + clamp(34px, 6vh, 60px)) 20px 26px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+    border-bottom: 3px solid var(--navy);
+    position: relative;
   }
-  .hero::before {
+  .masthead::before {
     content: '';
     position: absolute;
     top: 0; left: 50%;
     transform: translateX(-50%);
     width: min(900px, 100vw);
-    height: 480px;
+    height: 100%;
     background:
-      radial-gradient(ellipse 60% 55% at 30% 20%, rgba(255,75,58,0.07), transparent 70%),
-      radial-gradient(ellipse 55% 50% at 72% 30%, rgba(11,158,108,0.06), transparent 70%);
+      radial-gradient(ellipse 60% 55% at 25% 30%, rgba(255,75,58,0.06), transparent 70%),
+      radial-gradient(ellipse 55% 50% at 75% 40%, rgba(11,158,108,0.05), transparent 70%);
     pointer-events: none;
     z-index: -1;
   }
-  .hero-badge {
+  .masthead-left { max-width: 620px; }
+  .kicker {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-size: 0.78rem;
-    font-weight: 600;
-    color: var(--muted);
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 99px;
-    padding: 7px 16px;
-    margin-bottom: 28px;
-    box-shadow: var(--shadow-sm);
-    animation: fadeUp 0.55s ease both;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: var(--coral);
+    margin-bottom: 12px;
+    animation: fadeUp 0.5s ease both;
   }
-  .hero-badge b { color: var(--ink); font-weight: 700; }
+  .kicker .rule { width: 26px; height: 2px; background: var(--coral); }
+  .kicker span#masthead-date { color: var(--faint); font-weight: 600; letter-spacing: 0.04em; text-transform: none; }
   h1 {
     font-family: var(--display);
-    font-size: clamp(2.4rem, 6.4vw, 4.4rem);
+    font-size: clamp(2.1rem, 5.4vw, 3.6rem);
     font-weight: 800;
-    line-height: 1.04;
+    line-height: 1.02;
     letter-spacing: -0.035em;
-    margin-bottom: 20px;
-    animation: fadeUp 0.55s 0.08s ease both;
+    margin-bottom: 12px;
+    animation: fadeUp 0.5s 0.07s ease both;
   }
-  h1 em {
-    font-style: normal;
-    color: var(--coral);
-    position: relative;
-    white-space: nowrap;
-  }
-  h1 em svg {
-    position: absolute;
-    left: 0; bottom: -6px;
-    width: 100%;
-    height: 12px;
-  }
+  h1 em { font-style: normal; color: var(--coral); }
   .subtitle {
-    font-size: clamp(0.98rem, 2vw, 1.12rem);
+    font-size: 0.98rem;
     color: var(--muted);
-    max-width: 560px;
-    margin: 0 auto 36px;
-    animation: fadeUp 0.55s 0.16s ease both;
+    max-width: 480px;
+    animation: fadeUp 0.5s 0.14s ease both;
+  }
+  .masthead-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 14px;
+    animation: fadeUp 0.5s 0.2s ease both;
   }
   .hero-search {
     display: flex;
-    max-width: 560px;
-    margin: 0 auto 18px;
+    width: min(400px, 88vw);
     background: var(--surface);
     border: 1px solid var(--line);
     border-radius: 99px;
-    padding: 6px;
+    padding: 5px;
     box-shadow: var(--shadow-md);
     transition: border-color 0.2s, box-shadow 0.2s;
-    animation: fadeUp 0.55s 0.24s ease both;
   }
   .hero-search:focus-within {
     border-color: var(--coral);
@@ -207,64 +199,38 @@
     outline: none;
     background: transparent;
     font-family: var(--sans);
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     color: var(--ink);
-    padding: 10px 18px;
+    padding: 9px 16px;
   }
   .hero-search input::placeholder { color: var(--faint); }
   .hero-search button {
     border: none;
     cursor: pointer;
     font-family: var(--sans);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     font-weight: 600;
     color: #fff;
     background: var(--coral);
-    padding: 11px 26px;
+    padding: 10px 22px;
     border-radius: 99px;
     transition: background 0.2s, transform 0.15s;
     white-space: nowrap;
   }
   .hero-search button:hover { background: var(--coral-dark); transform: scale(1.02); }
-  .hero-meta {
-    font-size: 0.85rem;
-    color: var(--muted);
-    animation: fadeUp 0.55s 0.3s ease both;
-  }
+  .hero-meta { font-size: 0.82rem; color: var(--muted); }
   .hero-meta b { color: var(--coral); font-weight: 700; }
-  .hero-stores {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 8px 10px;
-    margin-top: 30px;
-    animation: fadeUp 0.55s 0.36s ease both;
-  }
-  .hero-store {
-    font-size: 0.74rem;
-    font-weight: 600;
-    color: var(--muted);
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 99px;
-    padding: 5px 13px;
-    display: inline-flex;
-    align-items: center;
-    gap: 7px;
-  }
-  .hero-store i {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: var(--dot, var(--faint));
+  @media (max-width: 800px) {
+    .masthead { flex-direction: column; align-items: flex-start; }
+    .masthead-right { align-items: flex-start; }
   }
 
   /* ───────────────────────── TICKER ───────────────────────── */
   .ticker-wrap {
     overflow: hidden;
-    border-top: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
     background: var(--surface);
-    padding: 13px 0;
+    padding: 11px 0;
   }
   .ticker-wrap:hover .ticker { animation-play-state: paused; }
   .ticker {
@@ -275,7 +241,7 @@
     width: max-content;
   }
   .ticker-item {
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: var(--muted);
     display: inline-flex;
     align-items: center;
@@ -294,71 +260,217 @@
     100% { transform: translateX(-50%); }
   }
 
-  /* ───────────────────────── SECTIONS ───────────────────────── */
-  .section {
-    max-width: 1120px;
+  /* ───────────────────────── BENTO PORTADA ───────────────────────── */
+  .portada {
+    max-width: 1180px;
     margin: 0 auto;
-    padding: clamp(56px, 9vh, 96px) 20px 0;
+    padding: clamp(26px, 4vh, 44px) 20px 0;
   }
-  .section-head { max-width: 640px; margin-bottom: 40px; }
-  .section-head.center { margin-left: auto; margin-right: auto; text-align: center; }
-  .section-label {
-    display: inline-block;
+  .portada-label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--coral);
-    background: var(--coral-soft);
-    padding: 5px 13px;
-    border-radius: 99px;
+    color: var(--faint);
     margin-bottom: 16px;
   }
-  .section-title {
-    font-family: var(--display);
-    font-size: clamp(1.7rem, 4vw, 2.5rem);
-    font-weight: 800;
-    letter-spacing: -0.03em;
-    line-height: 1.12;
-    margin-bottom: 12px;
-  }
-  .section-sub { color: var(--muted); font-size: 1rem; }
+  .portada-label::after { content: ''; flex: 1; height: 1px; background: var(--line); }
+  .portada-label b { color: var(--coral); }
 
-  /* ───────────────────────── FILTERS ───────────────────────── */
-  .deals-controls {
-    display: none;
-    flex-direction: column;
+  .bento {
+    display: grid;
+    grid-template-columns: 1.3fr 0.7fr 0.7fr;
+    grid-template-rows: minmax(210px, auto) minmax(190px, auto);
+    grid-template-areas:
+      "feat m1 m2"
+      "feat s1 s2";
     gap: 16px;
+  }
+  .bento > :nth-child(1) { grid-area: feat; }
+  .bento > :nth-child(2) { grid-area: m1; }
+  .bento > :nth-child(3) { grid-area: m2; }
+  .bento > :nth-child(4) { grid-area: s1; }
+  .bento > :nth-child(5) { grid-area: s2; }
+
+  @media (max-width: 900px) {
+    .bento {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+      grid-template-areas:
+        "feat feat"
+        "m1   m2"
+        "s1   s2";
+    }
+  }
+  @media (max-width: 480px) {
+    .bento { gap: 12px; }
+  }
+
+  .tile {
+    position: relative;
+    display: flex;
+    flex-direction: column;
     background: var(--surface);
     border: 1px solid var(--line);
     border-radius: var(--radius);
-    padding: 20px 22px;
-    margin-bottom: 26px;
-    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s;
   }
-  .deals-controls.visible { display: flex; }
-  .filter-row {
+  .tile:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: transparent;
+  }
+  .tile-link { position: absolute; inset: 0; z-index: 2; }
+  .tile-media {
+    position: relative;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid var(--line-soft);
+    overflow: hidden;
+  }
+  .tile-media img {
+    width: 100%; height: 100%;
+    object-fit: contain;
+    padding: 12px;
+    transition: transform 0.25s ease;
+  }
+  .tile:hover .tile-media img { transform: scale(1.05); }
+  .tile-media.noimg { background: var(--bg); font-size: 1.7rem; }
+  .tile-pct {
+    position: absolute;
+    top: 10px; left: 10px;
+    font-family: var(--display);
+    font-weight: 800;
+    color: #fff;
+    background: var(--coral);
+    border-radius: 9px;
+    box-shadow: 0 3px 12px -2px rgba(255,75,58,0.55);
+    z-index: 1;
+  }
+  .tile-body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 14px 16px 15px;
+    flex: 1;
+  }
+  .tile-store {
+    align-self: flex-start;
+    font-size: 0.64rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--store-c, var(--muted));
+    background: color-mix(in srgb, var(--store-c, var(--muted)) 10%, #fff);
+    padding: 3px 9px;
+    border-radius: 6px;
+  }
+  .tile-name {
+    font-weight: 600;
+    line-height: 1.38;
+    color: var(--ink);
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .tile-prices { display: flex; align-items: baseline; gap: 9px; flex-wrap: wrap; }
+  .tile-now {
+    font-family: var(--display);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: var(--navy);
+    font-variant-numeric: tabular-nums;
+  }
+  .tile-old {
+    color: var(--faint);
+    text-decoration: line-through;
+    font-variant-numeric: tabular-nums;
+  }
+  .tile-foot {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .tile-saving {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: var(--green);
+    background: var(--green-soft);
+    padding: 3px 9px;
+    border-radius: 6px;
+  }
+  .tile-go { font-size: 0.78rem; font-weight: 700; color: var(--coral); transition: transform 0.15s; }
+  .tile:hover .tile-go { transform: translateX(3px); }
+
+  /* feature tile */
+  .tile.feat .tile-media { height: clamp(220px, 30vw, 330px); }
+  .tile.feat .tile-pct { font-size: 1.25rem; padding: 7px 16px; top: 14px; left: 14px; }
+  .tile.feat .tile-body { padding: 18px 22px 20px; gap: 10px; }
+  .tile.feat .tile-name { font-size: 1.18rem; -webkit-line-clamp: 2; }
+  .tile.feat .tile-now { font-size: 2rem; }
+  .tile.feat .tile-old { font-size: 1rem; }
+  .tile.feat::after {
+    content: 'TOP DEL ESCANEO';
+    position: absolute;
+    top: 14px; right: 14px;
+    font-size: 0.6rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    color: var(--navy);
+    background: #fff;
+    border: 1px solid var(--line);
+    padding: 5px 10px;
+    border-radius: 99px;
+    box-shadow: var(--shadow-sm);
+    z-index: 1;
+  }
+
+  /* medium + small tiles */
+  .tile.med .tile-media { height: clamp(110px, 12vw, 140px); }
+  .tile.med .tile-pct { font-size: 0.82rem; padding: 4px 10px; }
+  .tile.med .tile-name { font-size: 0.86rem; -webkit-line-clamp: 2; }
+  .tile.med .tile-now { font-size: 1.25rem; }
+  .tile.med .tile-old { font-size: 0.8rem; }
+  .tile.med .tile-saving { display: none; }
+
+  /* ───────────────────────── STICKY FILTER BAR ───────────────────────── */
+  .filterbar-wrap {
+    position: sticky;
+    top: var(--nav-h);
+    z-index: 90;
+    background: rgba(250,247,242,0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line);
+    margin-top: clamp(28px, 4vh, 44px);
+    display: none;
+  }
+  .filterbar-wrap.visible { display: block; }
+  .filterbar {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 12px 20px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     gap: 8px 10px;
   }
-  .filter-label {
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    color: var(--faint);
-    min-width: 76px;
-  }
   .filter-btn {
     font-family: var(--sans);
-    font-size: 0.82rem;
+    font-size: 0.8rem;
     font-weight: 500;
-    padding: 7px 15px;
+    padding: 6px 14px;
     border-radius: 99px;
     border: 1px solid var(--line);
-    background: transparent;
+    background: var(--surface);
     color: var(--muted);
     cursor: pointer;
     transition: all 0.15s;
@@ -371,40 +483,25 @@
     color: #fff;
     font-weight: 600;
   }
-  .search-input {
-    font-family: var(--sans);
-    font-size: 0.85rem;
-    padding: 8px 16px;
-    background: var(--bg);
-    border: 1px solid var(--line);
-    color: var(--ink);
-    border-radius: 99px;
-    outline: none;
-    width: 230px;
-    transition: border-color 0.15s, box-shadow 0.15s;
+  .fb-divider { width: 1px; height: 22px; background: var(--line); margin: 0 4px; }
+  .slider-wrap { display: flex; align-items: center; gap: 8px; }
+  .slider-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--faint);
   }
-  .search-input::placeholder { color: var(--faint); }
-  .search-input:focus {
-    border-color: var(--coral);
-    box-shadow: 0 0 0 3px rgba(255,75,58,0.10);
-  }
-  .deals-count {
-    font-size: 0.82rem;
-    color: var(--muted);
-    margin-left: auto;
-  }
-  .deals-count span { color: var(--coral); font-weight: 700; }
-  .slider-wrap { display: flex; align-items: center; gap: 12px; }
   .slider-value {
-    font-size: 0.82rem;
+    font-size: 0.78rem;
     font-weight: 700;
     color: var(--navy);
-    min-width: 52px;
+    min-width: 46px;
   }
   input[type="range"] {
     -webkit-appearance: none;
     appearance: none;
-    width: 170px;
+    width: 120px;
     height: 4px;
     background: var(--line);
     border-radius: 4px;
@@ -414,7 +511,7 @@
   input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
-    width: 17px; height: 17px;
+    width: 16px; height: 16px;
     background: var(--surface);
     border: 2.5px solid var(--coral);
     border-radius: 50%;
@@ -424,143 +521,139 @@
   }
   input[type="range"]::-webkit-slider-thumb:hover { transform: scale(1.18); }
   input[type="range"]::-moz-range-thumb {
-    width: 17px; height: 17px;
+    width: 16px; height: 16px;
     background: var(--surface);
     border: 2.5px solid var(--coral);
     border-radius: 50%;
     cursor: pointer;
   }
-
-  /* ───────────────────────── DEAL CARDS ───────────────────────── */
-  .deals-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
-    gap: 18px;
-  }
-  .deal-card {
-    position: relative;
-    display: flex;
-    flex-direction: column;
+  .search-input {
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    padding: 7px 15px;
     background: var(--surface);
     border: 1px solid var(--line);
-    border-radius: var(--radius);
-    overflow: hidden;
-    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s;
+    color: var(--ink);
+    border-radius: 99px;
+    outline: none;
+    width: 190px;
+    transition: border-color 0.15s, box-shadow 0.15s;
   }
-  .deal-card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-lg);
+  .search-input::placeholder { color: var(--faint); }
+  .search-input:focus {
+    border-color: var(--coral);
+    box-shadow: 0 0 0 3px rgba(255,75,58,0.10);
+  }
+  .deals-count { font-size: 0.8rem; color: var(--muted); margin-left: auto; }
+  .deals-count span { color: var(--coral); font-weight: 700; }
+  @media (max-width: 720px) {
+    .deals-count { margin-left: 0; width: 100%; }
+    .search-input { width: 100%; }
+  }
+
+  /* ───────────────────────── REST FEED (compact rows) ───────────────────────── */
+  .feed-section {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: clamp(22px, 3.5vh, 36px) 20px 0;
+  }
+  .feed-label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--faint);
+    margin-bottom: 16px;
+  }
+  .feed-label::after { content: ''; flex: 1; height: 1px; background: var(--line); }
+  .feed {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(430px, 100%), 1fr));
+    gap: 12px;
+  }
+  .row-card {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s;
+  }
+  .row-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
     border-color: transparent;
   }
-  .deal-media {
-    position: relative;
-    height: 170px;
+  .row-link { position: absolute; inset: 0; z-index: 2; }
+  .row-thumb {
+    width: 62px; height: 62px;
+    flex-shrink: 0;
     background: #fff;
+    border: 1px solid var(--line-soft);
+    border-radius: 9px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-bottom: 1px solid var(--line-soft);
+    overflow: hidden;
   }
-  .deal-media img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    padding: 14px;
-    transition: transform 0.25s ease;
-  }
-  .deal-card:hover .deal-media img { transform: scale(1.045); }
-  .deal-media.noimg {
-    background: var(--bg);
-    color: var(--faint);
-    font-size: 1.8rem;
-  }
-  .deal-pct {
-    position: absolute;
-    top: 10px; left: 10px;
-    font-size: 0.8rem;
-    font-weight: 800;
-    color: #fff;
-    background: var(--coral);
-    padding: 4px 10px;
-    border-radius: 8px;
-    box-shadow: 0 3px 10px -2px rgba(255,75,58,0.5);
-  }
-  .deal-body {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 15px 16px 16px;
-    flex: 1;
-  }
-  .deal-store {
-    align-self: flex-start;
-    font-size: 0.66rem;
-    font-weight: 700;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--store-c, var(--muted));
-    background: color-mix(in srgb, var(--store-c, var(--muted)) 10%, #fff);
-    padding: 3px 9px;
-    border-radius: 6px;
-  }
-  .deal-name {
-    font-size: 0.9rem;
+  .row-thumb img { width: 100%; height: 100%; object-fit: contain; padding: 5px; }
+  .row-thumb.noimg { font-size: 1.15rem; background: var(--bg); }
+  .row-main { flex: 1; min-width: 0; }
+  .row-name {
+    font-size: 0.84rem;
     font-weight: 600;
-    line-height: 1.42;
+    line-height: 1.35;
     color: var(--ink);
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    min-height: 2.55em;
+    margin-bottom: 3px;
   }
-  .deal-prices {
+  .row-sub {
+    font-size: 0.72rem;
+    color: var(--faint);
     display: flex;
-    align-items: baseline;
-    gap: 9px;
-    flex-wrap: wrap;
+    align-items: center;
+    gap: 7px;
   }
-  .deal-price-now {
+  .row-store { font-weight: 700; color: var(--store-c, var(--muted)); text-transform: uppercase; font-size: 0.66rem; letter-spacing: 0.05em; }
+  .row-saving { color: var(--green); font-weight: 600; }
+  .row-right {
+    text-align: right;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 3px;
+  }
+  .row-now {
     font-family: var(--display);
-    font-size: 1.35rem;
+    font-size: 1.05rem;
     font-weight: 800;
-    letter-spacing: -0.02em;
     color: var(--navy);
     font-variant-numeric: tabular-nums;
+    line-height: 1.1;
   }
-  .deal-price-old {
-    font-size: 0.83rem;
+  .row-old {
+    font-size: 0.72rem;
     color: var(--faint);
     text-decoration: line-through;
     font-variant-numeric: tabular-nums;
   }
-  .deal-foot {
-    margin-top: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 8px;
-    padding-top: 4px;
-  }
-  .deal-saving {
-    font-size: 0.76rem;
-    font-weight: 600;
-    color: var(--green);
-    background: var(--green-soft);
-    padding: 3px 9px;
-    border-radius: 6px;
-  }
-  .deal-go {
-    font-size: 0.8rem;
-    font-weight: 700;
+  .row-pct {
+    font-size: 0.72rem;
+    font-weight: 800;
     color: var(--coral);
-    transition: transform 0.15s;
-  }
-  .deal-card:hover .deal-go { transform: translateX(3px); }
-  .deal-link {
-    position: absolute;
-    inset: 0;
-    z-index: 1;
+    background: var(--coral-soft);
+    padding: 2px 8px;
+    border-radius: 6px;
   }
 
   /* ───────────────────────── PAGINATION ───────────────────────── */
@@ -569,7 +662,7 @@
     justify-content: center;
     align-items: center;
     gap: 6px;
-    margin-top: 30px;
+    margin-top: 26px;
     flex-wrap: wrap;
   }
   .page-btn {
@@ -596,16 +689,29 @@
   .page-ellipsis { color: var(--faint); font-size: 0.85rem; padding: 0 2px; }
 
   /* ───────────────────────── STATES / META ───────────────────────── */
-  .skeleton-grid {
+  .skeleton-bento {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(248px, 1fr));
-    gap: 18px;
+    grid-template-columns: 1.3fr 0.7fr 0.7fr;
+    grid-template-rows: 210px 190px;
+    grid-template-areas: "feat m1 m2" "feat s1 s2";
+    gap: 16px;
+  }
+  .skeleton-bento > :nth-child(1) { grid-area: feat; }
+  .skeleton-bento > :nth-child(2) { grid-area: m1; }
+  .skeleton-bento > :nth-child(3) { grid-area: m2; }
+  .skeleton-bento > :nth-child(4) { grid-area: s1; }
+  .skeleton-bento > :nth-child(5) { grid-area: s2; }
+  @media (max-width: 900px) {
+    .skeleton-bento {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 260px 180px 180px;
+      grid-template-areas: "feat feat" "m1 m2" "s1 s2";
+    }
   }
   .skeleton-card {
     background: var(--surface);
     border: 1px solid var(--line);
     border-radius: var(--radius);
-    height: 340px;
     position: relative;
     overflow: hidden;
   }
@@ -638,7 +744,36 @@
     text-align: right;
   }
 
-  /* ───────────────────────── STEPS ───────────────────────── */
+  /* ───────────────────────── SECTIONS (bottom) ───────────────────────── */
+  .section {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: clamp(56px, 9vh, 92px) 20px 0;
+  }
+  .section-head { max-width: 640px; margin-bottom: 38px; }
+  .section-head.center { margin-left: auto; margin-right: auto; text-align: center; }
+  .section-label {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--coral);
+    background: var(--coral-soft);
+    padding: 5px 13px;
+    border-radius: 99px;
+    margin-bottom: 16px;
+  }
+  .section-title {
+    font-family: var(--display);
+    font-size: clamp(1.65rem, 4vw, 2.4rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.12;
+    margin-bottom: 12px;
+  }
+  .section-sub { color: var(--muted); font-size: 0.98rem; }
+
   .steps {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -667,14 +802,12 @@
   }
   .step h3 {
     font-family: var(--display);
-    font-size: 1.12rem;
+    font-size: 1.1rem;
     font-weight: 700;
-    letter-spacing: -0.01em;
     margin-bottom: 8px;
   }
   .step p { font-size: 0.88rem; color: var(--muted); }
 
-  /* ───────────────────────── TRUST / FEATURES ───────────────────────── */
   .features {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -701,7 +834,7 @@
   }
   .feature h3 {
     font-family: var(--display);
-    font-size: 1.05rem;
+    font-size: 1.04rem;
     font-weight: 700;
     margin-bottom: 8px;
   }
@@ -714,12 +847,11 @@
   }
   .feature .vs s { opacity: 0.75; }
 
-  /* ───────────────────────── STATS BAND ───────────────────────── */
   .stats-band {
-    margin-top: clamp(56px, 9vh, 96px);
+    margin-top: clamp(56px, 9vh, 92px);
     background: var(--navy);
     color: #fff;
-    padding: clamp(48px, 8vh, 80px) 20px;
+    padding: clamp(48px, 8vh, 76px) 20px;
   }
   .stats {
     max-width: 1000px;
@@ -731,14 +863,13 @@
   }
   .stat-num {
     font-family: var(--display);
-    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    font-size: clamp(2.2rem, 5vw, 3.1rem);
     font-weight: 800;
     letter-spacing: -0.03em;
     display: block;
     color: #fff;
     font-variant-numeric: tabular-nums;
   }
-  .stat-num .accent { color: var(--coral); }
   .stat-label {
     font-size: 0.8rem;
     color: rgba(255,255,255,0.55);
@@ -746,20 +877,19 @@
     display: block;
   }
 
-  /* ───────────────────────── CTA BOTTOM ───────────────────────── */
   .cta-bottom {
     text-align: center;
-    padding: clamp(64px, 10vh, 110px) 20px;
+    padding: clamp(60px, 10vh, 104px) 20px;
   }
   .cta-bottom h2 {
     font-family: var(--display);
-    font-size: clamp(1.9rem, 5vw, 3.2rem);
+    font-size: clamp(1.9rem, 5vw, 3.1rem);
     font-weight: 800;
     letter-spacing: -0.035em;
     line-height: 1.08;
     margin-bottom: 14px;
   }
-  .cta-bottom p { color: var(--muted); margin-bottom: 32px; }
+  .cta-bottom p { color: var(--muted); margin-bottom: 30px; }
   .btn-primary {
     display: inline-flex;
     align-items: center;
@@ -780,11 +910,10 @@
     box-shadow: 0 12px 30px -6px rgba(255,75,58,0.5);
   }
 
-  /* ───────────────────────── FOOTER ───────────────────────── */
   footer {
     background: var(--navy);
     color: rgba(255,255,255,0.6);
-    padding: 34px clamp(16px, 4vw, 40px);
+    padding: 32px clamp(16px, 4vw, 40px);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -794,7 +923,6 @@
   footer .logo { color: #fff; }
   footer p { font-size: 0.8rem; }
 
-  /* ───────────────────────── REVEAL ───────────────────────── */
   .reveal {
     opacity: 0;
     transform: translateY(22px);
@@ -814,20 +942,6 @@
     *, *::before, *::after { animation: none !important; transition: none !important; }
     .reveal { opacity: 1; transform: none; }
   }
-
-  /* ───────────────────────── RESPONSIVE ───────────────────────── */
-  @media (max-width: 640px) {
-    .filter-label { min-width: 100%; }
-    .search-input { width: 100%; }
-    .deals-count { margin-left: 0; width: 100%; }
-    input[type="range"] { width: 130px; }
-    .deals-grid, .skeleton-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
-    .deal-media { height: 130px; }
-    .deal-name { font-size: 0.82rem; }
-    .deal-price-now { font-size: 1.15rem; }
-    .hero-search button { padding: 11px 18px; }
-    footer { flex-direction: column; align-items: flex-start; }
-  }
 </style>
 </head>
 <body>
@@ -836,24 +950,27 @@
   <a class="logo" href="#">Hack<em>The</em>Price</a>
   <div class="nav-right">
     <span class="nav-live">Live</span>
-    <a class="nav-cta" href="#ofertas-live">Ver ofertas</a>
+    <a class="nav-cta" href="#portada">Ver ofertas</a>
   </div>
 </nav>
 
-<section class="hero">
-  <div class="hero-badge">Escaneo automático cada <b>hora</b> · <b>6</b> tiendas de España</div>
-  <h1>Los descuentos <em>reales</em><br>de España, detectados<br>automáticamente.</h1>
-  <p class="subtitle">
-    Monitorizamos los precios de las grandes tiendas online españolas y solo
-    publicamos ofertas con descuento verificado. Cero spam, cero fake deals.
-  </p>
-  <form class="hero-search" id="hero-search">
-    <input type="text" id="hero-search-input" placeholder="Busca un producto… (TV, freidora, portátil…)" autocomplete="off">
-    <button type="submit">Buscar</button>
-  </form>
-  <p class="hero-meta"><b id="hero-deal-count">…</b> ofertas activas ahora mismo ↓</p>
-  <div class="hero-stores" id="hero-stores"></div>
-</section>
+<header class="masthead">
+  <div class="masthead-left">
+    <div class="kicker"><span class="rule"></span>Portada del ahorro · <span id="masthead-date">edición en vivo</span></div>
+    <h1>Cada hora, una <em>portada</em> nueva de descuentos reales.</h1>
+    <p class="subtitle">
+      Escaneamos las grandes tiendas online de España y componemos esta página
+      automáticamente con los mejores descuentos verificados del momento.
+    </p>
+  </div>
+  <div class="masthead-right">
+    <form class="hero-search" id="hero-search">
+      <input type="text" id="hero-search-input" placeholder="Busca un producto…" autocomplete="off">
+      <button type="submit">Buscar</button>
+    </form>
+    <p class="hero-meta"><b id="hero-deal-count">…</b> ofertas activas ahora mismo</p>
+  </div>
+</header>
 
 <div class="ticker-wrap">
   <div class="ticker" id="ticker">
@@ -870,52 +987,45 @@
   </div>
 </div>
 
-<section class="section" id="ofertas-live">
-  <div class="section-head reveal">
-    <span class="section-label">Ofertas en vivo</span>
-    <h2 class="section-title">Detectadas en el último escaneo.</h2>
-    <p class="section-sub">Cada oferta muestra el precio tachado publicado por la propia tienda. Si la tienda no marca descuento, no aparece aquí.</p>
+<section class="portada" id="portada">
+  <div class="portada-label"><b>En portada</b> los mayores descuentos del último escaneo</div>
+  <div id="bento-container">
+    <div class="skeleton-bento">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
   </div>
+</section>
 
-  <div class="deals-controls" id="deals-controls">
-    <div class="filter-row">
-      <span class="filter-label">Tienda</span>
-      <div id="store-filters" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
-      <span class="deals-count" id="deals-count"></span>
+<div class="filterbar-wrap" id="filterbar-wrap">
+  <div class="filterbar">
+    <div id="store-filters" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
+    <span class="fb-divider"></span>
+    <div class="slider-wrap">
+      <span class="slider-label">Precio</span>
+      <input type="range" id="price-slider" min="1" max="2000" value="2000" step="1">
+      <span class="slider-value" id="price-value">Todos</span>
     </div>
-    <div class="filter-row">
-      <span class="filter-label">Precio</span>
-      <div class="slider-wrap">
-        <input type="range" id="price-slider" min="1" max="2000" value="2000" step="1">
-        <span class="slider-value" id="price-value">Todos</span>
-      </div>
-      <span class="filter-label" style="min-width:auto;margin-left:14px;">Descuento</span>
-      <div class="slider-wrap">
-        <input type="range" id="discount-slider" min="1" max="80" value="1" step="1">
-        <span class="slider-value" id="discount-value">1%+</span>
-      </div>
+    <div class="slider-wrap">
+      <span class="slider-label">Dto</span>
+      <input type="range" id="discount-slider" min="1" max="80" value="1" step="1">
+      <span class="slider-value" id="discount-value">1%+</span>
     </div>
-    <div class="filter-row">
-      <span class="filter-label">Ordenar</span>
-      <button class="filter-btn active" data-sort="discount">Mayor descuento</button>
-      <button class="filter-btn" data-sort="saving">Mayor ahorro €</button>
-      <button class="filter-btn" data-sort="price-asc">Menor precio</button>
-      <input class="search-input" id="search-input" type="text" placeholder="Buscar producto…">
-    </div>
+    <span class="fb-divider"></span>
+    <button class="filter-btn active" data-sort="discount">Mayor dto</button>
+    <button class="filter-btn" data-sort="saving">Mayor ahorro</button>
+    <button class="filter-btn" data-sort="price-asc">Menor precio</button>
+    <input class="search-input" id="search-input" type="text" placeholder="Buscar…">
+    <span class="deals-count" id="deals-count"></span>
   </div>
+</div>
 
-  <div id="deals-container">
-    <div class="skeleton-grid">
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-    </div>
-  </div>
+<section class="feed-section" id="ofertas-live">
+  <div class="feed-label" id="feed-label">Resto del escaneo</div>
+  <div id="deals-container"></div>
   <div class="pagination" id="pagination"></div>
   <p class="deals-meta" id="deals-meta"></p>
 </section>
@@ -938,8 +1048,8 @@
     </div>
     <div class="step reveal" data-delay="3">
       <span class="step-num">03</span>
-      <h3>Publicamos</h3>
-      <p>Las ofertas aparecen aquí al instante, ordenadas por descuento. Filtra, busca y compra al mejor precio.</p>
+      <h3>Componemos la portada</h3>
+      <p>Los mayores descuentos suben a portada automáticamente, como en un periódico. Cada escaneo, una edición nueva.</p>
     </div>
   </div>
 </section>
@@ -977,12 +1087,12 @@
     <div class="feature reveal" data-delay="2">
       <span class="feature-icon">🔍</span>
       <h3>Filtros potentes</h3>
-      <p>Filtra por tienda, precio máximo y descuento mínimo. Encuentra exactamente lo que buscas en segundos.</p>
+      <p>Filtra por tienda, precio máximo y descuento mínimo. La portada se recompone al instante con tu selección.</p>
     </div>
     <div class="feature reveal" data-delay="3">
       <span class="feature-icon">⚡</span>
       <h3>Siempre actualizado</h3>
-      <p>Cada hora se regenera la lista completa. Lo que ves está en oferta ahora — no ayer, no la semana pasada.</p>
+      <p>Cada hora se regenera la edición completa. Lo que ves está en oferta ahora — no ayer, no la semana pasada.</p>
     </div>
   </div>
 </section>
@@ -1003,15 +1113,15 @@
     </div>
     <div class="stat reveal" data-delay="3">
       <span class="stat-num" data-count="24" data-suffix="×">0</span>
-      <span class="stat-label">Escaneos al día</span>
+      <span class="stat-label">Ediciones al día</span>
     </div>
   </div>
 </div>
 
 <section class="cta-bottom">
-  <h2 class="reveal">Empieza a ahorrar<br>hoy mismo.</h2>
-  <p class="reveal" data-delay="1">Actualización automática cada hora. Solo deals reales verificados.</p>
-  <a href="#ofertas-live" class="btn-primary reveal" data-delay="2">Ver todas las ofertas →</a>
+  <h2 class="reveal">La próxima edición<br>sale en menos de una hora.</h2>
+  <p class="reveal" data-delay="1">Actualización automática. Solo deals reales verificados.</p>
+  <a href="#portada" class="btn-primary reveal" data-delay="2">Ver la portada de ahora →</a>
 </section>
 
 <footer>
@@ -1032,7 +1142,8 @@ const STORE_COLORS = {
 
 const ALL_STORES = ['PcComponentes', 'MediaMarkt', 'Carrefour', 'GAME', 'Coolmod', 'Worten'];
 
-const ITEMS_PER_PAGE = 12;
+const BENTO_COUNT    = 5;
+const ITEMS_PER_PAGE = 16;
 
 let allDeals    = [];
 let activeStore = 'all';
@@ -1051,33 +1162,70 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
-function renderDeal(d) {
-  const color  = STORE_COLORS[d.store] || '#5C6684';
-  const saving = (d.original_price - d.current_price).toFixed(2);
-  const media  = d.image_url
-    ? `<div class="deal-media">
+function tileMedia(d, cls) {
+  const pct = `<span class="tile-pct">-${Math.round(d.discount_pct)}%</span>`;
+  return d.image_url
+    ? `<div class="tile-media ${cls}">
          <img src="${escapeHtml(d.image_url)}" alt="" loading="lazy"
               onerror="this.parentElement.classList.add('noimg');this.remove();">
-         <span class="deal-pct">-${Math.round(d.discount_pct)}%</span>
+         ${pct}
        </div>`
-    : `<div class="deal-media noimg">🛍️<span class="deal-pct">-${Math.round(d.discount_pct)}%</span></div>`;
+    : `<div class="tile-media ${cls} noimg">🛍️${pct}</div>`;
+}
+
+function renderTile(d, sizeClass) {
+  const color  = STORE_COLORS[d.store] || '#5C6684';
+  const saving = (d.original_price - d.current_price).toFixed(2);
   return `
-  <article class="deal-card">
-    ${media}
-    <div class="deal-body">
-      <span class="deal-store" style="--store-c:${color}">${escapeHtml(d.store)}</span>
-      <h3 class="deal-name">${escapeHtml(d.name)}</h3>
-      <div class="deal-prices">
-        <span class="deal-price-now">${d.current_price.toFixed(2)} €</span>
-        <span class="deal-price-old">${d.original_price.toFixed(2)} €</span>
+  <article class="tile ${sizeClass}">
+    ${tileMedia(d, '')}
+    <div class="tile-body">
+      <span class="tile-store" style="--store-c:${color}">${escapeHtml(d.store)}</span>
+      <h3 class="tile-name">${escapeHtml(d.name)}</h3>
+      <div class="tile-prices">
+        <span class="tile-now">${d.current_price.toFixed(2)} €</span>
+        <span class="tile-old">${d.original_price.toFixed(2)} €</span>
       </div>
-      <div class="deal-foot">
-        <span class="deal-saving">Ahorras ${saving} €</span>
-        <span class="deal-go">Ver oferta →</span>
+      <div class="tile-foot">
+        <span class="tile-saving">Ahorras ${saving} €</span>
+        <span class="tile-go">Ver oferta →</span>
       </div>
     </div>
-    <a class="deal-link" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(d.name)}"></a>
+    <a class="tile-link" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(d.name)}"></a>
   </article>`;
+}
+
+function renderRow(d) {
+  const color  = STORE_COLORS[d.store] || '#5C6684';
+  const saving = (d.original_price - d.current_price).toFixed(2);
+  const thumb  = d.image_url
+    ? `<div class="row-thumb"><img src="${escapeHtml(d.image_url)}" alt="" loading="lazy"
+         onerror="this.parentElement.classList.add('noimg');this.remove();"></div>`
+    : `<div class="row-thumb noimg">🛍️</div>`;
+  return `
+  <article class="row-card">
+    ${thumb}
+    <div class="row-main">
+      <p class="row-name">${escapeHtml(d.name)}</p>
+      <p class="row-sub">
+        <span class="row-store" style="--store-c:${color}">${escapeHtml(d.store)}</span>
+        <span class="row-saving">Ahorras ${saving} €</span>
+      </p>
+    </div>
+    <div class="row-right">
+      <span class="row-now">${d.current_price.toFixed(2)} €</span>
+      <span class="row-old">${d.original_price.toFixed(2)} €</span>
+      <span class="row-pct">-${Math.round(d.discount_pct)}%</span>
+    </div>
+    <a class="row-link" href="${escapeHtml(d.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(d.name)}"></a>
+  </article>`;
+}
+
+function renderBento(top) {
+  const el = document.getElementById('bento-container');
+  if (top.length === 0) { el.innerHTML = ''; return; }
+  const sizes = ['feat', 'med', 'med', 'med', 'med'];
+  el.innerHTML = `<div class="bento">${top.map((d, i) => renderTile(d, sizes[i])).join('')}</div>`;
 }
 
 function renderPagination(totalPages) {
@@ -1134,21 +1282,33 @@ function applyFilters(resetPage = true) {
   else if (activeSort === 'price-asc')
     deals.sort((a, b) => a.current_price - b.current_price);
 
-  const totalPages = Math.max(1, Math.ceil(deals.length / ITEMS_PER_PAGE));
+  const top  = deals.slice(0, BENTO_COUNT);
+  const rest = deals.slice(BENTO_COUNT);
+
+  renderBento(top);
+
+  const totalPages = Math.max(1, Math.ceil(rest.length / ITEMS_PER_PAGE));
   currentPage      = Math.min(currentPage, totalPages);
   const start      = (currentPage - 1) * ITEMS_PER_PAGE;
-  const pageDeals  = deals.slice(start, start + ITEMS_PER_PAGE);
+  const pageDeals  = rest.slice(start, start + ITEMS_PER_PAGE);
 
   const container = document.getElementById('deals-container');
   const countEl   = document.getElementById('deals-count');
+  const feedLabel = document.getElementById('feed-label');
 
   if (deals.length === 0) {
     container.innerHTML = '<div class="deals-empty"><span class="state-icon">🔍</span>No hay ofertas que cumplan estos filtros en este momento.</div>';
+    feedLabel.style.display = 'none';
+  } else if (rest.length === 0) {
+    container.innerHTML = '';
+    feedLabel.style.display = 'none';
   } else {
-    container.innerHTML = `<div class="deals-grid">${pageDeals.map(renderDeal).join('')}</div>`;
+    container.innerHTML = `<div class="feed">${pageDeals.map(renderRow).join('')}</div>`;
+    feedLabel.style.display = '';
+    feedLabel.textContent = `Resto del escaneo · ${rest.length} ofertas más`;
   }
   countEl.innerHTML = `<span>${deals.length}</span> oferta${deals.length !== 1 ? 's' : ''}`;
-  renderPagination(totalPages);
+  renderPagination(rest.length === 0 ? 1 : totalPages);
 }
 
 function buildStoreFilters() {
@@ -1168,13 +1328,6 @@ function buildStoreFilters() {
       applyFilters();
     });
   });
-}
-
-function buildHeroStores() {
-  const el = document.getElementById('hero-stores');
-  el.innerHTML = ALL_STORES.map(s =>
-    `<span class="hero-store"><i style="--dot:${STORE_COLORS[s]}"></i>${escapeHtml(s)}</span>`
-  ).join('');
 }
 
 function updateTicker(deals) {
@@ -1236,7 +1389,7 @@ document.getElementById('hero-search').addEventListener('submit', e => {
   searchQuery = q.toLowerCase().trim();
   document.getElementById('search-input').value = q;
   applyFilters();
-  document.getElementById('ofertas-live').scrollIntoView({ behavior: 'smooth' });
+  document.getElementById('portada').scrollIntoView({ behavior: 'smooth' });
 });
 
 const discountSlider = document.getElementById('discount-slider');
@@ -1261,8 +1414,6 @@ priceSlider.addEventListener('input', () => {
   applyFilters();
 });
 
-buildHeroStores();
-
 /* ── Data load ── */
 fetch('./deals.json?t=' + Date.now())
   .then(r => r.json())
@@ -1270,7 +1421,7 @@ fetch('./deals.json?t=' + Date.now())
     const meta = document.getElementById('deals-meta');
 
     if (!data.deals || data.deals.length === 0) {
-      document.getElementById('deals-container').innerHTML =
+      document.getElementById('bento-container').innerHTML =
         '<div class="deals-empty"><span class="state-icon">⏳</span>No hay ofertas activas ahora mismo.<br>Vuelve más tarde — el sistema escanea cada hora.</div>';
       document.getElementById('hero-deal-count').textContent = '0';
       return;
@@ -1290,18 +1441,23 @@ fetch('./deals.json?t=' + Date.now())
     maxPrice = Infinity;
     priceLabel.textContent = 'Todos';
 
-    document.getElementById('deals-controls').classList.add('visible');
+    document.getElementById('filterbar-wrap').classList.add('visible');
     buildStoreFilters();
     applyFilters();
     updateTicker(allDeals);
 
     if (data.updated) {
       const d = new Date(data.updated);
+      const dateStr = d.toLocaleString('es-ES', {
+        timeZone: 'Europe/Madrid',
+        day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit',
+      });
+      document.getElementById('masthead-date').textContent = `edición del ${dateStr}`;
       meta.textContent = `Actualizado: ${d.toLocaleString('es-ES', { timeZone: 'Europe/Madrid' })}`;
     }
   })
   .catch(() => {
-    document.getElementById('deals-container').innerHTML =
+    document.getElementById('bento-container').innerHTML =
       '<div class="deals-error"><span class="state-icon">⚠️</span>Datos no disponibles en este momento.<br>Inténtalo de nuevo más tarde.</div>';
   });
 </script>
