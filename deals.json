@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T13:35:32.799763+00:00",
-  "total_products": 2554,
+  "updated": "2026-07-08T13:57:20.221853+00:00",
+  "total_products": 2701,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack HDC 12 Nickel - Accesorio Racor",
@@ -9,7 +9,7 @@
       "current_price": 2.95,
       "original_price": 49.95,
       "discount_pct": 94.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -26,7 +26,7 @@
       "current_price": 7.95,
       "original_price": 99.95,
       "discount_pct": 92.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         7.95
@@ -43,7 +43,7 @@
       "current_price": 5.95,
       "original_price": 49.95,
       "discount_pct": 88.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         5.95
@@ -60,7 +60,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         0.95
@@ -77,7 +77,7 @@
       "current_price": 6.95,
       "original_price": 49.95,
       "discount_pct": 86.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         6.95
@@ -98,6 +98,23 @@
       "category": null,
       "price_history": [
         9.87
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cinta de correr Merach 3 en 1, Bluetooth, LED, compatible con APP, 2,5 CV, mando a distancia magnético, superficie de carrera 109 x 47 cm, negro",
+      "url": "https://www.worten.es/productos/cinta-de-correr-merach-3-en-1-bluetooth-led-compatible-con-app-2-5-cv-mando-a-distancia-magnetico-superficie-de-carrera-109-x-47-cm-negro-mrkean-6978235144070",
+      "store": "Worten",
+      "current_price": 102.99,
+      "original_price": 459.99,
+      "discount_pct": 77.61,
+      "image_url": "https://www.worten.es/i/c20aab33574c6d5e2bbbc5873cfa3ce1f39a2d70",
+      "category": null,
+      "price_history": [
+        102.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -145,7 +162,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         1.95
@@ -417,7 +434,7 @@
       "current_price": 2.95,
       "original_price": 9.95,
       "discount_pct": 70.35,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -649,6 +666,40 @@
       "drop_pct": null
     },
     {
+      "name": "Monitor Doppler fetal, monitor de frecuencia cardíaca para bebés, rosa Stelasplen",
+      "url": "https://www.worten.es/productos/monitor-doppler-fetal-monitor-de-frecuencia-cardiaca-para-bebes-rosa-stelasplen-mrkean-9054929228534",
+      "store": "Worten",
+      "current_price": 20.72,
+      "original_price": 62.16,
+      "discount_pct": 66.67,
+      "image_url": "https://www.worten.es/i/afa9641131d532055b7a8fd5387ab36d4eb63797",
+      "category": null,
+      "price_history": [
+        20.72
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Nevera portátil eléctrica 2 en 1, 220 V para uso doméstico/12 V para coche, capacidad de 1,5 litros, 40 W de potencia, color gris Stelasplen",
+      "url": "https://www.worten.es/productos/nevera-portatil-electrica-2-en-1-220-v-para-uso-domestico-12-v-para-coche-capacidad-de-1-5-litros-40-w-de-potencia-color-gris-stelasplen-mrkean-9054929241212",
+      "store": "Worten",
+      "current_price": 32.46,
+      "original_price": 97.38,
+      "discount_pct": 66.67,
+      "image_url": "https://www.worten.es/i/954d25b65b0a5ed072f457853929d624616d4f18",
+      "category": null,
+      "price_history": [
+        32.46
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Samsung Galaxy Watch7 40mm Bluetooth Reloj Smartwatch Verde",
       "url": "https://www.pccomponentes.com/samsung-galaxy-watch7-40mm-bluetooth-reloj-smartwatch-verde",
       "store": "PcComponentes",
@@ -659,6 +710,57 @@
       "category": "Móviles",
       "price_history": [
         169.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Remo Electromagnético MERACH, 16 Niveles, APP Conectado, BLUETOOTH, Pantalla LED, 150kg, Asiento Regulable, Plegable, Entrenamiento Completo",
+      "url": "https://www.worten.es/productos/remo-electromagnetico-merach-16-niveles-app-conectado-bluetooth-pantalla-led-150kg-asiento-regulable-plegable-entrenamiento-completo-mrkean-6976326389997",
+      "store": "Worten",
+      "current_price": 239.99,
+      "original_price": 689.99,
+      "discount_pct": 65.22,
+      "image_url": "https://www.worten.es/i/f662f2e77e13e0bab99ac6a1a4191827720300f0",
+      "category": null,
+      "price_history": [
+        239.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Mesa Bistró,redonda,jardín,ratán,apoyo,50x50x50cm,beige",
+      "url": "https://www.worten.es/productos/mesa-bistro-redonda-jardin-ratan-apoyo-50x50x50cm-beige-mrkean-7846952240353",
+      "store": "Worten",
+      "current_price": 16.23,
+      "original_price": 46.5,
+      "discount_pct": 65.1,
+      "image_url": "https://www.worten.es/i/2955b5e8a84f5de2fd3a8e3b24bf81103f534919",
+      "category": null,
+      "price_history": [
+        16.23
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Correa Garmin (22 mm) - Acero inoxidable milanés - Hebilla negra independiente",
+      "url": "https://www.worten.es/productos/correa-garmin-22-mm-acero-inoxidable-milanes-hebilla-negra-independiente-mrkean-7040583545751",
+      "store": "Worten",
+      "current_price": 16.1,
+      "original_price": 46.06,
+      "discount_pct": 65.05,
+      "image_url": "https://www.worten.es/i/3a1f18fd4b81a328e12dd66ba83574292468069a",
+      "category": null,
+      "price_history": [
+        16.1
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -774,7 +876,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -791,10 +893,27 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         2.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Panel solar portátil plegable OUKITEL Pv400 400W con soporte 23% tasa de conversión de energía IP65 a prueba de agua",
+      "url": "https://www.worten.es/productos/panel-solar-portatil-plegable-oukitel-pv400-400w-con-soporte-23-tasa-de-conversion-de-energia-ip65-a-prueba-de-agua-mrkean-0730849614143",
+      "store": "Worten",
+      "current_price": 299.0,
+      "original_price": 799.99,
+      "discount_pct": 62.62,
+      "image_url": "https://www.worten.es/i/7a4f65713c08b54b49bd838bd092d188ac3d576b",
+      "category": null,
+      "price_history": [
+        299.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -927,7 +1046,7 @@
       "current_price": 8.95,
       "original_price": 22.95,
       "discount_pct": 61.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         8.95
@@ -1108,6 +1227,23 @@
       "drop_pct": null
     },
     {
+      "name": "Autoradio Multimedia ROVERONE para Hyundai i20 2 II GB 2014 - 2018 CarPlay Android Coche Radio Bluetooth Navegación",
+      "url": "https://www.worten.es/productos/autoradio-multimedia-roverone-para-hyundai-i20-2-ii-gb-2014-2018-carplay-android-coche-radio-bluetooth-navegacion-mrkean-0732122268401",
+      "store": "Worten",
+      "current_price": 199.99,
+      "original_price": 498.0,
+      "discount_pct": 59.84,
+      "image_url": "https://www.worten.es/i/93c967cedefe85f2c60135e5a293eee9e5e13afd",
+      "category": null,
+      "price_history": [
+        199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Amazon Alexa Echo Dot Generación 3 Negro Antracita",
       "url": "https://www.worten.es/productos/amazon-alexa-echo-dot-generacion-3-negro-antracita-mrkean-4102179990154",
       "store": "Worten",
@@ -1233,7 +1369,7 @@
       "current_price": 85.95,
       "original_price": 199.95,
       "discount_pct": 57.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         85.95
@@ -1720,6 +1856,74 @@
       "drop_pct": null
     },
     {
+      "name": "Funda protectora de TPU para auriculares AirPods 4 con diseño de astronauta",
+      "url": "https://www.worten.es/productos/funda-protectora-de-tpu-para-auriculares-airpods-4-con-diseno-de-astronauta-mrkean-6918022682057",
+      "store": "Worten",
+      "current_price": 16.34,
+      "original_price": 36.31,
+      "discount_pct": 55.0,
+      "image_url": "https://www.worten.es/i/ca0cf592224750e0a4e4c508cd68005e209688d9",
+      "category": null,
+      "price_history": [
+        16.34
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Receptor Amplificador De Audio Estéreo Ak45, 300wx2 Home Dual Channel Bluetooth 5.0 Amplificador De Audio Doméstico Con Control Remoto Gusshious",
+      "url": "https://www.worten.es/productos/receptor-amplificador-de-audio-estereo-ak45-300wx2-home-dual-channel-bluetooth-5-0-amplificador-de-audio-domestico-con-control-remoto-gusshious-mrkean-6292338061943",
+      "store": "Worten",
+      "current_price": 39.73,
+      "original_price": 88.29,
+      "discount_pct": 55.0,
+      "image_url": "https://www.worten.es/i/a251307e960ca92cf85ffd478b74aefb0401c1c8",
+      "category": null,
+      "price_history": [
+        39.73
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Insecticida QUIMUNSA Diptron Etofenprox",
+      "url": "https://www.worten.es/productos/insecticida-quimunsa-diptron-etofenprox-mrkean-8421341105247",
+      "store": "Worten",
+      "current_price": 49.9,
+      "original_price": 110.34,
+      "discount_pct": 54.78,
+      "image_url": "https://www.worten.es/i/101625a256316328d0c5a0b0bb97155def83e4fd",
+      "category": null,
+      "price_history": [
+        49.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Placa de Inducción AEG TN63IV00CT SaphirMatt (Eléctrica - 58 cm - Negro Mate)",
+      "url": "https://www.worten.es/productos/placa-de-induccion-aeg-tn63iv00ct-saphirmatt-electrica-58-cm-negro-mate-8605916",
+      "store": "Worten",
+      "current_price": 388.65,
+      "original_price": 848.28,
+      "discount_pct": 54.18,
+      "image_url": "https://www.worten.es/i/04520798300857fb881fc8cefddc83780ae24422",
+      "category": null,
+      "price_history": [
+        388.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Roborock QR 598 Robot Aspirador Friegasuelos con Autovaciado Negro",
       "url": "https://www.pccomponentes.com/roborock-qr-598-robot-aspirador-friegasuelos-con-autovaciado-negro",
       "store": "PcComponentes",
@@ -1890,6 +2094,23 @@
       "drop_pct": null
     },
     {
+      "name": "Colchón MOONIA Viscoelástica Regal Prime (27 cm - 160x200cm)",
+      "url": "https://www.worten.es/productos/colchon-moonia-viscoelastica-regal-prime-27-cm-160x200cm-mrkean-8445027292588",
+      "store": "Worten",
+      "current_price": 289.99,
+      "original_price": 619.0,
+      "discount_pct": 53.15,
+      "image_url": "https://www.worten.es/i/3ea2c723ce8d7fd2af02e07edbf4533809247a22",
+      "category": null,
+      "price_history": [
+        289.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "HyperX Cloud III S Auriculares Gaming Inalámbricos + Pulsefire Haste 2 Wireless Ratón Gaming 26000DPI",
       "url": "https://www.pccomponentes.com/hyperx-cloud-iii-s-auriculares-gaming-inalambricos-plus-pulsefire-haste-2-wireless-raton-gaming-26000dpi",
       "store": "PcComponentes",
@@ -2009,13 +2230,30 @@
       "drop_pct": null
     },
     {
+      "name": "Repetidor de Señal TP-LINK RE505X AX1500",
+      "url": "https://www.worten.es/productos/repetidor-de-senal-tp-link-re505x-ax1500-7161088",
+      "store": "Worten",
+      "current_price": 44.99,
+      "original_price": 94.99,
+      "discount_pct": 52.64,
+      "image_url": "https://www.worten.es/i/2800b5f3146973b045a11e14fc9ce827a00c0a8c",
+      "category": null,
+      "price_history": [
+        44.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Dicota Slim Eco Base 13 - 14.1 Negro",
       "url": "https://www.coolmod.com/dicota-slim-eco-base-13-14-1-negro/",
       "store": "Coolmod",
       "current_price": 9.95,
       "original_price": 20.95,
       "discount_pct": 52.51,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033206_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033206_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         9.95
@@ -2094,23 +2332,6 @@
       "drop_pct": null
     },
     {
-      "name": "Placa Flex de Inducción AEG ILB63445FB (Eléctrica -  59 cm - Negro)",
-      "url": "https://www.worten.es/productos/placa-flex-de-induccion-aeg-ilb63445fb-electrica-59-cm-negro-7404715",
-      "store": "Worten",
-      "current_price": 279.98,
-      "original_price": 579.99,
-      "discount_pct": 51.73,
-      "image_url": "https://www.worten.es/i/be7cc3506409174fc53e8f928660ff6295fd8625",
-      "category": null,
-      "price_history": [
-        279.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Cocina BECKEN 6060 BGS4506N WH (64 L - Gas Butano-Propano - Blanco)",
       "url": "https://www.worten.es/productos/cocina-becken-6060-bgs4506n-wh-64-l-gas-butano-propano-blanco-7704707",
       "store": "Worten",
@@ -2179,6 +2400,23 @@
       "drop_pct": null
     },
     {
+      "name": "Helen Seward Quick&Easy Velvet Past",
+      "url": "https://www.worten.es/productos/helen-seward-quickandeasy-velvet-past-mrkean-8011172021689",
+      "store": "Worten",
+      "current_price": 13.93,
+      "original_price": 28.57,
+      "discount_pct": 51.24,
+      "image_url": "https://www.worten.es/i/7137a45fd4bceb3b8cba8276a7826c9a16844760",
+      "category": null,
+      "price_history": [
+        13.93
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Samsung VS15A60AGR5 Aspiradora Escoba/Mano sin Cables 21.6V 410W Negra/Gris",
       "url": "https://www.pccomponentes.com/samsung-vs15a60agr5-aspiradora-escoba-mano-sin-cables-21-6v-410w-negra-gris",
       "store": "PcComponentes",
@@ -2230,13 +2468,30 @@
       "drop_pct": null
     },
     {
+      "name": "Ventilador De Techo Led Retráctil Blanco 50-100cm, Lámpara Moderna Con Aspas Extensibles, 36w, 3 Colores De Luz, 6",
+      "url": "https://www.worten.es/productos/ventilador-de-techo-led-retractil-blanco-50-100cm-lampara-moderna-con-aspas-extensibles-36w-3-colores-de-luz-6-mrkean-8445410074449",
+      "store": "Worten",
+      "current_price": 53.99,
+      "original_price": 109.0,
+      "discount_pct": 50.47,
+      "image_url": "https://www.worten.es/i/01bc5926ddb6118a5bcc1d4376f4f09d4cf88397",
+      "category": null,
+      "price_history": [
+        53.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nanocable Latiguillo Categoria 6 UTP RJ45 0.25M Gris",
       "url": "https://www.coolmod.com/nano-cable-latiguillo-categoria-6-utp-rj45-0-25m-gris/",
       "store": "Coolmod",
       "current_price": 2.95,
       "original_price": 5.95,
       "discount_pct": 50.42,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -2257,6 +2512,40 @@
       "category": null,
       "price_history": [
         89.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Silla Tumbona Plegable Klack 65x60x85cm Para Camping Y Playa Máximo Relax Y Resistencia",
+      "url": "https://www.worten.es/productos/silla-tumbona-plegable-klack-65x60x85cm-para-camping-y-playa-maximo-relax-y-resistencia-mrkean-8445045033477",
+      "store": "Worten",
+      "current_price": 29.9,
+      "original_price": 59.9,
+      "discount_pct": 50.08,
+      "image_url": "https://www.worten.es/i/391bff16bdb827317ff735ab74d98fcfe4a10403",
+      "category": null,
+      "price_history": [
+        29.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Fregadero De Acero Inoxidable 1 Seno 50x45x22 Cm Gris Metálico - Para Cocina Pequeña Y Autocaravana - Pretaladrado Con Filtro",
+      "url": "https://www.worten.es/productos/fregadero-de-acero-inoxidable-1-seno-50x45x22-cm-gris-metalico-para-cocina-pequena-y-autocaravana-pretaladrado-con-filtro-mrkean-0752302959479",
+      "store": "Worten",
+      "current_price": 74.99,
+      "original_price": 150.08,
+      "discount_pct": 50.03,
+      "image_url": "https://www.worten.es/i/1128e3be14bd992cc372592ed5e479a2f749baed",
+      "category": null,
+      "price_history": [
+        74.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -2322,6 +2611,23 @@
       "original_price": 39.99,
       "discount_pct": 50.01,
       "image_url": "https://www.worten.es/i/334ebf7c357ceb6eedd850bcb6bf5d8920d3622f",
+      "category": null,
+      "price_history": [
+        19.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Disco de Musculación BODYTONE de Borracha de 5 kg com Pega",
+      "url": "https://www.worten.es/productos/disco-de-musculacion-bodytone-de-borracha-de-5-kg-com-pega-mrkean-8436555503505",
+      "store": "Worten",
+      "current_price": 19.99,
+      "original_price": 39.99,
+      "discount_pct": 50.01,
+      "image_url": "https://www.worten.es/i/2186319825c8fe70df63d62a98528904ebc3e8b1",
       "category": null,
       "price_history": [
         19.99
@@ -2791,6 +3097,193 @@
       "drop_pct": null
     },
     {
+      "name": "Reloj Militar Impermeable Deportivo Masculino Multifuncional Led Cronómetro De Alarma Yuysan",
+      "url": "https://www.worten.es/productos/reloj-militar-impermeable-deportivo-masculino-multifuncional-led-cronometro-de-alarma-yuysan-mrkean-5452182857845",
+      "store": "Worten",
+      "current_price": 18.65,
+      "original_price": 37.3,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/2ebe3155e4e54dab516f537e3688d6784f4d017c",
+      "category": null,
+      "price_history": [
+        18.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Llave de impacto eléctrica Gisam, par de 1200 nm, motor sin escobillas, 1 batería OEM",
+      "url": "https://www.worten.es/productos/llave-de-impacto-electrica-gisam-par-de-1200-nm-motor-sin-escobillas-1-bateria-oem-mrkean-6152849711754",
+      "store": "Worten",
+      "current_price": 95.56,
+      "original_price": 191.12,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/183345362e00c4ea764c363e1ada052aa0074e50",
+      "category": null,
+      "price_history": [
+        95.56
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Plato De Bebé 5 En 1, Acero Inoxidable 304, Cubiertos Para La Alimentación Infantil,verde Digitallab",
+      "url": "https://www.worten.es/productos/plato-de-bebe-5-en-1-acero-inoxidable-304-cubiertos-para-la-alimentacion-infantil-verde-digitallab-mrkean-4843030091794",
+      "store": "Worten",
+      "current_price": 23.65,
+      "original_price": 47.3,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/f85c45ac1e00db36519ff486bec5a8eb693175ed",
+      "category": null,
+      "price_history": [
+        23.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor De Frequência Cardíaca Doppler Fetal Detector De Batimentos Cardíacos De Bebê Alimentado Por Bateria Rosa GERTIZ",
+      "url": "https://www.worten.es/productos/monitor-de-frequencia-cardiaca-doppler-fetal-detector-de-batimentos-cardiacos-de-bebe-alimentado-por-bateria-rosa-gertiz-mrkean-5301501529072",
+      "store": "Worten",
+      "current_price": 28.66,
+      "original_price": 57.32,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/e794b4825d778ec387181af88891d7d72f546066",
+      "category": null,
+      "price_history": [
+        28.66
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Aire acondicionado portátil de pared, sin necesidad de taladrar, silencioso, tres velocidades, color gris",
+      "url": "https://www.worten.es/productos/aire-acondicionado-portatil-de-pared-sin-necesidad-de-taladrar-silencioso-tres-velocidades-color-gris-mrkean-8861632029980",
+      "store": "Worten",
+      "current_price": 42.19,
+      "original_price": 84.38,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/70a6ee7bd738a38a04576f4d1cbd925694d3f630",
+      "category": null,
+      "price_history": [
+        42.19
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Aspiradora antiácaros, potente succión de 14 kPa con lámpara germicida UV para cama y sofá, limpieza profunda/Green Gertiz",
+      "url": "https://www.worten.es/productos/aspiradora-antiacaros-potente-succion-de-14-kpa-con-lampara-germicida-uv-para-cama-y-sofa-limpieza-profunda-green-gertiz-mrkean-9151363567639",
+      "store": "Worten",
+      "current_price": 39.48,
+      "original_price": 78.96,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/59b759f64a885f30b5e8949b8bc193f43e19c491",
+      "category": null,
+      "price_history": [
+        39.48
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Banco de bar de madeira clara 65 cm Demory MILIBOO",
+      "url": "https://www.worten.es/productos/banco-de-bar-de-madeira-clara-65-cm-demory-miliboo-mrkean-3662275111644",
+      "store": "Worten",
+      "current_price": 64.4,
+      "original_price": 128.79,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/aac6edd1dc8eaee4e06211f7d2f18e3d8cd0549d",
+      "category": null,
+      "price_history": [
+        64.4
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cargador Para Pool Blaster Catfish Li 20050cl 8.4v Henten Home",
+      "url": "https://www.worten.es/productos/cargador-para-pool-blaster-catfish-li-20050cl-8-4v-henten-home-mrkean-0326567781160",
+      "store": "Worten",
+      "current_price": 12.65,
+      "original_price": 25.3,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/4a93b1378f6524dcccf90ec6ed92385938095d1b",
+      "category": null,
+      "price_history": [
+        12.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Camiseta Rockinstone The Weeknd / Dawn Fm(l)",
+      "url": "https://www.worten.es/productos/camiseta-rockinstone-the-weeknd-dawn-fm-l-mrkean-6903415766230",
+      "store": "Worten",
+      "current_price": 17.98,
+      "original_price": 35.96,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/850310e7af5fb092412ee9c56c9980b14e3d4961",
+      "category": null,
+      "price_history": [
+        17.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Máquina facial HIFU 3 en 1: Eliminación de arrugas, ultrasonido, radiofrecuencia, electroestimulación muscular, rejuvenecimiento de la piel, antienvejecimiento, blanqueamiento.",
+      "url": "https://www.worten.es/productos/maquina-facial-hifu-3-en-1-eliminacion-de-arrugas-ultrasonido-radiofrecuencia-electroestimulacion-muscular-rejuvenecimiento-de-la-piel-antienvejecimiento-blanqueamiento-mrkean-8581688504612",
+      "store": "Worten",
+      "current_price": 52.75,
+      "original_price": 105.5,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/e562b34f4ac6d7d842820a67d03e5c5f74e2b1ae",
+      "category": null,
+      "price_history": [
+        52.75
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PRITECH Pr-2046 Cortapelos/Barba Eléctrico Azul Negro",
+      "url": "https://www.worten.es/productos/pritech-pr-2046-cortapelos-barba-electrico-azul-negro-mrkean-8434010462985",
+      "store": "Worten",
+      "current_price": 22.99,
+      "original_price": 45.98,
+      "discount_pct": 50.0,
+      "image_url": "https://www.worten.es/i/07ff13994c73472a3be02ee2d69ff89bc9255aa9",
+      "category": null,
+      "price_history": [
+        22.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Super Pack Pro Max - Negro",
       "url": "https://www.worten.es/productos/super-pack-pro-max-negro-mrkean-5600821039675",
       "store": "Worten",
@@ -2937,6 +3430,23 @@
       "category": "Periféricos",
       "price_history": [
         24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Poly Voyager Focus 2 UC Auriculares USB-A/Bluetooth con Certificación Microsoft Teams Negros",
+      "url": "https://www.pccomponentes.com/poly-voyager-focus-2-uc-auriculares-usb-a-bluetooth-con-certificacion-microsoft-teams-negros",
+      "store": "PcComponentes",
+      "current_price": 170.51,
+      "original_price": 334.33,
+      "discount_pct": 49.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1052/10520307/1782-poly-voyager-focus-2-uc-auriculares-usb-a-bluetooth-con-certificacion-microsoft-teams-negros.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        170.51
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3182,6 +3692,23 @@
       "drop_pct": null
     },
     {
+      "name": "Secador de Pelo LAIFEN Swift Special Negro",
+      "url": "https://www.worten.es/productos/secador-de-pelo-laifen-swift-special-negro-8060975",
+      "store": "Worten",
+      "current_price": 135.99,
+      "original_price": 259.99,
+      "discount_pct": 47.69,
+      "image_url": "https://www.worten.es/i/45814f311793163a39c14786d0a47a0e73882367",
+      "category": null,
+      "price_history": [
+        135.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Realme Gt 7 5g,12gb 512gb 6.8\" Azul Incluye Cargador 120w",
       "url": "https://www.worten.es/productos/realme-gt-7-5g-12gb-512gb-6-8-azul-incluye-cargador-120w-mrkean-6941764411531",
       "store": "Worten",
@@ -3243,6 +3770,57 @@
       "category": null,
       "price_history": [
         367.59
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cochecito Midas 3 en 1 Sdbaby Trio",
+      "url": "https://www.worten.es/productos/cochecito-midas-3-en-1-sdbaby-trio-mrkean-6151121110179",
+      "store": "Worten",
+      "current_price": 199.99,
+      "original_price": 380.0,
+      "discount_pct": 47.37,
+      "image_url": "https://www.worten.es/i/0ca0c89869c39e6ef2d6ee4c85fe699938bdf755",
+      "category": null,
+      "price_history": [
+        199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Patinete eléctrico Iscooter I12 con asiento para adultos, 500 W, 12 pulgadas, doble suspensión, cesta, asiento y manillar regulables en altura.",
+      "url": "https://www.worten.es/productos/patinete-electrico-iscooter-i12-con-asiento-para-adultos-500-w-12-pulgadas-doble-suspension-cesta-asiento-y-manillar-regulables-en-altura-mrkean-0717382620077",
+      "store": "Worten",
+      "current_price": 335.0,
+      "original_price": 635.0,
+      "discount_pct": 47.24,
+      "image_url": "https://www.worten.es/i/c4d279123a1fe622d7c1bcf0712ea907ffe9610b",
+      "category": null,
+      "price_history": [
+        335.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Mando de juego para Nintendo Switch/Lite/OLED Joy-Con",
+      "url": "https://www.worten.es/productos/mando-de-juego-para-nintendo-switch-lite-oled-joy-con-mrkean-7683488846143",
+      "store": "Worten",
+      "current_price": 23.44,
+      "original_price": 44.37,
+      "discount_pct": 47.17,
+      "image_url": "https://www.worten.es/i/a6c653552bb656c94bbf6df57d84c638af538c8c",
+      "category": null,
+      "price_history": [
+        23.44
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3777,6 +4355,23 @@
       "drop_pct": null
     },
     {
+      "name": "Patinete eléctrico plegable para adultos, 8,5 pulgadas, gris, 350 W, con bolsa de asiento integrada. Ladped",
+      "url": "https://www.worten.es/productos/patinete-electrico-plegable-para-adultos-8-5-pulgadas-gris-350-w-con-bolsa-de-asiento-integrada-ladped-mrkean-5903568256788",
+      "store": "Worten",
+      "current_price": 146.99,
+      "original_price": 269.99,
+      "discount_pct": 45.56,
+      "image_url": "https://www.worten.es/i/f6c00e7bf95d4161fa48103d9968fe67290ffc6a",
+      "category": null,
+      "price_history": [
+        146.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Equipo multifuncional profesional Mistik para cuerpo y rostro 6 en 1",
       "url": "https://www.worten.es/productos/equipo-multifuncional-profesional-mistik-para-cuerpo-y-rostro-6-en-1-mrkean-8557496895457",
       "store": "Worten",
@@ -3787,6 +4382,23 @@
       "category": null,
       "price_history": [
         360.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tabla de paddle surf hinchable con asiento de kayak, 330 x 76 x 15 cm, capacidad de carga hasta 150 kg, accesorios completos, Duraero camuflaje azul",
+      "url": "https://www.worten.es/productos/tabla-de-paddle-surf-hinchable-con-asiento-de-kayak-330-x-76-x-15-cm-capacidad-de-carga-hasta-150-kg-accesorios-completos-duraero-camuflaje-azul-mrkean-9313448927589",
+      "store": "Worten",
+      "current_price": 163.98,
+      "original_price": 299.98,
+      "discount_pct": 45.34,
+      "image_url": "https://www.worten.es/i/2157174d7e9640a59420cca9ec488969a0233550",
+      "category": null,
+      "price_history": [
+        163.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -4406,13 +5018,13 @@
       "drop_pct": null
     },
     {
-      "name": "Silla Gaming KUBO Negro (Hasta 130 kg - Elevador a Gás Clase 3)",
-      "url": "https://www.worten.es/productos/silla-gaming-kubo-negro-hasta-130-kg-elevador-a-gas-clase-3-7415709",
+      "name": "Silla Gaming KUBO Rojo (Hasta 130 kg - Elevador a Gás Clase 3)",
+      "url": "https://www.worten.es/productos/silla-gaming-kubo-rojo-hasta-130-kg-elevador-a-gas-clase-3-7415710",
       "store": "Worten",
       "current_price": 69.99,
       "original_price": 124.99,
       "discount_pct": 44.0,
-      "image_url": "https://www.worten.es/i/51d3cfb83b37f7c2ca06e7575065baada6a8e541",
+      "image_url": "https://www.worten.es/i/da0ae4f0c98e8815941e742cb5b0fc473a3b86a7",
       "category": null,
       "price_history": [
         69.99
@@ -4525,6 +5137,23 @@
       "drop_pct": null
     },
     {
+      "name": "Ventilador de Techo KLACK con Luz LED, Aspas retráctiles de 106 cm, Silencioso, Función Frío-Calor",
+      "url": "https://www.worten.es/productos/ventilador-de-techo-klack-con-luz-led-aspas-retractiles-de-106-cm-silencioso-funcion-frio-calor-mrkean-8445045027179",
+      "store": "Worten",
+      "current_price": 58.9,
+      "original_price": 104.9,
+      "discount_pct": 43.85,
+      "image_url": "https://www.worten.es/i/93f0e84361ca2460aee1b6c3123523d16a0b028b",
+      "category": null,
+      "price_history": [
+        58.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Behumax - Tabla De Paddle Surf Be Wave Sirocco 10",
       "url": "https://www.worten.es/productos/behumax-tabla-de-paddle-surf-be-wave-sirocco-10-mrkean-8435585520506",
       "store": "Worten",
@@ -4569,6 +5198,23 @@
       "category": "Informática",
       "price_history": [
         129.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavadora AEG L6FBI947P (9 kg - 1400 rpm - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-aeg-l6fbi947p-9-kg-1400-rpm-blanco-7521176",
+      "store": "Worten",
+      "current_price": 399.97,
+      "original_price": 709.99,
+      "discount_pct": 43.67,
+      "image_url": "https://www.worten.es/i/08bc56811ab527100dd9f2f8259ec2b4c0c98f81",
+      "category": null,
+      "price_history": [
+        399.97
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -4634,6 +5280,23 @@
       "original_price": 691.0,
       "discount_pct": 43.42,
       "image_url": "https://www.worten.es/i/0853098bf1e28f62e2eea056303a5aca256a62d6",
+      "category": null,
+      "price_history": [
+        391.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Patinete Eléctrico Iscooter Ix3 800w 48v10ah Velocidad Máxima 40km/h Autonomía 40km Negro",
+      "url": "https://www.worten.es/productos/patinete-electrico-iscooter-ix3-800w-48v10ah-velocidad-maxima-40km-h-autonomia-40km-negro-mrkean-0717073890680",
+      "store": "Worten",
+      "current_price": 391.0,
+      "original_price": 691.0,
+      "discount_pct": 43.42,
+      "image_url": "https://www.worten.es/i/e8f72d85a788fa83f8d33c98b782436f570ccdc9",
       "category": null,
       "price_history": [
         391.0
@@ -4967,6 +5630,23 @@
       "drop_pct": null
     },
     {
+      "name": "Bañera plegable FIORE con soporte y cambiador de CHIPOLINO Pink",
+      "url": "https://www.worten.es/productos/banera-plegable-fiore-con-soporte-y-cambiador-de-chipolino-pink-mrkean-3800931059965",
+      "store": "Worten",
+      "current_price": 79.95,
+      "original_price": 139.95,
+      "discount_pct": 42.87,
+      "image_url": "https://www.worten.es/i/27a951eb18d2261b7213cfca96bacce9bc0dc41d",
+      "category": null,
+      "price_history": [
+        79.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Radio Android 13 para Ford Focus 3 | IPS HD de 9 pulgadas | CarPlay/Android Auto inalámbrico | 2 GB 64 GB | Ventilador de refrigeración Junsun (2011-2019)",
       "url": "https://www.worten.es/productos/radio-android-13-para-ford-focus-3-ips-hd-de-9-pulgadas-carplay-android-auto-inalambrico-2-gb-64-gb-ventilador-de-refrigeracion-junsun-2011-2019-mrkean-8901606788014",
       "store": "Worten",
@@ -5035,6 +5715,23 @@
       "drop_pct": null
     },
     {
+      "name": "Patinete eléctrico Iscooter I12 con asiento y cesta trasera, motor de 500w, batería de 36v 7.5ah, neumáticos de 12 pulgadas, velocidad máxima 20-25 km/h, autonomía 35 km",
+      "url": "https://www.worten.es/productos/patinete-electrico-iscooter-i12-con-asiento-y-cesta-trasera-motor-de-500w-bateria-de-36v-7-5ah-neumaticos-de-12-pulgadas-velocidad-maxima-20-25-km-h-autonomia-35-km-mrkean-9331868936455",
+      "store": "Worten",
+      "current_price": 339.0,
+      "original_price": 588.8,
+      "discount_pct": 42.43,
+      "image_url": "https://www.worten.es/i/708a65936d784d2b424a6a45828e28d343aa06a5",
+      "category": null,
+      "price_history": [
+        339.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor portátil - BLACKVIEW Table 10, 23,8 \", Full-HD+, 5 ms, Gris",
       "url": "https://www.mediamarkt.es/es/product/_monitor-portatil-blackview-table-10-238-full-hd-5-ms-gris-170135949.html",
       "store": "MediaMarkt",
@@ -5062,6 +5759,40 @@
       "category": null,
       "price_history": [
         51.5
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Grabadora láser Longer Ray5 Minis de 5,5 W, alta velocidad de 12.000 mm/min, área de 130 x 120 mm.",
+      "url": "https://www.worten.es/productos/grabadora-laser-longer-ray5-minis-de-5-5-w-alta-velocidad-de-12-000-mm-min-area-de-130-x-120-mm-mrkean-0886172156222",
+      "store": "Worten",
+      "current_price": 155.0,
+      "original_price": 269.0,
+      "discount_pct": 42.38,
+      "image_url": "https://www.worten.es/i/d3883fd7f726691ef17b472e59a112e8f2ba96fc",
+      "category": null,
+      "price_history": [
+        155.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Película Térmica 2 Piezas Protección Solar Anti-Ojos 60x100cm Pet Plata Tommy01",
+      "url": "https://www.worten.es/productos/pelicula-termica-2-piezas-proteccion-solar-anti-ojos-60x100cm-pet-plata-tommy01-mrkean-7001491859903",
+      "store": "Worten",
+      "current_price": 12.11,
+      "original_price": 20.99,
+      "discount_pct": 42.31,
+      "image_url": "https://www.worten.es/i/3c7a114aeb09d3065107f30ce65d2cb714ee5e95",
+      "category": null,
+      "price_history": [
+        12.11
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -5113,6 +5844,23 @@
       "category": null,
       "price_history": [
         449.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Espejo arqueado de cuerpo entero, 165 x 60 cm, para montaje en pared o suelo, ideal para salón, recibidor o pasillo, en color negro. YCONE",
+      "url": "https://www.worten.es/productos/espejo-arqueado-de-cuerpo-entero-165-x-60-cm-para-montaje-en-pared-o-suelo-ideal-para-salon-recibidor-o-pasillo-en-color-negro-ycone-mrkean-4643166307147",
+      "store": "Worten",
+      "current_price": 54.9,
+      "original_price": 94.81,
+      "discount_pct": 42.09,
+      "image_url": "https://www.worten.es/i/6057ff27b56edd15892cb5d69a896860bf461bb9",
+      "category": null,
+      "price_history": [
+        54.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -5460,6 +6208,40 @@
       "drop_pct": null
     },
     {
+      "name": "Cortapelos Inalámbrico Wahl Professional 5-star Magic Clip Con Palanca De Ajuste Para El Cabello.",
+      "url": "https://www.worten.es/productos/cortapelos-inalambrico-wahl-professional-5-star-magic-clip-con-palanca-de-ajuste-para-el-cabello-mrkean-4853692421440",
+      "store": "Worten",
+      "current_price": 61.84,
+      "original_price": 106.11,
+      "discount_pct": 41.72,
+      "image_url": "https://www.worten.es/i/e5b5ab1c0f9210d886926c0abb03eac0ef7ccbac",
+      "category": null,
+      "price_history": [
+        61.84
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor De Glucosa En Sangre Portátil No Invasivo: Dispositivo De Prueba Sin Manchas, Regalo Ideal Para El Control De La Salud.",
+      "url": "https://www.worten.es/productos/monitor-de-glucosa-en-sangre-portatil-no-invasivo-dispositivo-de-prueba-sin-manchas-regalo-ideal-para-el-control-de-la-salud-mrkean-4853692443879",
+      "store": "Worten",
+      "current_price": 37.47,
+      "original_price": 64.29,
+      "discount_pct": 41.72,
+      "image_url": "https://www.worten.es/i/3f4075b49711dd0c113a32508973048a567c0514",
+      "category": null,
+      "price_history": [
+        37.47
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nanolash Sérum Para Labios Largos Y Gruesos 3ml - Estilo Máscara Con Efecto Fortalecedor",
       "url": "https://www.worten.es/productos/nanolash-serum-para-labios-largos-y-gruesos-3ml-estilo-mascara-con-efecto-fortalecedor-mrkean-4853692353383",
       "store": "Worten",
@@ -5483,7 +6265,7 @@
       "current_price": 69.95,
       "original_price": 119.95,
       "discount_pct": 41.68,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         69.95
@@ -5528,6 +6310,23 @@
       "drop_pct": null
     },
     {
+      "name": "Action Cam DJI Osmo Pocket 3 (4K Full HD - Negro)",
+      "url": "https://www.worten.es/productos/action-cam-dji-osmo-pocket-3-4k-full-hd-negro-7907672",
+      "store": "Worten",
+      "current_price": 349.78,
+      "original_price": 599.0,
+      "discount_pct": 41.61,
+      "image_url": "https://www.worten.es/i/e110a7be84d14f10ba6060db766f7872f0ee2e2c",
+      "category": null,
+      "price_history": [
+        349.78
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "TABWEE T60, 256 GB, Gris, 12,2 \" HD+, 12 GB RAM, Unisoc T7280(Octa core), Tablet Android",
       "url": "https://www.mediamarkt.es/es/product/_tabwee-t60-256-gb-gris-122-hd-12-gb-ram-unisoc-t7280octa-core-tablet-android-170354569.html",
       "store": "MediaMarkt",
@@ -5547,6 +6346,40 @@
     {
       "name": "Patinete eléctrico todoterreno Ix4 10 con control por app, motor de 800 W y batería de 48 V y 15 Ah.",
       "url": "https://www.worten.es/productos/patinete-electrico-todoterreno-ix4-10-con-control-por-app-motor-de-800-w-y-bateria-de-48-v-y-15-ah-mrkean-0717382620008",
+      "store": "Worten",
+      "current_price": 428.0,
+      "original_price": 728.0,
+      "discount_pct": 41.21,
+      "image_url": "https://www.worten.es/i/7bd9227ab39743d9bbeb92d80e8ca04fb5ad0d27",
+      "category": null,
+      "price_history": [
+        428.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Crema Facial GUINOT Créme Hydra Summum Cream (50 ml)",
+      "url": "https://www.worten.es/productos/crema-facial-guinot-creme-hydra-summum-cream-50-ml-mrkean-3500465069002",
+      "store": "Worten",
+      "current_price": 74.07,
+      "original_price": 126.0,
+      "discount_pct": 41.21,
+      "image_url": "https://www.worten.es/i/2edde6ba4e22555c0fb6951ba65e1a06557a5f38",
+      "category": null,
+      "price_history": [
+        74.07
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Patinete eléctrico todoterreno iScooter Ix4 10 con control por aplicación, motor de 800 W y batería de 48 VE y 15 Ah.",
+      "url": "https://www.worten.es/productos/patinete-electrico-todoterreno-iscooter-ix4-10-con-control-por-aplicacion-motor-de-800-w-y-bateria-de-48-ve-y-15-ah-mrkean-9331187244286",
       "store": "Worten",
       "current_price": 428.0,
       "original_price": 728.0,
@@ -6061,7 +6894,7 @@
       "current_price": 5.95,
       "original_price": 9.95,
       "discount_pct": 40.2,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033211_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033211_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         5.95
@@ -6099,6 +6932,23 @@
       "category": null,
       "price_history": [
         44.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Batería de expansión OUKITEL, 2048 Wh LiFePO4, para BP3000e y BP5000e, más de 4000 ciclos.",
+      "url": "https://www.worten.es/productos/bateria-de-expansion-oukitel-2048-wh-lifepo4-para-bp3000e-y-bp5000e-mas-de-4000-ciclos-mrkean-6422828787842",
+      "store": "Worten",
+      "current_price": 599.0,
+      "original_price": 999.0,
+      "discount_pct": 40.04,
+      "image_url": "https://www.worten.es/i/e2db895fdf4365b8af8f17d96eb733dfd4650c0e",
+      "category": null,
+      "price_history": [
+        599.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6150,6 +7000,23 @@
       "category": null,
       "price_history": [
         149.97
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Camiseta personalizada de la Selección Española para el Mundial de 2026 - Estados Unidos, Canadá, México - Versión no oficial - 140",
+      "url": "https://www.worten.es/productos/camiseta-personalizada-de-la-seleccion-espanola-para-el-mundial-de-2026-estados-unidos-canada-mexico-version-no-oficial-140-mrkean-9493289849414",
+      "store": "Worten",
+      "current_price": 29.99,
+      "original_price": 49.99,
+      "discount_pct": 40.01,
+      "image_url": "https://www.worten.es/i/42bc0e3a8d2c5223182d64e63197669c1219e82f",
+      "category": null,
+      "price_history": [
+        29.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6752,6 +7619,23 @@
       "drop_pct": null
     },
     {
+      "name": "Juego de 17 piezas - Ollas y sartenes Klack - Antiadherente con revestimiento de granito, mango extraíble, sin PFOA, para gas, eléctrico e inducción",
+      "url": "https://www.worten.es/productos/juego-de-17-piezas-ollas-y-sartenes-klack-antiadherente-con-revestimiento-de-granito-mango-extraible-sin-pfoa-para-gas-electrico-e-induccion-8544753",
+      "store": "Worten",
+      "current_price": 72.9,
+      "original_price": 119.9,
+      "discount_pct": 39.2,
+      "image_url": "https://www.worten.es/i/e23c0c607d91fe3fd2868efa5dae26141463b798",
+      "category": null,
+      "price_history": [
+        72.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PcCom Imperial AMD Ryzen 7 9800X3D / 32GB / 2TB SSD / RTX 5070 V3 / Windows 11 Home",
       "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-9800x3d-32gb-2tb-ssd-rtx-5070-v3-windows-11-home",
       "store": "PcComponentes",
@@ -7109,6 +7993,23 @@
       "drop_pct": null
     },
     {
+      "name": "Sofá multipersona de chenilla negro 2213 con cojines de espuma y brazos cuadrados, negro YHL",
+      "url": "https://www.worten.es/productos/sofa-multipersona-de-chenilla-negro-2213-con-cojines-de-espuma-y-brazos-cuadrados-negro-yhl-mrkean-9345750723351",
+      "store": "Worten",
+      "current_price": 469.99,
+      "original_price": 766.79,
+      "discount_pct": 38.71,
+      "image_url": "https://www.worten.es/i/e7504399882b6ab955caa38261752cd716686ed6",
+      "category": null,
+      "price_history": [
+        469.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Juego de manómetros para aire acondicionado R134a, kit de refrigeración HVAC, bronce resistente a la corrosión",
       "url": "https://www.worten.es/productos/juego-de-manometros-para-aire-acondicionado-r134a-kit-de-refrigeracion-hvac-bronce-resistente-a-la-corrosion-mrkean-8037459276511",
       "store": "Worten",
@@ -7136,6 +8037,40 @@
       "category": null,
       "price_history": [
         15.92
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Reloj digital para hombre, LED, con podómetro y distancia recorrida, resistente al agua y con correa ajustable, deportivo.",
+      "url": "https://www.worten.es/productos/reloj-digital-para-hombre-led-con-podometro-y-distancia-recorrida-resistente-al-agua-y-con-correa-ajustable-deportivo-mrkean-9174244167148",
+      "store": "Worten",
+      "current_price": 16.9,
+      "original_price": 27.51,
+      "discount_pct": 38.57,
+      "image_url": "https://www.worten.es/i/cf7fb7592c4bb694c6baebe25a4df6731469ffc4",
+      "category": null,
+      "price_history": [
+        16.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Patinete eléctrico todoterreno Iscooter Ix5s 11 con motor de 1000 W y batería de 48 V y 15 Ah.",
+      "url": "https://www.worten.es/productos/patinete-electrico-todoterreno-iscooter-ix5s-11-con-motor-de-1000-w-y-bateria-de-48-v-y-15-ah-mrkean-9331187244309",
+      "store": "Worten",
+      "current_price": 478.0,
+      "original_price": 778.0,
+      "discount_pct": 38.56,
+      "image_url": "https://www.worten.es/i/5d693e1b9a8b1aa0965a19c09de8ca79859c45bb",
+      "category": null,
+      "price_history": [
+        478.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -8367,6 +9302,23 @@
       "drop_pct": null
     },
     {
+      "name": "Colas De Sirena Para Nadar Niños Y Adultos Con Monofin Azul Resistente Lavable A Máquina S Azul",
+      "url": "https://www.worten.es/productos/colas-de-sirena-para-nadar-ninos-y-adultos-con-monofin-azul-resistente-lavable-a-maquina-s-azul-mrkean-4063237713637",
+      "store": "Worten",
+      "current_price": 37.41,
+      "original_price": 59.1,
+      "discount_pct": 36.7,
+      "image_url": "https://www.worten.es/i/5ac969da1e53284cb3ab893966a45c9a7f50bde6",
+      "category": null,
+      "price_history": [
+        37.41
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 8 GB RAM, 256 GB, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-8-gb-ram-256-gb-gris-1610709.html",
       "store": "MediaMarkt",
@@ -8377,6 +9329,23 @@
       "category": "Informática",
       "price_history": [
         259.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "4 Discos De Brazo Para Niños Eva Flotadores De Natación Discos Coloridos Brazaletes Flotantes Anillos De Buoyancy",
+      "url": "https://www.worten.es/productos/4-discos-de-brazo-para-ninos-eva-flotadores-de-natacion-discos-coloridos-brazaletes-flotantes-anillos-de-buoyancy-mrkean-7003293321152",
+      "store": "Worten",
+      "current_price": 13.0,
+      "original_price": 20.51,
+      "discount_pct": 36.62,
+      "image_url": "https://www.worten.es/i/89d9d419eea48d032925c6805d28fd04dd059eee",
+      "category": null,
+      "price_history": [
+        13.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -8452,6 +9421,23 @@
       "drop_pct": null
     },
     {
+      "name": "Pack De Alisado Brasil Cacau Brazilian Eco Keratin 3 Productos (3x300ml)",
+      "url": "https://www.worten.es/productos/pack-de-alisado-brasil-cacau-brazilian-eco-keratin-3-productos-3x300ml-mrkean-0670237483732",
+      "store": "Worten",
+      "current_price": 166.27,
+      "original_price": 261.65,
+      "discount_pct": 36.45,
+      "image_url": "https://www.worten.es/i/dbb883e9577b1b585d24d90b7c6f490a1e0aeefb",
+      "category": null,
+      "price_history": [
+        166.27
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavadora BOSCH WUU28T8XES (8 kg - 1400 rpm - Inox)",
       "url": "https://www.worten.es/productos/lavadora-bosch-wuu28t8xes-8-kg-1400-rpm-inox-7711590",
       "store": "Worten",
@@ -8496,6 +9482,23 @@
       "category": null,
       "price_history": [
         209.97
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Altavoz inalámbrico Xdobo X8ii de 60 W con Bluetooth 5.0, resistente al agua IPX5, graves potentes, portátil.",
+      "url": "https://www.worten.es/productos/altavoz-inalambrico-xdobo-x8ii-de-60-w-con-bluetooth-5-0-resistente-al-agua-ipx5-graves-potentes-portatil-mrkean-9714898031633",
+      "store": "Worten",
+      "current_price": 72.86,
+      "original_price": 114.01,
+      "discount_pct": 36.09,
+      "image_url": "https://www.worten.es/i/b6cfffee3e81a38ff042cd44d332e4254d0344c3",
+      "category": null,
+      "price_history": [
+        72.86
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9030,6 +10033,23 @@
       "drop_pct": null
     },
     {
+      "name": "Fuente solar decorativa multifuncional para jardines, piscinas y bebederos, 160 mm Tommy01",
+      "url": "https://www.worten.es/productos/fuente-solar-decorativa-multifuncional-para-jardines-piscinas-y-bebederos-160-mm-tommy01-mrkean-7001491852409",
+      "store": "Worten",
+      "current_price": 15.79,
+      "original_price": 24.67,
+      "discount_pct": 36.0,
+      "image_url": "https://www.worten.es/i/ed913b9677045ae8cfeb777a44ae56193eedf94e",
+      "category": null,
+      "price_history": [
+        15.79
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nacon Compact Controller Wired para PS4/PC Iluminado Azul + BigBen Auricular Monoauricular Oficial",
       "url": "https://www.pccomponentes.com/nacon-compact-controller-wired-para-ps4-pc-iluminado-azul-plus-bigben-auricular-monoauricular-oficial",
       "store": "PcComponentes",
@@ -9081,6 +10101,23 @@
       "drop_pct": null
     },
     {
+      "name": "2026yncm-tableta Para Niños Niñas Pad Electrónico Aprendizaje Inglés Números Letras Juguete Educativo Azul",
+      "url": "https://www.worten.es/productos/2026yncm-tableta-para-ninos-ninas-pad-electronico-aprendizaje-ingles-numeros-letras-juguete-educativo-azul-mrkean-3784222679134",
+      "store": "Worten",
+      "current_price": 15.87,
+      "original_price": 24.76,
+      "discount_pct": 35.9,
+      "image_url": "https://www.worten.es/i/96ba1b3ea869c9601bb817ece80a89c5117d3b3c",
+      "category": null,
+      "price_history": [
+        15.87
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavadora BOSCH WUU28T63ES (8 kg - 1400 rpm -Blanco)",
       "url": "https://www.worten.es/productos/lavadora-bosch-wuu28t63es-8-kg-1400-rpm-blanco-7713005",
       "store": "Worten",
@@ -9125,6 +10162,23 @@
       "category": "TV y Audio",
       "price_history": [
         1349.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Lavavajillas BALAY 3VN4030BA (10 Cubiertos - 45 cm - Blanco)",
+      "url": "https://www.worten.es/productos/lavavajillas-balay-3vn4030ba-10-cubiertos-45-cm-blanco-7846788",
+      "store": "Worten",
+      "current_price": 419.96,
+      "original_price": 651.28,
+      "discount_pct": 35.52,
+      "image_url": "https://www.worten.es/i/8169b0e5db86ebd4157298b93e9ed7bc562c3f44",
+      "category": null,
+      "price_history": [
+        419.96
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9193,6 +10247,40 @@
       "category": null,
       "price_history": [
         108.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Peluche Loopy, El Caster de Pelucas con Gafas 20cmvayotoy",
+      "url": "https://www.worten.es/productos/peluche-loopy-el-caster-de-pelucas-con-gafas-20cmvayotoy-mrkean-7751052026205",
+      "store": "Worten",
+      "current_price": 20.28,
+      "original_price": 31.21,
+      "discount_pct": 35.02,
+      "image_url": "https://www.worten.es/i/b58490fee92609de4165c2cd774413dbfa182bcf",
+      "category": null,
+      "price_history": [
+        20.28
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Placa de Gas BECKEN BGH4446 (Gas Butano-Propano - 52 cm - Negro)",
+      "url": "https://www.worten.es/productos/placa-de-gas-becken-bgh4446-gas-butano-propano-52-cm-negro-7095942",
+      "store": "Worten",
+      "current_price": 129.97,
+      "original_price": 199.99,
+      "discount_pct": 35.01,
+      "image_url": "https://www.worten.es/i/fc16b18f0ba08d28b371dc1d267bdc1c5899c850",
+      "category": null,
+      "price_history": [
+        129.97
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9744,6 +10832,23 @@
       "drop_pct": null
     },
     {
+      "name": "Patinete Eléctrico LADPED Tx01 (36v - 5,2ah - Velocidad Máxima: 25 Km)",
+      "url": "https://www.worten.es/productos/patinete-electrico-ladped-tx01-36v-5-2ah-velocidad-maxima-25-km-mrkean-5903568256047",
+      "store": "Worten",
+      "current_price": 129.99,
+      "original_price": 199.99,
+      "discount_pct": 35.0,
+      "image_url": "https://www.worten.es/i/cd118ebf2dce7e9cf02e5696194ed78f670a79c6",
+      "category": null,
+      "price_history": [
+        129.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Aire Acondicionado BECKEN BAC8699 (36 m² - 4732 Frig/H - Blanco)",
       "url": "https://www.worten.es/productos/aire-acondicionado-becken-bac8699-36-m2-4732-frig-h-blanco-7728417",
       "store": "Worten",
@@ -9754,6 +10859,23 @@
       "category": null,
       "price_history": [
         390.07
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Dispositivos de rescate antiasfixia de emergencia de Nueva Zelanda vayotoy",
+      "url": "https://www.worten.es/productos/dispositivos-de-rescate-antiasfixia-de-emergencia-de-nueva-zelanda-vayotoy-mrkean-7751052025222",
+      "store": "Worten",
+      "current_price": 21.85,
+      "original_price": 33.61,
+      "discount_pct": 34.99,
+      "image_url": "https://www.worten.es/i/31c1c8a1ae0324d7fc12c77d212c73babe4ed739",
+      "category": null,
+      "price_history": [
+        21.85
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9788,6 +10910,23 @@
       "category": null,
       "price_history": [
         14.19
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Realme GT 7 5G 12 GB/256 GB Azul Dual Sim (Azul IceSense)",
+      "url": "https://www.worten.es/productos/realme-gt-7-5g-12-gb-256-gb-azul-dual-sim-azul-icesense-mrkean-6941764466838",
+      "store": "Worten",
+      "current_price": 429.9,
+      "original_price": 659.99,
+      "discount_pct": 34.86,
+      "image_url": "https://www.worten.es/i/edcf1beac1cff36e59df2d786b0d184f8cb949b7",
+      "category": null,
+      "price_history": [
+        429.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9839,6 +10978,40 @@
       "category": null,
       "price_history": [
         19.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Colchon Viscoelástico 30cm Alta gama | 160 x 190 | Ideal para Personas con Dolores de Espalda | Alta Firmeza | Carbono-Grafeno Anti-Stress",
+      "url": "https://www.worten.es/productos/colchon-viscoelastico-30cm-alta-gama-160-x-190-ideal-para-personas-con-dolores-de-espalda-alta-firmeza-carbono-grafeno-anti-stress-mrkean-3666964040581",
+      "store": "Worten",
+      "current_price": 309.0,
+      "original_price": 469.0,
+      "discount_pct": 34.12,
+      "image_url": "https://www.worten.es/i/179646f601f0e8d163ec4b9283af721aa1211a24",
+      "category": null,
+      "price_history": [
+        309.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Juego De 2 Juguetes Antiestrés Gigantes Con Forma De Dumpling De Retorno Lento - Dorado Y Multicolor - Tommy01",
+      "url": "https://www.worten.es/productos/juego-de-2-juguetes-antiestres-gigantes-con-forma-de-dumpling-de-retorno-lento-dorado-y-multicolor-tommy01-mrkean-7001491879208",
+      "store": "Worten",
+      "current_price": 17.15,
+      "original_price": 26.03,
+      "discount_pct": 34.11,
+      "image_url": "https://www.worten.es/i/fbddd5a054ef9684fc336fa8b321ecb017ca19aa",
+      "category": null,
+      "price_history": [
+        17.15
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -10502,6 +11675,23 @@
       "category": null,
       "price_history": [
         33.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Molde Para Pan Antiadherente Con Forma De Gato, Fabricado En Acero Aluminizado, Para Hornear Pasteles Y Pan.",
+      "url": "https://www.worten.es/productos/molde-para-pan-antiadherente-con-forma-de-gato-fabricado-en-acero-aluminizado-para-hornear-pasteles-y-pan-mrkean-2748776166084",
+      "store": "Worten",
+      "current_price": 44.53,
+      "original_price": 66.8,
+      "discount_pct": 33.34,
+      "image_url": "https://www.worten.es/i/34fb3d6f9e19799588b973dd0e5ef346f1e8e39f",
+      "category": null,
+      "price_history": [
+        44.53
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -11563,6 +12753,23 @@
       "drop_pct": null
     },
     {
+      "name": "Horno TEKA HSC635 INOX (44 L - 59.5 cm - Hidrolítico - Inox)",
+      "url": "https://www.worten.es/productos/horno-teka-hsc635-inox-44-l-59-5-cm-hidrolitico-inox-6014055",
+      "store": "Worten",
+      "current_price": 329.97,
+      "original_price": 489.99,
+      "discount_pct": 32.66,
+      "image_url": "https://www.worten.es/i/fd533b1bb8cdc3dcbc1ce012c76cffcb879a054d",
+      "category": null,
+      "price_history": [
+        329.97
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cafetera espresso Hibrew H10 Plus, semiautomática, con presión de 20 bares, calentamiento rápido y control de temperatura.",
       "url": "https://www.worten.es/productos/cafetera-espresso-hibrew-h10-plus-semiautomatica-con-presion-de-20-bares-calentamiento-rapido-y-control-de-temperatura-mrkean-9331868932433",
       "store": "Worten",
@@ -11573,6 +12780,23 @@
       "category": null,
       "price_history": [
         269.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Set De Jardín Exterior 4 Piezas Con Cojines Ultra Gruesos 15 Cm Sofá 2 Plazas 2 Sillones Y Mesa Baja Color Caqui",
+      "url": "https://www.worten.es/productos/set-de-jardin-exterior-4-piezas-con-cojines-ultra-gruesos-15-cm-sofa-2-plazas-2-sillones-y-mesa-baja-color-caqui-mrkean-4048612686775",
+      "store": "Worten",
+      "current_price": 144.66,
+      "original_price": 214.53,
+      "discount_pct": 32.57,
+      "image_url": "https://www.worten.es/i/1aec86a145224a4967aa11117293b6d026d71b81",
+      "category": null,
+      "price_history": [
+        144.66
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -11620,7 +12844,7 @@
       "current_price": 269.95,
       "original_price": 399.95,
       "discount_pct": 32.5,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-042889_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-042889_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         269.95
@@ -11658,6 +12882,23 @@
       "category": null,
       "price_history": [
         445.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Caja De Engranajes Para Coche De Juguete Infantil, Motor Eléctrico 12v 23000rpm, Bajo Ruido Y Resistente Al Desgaste.",
+      "url": "https://www.worten.es/productos/caja-de-engranajes-para-coche-de-juguete-infantil-motor-electrico-12v-23000rpm-bajo-ruido-y-resistente-al-desgaste-mrkean-5046628706035",
+      "store": "Worten",
+      "current_price": 25.05,
+      "original_price": 37.09,
+      "discount_pct": 32.46,
+      "image_url": "https://www.worten.es/i/9508b074daa241ef2008b2f6655a3cc2ed379669",
+      "category": null,
+      "price_history": [
+        25.05
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12022,6 +13263,23 @@
       "drop_pct": null
     },
     {
+      "name": "SIHOO M18: Silla ergonómica con soporte de 4 puntos, malla, ajustes de cabeza/lumbar (150kg). Cert. BIFMA. Gris.",
+      "url": "https://www.worten.es/productos/sihoo-m18-silla-ergonomica-con-soporte-de-4-puntos-malla-ajustes-de-cabeza-lumbar-150kg-cert-bifma-gris-mrkean-0778862458306",
+      "store": "Worten",
+      "current_price": 169.99,
+      "original_price": 249.99,
+      "discount_pct": 32.0,
+      "image_url": "https://www.worten.es/i/d6ef9c2e94399353258280067a0d0e71ea7a249d",
+      "category": null,
+      "price_history": [
+        169.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavadora WHIRLPOOL FFS 8258 W SP (8 kg - 1200 rpm - Blanco)",
       "url": "https://www.worten.es/productos/lavadora-whirlpool-ffs-8258-w-sp-8-kg-1200-rpm-blanco-7424587",
       "store": "Worten",
@@ -12039,16 +13297,33 @@
       "drop_pct": null
     },
     {
-      "name": "Cápsulas orales de GLP-1 para el control del peso",
-      "url": "https://www.worten.es/productos/capsulas-orales-de-glp-1-para-el-control-del-peso-mrkean-8124813864832",
+      "name": "Beliani Njoro Lámpara colgante de metal multicolor",
+      "url": "https://www.worten.es/productos/beliani-njoro-lampara-colgante-de-metal-multicolor-mrkean-4069605053978",
       "store": "Worten",
-      "current_price": 17.73,
-      "original_price": 25.91,
-      "discount_pct": 31.57,
-      "image_url": "https://www.worten.es/i/ef5a16afe4feb348021df4828b29c8c9f537ea60",
+      "current_price": 152.99,
+      "original_price": 223.99,
+      "discount_pct": 31.7,
+      "image_url": "https://www.worten.es/i/f85a3b09b3fbcc7860ecf30bbb3b240200b963cd",
       "category": null,
       "price_history": [
-        17.73
+        152.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Proyector Mini Yg300 Portátil Hd 1080p Reproductor Multimedia Home Theater",
+      "url": "https://www.worten.es/productos/proyector-mini-yg300-portatil-hd-1080p-reproductor-multimedia-home-theater-mrkean-9714898022563",
+      "store": "Worten",
+      "current_price": 38.5,
+      "original_price": 56.27,
+      "discount_pct": 31.58,
+      "image_url": "https://www.worten.es/i/91334606b1388a266f5df4fbe4c0e6622397b137",
+      "category": null,
+      "price_history": [
+        38.5
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12107,6 +13382,23 @@
       "drop_pct": null
     },
     {
+      "name": "TV LG 32LQ63806LC (LED - 32'' - 81 cm - Full HD - Smart TV)",
+      "url": "https://www.worten.es/productos/tv-lg-32lq63806lc-led-32-81-cm-full-hd-smart-tv-7574806",
+      "store": "Worten",
+      "current_price": 239.99,
+      "original_price": 349.99,
+      "discount_pct": 31.43,
+      "image_url": "https://www.worten.es/i/c045876cd9ca70849b82d2cfa6f79324068bd667",
+      "category": null,
+      "price_history": [
+        239.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavadora BALAY 3TS382B (8 kg - 1200 rpm - Blanco)",
       "url": "https://www.worten.es/productos/lavadora-balay-3ts382b-8-kg-1200-rpm-blanco-8617625",
       "store": "Worten",
@@ -12147,7 +13439,7 @@
       "current_price": 54.95,
       "original_price": 79.95,
       "discount_pct": 31.27,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         54.95
@@ -12202,6 +13494,23 @@
       "category": null,
       "price_history": [
         199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Flotador inflable para bebés Slowmoose con protección solar",
+      "url": "https://www.worten.es/productos/flotador-inflable-para-bebes-slowmoose-con-proteccion-solar-mrkean-5603080349929",
+      "store": "Worten",
+      "current_price": 19.48,
+      "original_price": 28.25,
+      "discount_pct": 31.04,
+      "image_url": "https://www.worten.es/i/7af2cf35262d3c0e5577e07dab62f1b10d9b0ea8",
+      "category": null,
+      "price_history": [
+        19.48
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12668,6 +13977,23 @@
       "drop_pct": null
     },
     {
+      "name": "Tratamiento anticaída Nature Volume 12x6 ml Eugéne Perma",
+      "url": "https://www.worten.es/productos/tratamiento-anticaida-nature-volume-12x6-ml-eugene-perma-mrkean-3140100600742",
+      "store": "Worten",
+      "current_price": 37.64,
+      "original_price": 54.55,
+      "discount_pct": 31.0,
+      "image_url": "https://www.worten.es/i/6bdf2af0c8c0b89ca80a89746abb92af76a72de6",
+      "category": null,
+      "price_history": [
+        37.64
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tempest PSU GPSU 750W V2 Fuente de Alimentación ATX",
       "url": "https://www.pccomponentes.com/fuente-alimentacion-tempest-psu-gpsu-750w-v2-fuente-de-alimentacion-atx",
       "store": "PcComponentes",
@@ -12712,6 +14038,23 @@
       "category": "Informática",
       "price_history": [
         179.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Asistente Inteligente AMAZON Echo Dot 5 (Alexa - Azul)",
+      "url": "https://www.worten.es/productos/asistente-inteligente-amazon-echo-dot-5-alexa-azul-7666973",
+      "store": "Worten",
+      "current_price": 44.99,
+      "original_price": 64.99,
+      "discount_pct": 30.77,
+      "image_url": "https://www.worten.es/i/7f29a682e92f5f5cbfcfeeb878e0354196cd3528",
+      "category": null,
+      "price_history": [
+        44.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12770,6 +14113,23 @@
       "drop_pct": null
     },
     {
+      "name": "Audífono digital retroauricular recargable, apto para pérdida auditiva moderada a severa (blanco) Ikikso (bte)",
+      "url": "https://www.worten.es/productos/audifono-digital-retroauricular-recargable-apto-para-perdida-auditiva-moderada-a-severa-blanco-ikikso-bte-mrkean-6181947558589",
+      "store": "Worten",
+      "current_price": 90.3,
+      "original_price": 129.99,
+      "discount_pct": 30.53,
+      "image_url": "https://www.worten.es/i/53a3227caa3dc3bd7413e0cec795085e5c71efda",
+      "category": null,
+      "price_history": [
+        90.3
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Altavoz Portátil JBL Charge 6 - Negro",
       "url": "https://www.carrefour.es/altavoz-portatil-jbl-charge-6-negro/VC4A-30319332/p",
       "store": "Carrefour",
@@ -12780,6 +14140,23 @@
       "category": "TV y Audio",
       "price_history": [
         138.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartwatch SAMSUNG Galaxy Watch 8 LTE (44 mm - Plata)",
+      "url": "https://www.worten.es/productos/smartwatch-samsung-galaxy-watch-8-lte-44-mm-plata-8514342",
+      "store": "Worten",
+      "current_price": 267.97,
+      "original_price": 385.31,
+      "discount_pct": 30.45,
+      "image_url": "https://www.worten.es/i/a01020b7050c37a819c169ee024f5abc9849d3f2",
+      "category": null,
+      "price_history": [
+        267.97
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12899,6 +14276,23 @@
       "category": null,
       "price_history": [
         637.13
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone Xiaomi Redmi Note 15 Pro 4G, 8 GB de RAM - 256 GB, pantalla AMOLED de 6,77 pulgadas, cargador no incluido, versión UE, azul.",
+      "url": "https://www.worten.es/productos/smartphone-xiaomi-redmi-note-15-pro-4g-8-gb-de-ram-256-gb-pantalla-amoled-de-6-77-pulgadas-cargador-no-incluido-version-ue-azul-mrkean-8711727622612",
+      "store": "Worten",
+      "current_price": 240.87,
+      "original_price": 345.0,
+      "discount_pct": 30.18,
+      "image_url": "https://www.worten.es/i/603f230119269bb5ad3e4c903bdad259dc1608cb",
+      "category": null,
+      "price_history": [
+        240.87
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14045,6 +15439,23 @@
       "drop_pct": null
     },
     {
+      "name": "Galaxy A06 Dual LTE 64 GB 4 GB RAM Azul Samsung (a065)",
+      "url": "https://www.worten.es/productos/galaxy-a06-dual-lte-64-gb-4-gb-ram-azul-samsung-a065-mrkean-8806095751740",
+      "store": "Worten",
+      "current_price": 91.15,
+      "original_price": 130.0,
+      "discount_pct": 29.88,
+      "image_url": "https://www.worten.es/i/fd347f29b442fef5d154c8044431cf7da1b8d88c",
+      "category": null,
+      "price_history": [
+        91.15
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Compatible Con Apple Pencil (1.ª Generación): Precisión Píxel A Píxel, Baja Latencia, Ideal Para Tomar Notas, Dibujar Y Firmar.",
       "url": "https://www.worten.es/productos/compatible-con-apple-pencil-1-a-generacion-precision-pixel-a-pixel-baja-latencia-ideal-para-tomar-notas-dibujar-y-firmar-mrkean-5730960262105",
       "store": "Worten",
@@ -14623,6 +16034,23 @@
       "drop_pct": null
     },
     {
+      "name": "Evvo Horno H30 Pyro, 81l, Clase A, 11 Programas, Pirólisis, Display Táctil Digital, Temporizador, Puerta Triple Cristal, Negro.",
+      "url": "https://www.worten.es/productos/evvo-horno-h30-pyro-81l-clase-a-11-programas-pirolisis-display-tactil-digital-temporizador-puerta-triple-cristal-negro-mrkean-8435743901567",
+      "store": "Worten",
+      "current_price": 359.9,
+      "original_price": 506.9,
+      "discount_pct": 29.0,
+      "image_url": "https://www.worten.es/i/bb25c8735a7f9c033dcc63b1f698ff98d7544c42",
+      "category": null,
+      "price_history": [
+        359.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet T90 Android 16 11'' 24GB RAM 128 GB ROM-SD 2 TB 8000 Mah Gemini AI, con Teclado, Funda, Stcylet, Ratón",
       "url": "https://www.worten.es/productos/tablet-t90-android-16-11-24gb-ram-128-gb-rom-sd-2-tb-8000-mah-gemini-ai-con-teclado-funda-stcylet-raton-mrkean-0612840770229",
       "store": "Worten",
@@ -14633,6 +16061,23 @@
       "category": null,
       "price_history": [
         134.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Estación de energía portátil Oukitel P1500 Plus 1800w 1536wh LiFePO4 4000 ciclos UPS 10ms Carga rápida 1200w",
+      "url": "https://www.worten.es/productos/estacion-de-energia-portatil-oukitel-p1500-plus-1800w-1536wh-lifepo4-4000-ciclos-ups-10ms-carga-rapida-1200w-mrkean-6422828787606",
+      "store": "Worten",
+      "current_price": 639.0,
+      "original_price": 899.0,
+      "discount_pct": 28.92,
+      "image_url": "https://www.worten.es/i/9d608ede29fd8f5bfe1a8252b554205f36b9ab8b",
+      "category": null,
+      "price_history": [
+        639.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14697,7 +16142,7 @@
       "current_price": 149.95,
       "original_price": 209.95,
       "discount_pct": 28.58,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         149.95
@@ -14725,6 +16170,23 @@
       "drop_pct": null
     },
     {
+      "name": "Soundbar SHARP HT-SB107 (2.0 - 90 W)",
+      "url": "https://www.worten.es/productos/soundbar-sharp-ht-sb107-2-0-90-w-7407746",
+      "store": "Worten",
+      "current_price": 49.99,
+      "original_price": 69.99,
+      "discount_pct": 28.58,
+      "image_url": "https://www.worten.es/i/0fd316a6551a538b77e23f7a82d107818379b5f7",
+      "category": null,
+      "price_history": [
+        49.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Progresif. Gel Anti-Fatiga Contorno de Ojos KEENWELL",
       "url": "https://www.worten.es/productos/progresif-gel-anti-fatiga-contorno-de-ojos-keenwell-mrkean-8435002102285",
       "store": "Worten",
@@ -14735,6 +16197,40 @@
       "category": null,
       "price_history": [
         38.53
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Patinete eléctrico plegable de 120 W para niños de 7 a 12 años, manillar ajustable en altura, 10 km/h, color rosa.",
+      "url": "https://www.worten.es/productos/patinete-electrico-plegable-de-120-w-para-ninos-de-7-a-12-anos-manillar-ajustable-en-altura-10-km-h-color-rosa-mrkean-8587727855530",
+      "store": "Worten",
+      "current_price": 117.3,
+      "original_price": 164.21,
+      "discount_pct": 28.57,
+      "image_url": "https://www.worten.es/i/eaebdaed89d9b83f194bd961f25c882eac644120",
+      "category": null,
+      "price_history": [
+        117.3
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Juego de 30 fundas elásticas lavables negras para sillas de eventos Tekmaquinas",
+      "url": "https://www.worten.es/productos/juego-de-30-fundas-elasticas-lavables-negras-para-sillas-de-eventos-tekmaquinas-mrkean-0191514146220",
+      "store": "Worten",
+      "current_price": 43.86,
+      "original_price": 61.4,
+      "discount_pct": 28.57,
+      "image_url": "https://www.worten.es/i/ed0a54070281519bee373a716723fbc3327f7ce1",
+      "category": null,
+      "price_history": [
+        43.86
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14803,6 +16299,23 @@
       "category": "TV y Audio",
       "price_history": [
         359.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Evvo Lavadora 7 Kg Terra N7, 1400 Rpm, Clase A, Motor Inverter Edrive, 16 Programas, Lavado 15', Inicio Diferido, Blanco",
+      "url": "https://www.worten.es/productos/evvo-lavadora-7-kg-terra-n7-1400-rpm-clase-a-motor-inverter-edrive-16-programas-lavado-15-inicio-diferido-blanco-mrkean-8435743902694",
+      "store": "Worten",
+      "current_price": 289.9,
+      "original_price": 402.9,
+      "discount_pct": 28.05,
+      "image_url": "https://www.worten.es/i/ff328cc3e116b0ed233c6e74e1320a1b8c3bea96",
+      "category": null,
+      "price_history": [
+        289.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -16459,23 +17972,6 @@
       "drop_pct": null
     },
     {
-      "name": "Xiaomi 17 5G 12GB 512GB 6.3\" Verde Venture",
-      "url": "https://www.pccomponentes.com/xiaomi-17-5g-12gb-512gb-6-3-verde-venture",
-      "store": "PcComponentes",
-      "current_price": 799.0,
-      "original_price": 1094.52,
-      "discount_pct": 27.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11019686/128-xiaomi-17-5g-12gb-512gb-63-verde-venture-review.jpg",
-      "category": "Móviles",
-      "price_history": [
-        799.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Xiaomi 17 5G 12GB 512GB 6.3\" Negro",
       "url": "https://www.pccomponentes.com/xiaomi-17-5g-12gb-512gb-6-3-negro",
       "store": "PcComponentes",
@@ -16867,6 +18363,23 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Q7F QE85Q7FAAU 85\" QLED 4K Ultra HD Smart TV HDR WiFi Negro",
+      "url": "https://www.pccomponentes.com/samsung-q7f-qe85q7faau-85-qled-4k-ultra-hd-smart-tv-hdr-wifi-negro",
+      "store": "PcComponentes",
+      "current_price": 1008.99,
+      "original_price": 1382.18,
+      "discount_pct": 27.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10928314/1649-samsung-q7f-qe85q7faau-85-qled-4k-ultra-hd-smart-tv-hdr-wifi-negro-review.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1008.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "LEGO Harry Potter Artículos de Calidad para Quidditch y Heladería 76452",
       "url": "https://www.game.es/construccion/lego/merchandising/lego-harry-potter-articulos-de-calidad-para-quidditch-y-heladeria-76452/242958",
       "store": "GAME",
@@ -16928,6 +18441,57 @@
       "category": null,
       "price_history": [
         59.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
+      "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-xiaomi-l55mb-apeu-con-ia-4k-uhd-120hz-dolby-audio-dts-x-dts-virtual-x-support/VC4A-33923017/p",
+      "store": "Carrefour",
+      "current_price": 329.0,
+      "original_price": 449.0,
+      "discount_pct": 26.73,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/732566_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        329.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Disco duro externo de 2 TB USB 3.0 450 Mbps Plug and Play Anti-huella Digital",
+      "url": "https://www.worten.es/productos/disco-duro-externo-de-2-tb-usb-3-0-450-mbps-plug-and-play-anti-huella-digital-mrkean-9714898531843",
+      "store": "Worten",
+      "current_price": 36.73,
+      "original_price": 50.13,
+      "discount_pct": 26.73,
+      "image_url": "https://www.worten.es/i/3ad9e3ba55f23e1b1fcb01352361f270e8b5a8d1",
+      "category": null,
+      "price_history": [
+        36.73
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Invernadero túnel para plantas con ventanas, 4x10 m, lona de polietileno de 180 g/m², transparente, verde.",
+      "url": "https://www.worten.es/productos/invernadero-tunel-para-plantas-con-ventanas-4x10-m-lona-de-polietileno-de-180-g-m2-transparente-verde-mrkean-4064108132861",
+      "store": "Worten",
+      "current_price": 395.0,
+      "original_price": 539.0,
+      "discount_pct": 26.72,
+      "image_url": "https://www.worten.es/i/c489bdd0e2fa4dc838c3ede203fbd0db213a1e6f",
+      "category": null,
+      "price_history": [
+        395.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17819,6 +19383,23 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil ASUS V16 V3607VH-RP019 16\" Intel Core 7 240H 16GB 512GB SSD RTX 5050 8GB QWERTY Español Negro Mate",
+      "url": "https://www.pccomponentes.com/portatil-asus-v16-v3607vh-rp019-16-intel-core-7-240h-16gb-512gb-ssd-rtx-5050-8gb-qwerty-espanol-negro-mate",
+      "store": "PcComponentes",
+      "current_price": 905.35,
+      "original_price": 1223.45,
+      "discount_pct": 26.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10952989/1335-portatil-asus-v16-v3607vh-rp019-16-intel-core-7-240h-16gb-512gb-ssd-rtx-5050-8gb-qwerty-espanol-negro-mate.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        905.35
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Samsung Galaxy A36 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/samsung-galaxy-a36-5g-256gb-8gb-ram-negro/VC4A-29956579/p",
       "store": "Carrefour",
@@ -17853,6 +19434,23 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara CANON Powershot SX740 HS Lite Edition (Silver - 20,3 MP - ISO 100-3200)",
+      "url": "https://www.worten.es/productos/camara-canon-powershot-sx740-hs-lite-edition-silver-20-3-mp-iso-100-3200-8253543",
+      "store": "Worten",
+      "current_price": 585.49,
+      "original_price": 791.1,
+      "discount_pct": 25.99,
+      "image_url": "https://www.worten.es/i/63cdb037164321ccb0a4818675076137e85914d2",
+      "category": null,
+      "price_history": [
+        585.49
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smartphone GOOGLE Pixel 9 PRO XL (6.73'' - 16 GB - 256 GB - Hazel)",
       "url": "https://www.worten.es/productos/smartphone-google-pixel-9-pro-xl-6-73-16-gb-256-gb-hazel-8119769",
       "store": "Worten",
@@ -17863,6 +19461,57 @@
       "category": null,
       "price_history": [
         665.88
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cámara Kodak Pixpro Fz55 Rosa+tarjeta Sd De 32 Gb + Lector De Tarjetas + Estuche",
+      "url": "https://www.worten.es/productos/camara-kodak-pixpro-fz55-rosa-tarjeta-sd-de-32-gb-lector-de-tarjetas-estuche-mrkean-9328088284244",
+      "store": "Worten",
+      "current_price": 179.0,
+      "original_price": 241.65,
+      "discount_pct": 25.93,
+      "image_url": "https://www.worten.es/i/da32208929a4966b7cb14c431dd94d8d877dded1",
+      "category": null,
+      "price_history": [
+        179.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "OUTLET|6732561|CANON|CANON SX740",
+      "url": "https://www.worten.es/productos/outlet-6732561-canon-canon-sx740-8198696",
+      "store": "Worten",
+      "current_price": 580.0,
+      "original_price": 783.0,
+      "discount_pct": 25.93,
+      "image_url": "https://www.worten.es/i/601c74b4e375564902ac6212dda132d94f283988",
+      "category": null,
+      "price_history": [
+        580.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Yuysan Switch - Base de expansión portátil 3 en 1, convertidor de host OLED, blanco y negro",
+      "url": "https://www.worten.es/productos/yuysan-switch-base-de-expansion-portatil-3-en-1-convertidor-de-host-oled-blanco-y-negro-mrkean-6900755242493",
+      "store": "Worten",
+      "current_price": 12.41,
+      "original_price": 16.75,
+      "discount_pct": 25.91,
+      "image_url": "https://www.worten.es/i/042e1e2145a11faeeca9849d53703001dd797c09",
+      "category": null,
+      "price_history": [
+        12.41
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17921,6 +19570,40 @@
       "drop_pct": null
     },
     {
+      "name": "Desbrozadora eléctrica 8 en 1 con batería de 21 V, motor de cobre, cabezal giratorio de 90° y diversos accesorios para Rotorazer.",
+      "url": "https://www.worten.es/productos/desbrozadora-electrica-8-en-1-con-bateria-de-21-v-motor-de-cobre-cabezal-giratorio-de-90deg-y-diversos-accesorios-para-rotorazer-mrkean-0644812064562",
+      "store": "Worten",
+      "current_price": 55.99,
+      "original_price": 74.99,
+      "discount_pct": 25.34,
+      "image_url": "https://www.worten.es/i/ed2c6a067d1c36e5b6e2ae58e4c85803f49a206f",
+      "category": null,
+      "price_history": [
+        55.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Linterna de proyección Lumintop GT Nano 3.0 EDC con tubo de extensión verde y batería 10750, alcance de 400 m, batería 10280, tamaño mini, 700 lm, salida de aluminio.",
+      "url": "https://www.worten.es/productos/linterna-de-proyeccion-lumintop-gt-nano-3-0-edc-con-tubo-de-extension-verde-y-bateria-10750-alcance-de-400-m-bateria-10280-tamano-mini-700-lm-salida-de-aluminio-mrkean-368800007463",
+      "store": "Worten",
+      "current_price": 19.92,
+      "original_price": 26.65,
+      "discount_pct": 25.25,
+      "image_url": "https://www.worten.es/i/14fae9a2c14777fb7d44ba5a31191661542385cd",
+      "category": null,
+      "price_history": [
+        19.92
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "MB ASUS ROG STRIX Z490-F GAMING",
       "url": "https://www.worten.es/productos/mb-asus-rog-strix-z490-f-gaming-7203048",
       "store": "Worten",
@@ -17944,7 +19627,7 @@
       "current_price": 5.95,
       "original_price": 7.95,
       "discount_pct": 25.16,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1783516068",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1783517921",
       "category": "Outlet",
       "price_history": [
         5.95
@@ -19026,6 +20709,23 @@
       "drop_pct": null
     },
     {
+      "name": "Freidora Aire 4.5l, Cuba Cristal Haeger",
+      "url": "https://www.worten.es/productos/freidora-aire-4-5l-cuba-cristal-haeger-mrkean-5608475037627",
+      "store": "Worten",
+      "current_price": 78.75,
+      "original_price": 105.0,
+      "discount_pct": 25.0,
+      "image_url": "https://www.worten.es/i/cde426268c0ef85b89a58e30b996b514d876d3ca",
+      "category": null,
+      "price_history": [
+        78.75
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "BRA Lote de Sartenes Gastro Set 18cm + 22cm + 26cm",
       "url": "https://www.pccomponentes.com/bra-lote-de-sartenes-gastro-set-18cm-plus-22cm-plus-26cm",
       "store": "PcComponentes",
@@ -19111,16 +20811,50 @@
       "drop_pct": null
     },
     {
-      "name": "Smartphone Xiaomi Redmi Note 15 Pro 4G, 8 GB de RAM - 256 GB, pantalla AMOLED de 6,77 pulgadas, cargador no incluido, versión UE, azul.",
-      "url": "https://www.worten.es/productos/smartphone-xiaomi-redmi-note-15-pro-4g-8-gb-de-ram-256-gb-pantalla-amoled-de-6-77-pulgadas-cargador-no-incluido-version-ue-azul-mrkean-8711727622612",
+      "name": "Tienda De Campaña National Geographic Iglu 2p - Montaje Rápido",
+      "url": "https://www.worten.es/productos/tienda-de-campana-national-geographic-iglu-2p-montaje-rapido-mrkean-8718973069451",
       "store": "Worten",
-      "current_price": 225.33,
-      "original_price": 299.0,
-      "discount_pct": 24.64,
-      "image_url": "https://www.worten.es/i/603f230119269bb5ad3e4c903bdad259dc1608cb",
+      "current_price": 44.99,
+      "original_price": 59.9,
+      "discount_pct": 24.89,
+      "image_url": "https://www.worten.es/i/b78502ed778b2f096479491cb06399cdf8b164ee",
       "category": null,
       "price_history": [
-        225.33
+        44.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Piscina INTEX Metal (244 x 51)",
+      "url": "https://www.worten.es/productos/piscina-intex-metal-244-x-51-7549127",
+      "store": "Worten",
+      "current_price": 175.4,
+      "original_price": 233.0,
+      "discount_pct": 24.72,
+      "image_url": "https://www.worten.es/i/562c782802d54f474840955e31f56638f1ce0d4d",
+      "category": null,
+      "price_history": [
+        175.4
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Maniquí mediano personalizado SINGER DF150 de tela y espuma, rojo tallas pequeñas",
+      "url": "https://www.worten.es/productos/maniqui-mediano-personalizado-singer-df150-de-tela-y-espuma-rojo-tallas-pequenas-mrkean-7393033101008",
+      "store": "Worten",
+      "current_price": 149.99,
+      "original_price": 199.0,
+      "discount_pct": 24.63,
+      "image_url": "https://www.worten.es/i/00c5c638abd642a7227960593882cdeee542dbea",
+      "category": null,
+      "price_history": [
+        149.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20165,6 +21899,23 @@
       "drop_pct": null
     },
     {
+      "name": "Extractor Pirámide Evvo Ce20",
+      "url": "https://www.worten.es/productos/extractor-piramide-evvo-ce20-mrkean-8435743901673",
+      "store": "Worten",
+      "current_price": 69.9,
+      "original_price": 90.9,
+      "discount_pct": 23.1,
+      "image_url": "https://www.worten.es/i/2b085d629b56db776a0ae9b1a136c7a78734d040",
+      "category": null,
+      "price_history": [
+        69.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Termo Eléctrico TEKA Smart EWH30VED (30 L - 7.5 bar)",
       "url": "https://www.worten.es/productos/termo-electrico-teka-smart-ewh30ved-30-l-7-5-bar-6716066",
       "store": "Worten",
@@ -20345,6 +22096,57 @@
       "category": null,
       "price_history": [
         54.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Sillón Homcom Reclinable Manual 160° Con Reposapiés, Ergonómico Y Acolchado, En Tejido Efecto Lino, Ideal Para El Dormitorio.",
+      "url": "https://www.worten.es/productos/sillon-homcom-reclinable-manual-160deg-con-reposapies-ergonomico-y-acolchado-en-tejido-efecto-lino-ideal-para-el-dormitorio-mrkean-4896315230951",
+      "store": "Worten",
+      "current_price": 140.99,
+      "original_price": 183.29,
+      "discount_pct": 23.08,
+      "image_url": "https://www.worten.es/i/87db69d7a6141eafb009aa876903bb5e5cadeaa2",
+      "category": null,
+      "price_history": [
+        140.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "VEVOR Soldador de Punto Eléctrico 400V Pistola de Soldadura Portátil con Punta de 2.0 mm",
+      "url": "https://www.worten.es/productos/vevor-soldador-de-punto-electrico-400v-pistola-de-soldadura-portatil-con-punta-de-2-0-mm-mrkean-0644097019288",
+      "store": "Worten",
+      "current_price": 314.99,
+      "original_price": 409.49,
+      "discount_pct": 23.08,
+      "image_url": "https://www.worten.es/i/b0015c58c55f36f738b4ead68c7e9439b152d01e",
+      "category": null,
+      "price_history": [
+        314.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone 5G Oukitel WP62 de 48 GB/512 GB, batería de 11000 mAh, cámara de 108 MP, 120 Hz, pantalla de 6.6 pulgadas, color negro, resistente.",
+      "url": "https://www.worten.es/productos/smartphone-5g-oukitel-wp62-de-48-gb-512-gb-bateria-de-11000-mah-camara-de-108-mp-120-hz-pantalla-de-6-6-pulgadas-color-negro-resistente-mrkean-9344458532678",
+      "store": "Worten",
+      "current_price": 299.99,
+      "original_price": 389.99,
+      "discount_pct": 23.08,
+      "image_url": "https://www.worten.es/i/5985dbb3fbe89675d4c77b62642ba0a3b163f740",
+      "category": null,
+      "price_history": [
+        299.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20617,23 +22419,6 @@
       "category": "Hogar",
       "price_history": [
         279.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Voltrock R-Viper 800 Patinete Eléctrico 800W con doble suspensión, 55km autonomía, (Homologado DGT)",
-      "url": "https://www.pccomponentes.com/voltrock-r-viper-800-patinete-electrico-800w-con-doble-suspension-55km-autonomia-homologado-dgt",
-      "store": "PcComponentes",
-      "current_price": 459.0,
-      "original_price": 596.1,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10956389/1819-voltrock-r-viper-800-patinete-electrico-800w-con-doble-suspension-55km-autonomia-homologado-dgt-mejor-precio.jpg",
-      "category": "Otros",
-      "price_history": [
-        459.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21457,13 +23242,30 @@
       "drop_pct": null
     },
     {
+      "name": "Cinta de Correr Treadmill Force 480 Pro BEHUMAX",
+      "url": "https://www.worten.es/productos/cinta-de-correr-treadmill-force-480-pro-behumax-mrkean-8435585514154",
+      "store": "Worten",
+      "current_price": 399.0,
+      "original_price": 517.0,
+      "discount_pct": 22.82,
+      "image_url": "https://www.worten.es/i/a158b17a4e9e2690f3a9e3c359dbac8c3db68af3",
+      "category": null,
+      "price_history": [
+        399.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PNY GeForce RTX 5060 Ti Dual Fan OC 8GB GDDR7 DLSS4",
       "url": "https://www.coolmod.com/pny-geforce-rtx-5060-ti-dual-fan-oc-8gb-gddr7-dlss4/",
       "store": "Coolmod",
       "current_price": 339.95,
       "original_price": 439.95,
       "discount_pct": 22.73,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046383_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046383_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         339.95
@@ -21630,13 +23432,30 @@
       "name": "Portátil - LENOVO V15 G5 IRL 83GW008CSP, 15,6 \", Intel Core i5 13420H, 16 GB RAM, 512 GB SSD, Onboard Graphics, Windows 11 Home, Negro",
       "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-v15-g5-irl-83gw008csp-156-intel-core-i5-13420h-16-gb-ram-512-gb-ssd-onboard-graphics-windows-11-negro-167803393.html",
       "store": "MediaMarkt",
-      "current_price": 599.85,
+      "current_price": 599.8,
       "original_price": 770.0,
       "discount_pct": 22.1,
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_167803395",
       "category": "Informática",
       "price_history": [
-        599.85
+        599.8
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cinta de Correr BEHUMAX Treadmill Force Vibrator 580",
+      "url": "https://www.worten.es/productos/cinta-de-correr-behumax-treadmill-force-vibrator-580-mrkean-8435585512266",
+      "store": "Worten",
+      "current_price": 499.0,
+      "original_price": 639.99,
+      "discount_pct": 22.03,
+      "image_url": "https://www.worten.es/i/5261cbb7a3cc5e36e1fc3da8b94afcee4d51ae4e",
+      "category": null,
+      "price_history": [
+        499.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -22341,6 +24160,57 @@
       "drop_pct": null
     },
     {
+      "name": "Lavadora Integrable CANDY BC448M4D8J-S (8 kg - 1400 RPM - Blanco)",
+      "url": "https://www.worten.es/productos/lavadora-integrable-candy-bc448m4d8j-s-8-kg-1400-rpm-blanco-8612190",
+      "store": "Worten",
+      "current_price": 451.95,
+      "original_price": 578.63,
+      "discount_pct": 21.89,
+      "image_url": "https://www.worten.es/i/4791c96a8f8b1f681ef7582d25781eccda7c773d",
+      "category": null,
+      "price_history": [
+        451.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Congelador Horizontal VOK EVF-99CDEW (Estático - 55 cm - 99 L - Blanco)",
+      "url": "https://www.worten.es/productos/congelador-horizontal-vok-evf-99cdew-estatico-55-cm-99-l-blanco-mrkean-6923442310909",
+      "store": "Worten",
+      "current_price": 179.0,
+      "original_price": 229.0,
+      "discount_pct": 21.83,
+      "image_url": "https://www.worten.es/i/d38f35385344890ef0813470856c5315cab4473d",
+      "category": null,
+      "price_history": [
+        179.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Congelador Vertical VOK EVF-63TDEW (Estático - 82,5 cm - 63 L - Blanco)",
+      "url": "https://www.worten.es/productos/congelador-vertical-vok-evf-63tdew-estatico-82-5-cm-63-l-blanco-mrkean-6923442310930",
+      "store": "Worten",
+      "current_price": 179.0,
+      "original_price": 229.0,
+      "discount_pct": 21.83,
+      "image_url": "https://www.worten.es/i/f3ee32f65624488c9a2828157f54839362bfd970",
+      "category": null,
+      "price_history": [
+        179.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PC Sobremesa - GREED Multimedia 7 - Ordenador de oficina, Intel Core i7-6700, 16 GB RAM, 1000 GB HDD, HD Graphics, Windows 11 Pro, Negro",
       "url": "https://www.mediamarkt.es/es/product/_pc-sobremesa-greed-multimedia-7-intelr-core-i7-6700-16-gb-ram-1000-gb-ssd-hd-graphics-windows-11-pro-64-bit-negro-143593887.html",
       "store": "MediaMarkt",
@@ -22381,7 +24251,7 @@
       "current_price": 314.95,
       "original_price": 399.95,
       "discount_pct": 21.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         314.95
@@ -22419,23 +24289,6 @@
       "category": null,
       "price_history": [
         369.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Extensión Eléctrica MADER 68023 (Enchufes: 4 - 25m)",
-      "url": "https://www.worten.es/productos/extension-electrica-mader-68023-enchufes-4-25m-mrkean-5602225680231",
-      "store": "Worten",
-      "current_price": 29.9,
-      "original_price": 37.9,
-      "discount_pct": 21.11,
-      "image_url": "https://www.worten.es/i/993219c52f22e22c3afc4dd732e5f0f4f9e3b9ca",
-      "category": null,
-      "price_history": [
-        29.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23191,6 +25044,40 @@
       "drop_pct": null
     },
     {
+      "name": "APPLE Watch Series 11 GPS 42 mm Plata Aluminio con Correa Deportiva Niebla Lila(Tamaño S/M)",
+      "url": "https://www.worten.es/productos/apple-watch-series-11-gps-42-mm-plata-aluminio-con-correa-deportiva-niebla-lila-tamano-s-m-8600394",
+      "store": "Worten",
+      "current_price": 339.99,
+      "original_price": 429.0,
+      "discount_pct": 20.75,
+      "image_url": "https://www.worten.es/i/e7a9319d42016189da979e37a51b0e734f360592",
+      "category": null,
+      "price_history": [
+        339.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone Cubot X100 5G de 6,88'', 16 GB, 256 GB, 5100 mAh - Negro",
+      "url": "https://www.worten.es/productos/smartphone-cubot-x100-5g-de-6-88-16-gb-256-gb-5100-mah-negro-mrkean-6221300295321",
+      "store": "Worten",
+      "current_price": 192.49,
+      "original_price": 242.49,
+      "discount_pct": 20.62,
+      "image_url": "https://www.worten.es/i/cc4864a49d216d1e6326898384e2006c4be4c401",
+      "category": null,
+      "price_history": [
+        192.49
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Frigorífico BEKO RDSA310K40WN (Estático - 175 cm - 306 L - Branco)",
       "url": "https://www.worten.es/productos/frigorifico-beko-rdsa310k40wn-estatico-175-cm-306-l-branco-8078167",
       "store": "Worten",
@@ -23259,6 +25146,40 @@
       "drop_pct": null
     },
     {
+      "name": "Pulverizador De Mochila SAURIUM",
+      "url": "https://www.worten.es/productos/pulverizador-de-mochila-saurium-mrkean-5602225485218",
+      "store": "Worten",
+      "current_price": 19.05,
+      "original_price": 23.9,
+      "discount_pct": 20.29,
+      "image_url": "https://www.worten.es/i/301f5ddccf9aeb2e0e74585e59787ec691cb4406",
+      "category": null,
+      "price_history": [
+        19.05
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Espejo de media luna con LED, Espejo de pared sin marco Espelharte (30x60 cm - Luz fría 6500K)",
+      "url": "https://www.worten.es/productos/espejo-de-media-luna-con-led-espejo-de-pared-sin-marco-espelharte-30x60-cm-luz-fria-6500k-mrkean-4068123569619",
+      "store": "Worten",
+      "current_price": 74.99,
+      "original_price": 93.99,
+      "discount_pct": 20.21,
+      "image_url": "https://www.worten.es/i/c389518399bb87886752bb05b1d4f4d6a4c982e6",
+      "category": null,
+      "price_history": [
+        74.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Congelador Horizontal INFINITON CH-A98B (Defrost - 84 cm - 98 L - Blanco)",
       "url": "https://www.worten.es/productos/congelador-horizontal-infiniton-ch-a98b-defrost-84-cm-98-l-blanco-mrkean-9436546182596",
       "store": "Worten",
@@ -23266,6 +25187,23 @@
       "original_price": 199.0,
       "discount_pct": 20.1,
       "image_url": "https://www.worten.es/i/973dd66f3f726cf3e752361a49b9f10b3f7c7ebf",
+      "category": null,
+      "price_history": [
+        159.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico Retro VOK EVR-85RDER (Estático - 84 cm - 85 L - Rojo)",
+      "url": "https://www.worten.es/productos/frigorifico-retro-vok-evr-85rder-estatico-84-cm-85-l-rojo-mrkean-6923442310947",
+      "store": "Worten",
+      "current_price": 159.0,
+      "original_price": 199.0,
+      "discount_pct": 20.1,
+      "image_url": "https://www.worten.es/i/64535adfe25d1927248209f617bb4b6820e27c09",
       "category": null,
       "price_history": [
         159.0
@@ -23344,6 +25282,23 @@
       "drop_pct": null
     },
     {
+      "name": "Patinete eléctrico todoterreno Iscooter IX3, 800 W, 48 V 10 Ah, autonomía de 40 km, neumáticos de 10'', doble suspensión.",
+      "url": "https://www.worten.es/productos/patinete-electrico-todoterreno-iscooter-ix3-800-w-48-v-10-ah-autonomia-de-40-km-neumaticos-de-10-doble-suspension-mrkean-0592742439601",
+      "store": "Worten",
+      "current_price": 399.0,
+      "original_price": 499.0,
+      "discount_pct": 20.04,
+      "image_url": "https://www.worten.es/i/28f9d62b0d205ce33f6bcd1e3e2710546cf35727",
+      "category": null,
+      "price_history": [
+        399.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Altavoz hi-fi 8/20cm 8 ohmios 90w DIBEISI",
       "url": "https://www.worten.es/productos/altavoz-hi-fi-8-20cm-8-ohmios-90w-dibeisi-mrkean-5609711004137",
       "store": "Worten",
@@ -23354,6 +25309,23 @@
       "category": null,
       "price_history": [
         17.82
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tamiz Multifuncional De Acero Inoxidable, Malla 100, Redondo, Para Cerámica Y Pigmentos, Diseño",
+      "url": "https://www.worten.es/productos/tamiz-multifuncional-de-acero-inoxidable-malla-100-redondo-para-ceramica-y-pigmentos-diseno-mrkean-5601511697335",
+      "store": "Worten",
+      "current_price": 15.74,
+      "original_price": 19.68,
+      "discount_pct": 20.02,
+      "image_url": "https://www.worten.es/i/569ba2e682b98c0f3e726b292c98e96101979066",
+      "category": null,
+      "price_history": [
+        15.74
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23514,6 +25486,23 @@
       "drop_pct": null
     },
     {
+      "name": "Owlotech Lens AI Gafas Inteligentes Cristal Fotocromático 32MP Llamadas, Música, Captura Imágenes y Vídeo, Traducción en Tiempo Real Negro",
+      "url": "https://www.pccomponentes.com/owlotech-lens-ai-gafas-inteligentes-cristal-fotocromatico-32mp-llamadas-musica-captura-imagenes-y-video-traduccion-en-tiempo-real-negro",
+      "store": "PcComponentes",
+      "current_price": 59.99,
+      "original_price": 74.99,
+      "discount_pct": 20.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11015553/184-owlotech-lens-ai-gafas-inteligentes-cristal-fotocromatico-8mp-llamadas-musica-captura-imagenes-y-video-traduccion-en-tiempo-real-negro.jpg",
+      "category": "Otros",
+      "price_history": [
+        59.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet Xiaomi REDMI Pad 2 WiFi 11\" 4GB 128GB Gris Grafito",
       "url": "https://www.pccomponentes.com/tablet-xiaomi-redmi-pad-2-wifi-11-4gb-128gb-gris-grafito",
       "store": "PcComponentes",
@@ -23524,23 +25513,6 @@
       "category": "Móviles",
       "price_history": [
         159.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Owlotech Lens AI Gafas Inteligentes Cristal Tintado 32MP Llamadas, Música, Captura Imágenes y Vídeo, Traducción en Tiempo Real Negro",
-      "url": "https://www.pccomponentes.com/owlotech-lens-ai-gafas-inteligentes-cristal-tintado-32mp-llamadas-musica-captura-imagenes-y-video-traduccion-en-tiempo-real-negro",
-      "store": "PcComponentes",
-      "current_price": 59.99,
-      "original_price": 74.99,
-      "discount_pct": 20.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10998568/140-owlotech-lens-ai-gafas-inteligentes-cristal-tintado-8mp-llamadas-musica-captura-imagenes-y-video-traduccion-en-tiempo-real-negro-review.jpg",
-      "category": "Otros",
-      "price_history": [
-        59.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24364,6 +26336,23 @@
       "drop_pct": null
     },
     {
+      "name": "POCO X8 Pro 5G 12GB 512GB 6.59\" Verde Menta",
+      "url": "https://www.pccomponentes.com/poco-x8-pro-5g-12gb-512gb-6-59-verde-menta",
+      "store": "PcComponentes",
+      "current_price": 379.0,
+      "original_price": 473.75,
+      "discount_pct": 20.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11024843/1855-poco-x8-pro-5g-12gb-512gb-659-verde-menta-51d5d440-c37a-4bdb-be6e-9aa66911e3a4.jpg",
+      "category": "Móviles",
+      "price_history": [
+        379.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Auricular Nothing Headphone (1) Bluetooth 5.3 ANC Hi-Res Audio 35-80h Autonomía Negro",
       "url": "https://www.pccomponentes.com/auricular-nothing-headphone-1-bluetooth-5-3-anc-hi-res-audio-35-80h-autonomia-negro",
       "store": "PcComponentes",
@@ -24738,6 +26727,23 @@
       "drop_pct": null
     },
     {
+      "name": "Espejo Maquillaje con Luz 15 Led 3 Modos de Luz 58x43x12cm Blanco",
+      "url": "https://www.worten.es/productos/espejo-maquillaje-con-luz-15-led-3-modos-de-luz-58x43x12cm-blanco-mrkean-9509519628237",
+      "store": "Worten",
+      "current_price": 55.2,
+      "original_price": 69.0,
+      "discount_pct": 20.0,
+      "image_url": "https://www.worten.es/i/29ebc91a29633f8607c2b984df242836ae400a92",
+      "category": null,
+      "price_history": [
+        55.2
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cápsulas orales de GLP-1 eficaces para el control del peso",
       "url": "https://www.worten.es/productos/capsulas-orales-de-glp-1-eficaces-para-el-control-del-peso-mrkean-8742655371761",
       "store": "Worten",
@@ -24772,6 +26778,40 @@
       "drop_pct": null
     },
     {
+      "name": "Kit De Ventana Para Aire Acondicionado Portátil – Portáti",
+      "url": "https://www.worten.es/productos/kit-de-ventana-para-aire-acondicionado-portatil-portati-mrkean-5602414377010",
+      "store": "Worten",
+      "current_price": 28.65,
+      "original_price": 35.81,
+      "discount_pct": 19.99,
+      "image_url": "https://www.worten.es/i/8d4a7366a3665b93d63ba4c154ae87aae1085d12",
+      "category": null,
+      "price_history": [
+        28.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Contenedor para Pañales TOMMEE TIPPEE Twist & Click (Rosa)",
+      "url": "https://www.worten.es/productos/contenedor-para-panales-tommee-tippee-twist-and-click-rosa-mrkean-5010415510020",
+      "store": "Worten",
+      "current_price": 24.0,
+      "original_price": 29.99,
+      "discount_pct": 19.97,
+      "image_url": "https://www.worten.es/i/2b19b0b60145a66f4d6c8d51c42841d5ddab4cd5",
+      "category": null,
+      "price_history": [
+        24.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Frigorífico Combi BOSCH KGN36VWED (No Frost - 186 cm - 324 L - Blanco)",
       "url": "https://www.worten.es/productos/frigorifico-combi-bosch-kgn36vwed-no-frost-186-cm-324-l-blanco-7240492",
       "store": "Worten",
@@ -24782,6 +26822,23 @@
       "category": null,
       "price_history": [
         592.38
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Mochila Escolar FROZEN Hello spring (Azul claro - Poliéster 300D)",
+      "url": "https://www.worten.es/productos/mochila-escolar-frozen-hello-spring-azul-claro-poliester-300d-mrkean-8412688526208",
+      "store": "Worten",
+      "current_price": 34.99,
+      "original_price": 43.69,
+      "discount_pct": 19.91,
+      "image_url": "https://www.worten.es/i/1f5d7e29f88c8be468bcce821e851e3bbe556e42",
+      "category": null,
+      "price_history": [
+        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25350,6 +27407,23 @@
       "drop_pct": null
     },
     {
+      "name": "Cafeteras de espresso Hibrew H10b, programables, con temperatura y volumen de taza ajustables, limpiador a vapor para espumador de leche.",
+      "url": "https://www.worten.es/productos/cafeteras-de-espresso-hibrew-h10b-programables-con-temperatura-y-volumen-de-taza-ajustables-limpiador-a-vapor-para-espumador-de-leche-mrkean-6975702150572",
+      "store": "Worten",
+      "current_price": 129.0,
+      "original_price": 159.0,
+      "discount_pct": 18.87,
+      "image_url": "https://www.worten.es/i/7cbdef77af51d48bf17fed2e9b6349272b7dc9b8",
+      "category": null,
+      "price_history": [
+        129.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Doble Suspensión De Brown Comfort Ref. 65361 Mader",
       "url": "https://www.worten.es/productos/doble-suspension-de-brown-comfort-ref-65361-mader-mrkean-5602225653617",
       "store": "Worten",
@@ -25469,6 +27543,23 @@
       "drop_pct": null
     },
     {
+      "name": "Salvatore Tanino Therapy Crema De Peinar 300 Ml",
+      "url": "https://www.worten.es/productos/salvatore-tanino-therapy-crema-de-peinar-300-ml-mrkean-7899910900615",
+      "store": "Worten",
+      "current_price": 28.33,
+      "original_price": 34.79,
+      "discount_pct": 18.57,
+      "image_url": "https://www.worten.es/i/858545e48bd09be6d11b6264847decb702d86e45",
+      "category": null,
+      "price_history": [
+        28.33
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cocina KUBO KBGS8230 IX (64 L - Gas Butano-Propano - Inox) 60x60",
       "url": "https://www.worten.es/productos/cocina-kubo-kbgs8230-ix-64-l-gas-butano-propano-inox-60x60-8237826",
       "store": "Worten",
@@ -25547,6 +27638,23 @@
       "category": null,
       "price_history": [
         269.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Redmi 15c 4g 8gb 256gb Azul Moonlight Blue Dual Im Xiaomi",
+      "url": "https://www.worten.es/productos/redmi-15c-4g-8gb-256gb-azul-moonlight-blue-dual-im-xiaomi-mrkean-6932554455361",
+      "store": "Worten",
+      "current_price": 130.33,
+      "original_price": 159.33,
+      "discount_pct": 18.2,
+      "image_url": "https://www.worten.es/i/eae696f09bcedc676cc6f29a19a3f55e78d2b028",
+      "category": null,
+      "price_history": [
+        130.33
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -26268,6 +28376,40 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil Lenovo V15 G4 AMN 15,6\" AMD Ryzen 5 7520U 16GB 512GB SSD Radeon 610M Windows 11",
+      "url": "https://www.pccomponentes.com/portatil-lenovo-v15-g4-amn-15-6-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-windows-11",
+      "store": "PcComponentes",
+      "current_price": 580.0,
+      "original_price": 707.32,
+      "discount_pct": 18.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090254/1286-portatil-lenovo-v15-g4-amn-156-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-windows-11.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        580.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartgyro Raptor Evo Patinete Eléctrico 1000W 60km Frenos Hidráulicos Doble Suspensión Tubeless App",
+      "url": "https://www.pccomponentes.com/smartgyro-raptor-evo-patinete-electrico-1000w-60km-frenos-hidraulicos-doble-suspension-tubeless-app",
+      "store": "PcComponentes",
+      "current_price": 649.0,
+      "original_price": 791.46,
+      "discount_pct": 18.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870659/1336-smartgyro-raptor-evo-patinete-electrico-10-1000w-16000mah-con-frenos-hidraulicos-y-doble-suspension.jpg",
+      "category": "Otros",
+      "price_history": [
+        649.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Mando GameSir G7 SE Naranja Joysticks Hall Effect USB Xbox Series/PC",
       "url": "https://www.pccomponentes.com/mando-gamesir-g7-se-naranja-joysticks-hall-effect-usb-xbox-series-pc",
       "store": "PcComponentes",
@@ -26291,7 +28433,7 @@
       "current_price": 229.95,
       "original_price": 279.95,
       "discount_pct": 17.86,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         229.95
@@ -26614,7 +28756,7 @@
       "current_price": 289.95,
       "original_price": 349.95,
       "discount_pct": 17.15,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046453_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046453_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         289.95
@@ -26631,7 +28773,7 @@
       "current_price": 289.95,
       "original_price": 349.95,
       "discount_pct": 17.15,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044895_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044895_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         289.95
@@ -27373,6 +29515,23 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy A17 (6.7\", 4 GB, 128 GB, azul)",
+      "url": "https://www.worten.es/productos/samsung-galaxy-a17-6-7-4-gb-128-gb-azul-mrkean-8806097640240",
+      "store": "Worten",
+      "current_price": 166.62,
+      "original_price": 199.99,
+      "discount_pct": 16.69,
+      "image_url": "https://www.worten.es/i/519d771a8904c8b7bfa567e89cf56052054cc3ad",
+      "category": null,
+      "price_history": [
+        166.62
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil - Lenovo Yoga Slim 7 14IMH9, 14\" WUXGA OLED, Intel® Evo™ Edition Core™ Ultra 7 155H, 32GB RAM, 1TB SSD, Arc™ Graphics, Windows 11 Home",
       "url": "https://www.mediamarkt.es/es/product/_portatil-lenovo-yoga-slim-7-14imh9-14-wuxga-oled-intelr-evotm-edition-coretm-ultra-7-155h-32gb-ram-1tb-ssd-arctm-graphics-windows-11-home-1605640.html",
       "store": "MediaMarkt",
@@ -27400,23 +29559,6 @@
       "category": "Gaming",
       "price_history": [
         130.3
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Toshiba 65QV3463DG 65\" (164 cm), QLED, 4K UHD, 60Hz, Dolby Vision, Smart TV, HDR, Dolby Atmos",
-      "url": "https://www.carrefour.es/tv-toshiba-65qv3463dg-65-164-cm-qled-4k-uhd-60hz-dolby-vision-smart-tv-hdr-dolby-atmos/VC4A-28512884/p",
-      "store": "Carrefour",
-      "current_price": 493.45,
-      "original_price": 592.14,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/481912_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        493.45
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27536,6 +29678,23 @@
       "category": null,
       "price_history": [
         37.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Andador Injusa Winner Xl Repsol Competition Azul (idade Mínima 3 Anos 99 X 39 X 61 Cm)",
+      "url": "https://www.worten.es/productos/andador-injusa-winner-xl-repsol-competition-azul-idade-minima-3-anos-99-x-39-x-61-cm-mrkean-8410964194714",
+      "store": "Worten",
+      "current_price": 74.99,
+      "original_price": 89.99,
+      "discount_pct": 16.67,
+      "image_url": "https://www.worten.es/i/ad2741cf90b0bcb3e37cec56e29f4b8bbe575940",
+      "category": null,
+      "price_history": [
+        74.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27764,6 +29923,40 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy A17 5G 4 GB 128 GB Azul Azul Dual Im",
+      "url": "https://www.worten.es/productos/samsung-galaxy-a17-5g-4-gb-128-gb-azul-azul-dual-im-mrkean-8806097640257",
+      "store": "Worten",
+      "current_price": 166.99,
+      "original_price": 199.0,
+      "discount_pct": 16.09,
+      "image_url": "https://www.worten.es/i/fa025c7428d4c6a8b4d16c72f2fe787e4e660058",
+      "category": null,
+      "price_history": [
+        166.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "UNIBIKE Q7 Bicicleta eléctrica urbana para adultos - Motor 250W, batería 36V 10Ah",
+      "url": "https://www.worten.es/productos/unibike-q7-bicicleta-electrica-urbana-para-adultos-motor-250w-bateria-36v-10ah-mrkean-8712111319125",
+      "store": "Worten",
+      "current_price": 629.0,
+      "original_price": 749.0,
+      "discount_pct": 16.02,
+      "image_url": "https://www.worten.es/i/4cfbd8d96de92bf82fdd83d537d3bbb9cbf8cc71",
+      "category": null,
+      "price_history": [
+        629.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Forgeon Tiberium EVO Torre ATX ARGB Cristal Templado Negra",
       "url": "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-cristal-templado-negra",
       "store": "PcComponentes",
@@ -27791,23 +29984,6 @@
       "category": "Componentes",
       "price_history": [
         209.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Xiaomi REDMI Note 15 4G 8GB 256GB 6.77\" Negro",
-      "url": "https://www.pccomponentes.com/xiaomi-redmi-note-15-4g-8gb-256gb-6-77-negro",
-      "store": "PcComponentes",
-      "current_price": 175.08,
-      "original_price": 208.43,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10992448/1192-xiaomi-redmi-note-15-4g-8gb-256gb-677-negro-07ba806f-214d-490f-a4a0-47607a9087d5.jpg",
-      "category": "Móviles",
-      "price_history": [
-        175.08
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28046,23 +30222,6 @@
       "category": "Móviles",
       "price_history": [
         589.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Xiaomi 17 Ultra 5G 16GB 512GB 6.9\" Negro",
-      "url": "https://www.pccomponentes.com/xiaomi-17-ultra-5g-16gb-512gb-6-9-negro",
-      "store": "PcComponentes",
-      "current_price": 1259.0,
-      "original_price": 1498.81,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11025796/1674-xiaomi-17-ultra-5g-16gb-512gb-69-negro-0ad6f58e-739c-4469-8a94-85f294bcbd1c.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1259.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29090,6 +31249,23 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy S25 Ultra Smartphone con IA 256GB Batería 5.000mAh Titanio Azul Versión Importada EU",
+      "url": "https://www.pccomponentes.com/samsung-galaxy-s25-ultra-smartphone-con-ia-256gb-bateria-5000mah-titanio-azul-version-importada-eu",
+      "store": "PcComponentes",
+      "current_price": 834.09,
+      "original_price": 992.96,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10868805/1351-samsung-galaxy-s25-ultra-smartphone-con-ia-256gb-bateria-5000mah-titanio-azul-version-importada-eu.jpg",
+      "category": "Móviles",
+      "price_history": [
+        834.09
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavavajillas BALAY 3VS6361BP  (14 Cubiertos - 60 cm - Blanco)",
       "url": "https://www.worten.es/productos/lavavajillas-balay-3vs6361bp-14-cubiertos-60-cm-blanco-8378341",
       "store": "Worten",
@@ -29117,6 +31293,23 @@
       "category": null,
       "price_history": [
         556.81
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Horno BALAY 3HB1000B0 (71 L - 59.4 cm - Blanco)",
+      "url": "https://www.worten.es/productos/horno-balay-3hb1000b0-71-l-59-4-cm-blanco-6926795",
+      "store": "Worten",
+      "current_price": 301.28,
+      "original_price": 358.67,
+      "discount_pct": 16.0,
+      "image_url": "https://www.worten.es/i/ff5a200365126aeba035f0000be6675c4754ede4",
+      "category": null,
+      "price_history": [
+        301.28
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29311,6 +31504,40 @@
       "drop_pct": null
     },
     {
+      "name": "PEST REJECT PRO - Repelente ultrasonico para insetos e roedores",
+      "url": "https://www.worten.es/productos/pest-reject-pro-repelente-ultrasonico-para-insetos-e-roedores-mrkean-0644812031359",
+      "store": "Worten",
+      "current_price": 21.99,
+      "original_price": 25.99,
+      "discount_pct": 15.39,
+      "image_url": "https://www.worten.es/i/a78c8d1297ecb2037697d33f39535d3f37915b5c",
+      "category": null,
+      "price_history": [
+        21.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Pixel 9 Pro XL 5g 16 GB/256 GB Rosa Dual Sim Google (Cuarzo Rosa)",
+      "url": "https://www.worten.es/productos/pixel-9-pro-xl-5g-16-gb-256-gb-rosa-dual-sim-google-cuarzo-rosa-mrkean-0840353914681",
+      "store": "Worten",
+      "current_price": 761.98,
+      "original_price": 899.0,
+      "discount_pct": 15.24,
+      "image_url": "https://www.worten.es/i/219199da4a58a1ab86fb40b2faff1f535469ed9b",
+      "category": null,
+      "price_history": [
+        761.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Apple iPhone 17, 256 GB, 6,3\" Pantalla Super Retina XDR, Chip A19 - Lavanda",
       "url": "https://www.carrefour.es/apple-iphone-17-256-gb-63-pantalla-super-retina-xdr-chip-a19-lavanda/VC4A-31500636/p",
       "store": "Carrefour",
@@ -29355,6 +31582,23 @@
       "category": "Móviles",
       "price_history": [
         868.87
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "iPhone 12 128Gb Blanco APPLE",
+      "url": "https://www.worten.es/productos/iphone-12-128gb-blanco-apple-mrkean-0194252031452",
+      "store": "Worten",
+      "current_price": 293.0,
+      "original_price": 345.0,
+      "discount_pct": 15.07,
+      "image_url": "https://www.worten.es/i/0510c09e24fff0e738c72fa40d1629dbba59d22e",
+      "category": null,
+      "price_history": [
+        293.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -30229,16 +32473,16 @@
       "drop_pct": null
     },
     {
-      "name": "iPhone 14 Pro Max APPLE (Reacondicionado Como Nuevo - 128 GB - Morado )",
-      "url": "https://www.worten.es/productos/iphone-14-pro-max-apple-reacondicionado-como-nuevo-128-gb-morado-mrkean-3663705085979",
+      "name": "Taller Móvil Para Herramienta DEWALT Bo Toughsystem (2.0 Ip65 - 3 Em 1 - Ds)",
+      "url": "https://www.worten.es/productos/taller-movil-para-herramienta-dewalt-bo-toughsystem-2-0-ip65-3-em-1-ds-8229837",
       "store": "Worten",
-      "current_price": 587.33,
-      "original_price": 691.0,
+      "current_price": 202.78,
+      "original_price": 238.56,
       "discount_pct": 15.0,
-      "image_url": "https://www.worten.es/i/b66145390a462000c5fa876e1754d5f92f7f9f15",
+      "image_url": "https://www.worten.es/i/77ab4f2781b0f1a9e429944fb3f85eab1dfa4cd9",
       "category": null,
       "price_history": [
-        587.33
+        202.78
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -30375,6 +32619,23 @@
       "category": "TV y Audio",
       "price_history": [
         749.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Bicicleta OTTE Niños Asteron 20' (6-8 años - Rosa y Blanco)",
+      "url": "https://www.worten.es/productos/bicicleta-otte-ninos-asteron-20-6-8-anos-rosa-y-blanco-8014506",
+      "store": "Worten",
+      "current_price": 144.0,
+      "original_price": 169.0,
+      "discount_pct": 14.79,
+      "image_url": "https://www.worten.es/i/82e2e3f343673e57466edcdba0436b3e42d22024",
+      "category": null,
+      "price_history": [
+        144.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -30609,7 +32870,7 @@
       "current_price": 1199.0,
       "original_price": 1397.0,
       "discount_pct": 14.17,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179964096",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179964587",
       "category": "TV y Audio",
       "price_history": [
         1199.0
@@ -31130,6 +33391,23 @@
       "drop_pct": null
     },
     {
+      "name": "Gabinete De Cocina Kalmar Con Doble Lavabo Alta Brillo Blanco Madera Elaborada",
+      "url": "https://www.worten.es/productos/gabinete-de-cocina-kalmar-con-doble-lavabo-alta-brillo-blanco-madera-elaborada-mrkean-6492955127859",
+      "store": "Worten",
+      "current_price": 277.99,
+      "original_price": 322.99,
+      "discount_pct": 13.93,
+      "image_url": "https://www.worten.es/i/8fbacfe517c1049ec13b6d7a623f84d88fb63502",
+      "category": null,
+      "price_history": [
+        277.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tarjeta Gráfica ASROCK Radeon RX 6600 (AMD - 8 GB GDDR6)",
       "url": "https://www.worten.es/productos/tarjeta-grafica-asrock-radeon-rx-6600-amd-8-gb-gddr6-mrkean-4710483935749",
       "store": "Worten",
@@ -31391,7 +33669,7 @@
       "current_price": 399.95,
       "original_price": 459.95,
       "discount_pct": 13.04,
-      "image_url": "https://www.coolmod.com/images/product/normal/asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-tarjeta-grafica-001.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/asrock-amd-radeon-rx-6700-xt-challenger-d-12gb-gddr6-tarjeta-grafica-001.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         399.95
@@ -31446,6 +33724,23 @@
       "category": null,
       "price_history": [
         738.83
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico Combi HISENSE RB390N4BCC (No Frost - 186 cm - 304 L - Inox)",
+      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb390n4bcc-no-frost-186-cm-304-l-inox-7730335",
+      "store": "Worten",
+      "current_price": 567.48,
+      "original_price": 652.6,
+      "discount_pct": 13.04,
+      "image_url": "https://www.worten.es/i/27283ece64786574f72ecafc7a380bb05dc6e9b1",
+      "category": null,
+      "price_history": [
+        567.48
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -31901,7 +34196,7 @@
       "current_price": 339.95,
       "original_price": 389.95,
       "discount_pct": 12.82,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045512_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045512_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         339.95
@@ -31954,6 +34249,23 @@
       "discount_pct": 12.53,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598156_00_1.jpg",
       "category": "TV y Audio",
+      "price_history": [
+        349.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smartphone SAMSUNG Galaxy A54 5G (6.4'' - 8 GB - 256 GB - Graphite)",
+      "url": "https://www.worten.es/productos/smartphone-samsung-galaxy-a54-5g-6-4-8-gb-256-gb-graphite-7731152",
+      "store": "Worten",
+      "current_price": 349.0,
+      "original_price": 399.0,
+      "discount_pct": 12.53,
+      "image_url": "https://www.worten.es/i/5183680c5ea77641126213784dd498927b95c174",
+      "category": null,
       "price_history": [
         349.0
       ],
@@ -32031,6 +34343,23 @@
       "drop_pct": null
     },
     {
+      "name": "Lente óptica láser para reproductor de DVD Samsung Soh Bdp6g (repuesto)",
+      "url": "https://www.worten.es/productos/lente-optica-laser-para-reproductor-de-dvd-samsung-soh-bdp6g-repuesto-mrkean-8076208796764",
+      "store": "Worten",
+      "current_price": 26.55,
+      "original_price": 30.3,
+      "discount_pct": 12.38,
+      "image_url": "https://www.worten.es/i/4c39904164185176d788c4857b934fb9c9f17e08",
+      "category": null,
+      "price_history": [
+        26.55
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV QLED 65\" (165,1 cm) Samsung TQ65Q6FAAU, 4K UHD, 60 Hz, Mega Contrast, Quantum HDR, Quantum Dot",
       "url": "https://www.carrefour.es/smart-tv-qled-65-1651-cm-samsung-tq65q6faau-4k-uhd-60-hz-mega-contrast-quantum-hdr-quantum-dot/VC4A-32453292/p",
       "store": "Carrefour",
@@ -32041,6 +34370,23 @@
       "category": "TV y Audio",
       "price_history": [
         499.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Sublime Glow 60 cápsulas únicas",
+      "url": "https://www.worten.es/productos/sublime-glow-60-capsulas-unicas-mrkean-0783970059598",
+      "store": "Worten",
+      "current_price": 42.82,
+      "original_price": 48.82,
+      "discount_pct": 12.29,
+      "image_url": "https://www.worten.es/i/d696a4c11d1475f3812579bdcac8d60c82745e0f",
+      "category": null,
+      "price_history": [
+        42.82
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -32313,23 +34659,6 @@
       "category": "Otros",
       "price_history": [
         69.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Brother MFC-J5740DW Impresora Multifunción Color Wifi",
-      "url": "https://www.pccomponentes.com/brother-mfc-j5740dw-impresora-multifuncion-color-wifi",
-      "store": "PcComponentes",
-      "current_price": 279.99,
-      "original_price": 318.17,
-      "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1026/10260029/1213-brother-mfcj-5740dw-impresora-multifuncion-color-wifi-especificaciones.jpg",
-      "category": "Componentes",
-      "price_history": [
-        279.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -32711,6 +35040,23 @@
       "drop_pct": null
     },
     {
+      "name": "Frigorífico Combinado BOSCH KGN36NWEA (No Frost - 186 cm - 302 L - Blanco)",
+      "url": "https://www.worten.es/productos/frigorifico-combinado-bosch-kgn36nwea-no-frost-186-cm-302-l-blanco-7237037",
+      "store": "Worten",
+      "current_price": 550.0,
+      "original_price": 622.0,
+      "discount_pct": 11.58,
+      "image_url": "https://www.worten.es/i/5bce1cbddb71f5aa4e114da7b9ad8043cb3a396e",
+      "category": null,
+      "price_history": [
+        550.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Lavavajillas KUBO KBDW10027 WH (15 Cubiertos - 60 cm - Blanco)",
       "url": "https://www.worten.es/productos/lavavajillas-kubo-kbdw10027-wh-15-cubiertos-60-cm-blanco-8416288",
       "store": "Worten",
@@ -32755,6 +35101,23 @@
       "category": null,
       "price_history": [
         415.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Frigorífico Combi HISENSE RB440N4ACC (No Frost - 201,7 cm - 336 L - Inox)",
+      "url": "https://www.worten.es/productos/frigorifico-combi-hisense-rb440n4acc-no-frost-201-7-cm-336-l-inox-7992975",
+      "store": "Worten",
+      "current_price": 602.0,
+      "original_price": 680.0,
+      "discount_pct": 11.47,
+      "image_url": "https://www.worten.es/i/dcd74a906a8cb98bcfa17feaad51ec3538d73c13",
+      "category": null,
+      "price_history": [
+        602.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -32898,6 +35261,23 @@
       "drop_pct": null
     },
     {
+      "name": "Estación de Energía Portátil 99.2Wh 31000mAh LiFePO4, Generador Solar 100W 145W Máximo USB/Type C, Cable extensión integrado",
+      "url": "https://www.worten.es/productos/estacion-de-energia-portatil-99-2wh-31000mah-lifepo4-generador-solar-100w-145w-maximo-usb-type-c-cable-extension-integrado-mrkean-0649226784075",
+      "store": "Worten",
+      "current_price": 79.0,
+      "original_price": 89.0,
+      "discount_pct": 11.24,
+      "image_url": "https://www.worten.es/i/3ddb85153da1fbce0bf0ce9baa1db87d604552a5",
+      "category": null,
+      "price_history": [
+        79.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV OLED 65\" (165,1 cm) Samsung TQ65S95FAT con AI, 4K UHD, 100 Hz, NQ4 AI Gen3 Processor, HDR, Dolby Atmos, OTS+, Q-Symphony",
       "url": "https://www.carrefour.es/smart-tv-oled-65-1651-cm-samsung-tq65s95fat-con-ai-4k-uhd-100-hz-nq4-ai-gen3-processor-hdr-dolby-atmos-ots-q-symphony/VC4A-31928381/p",
       "store": "Carrefour",
@@ -33027,23 +35407,6 @@
       "category": "Componentes",
       "price_history": [
         119.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Procesador Intel Core Ultra 7 270K Plus 24 Núcleos 3.7 GHz Frecuencia Base 5.5 GHz Frecuencia Turbo Gráficos Integrados",
-      "url": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-270k-plus-24-nucleos-3-7-ghz-frecuencia-base-5-5-ghz-frecuencia-turbo-graficos-integrados",
-      "store": "PcComponentes",
-      "current_price": 299.0,
-      "original_price": 335.96,
-      "discount_pct": 11.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11028712/141-procesador-intel-core-ultra-7-270k-plus-24-nucleos-37-ghz-frecuencia-base-55-ghz-frecuencia-turbo-graficos-integrados.jpg",
-      "category": "Componentes",
-      "price_history": [
-        299.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -33635,7 +35998,7 @@
       "current_price": 124.95,
       "original_price": 139.95,
       "discount_pct": 10.72,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037614_1.jpg?v=1783516045",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037614_1.jpg?v=1783518610",
       "category": "Portátiles",
       "price_history": [
         124.95
@@ -33799,6 +36162,23 @@
       "drop_pct": null
     },
     {
+      "name": "Cofre TOUS Love Moments Edt 90 ml + Bolsa",
+      "url": "https://www.worten.es/productos/cofre-tous-love-moments-edt-90-ml-bolsa-mrkean-8436550502053",
+      "store": "Worten",
+      "current_price": 45.86,
+      "original_price": 50.96,
+      "discount_pct": 10.01,
+      "image_url": "https://www.worten.es/i/f6c4035860e55855ad026294f38a1fa7f1743415",
+      "category": null,
+      "price_history": [
+        45.86
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
       "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
       "store": "PcComponentes",
@@ -33826,6 +36206,23 @@
       "category": "Componentes",
       "price_history": [
         599.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Procesador Intel Core Ultra 7 270K Plus 24 Núcleos 3.7 GHz Frecuencia Base 5.5 GHz Frecuencia Turbo Gráficos Integrados",
+      "url": "https://www.pccomponentes.com/procesador-intel-core-ultra-7-270k-plus-24-nucleos-3-7-ghz-frecuencia-base-5-5-ghz-frecuencia-turbo-graficos-integrados",
+      "store": "PcComponentes",
+      "current_price": 299.0,
+      "original_price": 332.22,
+      "discount_pct": 10.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11028712/141-procesador-intel-core-ultra-7-270k-plus-24-nucleos-37-ghz-frecuencia-base-55-ghz-frecuencia-turbo-graficos-integrados.jpg",
+      "category": "Componentes",
+      "price_history": [
+        299.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -34298,27 +36695,10 @@
       "current_price": 359.95,
       "original_price": 399.95,
       "discount_pct": 10.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038335_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038335_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         359.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Microcadena PHILIPS TAM4205",
-      "url": "https://www.worten.es/productos/microcadena-philips-tam4205-7333107",
-      "store": "Worten",
-      "current_price": 177.63,
-      "original_price": 197.37,
-      "discount_pct": 10.0,
-      "image_url": "https://www.worten.es/i/7d61c3a4860cb636470bc31e0764d85e46ec55cc",
-      "category": null,
-      "price_history": [
-        177.63
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -34353,23 +36733,6 @@
       "category": null,
       "price_history": [
         28.34
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Campana KUNFT KCHPS2339N (429.4 m3/h - 60 cm - Inox)",
-      "url": "https://www.worten.es/productos/campana-kunft-kchps2339n-429-4-m3-h-60-cm-inox-7405305",
-      "store": "Worten",
-      "current_price": 89.99,
-      "original_price": 99.99,
-      "discount_pct": 10.0,
-      "image_url": "https://www.worten.es/i/fcce0d4836a42dd75b8b31245efb58e0ebe2d003",
-      "category": null,
-      "price_history": [
-        89.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -34445,6 +36808,57 @@
       "drop_pct": null
     },
     {
+      "name": "Motherboard ASUS (NA (CPU integrada))",
+      "url": "https://www.worten.es/productos/motherboard-asus-na-cpu-integrada-mrkean-4711387262320",
+      "store": "Worten",
+      "current_price": 210.98,
+      "original_price": 234.42,
+      "discount_pct": 10.0,
+      "image_url": "https://www.worten.es/i/bbd1cbe7edd87ee0ef7b3b481f183b25860ab9d4",
+      "category": null,
+      "price_history": [
+        210.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Nivel universal BOSCH 360+ TT150 Láser de líneas cruzadas",
+      "url": "https://www.worten.es/productos/nivel-universal-bosch-360-tt150-laser-de-lineas-cruzadas-7983789",
+      "store": "Worten",
+      "current_price": 192.65,
+      "original_price": 214.06,
+      "discount_pct": 10.0,
+      "image_url": "https://www.worten.es/i/8aa3358f817d70373c25d1add6b001a2216977e5",
+      "category": null,
+      "price_history": [
+        192.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Plancha de Vapor Vertical PHILIPS STH5030/20 (1400W - Azul Marino)",
+      "url": "https://www.worten.es/productos/plancha-de-vapor-vertical-philips-sth5030-20-1400w-azul-marino-8296867",
+      "store": "Worten",
+      "current_price": 74.84,
+      "original_price": 83.16,
+      "discount_pct": 10.0,
+      "image_url": "https://www.worten.es/i/24c2f76951fcabfb617d0d4d35f43eec5ba774d5",
+      "category": null,
+      "price_history": [
+        74.84
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "MSI MAG A650BN 650W 80 Plus Bronze",
       "url": "https://www.pccomponentes.com/msi-mag-a650bn-650w-80-plus-bronze",
       "store": "PcComponentes",
@@ -34485,7 +36899,7 @@
       "current_price": 279.95,
       "original_price": 309.95,
       "discount_pct": 9.68,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029737_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029737_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         279.95
@@ -34536,10 +36950,27 @@
       "current_price": 379.95,
       "original_price": 419.95,
       "discount_pct": 9.52,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038947_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038947_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         379.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cafetera e Goteo KUBO KFCM8693 (12 Tazas - Negro)",
+      "url": "https://www.worten.es/productos/cafetera-e-goteo-kubo-kfcm8693-12-tazas-negro-7835502",
+      "store": "Worten",
+      "current_price": 19.0,
+      "original_price": 20.99,
+      "discount_pct": 9.48,
+      "image_url": "https://www.worten.es/i/935852250ace91a12820862d758e69993dc23ff3",
+      "category": null,
+      "price_history": [
+        19.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -36525,7 +38956,7 @@
       "current_price": 449.95,
       "original_price": 479.95,
       "discount_pct": 6.25,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038325_1.jpg?v=1783516020",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038325_1.jpg?v=1783518453",
       "category": "Tarjetas Gráficas",
       "price_history": [
         449.95
@@ -36699,23 +39130,6 @@
       "category": "Móviles",
       "price_history": [
         149.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Realme 16 Pro Plus 5G 12GB 512GB 6.8\" Oro",
-      "url": "https://www.pccomponentes.com/realme-16-pro-plus-5g-12gb-512gb-6-8-oro",
-      "store": "PcComponentes",
-      "current_price": 559.0,
-      "original_price": 594.68,
-      "discount_pct": 6.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11016982/1961-realme-16-pro-plus-5g-12gb-512gb-68-oro-21dc3434-4309-453b-a157-9571153b9041.jpg",
-      "category": "Móviles",
-      "price_history": [
-        559.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -37369,6 +39783,23 @@
       "drop_pct": null
     },
     {
+      "name": "TV Toshiba 65QV3463DG 65\" (164 cm), QLED, 4K UHD, 60Hz, Dolby Vision, Smart TV, HDR, Dolby Atmos",
+      "url": "https://www.carrefour.es/tv-toshiba-65qv3463dg-65-164-cm-qled-4k-uhd-60hz-dolby-vision-smart-tv-hdr-dolby-atmos/VC4A-28512884/p",
+      "store": "Carrefour",
+      "current_price": 493.44,
+      "original_price": 513.18,
+      "discount_pct": 3.85,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/481912_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        493.44
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PC Gaming - PC RACING Highlander, AMD Ryzen™ 5 9600X, 32 GB RAM, 2 TB SSD, GeForce RTX™ 5070, Windows 11 Pro, Negro",
       "url": "https://www.mediamarkt.es/es/product/_pc-gaming-ryzen-5-3400g-pc-racing-ryzen-5-3400g-16-gb-256-gb-1-tb-radeontm-vega-11-graphics-windows-11-home-negro-102892108.html",
       "store": "MediaMarkt",
@@ -37440,13 +39871,13 @@
       "name": "Smart TV QLED 32'' (81.28 cm) TCL 32S4K Con IA, HD, 60 Hz, HDR10, Dolby Digital Plusm; Dolby Audio.",
       "url": "https://www.carrefour.es/smart-tv-qled-32-8128-cm-tcl-32s4k-con-ia-hd-60-hz-hdr10-dolby-digital-plusm-dolby-audio/VC4A-33890904/p",
       "store": "Carrefour",
-      "current_price": 161.41,
-      "original_price": 164.64,
+      "current_price": 161.35,
+      "original_price": 164.58,
       "discount_pct": 1.96,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/693061_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        161.41
+        161.35
       ],
       "history_days": 1,
       "is_lowest": true,
