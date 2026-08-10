@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:07:09.804540+00:00",
+  "updated": "2026-08-10T17:30:47.027517+00:00",
   "total_products": 2016,
   "deals": [
     {
@@ -5120,6 +5120,23 @@
       "drop_pct": null
     },
     {
+      "name": "Barra de Sonido Bluetooth LG S20A, 2.0 Canales, Potencia 50W, Doble woofer integrado, diseño compacto, Dolby Digital y DTS - Negro",
+      "url": "https://www.carrefour.es/barra-de-sonido-bluetooth-lg-s20a-20-canales-potencia-50w-doble-woofer-integrado-diseno-compacto-dolby-digital-y-dts-negro/VC4A-32376276/p",
+      "store": "Carrefour",
+      "current_price": 79.0,
+      "original_price": 119.0,
+      "discount_pct": 33.61,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/601036_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        79.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH051W, 16\" WUXGA, AMD Ryzen 5 150, 16 GB RAM, 512 GB SSD, Radeon™ 660M, W11H, Sin cargador",
       "url": "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh051w-16-wuxga-amd-ryzen-5-150-16-gb-ram-512-gb-ssd-radeontm-660m-w11h-sin-cargador-1625041.html",
       "store": "MediaMarkt",
@@ -5766,23 +5783,6 @@
       "drop_pct": null
     },
     {
-      "name": "Barra de Sonido Bluetooth LG S20A, 2.0 Canales, Potencia 50W, Doble woofer integrado, diseño compacto, Dolby Digital y DTS - Negro",
-      "url": "https://www.carrefour.es/barra-de-sonido-bluetooth-lg-s20a-20-canales-potencia-50w-doble-woofer-integrado-diseno-compacto-dolby-digital-y-dts-negro/VC4A-32376276/p",
-      "store": "Carrefour",
-      "current_price": 80.59,
-      "original_price": 119.9,
-      "discount_pct": 32.79,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/601036_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        80.59
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Cockpit De Simulación Gtplayer Para Juegos De Carreras, Soporte Para Volante Y Pedales Con Altavoces Integrados, Rojo",
       "url": "https://www.carrefour.es/cockpit-de-simulacion-gtplayer-para-juegos-de-carreras-soporte-para-volante-y-pedales-con-altavoces-integrados-rojo/6975489575360/p",
       "store": "Carrefour",
@@ -6333,7 +6333,7 @@
       "current_price": 54.95,
       "original_price": 79.95,
       "discount_pct": 31.27,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1786381546",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1786382973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         54.95
@@ -8118,7 +8118,7 @@
       "current_price": 289.95,
       "original_price": 399.95,
       "discount_pct": 27.5,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-042889_1.jpg?v=1786381546",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-042889_1.jpg?v=1786382973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         289.95
@@ -10451,6 +10451,23 @@
       "category": "Informática",
       "price_history": [
         129.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
+      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
+      "store": "Carrefour",
+      "current_price": 1153.74,
+      "original_price": 1506.25,
+      "discount_pct": 23.4,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        1153.74
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14663,7 +14680,7 @@
       "current_price": 319.95,
       "original_price": 399.95,
       "discount_pct": 20.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1786381546",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1786382973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         319.95
@@ -15785,7 +15802,7 @@
       "current_price": 229.95,
       "original_price": 279.95,
       "discount_pct": 17.86,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1786381546",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1786382973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         229.95
@@ -16690,23 +16707,6 @@
       "category": "Móviles",
       "price_history": [
         194.23
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
-      "store": "Carrefour",
-      "current_price": 1153.75,
-      "original_price": 1384.5,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1153.75
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20454,6 +20454,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
+      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
+      "store": "Carrefour",
+      "current_price": 1553.09,
+      "original_price": 1817.12,
+      "discount_pct": 14.53,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1553.09
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Honor MagicPad 4, 12.3\" 3K, 12GB RAM, 256GB, Pantalla AMOLED, Snapdragon® 8 Gen 5, Incluye teclado y lápiz digital, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-honor-magicpad-4-412-3k-12gb-ram-256gb-pantalla-amoled-snapdragonr-8-gen-5-magic-ui-10-basado-en-android-16-incluye-teclado-gris-1622763.html",
       "store": "MediaMarkt",
@@ -21518,23 +21535,6 @@
       "category": "Informática",
       "price_history": [
         64.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
-      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
-      "store": "Carrefour",
-      "current_price": 1553.09,
-      "original_price": 1786.05,
-      "discount_pct": 13.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1553.09
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27968,6 +27968,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV MiniLED 75\" (190,5 cm) Xiaomi L75MA-SPLEU, 4K UHD, 144 Hz, HDR",
+      "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-xiaomi-l75ma-spleu-4k-uhd-144-hz-hdr/VC4A-33189377/p",
+      "store": "Carrefour",
+      "current_price": 856.11,
+      "original_price": 918.9,
+      "discount_pct": 6.83,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/703232_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        856.11
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Apple MacBook Neo (2026), 13\" Liquid Retina, Chip A18 Pro, CPU 6 núcleos + GPU 5 núcleos, 8GB RAM, 256GB SSD, Magic Keyboard, Rosa nube, Sin AC",
       "url": "https://www.mediamarkt.es/es/product/_apple-macbook-neo-2026-13-liquid-retina-chip-a18-pro-cpu-6-nucleos-gpu-5-nucleos-8gb-ram-256gb-ssd-magic-keyboard-rosa-nube-sin-ac-1622437.html",
       "store": "MediaMarkt",
@@ -29644,23 +29661,6 @@
       "category": "TV y Audio",
       "price_history": [
         599.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV MiniLED 75\" (190,5 cm) Xiaomi L75MA-SPLEU, 4K UHD, 144 Hz, HDR",
-      "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-xiaomi-l75ma-spleu-4k-uhd-144-hz-hdr/VC4A-33189377/p",
-      "store": "Carrefour",
-      "current_price": 856.21,
-      "original_price": 873.33,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/703232_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        856.21
       ],
       "history_days": 1,
       "is_lowest": true,
