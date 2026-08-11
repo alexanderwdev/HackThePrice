@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T23:32:23.348391+00:00",
+  "updated": "2026-08-11T23:52:27.214430+00:00",
   "total_products": 2013,
   "deals": [
     {
@@ -6194,13 +6194,13 @@
       "name": "Samsung Galaxy S26 5G 256GB + 12GB RAM - Negro",
       "url": "https://www.carrefour.es/samsung-galaxy-s26-5g-256gb-12gb-ram-negro/VC4A-32913600/p",
       "store": "Carrefour",
-      "current_price": 620.83,
+      "current_price": 620.81,
       "original_price": 899.99,
       "discount_pct": 31.02,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/695659_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        620.83
+        620.81
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -7527,6 +7527,23 @@
       "category": "Hogar",
       "price_history": [
         519.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Ready Intel Core i5-12400F / 32GB / 1TB SSD / RTX 5060 Ti 16GB V3",
+      "url": "https://www.pccomponentes.com/pccom-ready-intel-core-i5-12400f-32gb-1tb-ssd-rtx-5060-ti-16gb-v3",
+      "store": "PcComponentes",
+      "current_price": 1289.0,
+      "original_price": 1790.28,
+      "discount_pct": 28.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11038058/1881-pccom-ready-intel-core-i5-12400f-32gb-1tb-ssd-rtx-5060-ti-16gb-v3.jpg",
+      "category": "Componentes",
+      "price_history": [
+        1289.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9217,23 +9234,6 @@
       "drop_pct": null
     },
     {
-      "name": "Strong LEAP S3+ V2 4K 2GB/16GB Google TV Dolby Atmos",
-      "url": "https://www.pccomponentes.com/strong-leap-s3-plus-v2-4k-2gb-16gb-google-tv-dolby-atmos",
-      "store": "PcComponentes",
-      "current_price": 59.99,
-      "original_price": 79.99,
-      "discount_pct": 25.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10864857/1809-strong-leap-s3-v2-4k-2gb-16gb-google-tv-dolby-atmos.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        59.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "PcCom Ultimate Ryzen 7 7800X3D / 32GB / 2TB SSD / RTX 5080 V3 / Windows 11 Pro",
       "url": "https://www.pccomponentes.com/pccom-ultimate-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5080-v3-windows-11-pro",
       "store": "PcComponentes",
@@ -10648,13 +10648,13 @@
       "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
       "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
       "store": "Carrefour",
-      "current_price": 1151.8,
+      "current_price": 1151.7,
       "original_price": 1506.25,
-      "discount_pct": 23.53,
+      "discount_pct": 23.54,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
       "category": "Móviles",
       "price_history": [
-        1151.8
+        1151.7
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -16374,6 +16374,23 @@
       "drop_pct": null
     },
     {
+      "name": "Synology SO-DIMM DDR4 2666MHz 4GB",
+      "url": "https://www.pccomponentes.com/synology-so-dimm-ddr4-2666mhz-4gb",
+      "store": "PcComponentes",
+      "current_price": 269.95,
+      "original_price": 325.24,
+      "discount_pct": 17.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/39/399084/179-synology-so-dimm-ddr4-2666mhz-4gb.jpg",
+      "category": "Componentes",
+      "price_history": [
+        269.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Canon EOS 2000D 24.1MP WiFi + EF-S 18-55mm F3.5-5.6 IS II",
       "url": "https://www.pccomponentes.com/canon-eos-2000d-24-1mp-wifi-plus-ef-s-18-55mm-f3-5-5-6-is-ii",
       "store": "PcComponentes",
@@ -16646,23 +16663,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
-      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
-      "store": "Carrefour",
-      "current_price": 1553.09,
-      "original_price": 1863.71,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1553.09
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Altavoz Inalámbrico JBL Charge 5 - Negro",
       "url": "https://www.carrefour.es/altavoz-inalambrico-jbl-charge-5-negro/VC4A-13856264/p",
       "store": "Carrefour",
@@ -16901,16 +16901,16 @@
       "drop_pct": null
     },
     {
-      "name": "Cartucho de Tinta HP 305 pack - Negro/Tricolor",
-      "url": "https://www.carrefour.es/cartucho-de-tinta-hp-305-pack-negro-tricolor/VC4A-27464223/p",
+      "name": "Tarjeta de Memoria Intenso 32GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
       "store": "Carrefour",
-      "current_price": 30.65,
-      "original_price": 36.78,
+      "current_price": 14.65,
+      "original_price": 17.58,
       "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/396191_00_1.jpg",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        30.65
+        14.65
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18278,23 +18278,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 16 Plus 256GB Rosa",
-      "url": "https://www.pccomponentes.com/apple-iphone-16-plus-256gb-rosa",
-      "store": "PcComponentes",
-      "current_price": 1039.0,
-      "original_price": 1236.9,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855043/1559-apple-iphone-16-plus-256gb-rosa.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1039.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Moza Racing GS V2P Volante de Carreras",
       "url": "https://www.pccomponentes.com/moza-racing-gs-v2p-volante-de-carreras",
       "store": "PcComponentes",
@@ -18856,6 +18839,23 @@
       "drop_pct": null
     },
     {
+      "name": "PC Racing Gaming Intel Core i5-12400/16GB/1TB SSD + Windows 11",
+      "url": "https://www.pccomponentes.com/ordenador-sobremesa-pc-racing-gaming-intel-core-i5-12400-16gb-1tb-ssd-windows-11",
+      "store": "PcComponentes",
+      "current_price": 669.87,
+      "original_price": 797.46,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10741675/1753-pc-racing-gaming-intel-core-i5-12400-16gb-1tb-ssd-windows-11-especificaciones.jpg",
+      "category": "Componentes",
+      "price_history": [
+        669.87
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PC Racing Pack Gaming AMD Ryzen 3200G/8GB/480GB SSD + Pantalla 24\" FullHD + Teclado + Ratón",
       "url": "https://www.pccomponentes.com/pc-racing-pack-gaming-amd-ryzen-3200g-8gb-480gb-ssd-pantalla-24-fullhd-teclado-raton",
       "store": "PcComponentes",
@@ -18910,13 +18910,13 @@
       "name": "Portátil ASUS ExpertBook B5 B5605CCA 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 989.55,
-      "original_price": 1178.04,
+      "current_price": 989.22,
+      "original_price": 1177.64,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090457/1601-portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        989.55
+        989.22
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20471,6 +20471,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
+      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
+      "store": "Carrefour",
+      "current_price": 1618.85,
+      "original_price": 1894.05,
+      "discount_pct": 14.53,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1618.85
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Honor MagicPad 4, 12.3\" 3K, 12GB RAM, 256GB, Pantalla AMOLED, Snapdragon® 8 Gen 5, Incluye teclado y lápiz digital, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-honor-magicpad-4-412-3k-12gb-ram-256gb-pantalla-amoled-snapdragonr-8-gen-5-magic-ui-10-basado-en-android-16-incluye-teclado-gris-1622763.html",
       "store": "MediaMarkt",
@@ -21559,23 +21576,6 @@
       "drop_pct": null
     },
     {
-      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
-      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
-      "store": "Carrefour",
-      "current_price": 878.19,
-      "original_price": 1018.7,
-      "discount_pct": 13.79,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        878.19
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
       "store": "MediaMarkt",
@@ -21620,23 +21620,6 @@
       "category": "Móviles",
       "price_history": [
         165.71
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
-      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
-      "store": "Carrefour",
-      "current_price": 1618.85,
-      "original_price": 1861.68,
-      "discount_pct": 13.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1618.85
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -22589,23 +22572,6 @@
       "category": "Componentes",
       "price_history": [
         130.67
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "PC Racing Gaming Initiation AMD Ryzen 5 5600G/16GB/480GB SSD",
-      "url": "https://www.pccomponentes.com/pc-racing-gaming-initiation-amd-ryzen-5-5600g-16gb-480gb-ssd",
-      "store": "PcComponentes",
-      "current_price": 579.0,
-      "original_price": 665.52,
-      "discount_pct": 13.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1067/10670678/1899-pc-racing-gaming-initiation-amd-ryzen-5-5600g-16gb-480gb-ssd-mejor-precio.jpg",
-      "category": "Componentes",
-      "price_history": [
-        579.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23803,6 +23769,23 @@
       "drop_pct": null
     },
     {
+      "name": "Epical-Q Oprim AMD Ryzen 5 4500/16GB/1TB SSD/RTX 3050 + Windows 11 Home",
+      "url": "https://www.pccomponentes.com/epical-q-oprim-amd-ryzen-5-4500-16gb-1tb-ssd-rtx-3050-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 799.9,
+      "original_price": 908.98,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10827606/1489-epical-q-oprim-amd-ryzen-5-4500-16gb-1tb-ssd-rtx-3050-windows-11-home.jpg",
+      "category": "Componentes",
+      "price_history": [
+        799.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Epical-Q Paulis Plus AMD Ryzen 7 5700X, 32GB, 1TB SSD NVMe, RTX 5060Ti 16GB + Windows 11 Pro",
       "url": "https://www.pccomponentes.com/pc-epical-q-paulis-plus-amd-ryzen-7-5700x-32gb-1tb-ssd-nvme-rtx-5060ti-16gb-windows-11-pro",
       "store": "PcComponentes",
@@ -23813,23 +23796,6 @@
       "category": "Componentes",
       "price_history": [
         1619.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Epical-q Honox D4 Intel Core I9 12900kf, 32gb, 2tb Ssd Nvme, Rtx 5070 + Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-epical-q-honox-d4-intel-core-i9-12900kf-32gb-2tb-ssd-nvme-rtx-5070-plus-windows-11-pro",
-      "store": "PcComponentes",
-      "current_price": 2069.99,
-      "original_price": 2352.26,
-      "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11123796/1300-epical-q-honox-d4-intel-core-i9-12900kf-32gb-2tb-ssd-nvme-rtx-5070-windows-11-pro.jpg",
-      "category": "Componentes",
-      "price_history": [
-        2069.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25656,6 +25622,23 @@
       "drop_pct": null
     },
     {
+      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
+      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
+      "store": "Carrefour",
+      "current_price": 878.19,
+      "original_price": 974.79,
+      "discount_pct": 9.91,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        878.19
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Apple iPad, 11'' -  27,94 cms, Liquid Retina, Chip A16, 128 GB, Wifi, iPadOS 18 - Plata",
       "url": "https://www.carrefour.es/apple-ipad-11-2794-cms-liquid-retina-chip-a16-128-gb-wifi-ipados-18-plata/VC4A-30097164/p",
       "store": "Carrefour",
@@ -25717,6 +25700,23 @@
       "category": "TV y Audio",
       "price_history": [
         699.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
+      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
+      "store": "Carrefour",
+      "current_price": 1553.09,
+      "original_price": 1708.4,
+      "discount_pct": 9.09,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1553.09
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -26550,6 +26550,23 @@
       "category": "Componentes",
       "price_history": [
         21.42
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Pack 3 USB Sandisk Cruzer Blade Flash Drive 32B",
+      "url": "https://www.carrefour.es/pack-3-usb-sandisk-cruzer-blade-flash-drive-32b/VC4A-8055387/p",
+      "store": "Carrefour",
+      "current_price": 32.95,
+      "original_price": 35.92,
+      "discount_pct": 8.27,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/334554_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        32.95
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29304,23 +29321,6 @@
       "category": "Móviles",
       "price_history": [
         174.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Nintendo Switch 2 7.9\" FullHD HDR 120Hz 256GB Azul/Rojo + Mario Tennis Fever",
-      "url": "https://www.pccomponentes.com/nintendo-switch-2-79-fullhd-hdr-120hz-256gb-azul-rojo-mario-tennis-fever",
-      "store": "PcComponentes",
-      "current_price": 519.99,
-      "original_price": 547.36,
-      "discount_pct": 5.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11031468/1781-nintendo-switch-2-79-fullhd-hdr-120hz-256gb-azul-rojo-mario-tennis-fever.jpg",
-      "category": "Gaming",
-      "price_history": [
-        519.99
       ],
       "history_days": 1,
       "is_lowest": true,
