@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:16:43.212592+00:00",
+  "updated": "2026-08-12T20:54:07.747972+00:00",
   "total_products": 2006,
   "deals": [
     {
@@ -9,7 +9,7 @@
       "current_price": 2.95,
       "original_price": 49.95,
       "discount_pct": 94.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -26,7 +26,7 @@
       "current_price": 7.95,
       "original_price": 99.95,
       "discount_pct": 92.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         7.95
@@ -43,7 +43,7 @@
       "current_price": 5.95,
       "original_price": 49.95,
       "discount_pct": 88.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         5.95
@@ -60,7 +60,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         0.95
@@ -77,7 +77,7 @@
       "current_price": 6.95,
       "original_price": 49.95,
       "discount_pct": 86.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         6.95
@@ -94,7 +94,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         1.95
@@ -145,7 +145,7 @@
       "current_price": 2.95,
       "original_price": 9.95,
       "discount_pct": 70.35,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -196,7 +196,7 @@
       "current_price": 1.95,
       "original_price": 5.95,
       "discount_pct": 67.23,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         1.95
@@ -326,13 +326,30 @@
       "drop_pct": null
     },
     {
+      "name": "Tocadiscos Numark PT01 Scratch DJ Direct Drive, USB, 3 velocidades, altavoz integrado",
+      "url": "https://www.pccomponentes.com/tocadiscos-numark-pt01-scratch-dj-direct-drive-usb-3-velocidades-altavoz-integrado",
+      "store": "PcComponentes",
+      "current_price": 138.0,
+      "original_price": 372.97,
+      "discount_pct": 63.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10963146/1386-tocadiscos-numark-pt01-scratch-dj-direct-drive-usb-3-velocidades-altavoz-integrado.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        138.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
       "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
       "store": "Coolmod",
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -349,7 +366,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -366,7 +383,7 @@
       "current_price": 8.95,
       "original_price": 22.95,
       "discount_pct": 61.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         8.95
@@ -553,7 +570,7 @@
       "current_price": 85.95,
       "original_price": 199.95,
       "discount_pct": 57.01,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         85.95
@@ -700,6 +717,23 @@
       "drop_pct": null
     },
     {
+      "name": "Samsung Galaxy A17 4G 4GB 128GB 6.7\" Gris",
+      "url": "https://www.pccomponentes.com/samsung-galaxy-a17-4g-4gb-128gb-6-7-gris",
+      "store": "PcComponentes",
+      "current_price": 177.99,
+      "original_price": 395.53,
+      "discount_pct": 55.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10951077/1839-samsung-galaxy-a17-4g-4gb-128gb-67-gris.jpg",
+      "category": "Móviles",
+      "price_history": [
+        177.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Corsair MP600 PRO NH 2TB M.2 Gen4 PCIe x4 NVMe",
       "url": "https://www.pccomponentes.com/disco-duro-corsair-mp600-pro-nh-2tb-m-2-gen4-pcie-x4-nvme",
       "store": "PcComponentes",
@@ -710,23 +744,6 @@
       "category": "Componentes",
       "price_history": [
         299.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Motorola Razr 50 Ultra 5G 12GB 512GB 6.9\" Melocotón",
-      "url": "https://www.pccomponentes.com/motorola-razr-50-ultra-5g-12gb-512gb-6-9-melocoton",
-      "store": "PcComponentes",
-      "current_price": 549.0,
-      "original_price": 1193.48,
-      "discount_pct": 54.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10843376/1235-motorola-razr-50-ultra-5g-12gb-512gb-69-melocoton-dee17db7-9478-43d1-a19d-a2774a7d372c.jpg",
-      "category": "Móviles",
-      "price_history": [
-        549.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -1322,23 +1339,6 @@
       "category": "Monitores",
       "price_history": [
         89.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Tocadiscos Numark PT01 Scratch DJ Direct Drive, USB, 3 velocidades, altavoz integrado",
-      "url": "https://www.pccomponentes.com/tocadiscos-numark-pt01-scratch-dj-direct-drive-usb-3-velocidades-altavoz-integrado",
-      "store": "PcComponentes",
-      "current_price": 138.0,
-      "original_price": 270.59,
-      "discount_pct": 49.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10963146/1386-tocadiscos-numark-pt01-scratch-dj-direct-drive-usb-3-velocidades-altavoz-integrado.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        138.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -2236,7 +2236,7 @@
       "current_price": 299.95,
       "original_price": 519.95,
       "discount_pct": 42.31,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1786565737",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1786566619",
       "category": "Portátiles",
       "price_history": [
         299.95
@@ -2559,7 +2559,7 @@
       "current_price": 69.95,
       "original_price": 119.95,
       "discount_pct": 41.68,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         69.95
@@ -2576,7 +2576,7 @@
       "current_price": 122.95,
       "original_price": 209.95,
       "discount_pct": 41.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         122.95
@@ -2675,13 +2675,13 @@
       "name": "Impresora multifunción HP Color LaserJet Pro MFP 3302fdw Láser Color WiFi Dúplex Fax",
       "url": "https://www.pccomponentes.com/impresora-multifuncion-hp-color-laserjet-pro-mfp-3302fdw-laser-color-wifi-duplex-fax",
       "store": "PcComponentes",
-      "current_price": 328.14,
-      "original_price": 556.17,
+      "current_price": 326.49,
+      "original_price": 553.37,
       "discount_pct": 41.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1083/10832590/1442-hp-color-laserjet-pro-mfp-3302fdw-multifuncion-laser-color-wifi-duplex-fax.jpg",
       "category": "Componentes",
       "price_history": [
-        328.14
+        326.49
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3817,7 +3817,7 @@
       "current_price": 4.95,
       "original_price": 7.95,
       "discount_pct": 37.74,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1786565190",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1786567184",
       "category": "Outlet",
       "price_history": [
         4.95
@@ -5018,23 +5018,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tablet Xiaomi Pad 8 WiFi 11,2\" 8GB 256GB Gris",
-      "url": "https://www.pccomponentes.com/tablet-xiaomi-pad-8-wifi-112-8gb-256gb-gris",
-      "store": "PcComponentes",
-      "current_price": 359.5,
-      "original_price": 544.7,
-      "discount_pct": 34.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11032878/1915-tablet-xiaomi-pad-8-wifi-112-8gb-256gb-gris-caracteristicas.jpg",
-      "category": "Otros",
-      "price_history": [
-        359.5
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "MSI PRO MP273U 27\" LED UltraHD 4K",
       "url": "https://www.pccomponentes.com/monitor-msi-pro-mp273u-27-led-ultrahd-4k",
       "store": "PcComponentes",
@@ -5215,6 +5198,23 @@
       "category": "Otros",
       "price_history": [
         58.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Auriculares Jabra inalámbricos Bluetooth 5.2 con Cancelación de Ruido pasiva y Micrófono negro",
+      "url": "https://www.pccomponentes.com/auriculares-jabra-inalambricos-bluetooth-5-2-con-cancelacion-de-ruido-pasiva-y-microfono-negro",
+      "store": "PcComponentes",
+      "current_price": 108.45,
+      "original_price": 164.32,
+      "discount_pct": 34.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10896350/142-auriculares-jabra-inalambricos-bluetooth-52-con-cancelacion-de-ruido-pasiva-y-microfono-negro.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        108.45
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6503,7 +6503,7 @@
       "current_price": 54.95,
       "original_price": 79.95,
       "discount_pct": 31.27,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1786565725",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1786567973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         54.95
@@ -10866,6 +10866,23 @@
       "drop_pct": null
     },
     {
+      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
+      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
+      "store": "Carrefour",
+      "current_price": 1145.75,
+      "original_price": 1506.25,
+      "discount_pct": 23.93,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        1145.75
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Honor Pad X8a, WiFi, 11\" WUXGA, 4GB RAM, 128GB, Qualcomm Snapdragon® 680 4G, Space Gray",
       "url": "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x8a-wifi-11-wuxga-4gb-ram-128gb-qualcomm-snapdragonr-680-4g-space-gray-1602941.html",
       "store": "MediaMarkt",
@@ -11243,13 +11260,13 @@
       "name": "ASUS VY279HGR 27\" LED IPS FullHD 120Hz Adaptive Sync",
       "url": "https://www.pccomponentes.com/monitor-asus-vy279hgr-27-led-ips-fullhd-120hz-adaptive-sync",
       "store": "PcComponentes",
-      "current_price": 91.25,
-      "original_price": 118.51,
+      "current_price": 90.98,
+      "original_price": 118.16,
       "discount_pct": 23.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867466/1151-asus-vy279hgr-27-led-ips-fullhd-120hz-adaptive-sync.jpg",
       "category": "Monitores",
       "price_history": [
-        91.25
+        90.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14901,7 +14918,7 @@
       "current_price": 319.95,
       "original_price": 399.95,
       "discount_pct": 20.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1786565725",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040470_1.jpg?v=1786567973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         319.95
@@ -16142,7 +16159,7 @@
       "current_price": 229.95,
       "original_price": 279.95,
       "discount_pct": 17.86,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1786565725",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1786567973",
       "category": "Tarjetas Gráficas",
       "price_history": [
         229.95
@@ -16935,23 +16952,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
-      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
-      "store": "Carrefour",
-      "current_price": 1553.09,
-      "original_price": 1863.71,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1553.09
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Altavoz Inalámbrico JBL Charge 5 - Negro",
       "url": "https://www.carrefour.es/altavoz-inalambrico-jbl-charge-5-negro/VC4A-13856264/p",
       "store": "Carrefour",
@@ -17037,23 +17037,6 @@
       "drop_pct": null
     },
     {
-      "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Naranja cósmico",
-      "url": "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-naranja-cosmico/VC4A-31502790/p",
-      "store": "Carrefour",
-      "current_price": 1145.76,
-      "original_price": 1374.91,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658676_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        1145.76
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung Galaxy A57 5G 256GB + 8GB RAM - Azul oscuro",
       "url": "https://www.carrefour.es/samsung-galaxy-a57-5g-256gb-8gb-ram-azul-oscuro/VC4A-33191951/p",
       "store": "Carrefour",
@@ -17064,23 +17047,6 @@
       "category": "Móviles",
       "price_history": [
         397.96
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Consola Nintendo Switch 2 256 GB",
-      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
-      "store": "Carrefour",
-      "current_price": 444.42,
-      "original_price": 533.3,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        444.42
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18179,13 +18145,13 @@
       "name": "Portátil Samsung Galaxy Book 5 NP754XHD-KD2ES 15.6\" Intel Core Ultra 5 225U 32GB 512GB SSD Gris Copilot",
       "url": "https://www.pccomponentes.com/portatil-samsung-galaxy-book-5-np754xhd-kd2es-156-intel-core-ultra-5-225u-32gb-512gb-ssd-gris-copilot",
       "store": "PcComponentes",
-      "current_price": 965.25,
-      "original_price": 1149.11,
+      "current_price": 965.17,
+      "original_price": 1149.01,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10942424/1569-portatil-samsung-galaxy-book-5-np754xhd-kd2es-156-intel-core-ultra-5-225u-32gb-512gb-ssd-gris-copilot.jpg",
       "category": "Portátiles",
       "price_history": [
-        965.25
+        965.17
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18873,6 +18839,23 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil Asus ZenBook 14 OLED UX3405CA 14\" Intel Core Ultra 7 255H 16GB 512GB SSD Arc 140T Sin Sistema Operativo",
+      "url": "https://www.pccomponentes.com/portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo",
+      "store": "PcComponentes",
+      "current_price": 848.29,
+      "original_price": 1009.87,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034299/1324-portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        848.29
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil HP 250R G9 15,6\" Intel Core 3 100U 8GB 512GB SSD Gris",
       "url": "https://www.pccomponentes.com/portatil-hp-250r-g9-156-intel-core-3-100u-8gb-512gb-ssd-gris",
       "store": "PcComponentes",
@@ -19012,13 +18995,13 @@
       "name": "Vivo V70 FE 5G 8GB 256GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 384.48,
-      "original_price": 457.71,
+      "current_price": 384.1,
+      "original_price": 457.26,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046830/1107-vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w-002207de-7491-4671-964e-6bb8ccf59240.jpg",
       "category": "Periféricos",
       "price_history": [
-        384.48
+        384.1
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19842,6 +19825,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
+      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
+      "store": "Carrefour",
+      "current_price": 1553.09,
+      "original_price": 1832.65,
+      "discount_pct": 15.25,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1553.09
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 75\" (190,5 cm) Samsung TU75M73HAU con IA, 4K UHD, 60 Hz, OTS Lite; Q-Symphony; Audio Pre-selection Descriptor",
       "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-samsung-tu75m73hau-con-ia-4k-uhd-60-hz-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-34208760/p",
       "store": "Carrefour",
@@ -20454,23 +20454,6 @@
       "drop_pct": null
     },
     {
-      "name": "Portátil Asus ZenBook 14 OLED UX3405CA 14\" Intel Core Ultra 7 255H 16GB 512GB SSD Arc 140T Sin Sistema Operativo",
-      "url": "https://www.pccomponentes.com/portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo",
-      "store": "PcComponentes",
-      "current_price": 849.0,
-      "original_price": 998.82,
-      "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034299/1324-portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo.jpg",
-      "category": "Portátiles",
-      "price_history": [
-        849.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Ratón Logitech inalámbrico 25600 DPI RGB 11 botones programables HERO LIGHTSPEED",
       "url": "https://www.pccomponentes.com/raton-logitech-inalambrico-25600-dpi-rgb-11-botones-programables-hero-lightspeed",
       "store": "PcComponentes",
@@ -20753,40 +20736,6 @@
       "category": "Móviles",
       "price_history": [
         188.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV NanoCell 85\" (215,9 cm) LG 85NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
-      "url": "https://www.carrefour.es/smart-tv-nanocell-85-2159-cm-lg-85nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33830227/p",
-      "store": "Carrefour",
-      "current_price": 1078.76,
-      "original_price": 1262.15,
-      "discount_pct": 14.53,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/717838_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1078.76
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
-      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
-      "store": "Carrefour",
-      "current_price": 878.19,
-      "original_price": 1027.48,
-      "discount_pct": 14.53,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        878.19
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21637,6 +21586,23 @@
       "category": "Hogar",
       "price_history": [
         212.2
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PC Racing Sigma Gaming Intel Core i7-12700KF/32GB/1TB SSD/RTX 5070",
+      "url": "https://www.pccomponentes.com/pc-racing-sigma-gaming-intel-core-i7-12700kf-32gb-1tb-ssd-rtx-5070",
+      "store": "PcComponentes",
+      "current_price": 1789.75,
+      "original_price": 2081.1,
+      "discount_pct": 14.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870508/1816-pc-racing-sigma-gaming-intel-core-i7-12700f-32gb-1tb-ssd-rtx-4070-super.jpg",
+      "category": "Componentes",
+      "price_history": [
+        1789.75
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24517,6 +24483,23 @@
       "drop_pct": null
     },
     {
+      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
+      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
+      "store": "Carrefour",
+      "current_price": 878.19,
+      "original_price": 992.35,
+      "discount_pct": 11.5,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        878.19
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 65\" (165,1 cm) Samsung TU65M80HAU con IA, 4K UHD, 144 Hz, NQ4 AI Gen2 Processor, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
       "url": "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-samsung-tu65m80hau-con-ia-4k-uhd-144-hz-nq4-ai-gen2-processor-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-34119602/p",
       "store": "Carrefour",
@@ -25190,6 +25173,23 @@
       "category": "Otros",
       "price_history": [
         39.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV NanoCell 85\" (215,9 cm) LG 85NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
+      "url": "https://www.carrefour.es/smart-tv-nanocell-85-2159-cm-lg-85nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33830227/p",
+      "store": "Carrefour",
+      "current_price": 1078.76,
+      "original_price": 1208.21,
+      "discount_pct": 10.71,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/717838_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1078.76
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27662,6 +27662,23 @@
       "drop_pct": null
     },
     {
+      "name": "Consola Nintendo Switch 2 256 GB",
+      "url": "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p",
+      "store": "Carrefour",
+      "current_price": 455.0,
+      "original_price": 490.0,
+      "discount_pct": 7.14,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/581819_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        455.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 75\" (190,5 cm) Xiaomi L75MA-SPLEU, 4K UHD, 144 Hz, HDR",
       "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-xiaomi-l75ma-spleu-4k-uhd-144-hz-hdr/VC4A-33189377/p",
       "store": "Carrefour",
@@ -27757,23 +27774,6 @@
       "category": "Componentes",
       "price_history": [
         74.57
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "ASUS TUF GAMING Z890-PLUS WIFI",
-      "url": "https://www.pccomponentes.com/placa-base-asus-tuf-gaming-z890-plus-wifi",
-      "store": "PcComponentes",
-      "current_price": 259.9,
-      "original_price": 279.46,
-      "discount_pct": 7.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858955/1953-asus-tuf-gaming-z890-plus-wifi-opiniones.jpg",
-      "category": "Otros",
-      "price_history": [
-        259.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28206,23 +28206,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung RB34C775CS9/EF Frigorífico Combi C Acero Inoxidable",
-      "url": "https://www.pccomponentes.com/samsung-rb34c775cs9-ef-frigorifico-combi-c-acero-inoxidable",
-      "store": "PcComponentes",
-      "current_price": 689.0,
-      "original_price": 740.86,
-      "discount_pct": 7.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10812417/1131-samsung-rb34c775cs9-ef-frigorifico-combi-c-acero-inoxidable.jpg",
-      "category": "Hogar",
-      "price_history": [
-        689.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Sony Alpha a6000 24MP + 16-50mm",
       "url": "https://www.pccomponentes.com/sony-alpha-a6000-24mp-16-50mm",
       "store": "PcComponentes",
@@ -28556,23 +28539,6 @@
       "category": "Móviles",
       "price_history": [
         1599.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple MacBook Air 13\" Apple M5 16GB 512GB SSD GPU 8 núcleos macOS Azul Cielo",
-      "url": "https://www.pccomponentes.com/portatil-apple-macbook-air-13-apple-m5-16gb-512gb-ssd-gpu-8-nucleos-macos-azul-cielo",
-      "store": "PcComponentes",
-      "current_price": 1329.0,
-      "original_price": 1413.83,
-      "discount_pct": 6.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026050/1655-apple-macbook-air-13-apple-m5-16gb-512gb-ssd-gpu-8-nucleos-macos-azul-cielo.jpg",
-      "category": "Portátiles",
-      "price_history": [
-        1329.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29202,6 +29168,23 @@
       "category": "Componentes",
       "price_history": [
         498.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet Xiaomi Pad 8 WiFi 11,2\" 8GB 256GB Gris",
+      "url": "https://www.pccomponentes.com/tablet-xiaomi-pad-8-wifi-112-8gb-256gb-gris",
+      "store": "PcComponentes",
+      "current_price": 360.0,
+      "original_price": 378.95,
+      "discount_pct": 5.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11032878/1915-tablet-xiaomi-pad-8-wifi-112-8gb-256gb-gris-caracteristicas.jpg",
+      "category": "Otros",
+      "price_history": [
+        360.0
       ],
       "history_days": 1,
       "is_lowest": true,
