@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T01:37:42.950225+00:00",
+  "updated": "2026-08-16T01:58:29.932226+00:00",
   "total_products": 2015,
   "deals": [
     {
@@ -1747,23 +1747,6 @@
       "category": "Hogar",
       "price_history": [
         219.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
-      "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html",
-      "store": "MediaMarkt",
-      "current_price": 109.0,
-      "original_price": 199.0,
-      "discount_pct": 45.23,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159265122",
-      "category": "Informática",
-      "price_history": [
-        109.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3906,6 +3889,23 @@
       "category": "Otros",
       "price_history": [
         47.05
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Sello comercial Brother PR4090B6P 40 x 90 mm Negro Pack 6 unidades",
+      "url": "https://www.pccomponentes.com/sello-comercial-brother-pr4090b6p-40-x-90-mm-negro-pack-6-unidades",
+      "store": "PcComponentes",
+      "current_price": 56.4,
+      "original_price": 90.97,
+      "discount_pct": 38.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090075/1427-sello-comercial-brother-pr4090b6p-40-x-90-mm-negro-pack-6-unidades.jpg",
+      "category": "Otros",
+      "price_history": [
+        56.4
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6303,6 +6303,23 @@
       "category": "Hogar",
       "price_history": [
         53.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cocina de Gas HAEGER GC-02E.022A 2 Quemadores Encimera Gris",
+      "url": "https://www.pccomponentes.com/cocina-de-gas-haeger-gc-02e-022a-2-quemadores-encimera-gris",
+      "store": "PcComponentes",
+      "current_price": 32.98,
+      "original_price": 48.5,
+      "discount_pct": 32.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1108/11089990/1569-cocina-de-gas-haeger-gc-02e022a-2-quemadores-encimera-gris.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        32.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9261,6 +9278,23 @@
       "category": "TV y Audio",
       "price_history": [
         599.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil - ASUS Zenbook A14 OLED UX3407QA-QD332W Copilot+ PC, 14 \" WUXGA, Snapdragon® X X1-26-100 45 TOPS, 32 GB RAM, 512 GB SSD, Adreno™ GPU, W11",
+      "url": "https://www.mediamarkt.es/es/product/_portatil-asus-zenbook-a14-oled-ux3407qa-qd332w-copilot-pc-14-wuxga-snapdragonr-x-x1-26-100-32-gb-ram-512-gb-ssd-adrenotm-gpu-windows-11-1598613.html",
+      "store": "MediaMarkt",
+      "current_price": 899.0,
+      "original_price": 1199.0,
+      "discount_pct": 25.02,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161878304",
+      "category": "Informática",
+      "price_history": [
+        899.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17975,13 +18009,13 @@
       "name": "Portátil ASUS ExpertBook B3 B3605CCA-MB2216 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Intel Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 728.63,
-      "original_price": 867.42,
+      "current_price": 728.21,
+      "original_price": 866.92,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090451/1536-portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo-164746e0-e44c-4783-a75b-0c0d2373cb72.jpg",
       "category": "Portátiles",
       "price_history": [
-        728.63
+        728.21
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18842,13 +18876,13 @@
       "name": "Xiaomi REDMI A7 Pro 4G 4GB 64GB 6.9\" Verde Palmera",
       "url": "https://www.pccomponentes.com/xiaomi-redmi-a7-pro-4g-4gb-64gb-6-9-verde-palmera",
       "store": "PcComponentes",
-      "current_price": 97.69,
-      "original_price": 116.3,
+      "current_price": 97.48,
+      "original_price": 116.05,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034630/1412-xiaomi-redmi-a7-pro-4g-4gb-64gb-69-verde-palmera.jpg",
       "category": "Móviles",
       "price_history": [
-        97.69
+        97.48
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18978,13 +19012,13 @@
       "name": "Portátil Asus ZenBook 14 OLED UX3405CA 14\" Intel Core Ultra 7 255H 16GB 512GB SSD Arc 140T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 859.78,
-      "original_price": 1023.55,
+      "current_price": 859.36,
+      "original_price": 1023.05,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034299/1324-portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        859.78
+        859.36
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19012,13 +19046,13 @@
       "name": "Vivo V70 FE 5G 8GB 512GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 427.73,
-      "original_price": 509.2,
+      "current_price": 427.31,
+      "original_price": 508.7,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046825/1275-vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w.jpg",
       "category": "Periféricos",
       "price_history": [
-        427.73
+        427.31
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19335,13 +19369,13 @@
       "name": "Portátil LG gram 15U50T-G.AA56B 15\" Intel Core i5-1334U 16GB 512GB SSD Full HD IPS Windows 11",
       "url": "https://www.pccomponentes.com/portatil-lg-gram-15u50t-gaa56b-15-intel-core-i5-1334u-16gb-512gb-ssd-full-hd-ips-windows-11",
       "store": "PcComponentes",
-      "current_price": 695.15,
-      "original_price": 827.56,
+      "current_price": 695.03,
+      "original_price": 827.42,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881177/1151-portatil-lg-gram-15u50t-gaa56b-15-intel-core-i5-1334u-16gb-512gb-ssd-full-hd-ips-windows-11.jpg",
       "category": "Portátiles",
       "price_history": [
-        695.15
+        695.03
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19420,13 +19454,13 @@
       "name": "Vivo V70 FE 5G 8GB 256GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 380.73,
-      "original_price": 453.25,
+      "current_price": 380.63,
+      "original_price": 453.13,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046830/1107-vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w-002207de-7491-4671-964e-6bb8ccf59240.jpg",
       "category": "Periféricos",
       "price_history": [
-        380.73
+        380.63
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20015,13 +20049,13 @@
       "name": "Vivo V70 FE 5G 8GB 512GB 6.83\" Púrpura + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-512gb-683-purpura-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 428.68,
-      "original_price": 510.33,
+      "current_price": 428.26,
+      "original_price": 509.83,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046829/1435-vivo-v70-fe-5g-8gb-512gb-683-purpura-auriculares-cargador-90w.jpg",
       "category": "Periféricos",
       "price_history": [
-        428.68
+        428.26
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27458,23 +27492,6 @@
       "drop_pct": null
     },
     {
-      "name": "Ventilador suplementario NZXT F120X 120 mm 3100 RPM con iluminación LED RGB",
-      "url": "https://www.pccomponentes.com/ventilador-suplementario-nzxt-f120x-120-mm-3100-rpm-con-iluminacion-led-rgb",
-      "store": "PcComponentes",
-      "current_price": 31.99,
-      "original_price": 34.77,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10993231/1645-ventilador-suplementario-nzxt-f120x-120-mm-3100-rpm-con-iluminacion-led-rgb-mejor-precio.jpg",
-      "category": "Componentes",
-      "price_history": [
-        31.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Apple MacBook Pro 14\" Apple M5 Max 18 núcleos 36GB 2TB SSD GPU 32 núcleos macOS Plata",
       "url": "https://www.pccomponentes.com/portatil-apple-macbook-pro-14-apple-m5-max-18-nucleos-36gb-2tb-ssd-gpu-32-nucleos-macos-plata",
       "store": "PcComponentes",
@@ -28563,13 +28580,13 @@
       "drop_pct": null
     },
     {
-      "name": "MSI Forge GK600 TKL Wireless Sky Spanish Layout - Teclado Gaming",
-      "url": "https://www.game.es/accesorios/teclado/pc-gaming/msi-forge-gk600-tkl-wireless-sky-spanish-layout-teclado-gaming/240843",
+      "name": "MSI Forge GK600 TKL Wireless Violet Spanish Layout - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/msi-forge-gk600-tkl-wireless-violet-spanish-layout-teclado-gaming/246846",
       "store": "GAME",
       "current_price": 74.99,
       "original_price": 79.99,
       "discount_pct": 6.25,
-      "image_url": "https://media.game.es/COVERV2/3D_L/240/240843.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/246/246846.png",
       "category": "Gaming",
       "price_history": [
         74.99
@@ -28580,13 +28597,13 @@
       "drop_pct": null
     },
     {
-      "name": "MSI Forge GK600 TKL Wireless Violet Spanish Layout - Teclado Gaming",
-      "url": "https://www.game.es/accesorios/teclado/pc-gaming/msi-forge-gk600-tkl-wireless-violet-spanish-layout-teclado-gaming/246846",
+      "name": "MSI Forge GK600 TKL Wireless Sky Spanish Layout - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/msi-forge-gk600-tkl-wireless-sky-spanish-layout-teclado-gaming/240843",
       "store": "GAME",
       "current_price": 74.99,
       "original_price": 79.99,
       "discount_pct": 6.25,
-      "image_url": "https://media.game.es/COVERV2/3D_L/246/246846.png",
+      "image_url": "https://media.game.es/COVERV2/3D_L/240/240843.png",
       "category": "Gaming",
       "price_history": [
         74.99
