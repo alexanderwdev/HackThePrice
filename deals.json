@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T01:37:38.002382+00:00",
+  "updated": "2026-08-17T01:58:11.208227+00:00",
   "total_products": 2009,
   "deals": [
     {
@@ -7374,6 +7374,23 @@
       "category": "Portátiles",
       "price_history": [
         629.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "ASUS ROG Keris II Ace Ratón Gaming Inalámbrico 42000DPI Blanco",
+      "url": "https://www.pccomponentes.com/asus-rog-keris-ii-ace-raton-gaming-inalambrico-42000dpi-blanco",
+      "store": "PcComponentes",
+      "current_price": 104.99,
+      "original_price": 149.99,
+      "discount_pct": 30.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10819702/11-asus-rog-keris-ii-ace-raton-gaming-inalambrico-42000dpi-blanco.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        104.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18247,13 +18264,13 @@
       "name": "Portátil ASUS ExpertBook B3 B3605CCA-MB2216 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Intel Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 725.7,
-      "original_price": 863.93,
+      "current_price": 725.28,
+      "original_price": 863.43,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090451/1536-portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo-164746e0-e44c-4783-a75b-0c0d2373cb72.jpg",
       "category": "Portátiles",
       "price_history": [
-        725.7
+        725.28
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19199,13 +19216,13 @@
       "name": "Portátil Asus ZenBook 14 OLED UX3405CA 14\" Intel Core Ultra 7 255H 16GB 512GB SSD Arc 140T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 856.87,
-      "original_price": 1020.08,
+      "current_price": 856.46,
+      "original_price": 1019.6,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11034299/1324-portatil-asus-zenbook-14-oled-ux3405ca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        856.87
+        856.46
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19267,13 +19284,13 @@
       "name": "Vivo V70 FE 5G 8GB 512GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 431.22,
-      "original_price": 513.36,
+      "current_price": 430.87,
+      "original_price": 512.94,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046825/1275-vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w.jpg",
       "category": "Periféricos",
       "price_history": [
-        431.22
+        430.87
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19709,13 +19726,13 @@
       "name": "Vivo V70 FE 5G 8GB 256GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 384.41,
-      "original_price": 457.63,
+      "current_price": 384.01,
+      "original_price": 457.15,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046830/1107-vivo-v70-fe-5g-8gb-256gb-683-azul-auriculares-cargador-90w-002207de-7491-4671-964e-6bb8ccf59240.jpg",
       "category": "Periféricos",
       "price_history": [
-        384.41
+        384.01
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19913,13 +19930,13 @@
       "name": "Portátil ASUS ExpertBook B5 B5605CCA 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 1001.07,
-      "original_price": 1191.75,
+      "current_price": 1000.66,
+      "original_price": 1191.26,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090457/1601-portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        1001.07
+        1000.66
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19947,13 +19964,13 @@
       "name": "Portátil LG gram 15U50T-G.AA56B 15\" Intel Core i5-1334U 16GB 512GB SSD Full HD IPS Windows 11",
       "url": "https://www.pccomponentes.com/portatil-lg-gram-15u50t-gaa56b-15-intel-core-i5-1334u-16gb-512gb-ssd-full-hd-ips-windows-11",
       "store": "PcComponentes",
-      "current_price": 698.24,
-      "original_price": 831.24,
+      "current_price": 697.79,
+      "original_price": 830.7,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881177/1151-portatil-lg-gram-15u50t-gaa56b-15-intel-core-i5-1334u-16gb-512gb-ssd-full-hd-ips-windows-11.jpg",
       "category": "Portátiles",
       "price_history": [
-        698.24
+        697.79
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20049,13 +20066,13 @@
       "name": "Vivo V60 Lite 5G 12GB 512GB 6.77\" Rosa Pop",
       "url": "https://www.pccomponentes.com/vivo-v60-lite-5g-12gb-512gb-6-77-rosa-pop",
       "store": "PcComponentes",
-      "current_price": 310.78,
-      "original_price": 369.98,
+      "current_price": 310.4,
+      "original_price": 369.52,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10978243/1333-vivo-v60-lite-5g-12gb-512gb-677-rosa-pop-opiniones.jpg",
       "category": "Móviles",
       "price_history": [
-        310.78
+        310.4
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20440,13 +20457,13 @@
       "name": "Tablet Samsung Galaxy Tab Active5 WiFi 8\" 6GB 128GB Verde Stylus Pen",
       "url": "https://www.pccomponentes.com/tablet-samsung-galaxy-tab-active5-wifi-8-6gb-128gb-verde-stylus-pen",
       "store": "PcComponentes",
-      "current_price": 384.3,
-      "original_price": 457.5,
+      "current_price": 383.93,
+      "original_price": 457.06,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10882086/1289-tablet-samsung-galaxy-tab-active5-wifi-8-6gb-128gb-verde-stylus-pen-mejor-precio.jpg",
       "category": "Otros",
       "price_history": [
-        384.3
+        383.93
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20481,6 +20498,23 @@
       "category": "Hogar",
       "price_history": [
         45.91
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV NanoCell 85\" (215,9 cm) LG 85NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
+      "url": "https://www.carrefour.es/smart-tv-nanocell-85-2159-cm-lg-85nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33830227/p",
+      "store": "Carrefour",
+      "current_price": 1078.76,
+      "original_price": 1283.72,
+      "discount_pct": 15.97,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/717838_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1078.76
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21253,23 +21287,6 @@
       "drop_pct": null
     },
     {
-      "name": "ASUS ROG Keris II Ace Ratón Gaming Inalámbrico 42000DPI Blanco",
-      "url": "https://www.pccomponentes.com/asus-rog-keris-ii-ace-raton-gaming-inalambrico-42000dpi-blanco",
-      "store": "PcComponentes",
-      "current_price": 126.76,
-      "original_price": 149.13,
-      "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10819702/11-asus-rog-keris-ii-ace-raton-gaming-inalambrico-42000dpi-blanco.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        126.76
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Origial Barista Multi 3in1 Cafetera Multicápsulas 3 en 1, 1400W, 20 bares, negra",
       "url": "https://www.pccomponentes.com/origial-barista-multi-3in1-cafetera-multicapsulas-3-en-1-1400w-20-bares-negra",
       "store": "PcComponentes",
@@ -21314,23 +21331,6 @@
       "category": "Gaming",
       "price_history": [
         54.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV NanoCell 85\" (215,9 cm) LG 85NU8E0B3LA con IA, 4K UHD, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
-      "url": "https://www.carrefour.es/smart-tv-nanocell-85-2159-cm-lg-85nu8e0b3la-con-ia-4k-uhd-60-hz-procesador-inteligente-a7-ai-processor-4k-gen9-dolby-digital-plus-ai-sound-pro/VC4A-33830227/p",
-      "store": "Carrefour",
-      "current_price": 1078.76,
-      "original_price": 1262.15,
-      "discount_pct": 14.53,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/717838_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1078.76
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -22351,6 +22351,23 @@
       "category": "TV y Audio",
       "price_history": [
         499.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
+      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
+      "store": "Carrefour",
+      "current_price": 1618.85,
+      "original_price": 1877.87,
+      "discount_pct": 13.79,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1618.85
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24738,23 +24755,6 @@
       "drop_pct": null
     },
     {
-      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
-      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
-      "store": "Carrefour",
-      "current_price": 878.19,
-      "original_price": 992.35,
-      "discount_pct": 11.5,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        878.19
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Smart TV MiniLED 65\" (165,1 cm) Samsung TU65M80HAU con IA, 4K UHD, 144 Hz, NQ4 AI Gen2 Processor, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
       "url": "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-samsung-tu65m80hau-con-ia-4k-uhd-144-hz-nq4-ai-gen2-processor-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-34119602/p",
       "store": "Carrefour",
@@ -26302,16 +26302,16 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
-      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
+      "name": "TV Hisense 85\" (215,9 cm) 85A6Q Con IA , LED, 4K UHD, 60 Hz, Smart TV, HDR, Dolby MS12, DTS X",
+      "url": "https://www.carrefour.es/tv-hisense-85-2159-cm-85a6q-con-ia-led-4k-uhd-60-hz-smart-tv-hdr-dolby-ms12-dts-x/VC4A-30730526/p",
       "store": "Carrefour",
-      "current_price": 1618.85,
-      "original_price": 1780.74,
+      "current_price": 878.19,
+      "original_price": 966.01,
       "discount_pct": 9.09,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/595071_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        1618.85
+        878.19
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -30188,23 +30188,6 @@
       "category": "TV y Audio",
       "price_history": [
         129.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV MiniLED 75\" (190,5 cm) TCL 75P8L con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, Dolby Atmos, DTS:X",
-      "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-tcl-75p8l-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-dolby-atmos-dtsx/VC4A-33876633/p",
-      "store": "Carrefour",
-      "current_price": 955.13,
-      "original_price": 974.23,
-      "discount_pct": 1.96,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729904_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        955.13
       ],
       "history_days": 1,
       "is_lowest": true,
