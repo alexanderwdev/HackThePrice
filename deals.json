@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T21:37:48.615172+00:00",
-  "total_products": 2014,
+  "updated": "2026-08-20T21:59:59.977565+00:00",
+  "total_products": 2011,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack HDC 12 Nickel - Accesorio Racor",
@@ -16,7 +16,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -33,7 +33,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 7.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -50,7 +50,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 5.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -67,7 +67,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 0.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -84,7 +84,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 6.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -101,7 +101,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -135,7 +135,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 7.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -152,7 +152,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -169,7 +169,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -220,7 +220,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -237,7 +237,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 19.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -254,7 +254,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 5.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -305,7 +305,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 69.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -360,6 +360,23 @@
       "drop_pct": null
     },
     {
+      "name": "Corsair Vengeance RGB Pro SL White DDR4 3200 PC4-25600 32GB 4x8GB CL16",
+      "url": "https://www.pccomponentes.com/corsair-vengeance-rgb-pro-sl-white-ddr4-3200-pc4-25600-32gb-4x8gb-cl16",
+      "store": "PcComponentes",
+      "current_price": 299.95,
+      "original_price": 810.68,
+      "discount_pct": 63.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/35/352468/1806-corsair-vengeance-rgb-pro-sl-white-ddr4-3200-pc4-25600-128gb-4x32gb-cl16.jpg",
+      "category": "Componentes",
+      "price_history": [
+        299.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
       "url": "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/",
       "store": "Coolmod",
@@ -373,7 +390,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -390,24 +407,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Nanocable Conversor DP a HDMI Negro 5m",
-      "url": "https://www.coolmod.com/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi/",
-      "store": "Coolmod",
-      "current_price": 8.95,
-      "original_price": 22.95,
-      "discount_pct": 61.0,
-      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1787261746",
-      "category": "Outlet",
-      "price_history": [
-        8.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 8.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -445,6 +445,23 @@
       "drop_pct": null
     },
     {
+      "name": "Nanocable Conversor DP a HDMI Negro 5m",
+      "url": "https://www.coolmod.com/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi/",
+      "store": "Coolmod",
+      "current_price": 8.95,
+      "original_price": 22.95,
+      "discount_pct": 61.0,
+      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1787261746",
+      "category": "Outlet",
+      "price_history": [
+        8.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Creality CR-10 SE Impresora 3D",
       "url": "https://www.pccomponentes.com/creality-cr-10-se-impresora-3d",
       "store": "PcComponentes",
@@ -458,7 +475,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -560,7 +577,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 288.98,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -577,7 +594,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 369.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -611,7 +628,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 259.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -781,7 +798,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -795,23 +812,6 @@
       "category": "TV y Audio",
       "price_history": [
         186.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 186.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Torre Corsair 4500X RS-R ARGB Cristal Templado Midi Tower Negro USB 3.2 ATX 3x120mm",
-      "url": "https://www.pccomponentes.com/torre-pc-torre-corsair-4500x-rs-r-argb-cristal-templado-midi-tower-negro-usb-3-2-atx-3x120mm",
-      "store": "PcComponentes",
-      "current_price": 89.99,
-      "original_price": 191.47,
-      "discount_pct": 53.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10925339/1157-torre-corsair-4500x-rs-r-argb-cristal-templado-midi-tower-negro-usb-32-atx-3x120mm.jpg",
-      "category": "Otros",
-      "price_history": [
-        89.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -866,7 +866,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 30.76,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -985,7 +985,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1002,7 +1002,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 789.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1016,6 +1016,23 @@
       "category": "Componentes",
       "price_history": [
         69.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "WWE 2K26 PS5",
+      "url": "https://www.pccomponentes.com/wwe-2k26-ps5",
+      "store": "PcComponentes",
+      "current_price": 34.99,
+      "original_price": 69.98,
+      "discount_pct": 50.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11018992/1545-wwe-2k26-ps5.jpg",
+      "category": "Gaming",
+      "price_history": [
+        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -1138,7 +1155,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1291,7 +1308,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 409.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1308,7 +1325,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 679.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1465,23 +1482,6 @@
       "drop_pct": null
     },
     {
-      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
-      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
-      "store": "PcComponentes",
-      "current_price": 34.99,
-      "original_price": 66.02,
-      "discount_pct": 47.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        34.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Altavoz Inalámbrico LG Xboom Grab, 30W - Negro",
       "url": "https://www.carrefour.es/altavoz-inalambrico-lg-xboom-grab-30w-negro/VC4A-30693874/p",
       "store": "Carrefour",
@@ -1495,7 +1495,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1716,7 +1716,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1733,7 +1733,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1750,7 +1750,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1319.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 99.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 93.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 84.05,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2396,7 +2396,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 89.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2413,7 +2413,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 299.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2430,7 +2430,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 57.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2736,7 +2736,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 69.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2753,7 +2753,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 379.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2770,7 +2770,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 122.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2787,7 +2787,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 69.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2804,7 +2804,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 99.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3029,6 +3029,23 @@
       "drop_pct": null
     },
     {
+      "name": "Denon Sound Bar 550 Barra de Sonido Compacta",
+      "url": "https://www.pccomponentes.com/denon-sound-bar-550-barra-de-sonido-compacta",
+      "store": "PcComponentes",
+      "current_price": 378.65,
+      "original_price": 641.78,
+      "discount_pct": 41.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/41/410412/157-denon-sound-bar-550-barra-de-sonido-compacta.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        378.65
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Impresora multifunción tinta - Epson EcoTank ET-2865, Serie 2860, Color, Tinta recargable, Negro",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2865-inyeccion-de-tinta-10-ppm-en-monocromo-negro-1566508.html",
       "store": "MediaMarkt",
@@ -3042,7 +3059,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 159.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3059,7 +3076,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 119.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3076,7 +3093,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 149.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3093,7 +3110,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 479.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3110,7 +3127,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 29.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3127,7 +3144,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 17.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3144,7 +3161,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3161,24 +3178,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 64.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Newskill Serike V2 Teclado Gaming Mecánico RGB Negro NewSwitch Red",
-      "url": "https://www.pccomponentes.com/newskill-serike-v2-teclado-gaming-mecanico-rgb-negro-newswitch-red",
-      "store": "PcComponentes",
-      "current_price": 74.95,
-      "original_price": 124.92,
-      "discount_pct": 40.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790436/1149-newskill-serike-v2-teclado-mecanico-gaming-rgb-negro-newswitch-red.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        74.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 74.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3195,24 +3195,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 64.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
-      "name": "Torre Nox Infinity IOTA Semitorre Mesh ARGB Negro 4x120 mm Vidrio Templado ATX",
-      "url": "https://www.pccomponentes.com/torre-pc-torre-nox-infinity-iota-semitorre-mesh-argb-negro-4x120-mm-vidrio-templado-atx",
+      "name": "Newskill Serike V2 Teclado Gaming Mecánico RGB Negro NewSwitch Red",
+      "url": "https://www.pccomponentes.com/newskill-serike-v2-teclado-gaming-mecanico-rgb-negro-newswitch-red",
       "store": "PcComponentes",
-      "current_price": 32.92,
-      "original_price": 54.87,
+      "current_price": 74.95,
+      "original_price": 124.92,
       "discount_pct": 40.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10956334/1706-torre-nox-infinity-iota-semitorre-mesh-argb-negro-4x120-mm-vidrio-templado-atx-02895f69-5b83-487b-b1db-56af5adf1b45.jpg",
-      "category": "Otros",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790436/1149-newskill-serike-v2-teclado-mecanico-gaming-rgb-negro-newswitch-red.jpg",
+      "category": "Periféricos",
       "price_history": [
-        32.92
+        74.95
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 32.92,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3229,7 +3229,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 76.99,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Torre Nox Infinity IOTA Semitorre Mesh ARGB Negro 4x120 mm Vidrio Templado ATX",
+      "url": "https://www.pccomponentes.com/torre-pc-torre-nox-infinity-iota-semitorre-mesh-argb-negro-4x120-mm-vidrio-templado-atx",
+      "store": "PcComponentes",
+      "current_price": 32.92,
+      "original_price": 54.87,
+      "discount_pct": 40.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10956334/1706-torre-nox-infinity-iota-semitorre-mesh-argb-negro-4x120-mm-vidrio-templado-atx-02895f69-5b83-487b-b1db-56af5adf1b45.jpg",
+      "category": "Otros",
+      "price_history": [
+        32.92
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3246,41 +3263,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 139.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Deportivos con Bluetooth JBL Live Pro 2 TWS - Negro",
-      "url": "https://www.carrefour.es/auriculares-deportivos-con-bluetooth-jbl-live-pro-2-tws-negro/VC4A-22676256/p",
-      "store": "Carrefour",
-      "current_price": 89.99,
-      "original_price": 149.99,
-      "discount_pct": 40.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/198196_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        89.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 89.99,
-      "drop_pct": null
-    },
-    {
-      "name": "LEGO Super Mario Kart Castillo De Bowser 72039",
-      "url": "https://www.game.es/construccion/lego/merchandising/lego-super-mario-kart-castillo-de-bowser-72039/244776",
-      "store": "GAME",
-      "current_price": 59.99,
-      "original_price": 99.99,
-      "discount_pct": 40.0,
-      "image_url": "https://media.game.es/COVERV2/3D_L/244/244776.png",
-      "category": "Gaming",
-      "price_history": [
-        59.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 59.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3471,6 +3454,40 @@
       "drop_pct": null
     },
     {
+      "name": "Auriculares Deportivos con Bluetooth JBL Live Pro 2 TWS - Negro",
+      "url": "https://www.carrefour.es/auriculares-deportivos-con-bluetooth-jbl-live-pro-2-tws-negro/VC4A-22676256/p",
+      "store": "Carrefour",
+      "current_price": 89.99,
+      "original_price": 149.99,
+      "discount_pct": 40.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/198196_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        89.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "LEGO Super Mario Kart Castillo De Bowser 72039",
+      "url": "https://www.game.es/construccion/lego/merchandising/lego-super-mario-kart-castillo-de-bowser-72039/244776",
+      "store": "GAME",
+      "current_price": 59.99,
+      "original_price": 99.99,
+      "discount_pct": 40.0,
+      "image_url": "https://media.game.es/COVERV2/3D_L/244/244776.png",
+      "category": "Gaming",
+      "price_history": [
+        59.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Impresora multifunción tinta - Epson EcoTank ET-2876, Serie 2870, Color, Tinta recargable, WiFi, Blanco",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-ecotank-et-2876-con-deposito-recargable-10-ppm-hasta-3-anos-de-tinta-incluida-conexion-wi-fi-blanco-1566509.html",
       "store": "MediaMarkt",
@@ -3484,7 +3501,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 175.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3501,7 +3518,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3518,7 +3535,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 609.01,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3535,7 +3552,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 84.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3552,7 +3569,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 69.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3790,7 +3807,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 929.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3807,7 +3824,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 679.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -3824,7 +3841,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 48.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4045,7 +4062,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 335.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4079,23 +4096,6 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 4.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Portátil gaming - HP OMEN 16-ap0014ns Copilot+ PC, 16 \" 2K, AMD Ryzen™ AI 7 350 50 TOPS, 32GB RAM, 1TB SSD, RTX™ 5060, Sin sistema operativo, Negro",
-      "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-hp-omen-16-ap0014ns-copilot-pc-16-2k-amd-ryzentm-ai-7-350-32gb-ram-1tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-negro-1598137.html",
-      "store": "MediaMarkt",
-      "current_price": 999.0,
-      "original_price": 1599.0,
-      "discount_pct": 37.52,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159942275",
-      "category": "Informática",
-      "price_history": [
-        999.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
       "prev_price": null,
       "drop_pct": null
     },
@@ -4113,7 +4113,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 849.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4130,7 +4130,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4147,7 +4147,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 689.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4164,7 +4164,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1239.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4181,7 +4181,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4402,7 +4402,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 139.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4419,7 +4419,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 95.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4436,7 +4436,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 159.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4453,7 +4453,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1239.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4470,7 +4470,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 348.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4487,7 +4487,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 106.69,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4759,7 +4759,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 419.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4776,7 +4776,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1099.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4793,7 +4793,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 239.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4844,7 +4844,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 76.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4861,7 +4861,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 44.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4878,24 +4878,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 64.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Philips Ambilight OLED 65\" 65OLED820 UltraHD 4K Dolby Vision y Dolby Atmos Google TV",
-      "url": "https://www.pccomponentes.com/philips-ambilight-oled-65-65oled820-ultrahd-4k-dolby-vision-y-dolby-atmos-google-tv",
-      "store": "PcComponentes",
-      "current_price": 1299.0,
-      "original_price": 1998.46,
-      "discount_pct": 35.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10878785/9826-philips-ambilight-oled-65-65oled820-ultrahd-4k-dolby-vision-y-dolby-atmos-google-tv.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1299.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 1299.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4909,6 +4892,23 @@
       "category": "Otros",
       "price_history": [
         80.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Philips Ambilight OLED 65\" 65OLED820 UltraHD 4K Dolby Vision y Dolby Atmos Google TV",
+      "url": "https://www.pccomponentes.com/philips-ambilight-oled-65-65oled820-ultrahd-4k-dolby-vision-y-dolby-atmos-google-tv",
+      "store": "PcComponentes",
+      "current_price": 1299.0,
+      "original_price": 1998.46,
+      "discount_pct": 35.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10878785/9826-philips-ambilight-oled-65-65oled820-ultrahd-4k-dolby-vision-y-dolby-atmos-google-tv.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1299.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -5269,24 +5269,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 325.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Forgeon Cyclone PRO SODIMM DDR5 5600 MHz 16GB CL46 Negra",
-      "url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-sodimm-ddr5-5600-mhz-16gb-cl46-negra",
-      "store": "PcComponentes",
-      "current_price": 189.95,
-      "original_price": 287.8,
-      "discount_pct": 34.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11011318/1285-forgeon-cyclone-pro-sodimm-ddr5-5600-mhz-16gb-cl46-negra.jpg",
-      "category": "Componentes",
-      "price_history": [
-        189.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 189.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5303,7 +5286,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 32.98,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Forgeon Cyclone PRO SODIMM DDR5 5600 MHz 16GB CL46 Negra",
+      "url": "https://www.pccomponentes.com/memoria-ram-forgeon-cyclone-pro-sodimm-ddr5-5600-mhz-16gb-cl46-negra",
+      "store": "PcComponentes",
+      "current_price": 189.95,
+      "original_price": 287.8,
+      "discount_pct": 34.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11011318/1285-forgeon-cyclone-pro-sodimm-ddr5-5600-mhz-16gb-cl46-negra.jpg",
+      "category": "Componentes",
+      "price_history": [
+        189.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5596,6 +5596,23 @@
       "drop_pct": null
     },
     {
+      "name": "DeLonghi AriaDry Light DNS80 Deshumidificador 2.8L",
+      "url": "https://www.pccomponentes.com/delonghi-ariadry-light-dns80-deshumidificador-2-8l",
+      "store": "PcComponentes",
+      "current_price": 271.96,
+      "original_price": 412.06,
+      "discount_pct": 34.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/24/245048/1819-delonghi-ariadry-light-dns80-deshumidificador-28l-comprar.jpg",
+      "category": "Hogar",
+      "price_history": [
+        271.96
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Auriculares de Diadema JBL Tune 720BT - Negro",
       "url": "https://www.carrefour.es/auriculares-de-diadema-jbl-tune-720bt-negro/VC4A-23248733/p",
       "store": "Carrefour",
@@ -5609,7 +5626,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 52.96,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5626,7 +5643,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5643,7 +5660,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5660,7 +5677,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5677,7 +5694,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5694,7 +5711,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5711,7 +5728,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 129.7,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5728,7 +5745,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 99.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -5745,7 +5762,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6395,6 +6412,23 @@
       "drop_pct": null
     },
     {
+      "name": "Corsair VIRTUOSO MAX Silver Auriculares Gaming Inalámbricos con Cancelación de Ruido Dolby Atmos",
+      "url": "https://www.pccomponentes.com/corsair-virtuoso-max-silver-auriculares-gaming-inalambricos-con-cancelacion-de-ruido-dolby-atmos",
+      "store": "PcComponentes",
+      "current_price": 199.99,
+      "original_price": 298.49,
+      "discount_pct": 33.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858064/1221-corsair-virtuoso-max-silver-auriculares-gaming-inalambricos-con-cancelacion-de-ruido-dolby-atmos.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cockpit De Simulación Gtplayer Para Juegos De Carreras, Soporte Para Volante Y Pedales Con Altavoces Integrados, Rojo",
       "url": "https://www.carrefour.es/cockpit-de-simulacion-gtplayer-para-juegos-de-carreras-soporte-para-volante-y-pedales-con-altavoces-integrados-rojo/6975489575360/p",
       "store": "Carrefour",
@@ -6408,7 +6442,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 269.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6442,7 +6476,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 469.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6459,7 +6493,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 369.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6731,7 +6765,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1299.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6748,7 +6782,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 239.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6765,7 +6799,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6782,7 +6816,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6799,7 +6833,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1099.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6816,7 +6850,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 54.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6833,7 +6867,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -6850,7 +6884,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 749.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7088,24 +7122,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 279.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Logitech G203 LIGHTSYNC 2nd Gen Negro RGB 8000 DPI - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/logitech-g203-lightsync-2nd-gen-negro-rgb-8000-dpi-raton-gaming/180316",
-      "store": "GAME",
-      "current_price": 20.99,
-      "original_price": 29.99,
-      "discount_pct": 30.01,
-      "image_url": "https://media.game.es/COVERV2/3D_L/180/180316.png",
-      "category": "Gaming",
-      "price_history": [
-        20.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 20.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7177,6 +7194,23 @@
       "drop_pct": null
     },
     {
+      "name": "Logitech G203 LIGHTSYNC 2nd Gen Negro RGB 8000 DPI - Raton Gaming",
+      "url": "https://www.game.es/accesorios/raton/pc-gaming/logitech-g203-lightsync-2nd-gen-negro-rgb-8000-dpi-raton-gaming/180316",
+      "store": "GAME",
+      "current_price": 20.99,
+      "original_price": 29.99,
+      "discount_pct": 30.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/180/180316.png",
+      "category": "Gaming",
+      "price_history": [
+        20.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Owlotech Executive Mesa de Escritorio 140x60cm Negra",
       "url": "https://www.pccomponentes.com/owlotech-executive-mesa-de-escritorio-140x60cm-negra",
       "store": "PcComponentes",
@@ -7190,24 +7224,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Altavoz Inalámbrico JBL Charge 5 - Negro",
-      "url": "https://www.carrefour.es/altavoz-inalambrico-jbl-charge-5-negro/VC4A-13856264/p",
-      "store": "Carrefour",
-      "current_price": 139.99,
-      "original_price": 199.99,
-      "discount_pct": 30.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654412_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        139.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 139.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7483,23 +7500,6 @@
       "drop_pct": null
     },
     {
-      "name": "Corsair ICUE Link QX120 RGB 3x Kit de Expansión de Ventilador PWM 120mm",
-      "url": "https://www.pccomponentes.com/corsair-icue-link-qx120-rgb-3x-kit-de-expansion-de-ventilador-pwm-120mm",
-      "store": "PcComponentes",
-      "current_price": 104.9,
-      "original_price": 149.86,
-      "discount_pct": 30.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10734026/1106-corsair-icue-link-qx120-rgb-3x-kit-de-expansion-de-ventilador-pwm-120mm.jpg",
-      "category": "Componentes",
-      "price_history": [
-        104.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "PcCom Work Intel Core i3-12100 / 16GB / 500GB SSD V2 / Windows 11 Home",
       "url": "https://www.pccomponentes.com/pccom-work-intel-core-i3-12100-16gb-500gb-ssd-v2-windows-11-home",
       "store": "PcComponentes",
@@ -7551,6 +7551,40 @@
       "drop_pct": null
     },
     {
+      "name": "Corsair iCUE LINK LX120-R RGB Pack Triple Ventilador Suplementario PWM 120mm Blanco",
+      "url": "https://www.pccomponentes.com/corsair-icue-link-lx120-r-rgb-pack-triple-ventilador-suplementario-pwm-120mm-blanco",
+      "store": "PcComponentes",
+      "current_price": 79.9,
+      "original_price": 114.14,
+      "discount_pct": 30.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10865759/1620-corsair-icue-link-lx120-r-rgb-pack-triple-ventilador-suplementario-pwm-120mm-blanco-4ed481f1-1a4e-43e1-9b9f-a52672822019.jpg",
+      "category": "Componentes",
+      "price_history": [
+        79.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Altavoz Inalámbrico JBL Charge 5 - Negro",
+      "url": "https://www.carrefour.es/altavoz-inalambrico-jbl-charge-5-negro/VC4A-13856264/p",
+      "store": "Carrefour",
+      "current_price": 139.99,
+      "original_price": 199.99,
+      "discount_pct": 30.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654412_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        139.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tablet - Samsung Galaxy Tab A11+ 11\" WUXGA, 6 GB RAM, 128 GB, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-samsung-galaxy-tab-a11-11-wuxga-6-gb-ram-128-gb-gris-1610710.html",
       "store": "MediaMarkt",
@@ -7564,7 +7598,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 232.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7581,7 +7615,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 849.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7598,7 +7632,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 999.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7615,24 +7649,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 169.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor Asus VZ279HG 27\" Full HD 120Hz IPS 1ms sin marco Adaptive Sync",
-      "url": "https://www.pccomponentes.com/monitor-asus-vz279hg-27-full-hd-120hz-ips-1ms-sin-marco-adaptive-sync",
-      "store": "PcComponentes",
-      "current_price": 89.0,
-      "original_price": 125.35,
-      "discount_pct": 29.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1098/10986268/1159-monitor-asus-vz279hg-27-full-hd-120hz-ips-1ms-sin-marco-adaptive-sync.jpg",
-      "category": "Monitores",
-      "price_history": [
-        89.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 89.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7649,7 +7666,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 819.0,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor Asus VZ279HG 27\" Full HD 120Hz IPS 1ms sin marco Adaptive Sync",
+      "url": "https://www.pccomponentes.com/monitor-asus-vz279hg-27-full-hd-120hz-ips-1ms-sin-marco-adaptive-sync",
+      "store": "PcComponentes",
+      "current_price": 89.0,
+      "original_price": 125.35,
+      "discount_pct": 29.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1098/10986268/1159-monitor-asus-vz279hg-27-full-hd-120hz-ips-1ms-sin-marco-adaptive-sync.jpg",
+      "category": "Monitores",
+      "price_history": [
+        89.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7908,6 +7942,23 @@
       "drop_pct": null
     },
     {
+      "name": "EZVIZ E6 WiFi 3K Cámara IP Panorámica de Interior",
+      "url": "https://www.pccomponentes.com/ezviz-e6-wifi-3k-camara-ip-panoramica-de-interior",
+      "store": "PcComponentes",
+      "current_price": 70.7,
+      "original_price": 99.58,
+      "discount_pct": 29.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10817363/1599-ezviz-e6-wifi-3k-camara-ip-panoramica-de-interior-review.jpg",
+      "category": "Otros",
+      "price_history": [
+        70.7
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV Neo QLED 55\" (139,7 cm) Samsung TQ55QN74FAT con IA , 4K MiniLED, 120 Hz, HDR, Color Booster Pro, OTS Lite, Q-Symphony",
       "url": "https://www.carrefour.es/smart-tv-neo-qled-55-1397-cm-samsung-tq55qn74fat-con-ia-4k-miniled-120-hz-hdr-color-booster-pro-ots-lite-q-symphony/VC4A-30759273/p",
       "store": "Carrefour",
@@ -7921,7 +7972,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7938,7 +7989,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 54.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7955,7 +8006,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7972,7 +8023,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1149.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -7989,7 +8040,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 480.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8006,7 +8057,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 519.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8023,7 +8074,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 134.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8054,23 +8105,6 @@
       "category": "Otros",
       "price_history": [
         42.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Intel Core i5-14400 2.5/4.7GHz Box",
-      "url": "https://www.pccomponentes.com/procesador-intel-core-i5-14400-2-5-4-7ghz-box",
-      "store": "PcComponentes",
-      "current_price": 198.98,
-      "original_price": 276.36,
-      "discount_pct": 28.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10805162/1597-intel-core-i5-14400-25-47ghz-box-comprar.jpg",
-      "category": "Componentes",
-      "price_history": [
-        198.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -8329,7 +8363,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 158.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8346,7 +8380,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8363,7 +8397,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8414,7 +8448,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8431,7 +8465,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8448,7 +8482,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 107.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8465,7 +8499,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 104.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8676,13 +8710,13 @@
       "name": "Portátil Asus Vivobook Go 15 15.6\" AMD Ryzen 5 40 16GB 512GB SSD Radeon 610M Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 542.69,
-      "original_price": 743.41,
+      "current_price": 542.65,
+      "original_price": 743.36,
       "discount_pct": 27.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11016208/1416-portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        542.69
+        542.65
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -8717,23 +8751,6 @@
       "category": "Hogar",
       "price_history": [
         619.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Fuente de Alimentación GIGABYTE 1000W 80 PLUS Gold UD1000GM PG5 V2 Modular PCIe Gen 5.1 ATX 3.1",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-gigabyte-1000w-80-plus-gold-ud1000gm-pg5-v2-modular-pcie-gen-5-1-atx-3-1",
-      "store": "PcComponentes",
-      "current_price": 108.61,
-      "original_price": 148.78,
-      "discount_pct": 27.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10969659/162-fuente-de-alimentacion-gigabyte-1000w-80-plus-gold-ud1000gm-pg5-v2-modular-pcie-gen-51-atx-31.jpg",
-      "category": "Componentes",
-      "price_history": [
-        108.61
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9009,7 +9026,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 911.59,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9026,7 +9043,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 329.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9043,7 +9060,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9060,7 +9077,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9077,24 +9094,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
-      "drop_pct": null
-    },
-    {
-      "name": "PcCom Lite AMD Ryzen 5 5500 / 16GB / 500GB SSD / RTX 5060",
-      "url": "https://www.pccomponentes.com/pccom-lite-amd-ryzen-5-5500-16gb-500gb-ssd-rtx-5060",
-      "store": "PcComponentes",
-      "current_price": 869.0,
-      "original_price": 1174.32,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11126530/1576-pccom-lite-amd-ryzen-5-5500-16gb-500gb-ssd-rtx-5060.jpg",
-      "category": "Componentes",
-      "price_history": [
-        869.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 869.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9111,7 +9111,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 32.98,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Lite AMD Ryzen 5 5500 / 16GB / 500GB SSD / RTX 5060",
+      "url": "https://www.pccomponentes.com/pccom-lite-amd-ryzen-5-5500-16gb-500gb-ssd-rtx-5060",
+      "store": "PcComponentes",
+      "current_price": 869.0,
+      "original_price": 1174.32,
+      "discount_pct": 26.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11126530/1576-pccom-lite-amd-ryzen-5-5500-16gb-500gb-ssd-rtx-5060.jpg",
+      "category": "Componentes",
+      "price_history": [
+        869.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9128,7 +9145,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9145,7 +9162,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 218.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9162,7 +9179,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 94.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9506,6 +9523,23 @@
       "drop_pct": null
     },
     {
+      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
+      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
+      "store": "PcComponentes",
+      "current_price": 34.99,
+      "original_price": 47.28,
+      "discount_pct": 25.99,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        34.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor gaming - LG 27G411A-B, 27\" Full-HD, 144 Hz, 1 ms, IPS, HDR10, Morado Grisáceo",
       "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-27g411a-b-27-full-hd-144-hz-5-ms-ips-hdr10-morado-grisaceo-1607404.html",
       "store": "MediaMarkt",
@@ -9519,7 +9553,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 89.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9536,7 +9570,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 149.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9553,7 +9587,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 299.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9570,7 +9604,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9587,7 +9621,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9604,7 +9638,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9689,7 +9723,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 119.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9706,7 +9740,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.1,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9723,7 +9757,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2999.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9740,7 +9774,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 749.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9757,7 +9791,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 44.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -9774,7 +9808,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10369,7 +10403,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 979.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10386,7 +10420,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 189.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10403,7 +10437,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10536,23 +10570,6 @@
       "category": "Periféricos",
       "price_history": [
         158.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Freidora de aire Ninja CRISPi FN101EUGY 3,8 L 1700 W Vidrio Azul",
-      "url": "https://www.pccomponentes.com/freidora-de-aire-ninja-crispi-fn101eugy-38-l-1700-w-vidrio-azul",
-      "store": "PcComponentes",
-      "current_price": 135.99,
-      "original_price": 178.93,
-      "discount_pct": 24.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10950985/1314-freidora-de-aire-ninja-crispi-fn101eugy-38-l-1700-w-vidrio-azul-caracteristicas.jpg",
-      "category": "Hogar",
-      "price_history": [
-        135.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -10896,7 +10913,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 30.0,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Cámara web Trust Tomar 2K QHD Blanca",
+      "url": "https://www.pccomponentes.com/camara-web-trust-tomar-2k-qhd-blanca",
+      "store": "PcComponentes",
+      "current_price": 30.0,
+      "original_price": 39.47,
+      "discount_pct": 23.99,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1110/11109074/1704-camara-web-trust-tomar-2k-qhd-blanca.jpg",
+      "category": "Otros",
+      "price_history": [
+        30.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10913,7 +10947,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 129.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10930,7 +10964,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 22.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10947,7 +10981,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 329.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10964,7 +10998,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 314.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10981,7 +11015,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10998,7 +11032,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1212.82,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11015,7 +11049,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 961.74,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11032,7 +11066,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 83.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11083,24 +11117,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 229.98,
-      "drop_pct": null
-    },
-    {
-      "name": "Tempest Safezone Mesa Gaming 120x66cm RGB Negra",
-      "url": "https://www.pccomponentes.com/tempest-safezone-mesa-gaming-120x66cm-rgb-negra",
-      "store": "PcComponentes",
-      "current_price": 99.99,
-      "original_price": 129.86,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10730941/1207-tempest-safezone-mesa-gaming-120x66cm-rgb-negra-comprar.jpg",
-      "category": "Gaming",
-      "price_history": [
-        99.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 99.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11117,75 +11134,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1999.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
-      "name": "PcCom Legend 5080 Intel Core Ultra 9 275HX/32GB/1TB SSD/RTX 5080/16\" QHD+ Windows 11 Home",
-      "url": "https://www.pccomponentes.com/portatil-pccom-legend-5080-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16-qhd-windows-11-home",
+      "name": "Tempest Safezone Mesa Gaming 120x66cm RGB Negra",
+      "url": "https://www.pccomponentes.com/tempest-safezone-mesa-gaming-120x66cm-rgb-negra",
       "store": "PcComponentes",
-      "current_price": 2749.99,
-      "original_price": 3571.42,
+      "current_price": 99.99,
+      "original_price": 129.86,
       "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10916711/1430-pccom-legend-5080-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16-qhd-windows-11-home.jpg",
-      "category": "Portátiles",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10730941/1207-tempest-safezone-mesa-gaming-120x66cm-rgb-negra-comprar.jpg",
+      "category": "Gaming",
       "price_history": [
-        2749.99
+        99.99
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2749.99,
-      "drop_pct": null
-    },
-    {
-      "name": "PcCom Imperial AMD Ryzen 7 7800X3D / 32GB / 1TB SSD / RTX 5070 Blanco / Windows 11 Home",
-      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v2-blanco-windows-11-home",
-      "store": "PcComponentes",
-      "current_price": 2199.0,
-      "original_price": 2855.84,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1113/11130964/1144-pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v2-blanco-windows-11-home.jpg",
-      "category": "Componentes",
-      "price_history": [
-        2199.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 2199.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor AOC Q24G4RE 23.8\" Fast IPS QHD 180Hz HDR10 Adaptive Sync",
-      "url": "https://www.pccomponentes.com/monitor-aoc-q24g4re-23-8-fast-ips-qhd-180hz-hdr10-adaptive-sync",
-      "store": "PcComponentes",
-      "current_price": 129.9,
-      "original_price": 168.7,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10899353/142-monitor-aoc-q24g4re-238-fast-ips-qhd-180hz-hdr10-adaptive-sync.jpg",
-      "category": "Monitores",
-      "price_history": [
-        129.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 129.9,
-      "drop_pct": null
-    },
-    {
-      "name": "PcCom Imperial AMD Ryzen 7 7800X3D / 32GB / 1TB SSD / RTX 5070 / Windows 11 Home",
-      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-7800x3d-32gb-1tb-ssd-rtx-5070-windows-11-home",
-      "store": "PcComponentes",
-      "current_price": 2199.0,
-      "original_price": 2855.84,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1114/11146869/1767-pccom-imperial-amd-ryzen-7-7800x3d-32gb-1tb-ssd-rtx-5070-windows-11-home-mejor-precio.jpg",
-      "category": "Componentes",
-      "price_history": [
-        2199.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 2199.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11202,7 +11168,75 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2699.99,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor AOC Q24G4RE 23.8\" Fast IPS QHD 180Hz HDR10 Adaptive Sync",
+      "url": "https://www.pccomponentes.com/monitor-aoc-q24g4re-23-8-fast-ips-qhd-180hz-hdr10-adaptive-sync",
+      "store": "PcComponentes",
+      "current_price": 129.9,
+      "original_price": 168.7,
+      "discount_pct": 23.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10899353/142-monitor-aoc-q24g4re-238-fast-ips-qhd-180hz-hdr10-adaptive-sync.jpg",
+      "category": "Monitores",
+      "price_history": [
+        129.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Legend 5080 Intel Core Ultra 9 275HX/32GB/1TB SSD/RTX 5080/16\" QHD+ Windows 11 Home",
+      "url": "https://www.pccomponentes.com/portatil-pccom-legend-5080-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16-qhd-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 2749.99,
+      "original_price": 3571.42,
+      "discount_pct": 23.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10916711/1430-pccom-legend-5080-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16-qhd-windows-11-home.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        2749.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Imperial AMD Ryzen 7 7800X3D / 32GB / 1TB SSD / RTX 5070 / Windows 11 Home",
+      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-7800x3d-32gb-1tb-ssd-rtx-5070-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 2199.0,
+      "original_price": 2855.84,
+      "discount_pct": 23.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1114/11146869/1767-pccom-imperial-amd-ryzen-7-7800x3d-32gb-1tb-ssd-rtx-5070-windows-11-home-mejor-precio.jpg",
+      "category": "Componentes",
+      "price_history": [
+        2199.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "PcCom Imperial AMD Ryzen 7 7800X3D / 32GB / 1TB SSD / RTX 5070 Blanco / Windows 11 Home",
+      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v2-blanco-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 2199.0,
+      "original_price": 2855.84,
+      "discount_pct": 23.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1113/11130964/1144-pccom-imperial-amd-ryzen-7-7800x3d-32gb-2tb-ssd-rtx-5070-v2-blanco-windows-11-home.jpg",
+      "category": "Componentes",
+      "price_history": [
+        2199.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11219,7 +11253,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 229.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11916,7 +11950,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 349.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11933,7 +11967,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11950,7 +11984,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2319.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11967,7 +12001,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 139.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -11984,7 +12018,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 284.89,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12001,7 +12035,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 84.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12018,7 +12052,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12035,7 +12069,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 349.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12052,7 +12086,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 230.91,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12681,23 +12715,6 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1499.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Memoria USB Lexar Jumpdrive 32GB USB 2.0",
-      "url": "https://www.carrefour.es/memoria-usb-lexar-jumpdrive-32gb-usb-20/VC4A-33129899/p",
-      "store": "Carrefour",
-      "current_price": 5.49,
-      "original_price": 6.95,
-      "discount_pct": 21.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700920_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        5.49
-      ],
-      "history_days": 1,
-      "is_lowest": true,
       "prev_price": null,
       "drop_pct": null
     },
@@ -12719,6 +12736,23 @@
       "drop_pct": null
     },
     {
+      "name": "Memoria USB Lexar Jumpdrive 32GB USB 2.0",
+      "url": "https://www.carrefour.es/memoria-usb-lexar-jumpdrive-32gb-usb-20/VC4A-33129899/p",
+      "store": "Carrefour",
+      "current_price": 5.49,
+      "original_price": 6.95,
+      "discount_pct": 21.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/700920_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        5.49
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil Acer Aspire Go 15 AG15-42P-R62N 15,6\" AMD Ryzen 7 5825U 16GB 512GB SSD Radeon Graphics Windows 11 Home",
       "url": "https://www.pccomponentes.com/portatil-acer-aspire-go-15-ag15-42p-r62n-15-6-amd-ryzen-7-5825u-16gb-512gb-ssd-radeon-graphics-windows-11-home",
       "store": "PcComponentes",
@@ -12732,24 +12766,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Monitor Alurin CoreVision 27\" Full HD IPS 144Hz 1ms Adaptive Sync",
-      "url": "https://www.pccomponentes.com/monitor-alurin-corevision-27-full-hd-ips-144hz-1ms-adaptive-sync",
-      "store": "PcComponentes",
-      "current_price": 89.99,
-      "original_price": 113.91,
-      "discount_pct": 21.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11022562/1469-monitor-alurin-corevision-144ipslite-27-fhd-144hz.jpg",
-      "category": "Monitores",
-      "price_history": [
-        89.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 89.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12766,7 +12783,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 89.99,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor Alurin CoreVision 27\" Full HD IPS 144Hz 1ms Adaptive Sync",
+      "url": "https://www.pccomponentes.com/monitor-alurin-corevision-27-full-hd-ips-144hz-1ms-adaptive-sync",
+      "store": "PcComponentes",
+      "current_price": 89.99,
+      "original_price": 113.91,
+      "discount_pct": 21.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11022562/1469-monitor-alurin-corevision-144ipslite-27-fhd-144hz.jpg",
+      "category": "Monitores",
+      "price_history": [
+        89.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12783,7 +12817,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 89.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12800,7 +12834,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 148.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12817,7 +12851,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2689.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13429,7 +13463,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 949.05,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13463,7 +13497,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 239.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13480,7 +13514,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13497,7 +13531,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13514,7 +13548,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 479.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13531,7 +13565,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13565,24 +13599,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 167.95,
-      "drop_pct": null
-    },
-    {
-      "name": "Fuente de Alimentacion Nox 850W 80+ Gold Hummer GDM Modular ATX 3.1 Ultra Silenciosa",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-nox-850w-80-plus-gold-hummer-gdm-modular-atx-3-1-ultra-silenciosa",
-      "store": "PcComponentes",
-      "current_price": 79.0,
-      "original_price": 98.75,
-      "discount_pct": 20.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10964298/3553-fuente-de-alimentacion-nox-850w-80-gold-hummer-gdm-modular-atx-31-ultra-silenciosa-mejor-precio.jpg",
-      "category": "Componentes",
-      "price_history": [
-        79.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 79.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13599,7 +13616,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 159.9,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Fuente de Alimentacion Nox 850W 80+ Gold Hummer GDM Modular ATX 3.1 Ultra Silenciosa",
+      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-nox-850w-80-plus-gold-hummer-gdm-modular-atx-3-1-ultra-silenciosa",
+      "store": "PcComponentes",
+      "current_price": 79.0,
+      "original_price": 98.75,
+      "discount_pct": 20.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10964298/3553-fuente-de-alimentacion-nox-850w-80-gold-hummer-gdm-modular-atx-31-ultra-silenciosa-mejor-precio.jpg",
+      "category": "Componentes",
+      "price_history": [
+        79.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13616,7 +13650,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13633,7 +13667,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13650,7 +13684,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13667,7 +13701,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13684,24 +13718,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 309.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Corsair NAUTILUS 360 RS ARGB Kit Refrigeración Líquida 360mm Blanco",
-      "url": "https://www.pccomponentes.com/corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-blanco",
-      "store": "PcComponentes",
-      "current_price": 99.9,
-      "original_price": 124.88,
-      "discount_pct": 20.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10863425/1516-corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-blanco-40bd0874-f898-451b-b805-0ab1ecc70102.jpg",
-      "category": "Componentes",
-      "price_history": [
-        99.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 99.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13718,7 +13735,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 479.99,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Corsair NAUTILUS 360 RS ARGB Kit Refrigeración Líquida 360mm Blanco",
+      "url": "https://www.pccomponentes.com/corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-blanco",
+      "store": "PcComponentes",
+      "current_price": 99.9,
+      "original_price": 124.88,
+      "discount_pct": 20.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10863425/1516-corsair-nautilus-360-rs-argb-kit-refrigeracion-liquida-360mm-blanco-40bd0874-f898-451b-b805-0ab1ecc70102.jpg",
+      "category": "Componentes",
+      "price_history": [
+        99.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13735,7 +13769,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13752,24 +13786,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Gigabyte GeForce RTX 5090 AORUS XTREME WATERFORCE 32GB GDDR7 Reflex 2 RTX AI DLSS4",
-      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5090-aorus-xtreme-waterforce-32gb-gddr7-reflex-2-rtx-ai-dlss4",
-      "store": "PcComponentes",
-      "current_price": 5199.99,
-      "original_price": 6499.99,
-      "discount_pct": 20.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871498/1914-gigabyte-geforce-rtx-5090-aorus-xtreme-waterforce-32gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
-      "category": "Componentes",
-      "price_history": [
-        5199.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 5199.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13786,7 +13803,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 159.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -13803,7 +13820,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 199.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -14538,23 +14555,6 @@
       "drop_pct": null
     },
     {
-      "name": "Libro Electrónico SPC Dickens Light 2 Pro 6″ USB-C 8GB Comfort Reading pantalla rotatoria",
-      "url": "https://www.pccomponentes.com/libro-electronico-spc-dickens-light-2-pro-6-usb-c-8gb-comfort-reading-pantalla-rotatoria",
-      "store": "PcComponentes",
-      "current_price": 99.9,
-      "original_price": 124.88,
-      "discount_pct": 20.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10897674/1825-libro-electronico-spc-dickens-light-2-pro-6-usb-c-8gb-comfort-reading-pantalla-rotatoria.jpg",
-      "category": "Otros",
-      "price_history": [
-        99.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Portátil Alurin Flex Advance IA Intel Core Ultra 5 125H 15.6\"/ 16GB/500GB/Windows Home",
       "url": "https://www.pccomponentes.com/portatil-alurin-flex-advance-ia-intel-core-ultra-5-125h-15-6-16gb-500gb-windows-home",
       "store": "PcComponentes",
@@ -14640,6 +14640,23 @@
       "drop_pct": null
     },
     {
+      "name": "DRAGON QUEST VII: REIMAGINED SWITCH",
+      "url": "https://www.pccomponentes.com/dragon-quest-vii-reimagined-switch",
+      "store": "PcComponentes",
+      "current_price": 47.75,
+      "original_price": 59.69,
+      "discount_pct": 20.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11017314/1312-dragon-quest-vii-reimagined-switch.jpg",
+      "category": "Otros",
+      "price_history": [
+        47.75
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV NeoQLED 55'' (139,7 cm) Samsung TQ55QN1EFAU con IA, 4K MiniLED, 120 Hz, NQ4 AI Gen2 Processor, Q-Symphony, OTS Lite",
       "url": "https://www.carrefour.es/smart-tv-neoqled-55-1397-cm-samsung-tq55qn1efau-con-ia-4k-miniled-120-hz-nq4-ai-gen2-processor-q-symphony-ots-lite/VC4A-31559720/p",
       "store": "Carrefour",
@@ -14653,7 +14670,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -14670,7 +14687,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 209.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -14687,7 +14704,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -14704,7 +14721,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 104.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15218,23 +15235,6 @@
       "drop_pct": null
     },
     {
-      "name": "Shokz Openfit Air Auriculares Open-Ear Bluetooth Negros",
-      "url": "https://www.pccomponentes.com/shokz-openfit-air-auriculares-open-ear-bluetooth-negros",
-      "store": "PcComponentes",
-      "current_price": 99.99,
-      "original_price": 123.44,
-      "discount_pct": 19.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10843010/1319-shokz-openfit-air-auriculares-open-ear-bluetooth-negros.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        99.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "TnB Urban Moov Casco con Visera para Patinetes/Skate/Bicicleta Talla M/L 55-57cm Homologado UE Azul",
       "url": "https://www.pccomponentes.com/tnb-urban-moov-casco-con-visera-para-patinetes-skate-bicicleta-talla-m-l-55-57cm-homologado-ue-azul",
       "store": "PcComponentes",
@@ -15316,7 +15316,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15333,7 +15333,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15350,7 +15350,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 269.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15367,7 +15367,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 44.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15418,7 +15418,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 429.0,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Gigabyte GeForce RTX 5090 AORUS XTREME WATERFORCE 32GB GDDR7 Reflex 2 RTX AI DLSS4",
+      "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5090-aorus-xtreme-waterforce-32gb-gddr7-reflex-2-rtx-ai-dlss4",
+      "store": "PcComponentes",
+      "current_price": 5199.99,
+      "original_price": 6341.45,
+      "discount_pct": 18.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871498/1914-gigabyte-geforce-rtx-5090-aorus-xtreme-waterforce-32gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+      "category": "Componentes",
+      "price_history": [
+        5199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16234,7 +16251,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16251,7 +16268,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16268,7 +16285,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 620.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16285,7 +16302,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 579.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16319,7 +16336,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 289.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16336,7 +16353,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16353,7 +16370,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 859.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16370,7 +16387,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 369.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16935,6 +16952,23 @@
       "drop_pct": null
     },
     {
+      "name": "Cortapelos Braun Recargable 40 posiciones Wet&Dry inalámbrico 120min batería Li-ion",
+      "url": "https://www.pccomponentes.com/cortapelos-braun-recargable-40-posiciones-wet-y-dry-inalambrico-120min-bateria-li-ion",
+      "store": "PcComponentes",
+      "current_price": 52.9,
+      "original_price": 63.73,
+      "discount_pct": 16.99,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10898324/1247-cortapelos-braun-recargable-40-posiciones-wetdry-inalambrico-120min-bateria-li-ion.jpg",
+      "category": "Otros",
+      "price_history": [
+        52.9
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "TV LG 65NANO81A6A 65\" (165,1 cm), NanoCell, 4K UHD, 60 Hz, Smart TV, HDR, Dolby Digital Plus",
       "url": "https://www.carrefour.es/tv-lg-65nano81a6a-65-1651-cm-nanocell-4k-uhd-60-hz-smart-tv-hdr-dolby-digital-plus/VC4A-30749955/p",
       "store": "Carrefour",
@@ -16948,7 +16982,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 532.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16965,7 +16999,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16982,7 +17016,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 749.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -16999,7 +17033,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 999.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17016,7 +17050,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 999.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17033,7 +17067,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1176.37,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17050,7 +17084,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 847.37,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17067,7 +17101,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 162.58,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17084,7 +17118,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 339.29,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17101,7 +17135,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 265.55,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17118,8 +17152,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 235.39,
-      "drop_pct": 0.01
+      "prev_price": null,
+      "drop_pct": null
     },
     {
       "name": "Consola Nintendo Switch 2 256 GB",
@@ -17135,8 +17169,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 467.0,
-      "drop_pct": 4.84
+      "prev_price": null,
+      "drop_pct": null
     },
     {
       "name": "Memory Card para Neo-Geo AES+ - Negro",
@@ -17152,7 +17186,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 24.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17203,23 +17237,6 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 49.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Tarjeta de Memoria Intenso Micro SD 64GB",
-      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-micro-sd-64gb/2002210667/p",
-      "store": "Carrefour",
-      "current_price": 16.51,
-      "original_price": 19.81,
-      "discount_pct": 16.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/955985_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        16.51
-      ],
-      "history_days": 1,
-      "is_lowest": true,
       "prev_price": null,
       "drop_pct": null
     },
@@ -17237,7 +17254,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 312.97,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17254,7 +17271,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17271,7 +17288,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 210.84,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17288,24 +17305,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 99.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Samsung Galaxy S25 Ultra 5G 12GB 256GB 6.9\" Negro Titanio",
-      "url": "https://www.pccomponentes.com/samsung-galaxy-s25-ultra-5g-12gb-256gb-69-negro-titanio",
-      "store": "PcComponentes",
-      "current_price": 825.92,
-      "original_price": 983.24,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10866747/1505-samsung-galaxy-s25-ultra-5g-12gb-256gb-69-negro-titanio.jpg",
-      "category": "Móviles",
-      "price_history": [
-        825.92
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 825.92,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17322,24 +17322,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
-      "name": "Tablet Xiaomi Pad 8 WiFi 11,2\" 8GB 128GB Gris",
-      "url": "https://www.pccomponentes.com/tablet-xiaomi-pad-8-wifi-11-2-8gb-128gb-gris",
+      "name": "Samsung Galaxy S25 Ultra 5G 12GB 256GB 6.9\" Negro Titanio",
+      "url": "https://www.pccomponentes.com/samsung-galaxy-s25-ultra-5g-12gb-256gb-69-negro-titanio",
       "store": "PcComponentes",
-      "current_price": 338.06,
-      "original_price": 402.45,
+      "current_price": 825.92,
+      "original_price": 983.24,
       "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11019682/1833-tablet-xiaomi-pad-8-wifi-112-8gb-128gb-gris-477b568c-1338-4d8a-9be4-f9c3d322a857.jpg",
-      "category": "Otros",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10866747/1505-samsung-galaxy-s25-ultra-5g-12gb-256gb-69-negro-titanio.jpg",
+      "category": "Móviles",
       "price_history": [
-        338.06
+        825.92
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 338.06,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17356,7 +17356,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 692.98,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet Xiaomi Pad 8 WiFi 11,2\" 8GB 128GB Gris",
+      "url": "https://www.pccomponentes.com/tablet-xiaomi-pad-8-wifi-11-2-8gb-128gb-gris",
+      "store": "PcComponentes",
+      "current_price": 338.06,
+      "original_price": 402.45,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11019682/1833-tablet-xiaomi-pad-8-wifi-112-8gb-128gb-gris-477b568c-1338-4d8a-9be4-f9c3d322a857.jpg",
+      "category": "Otros",
+      "price_history": [
+        338.06
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17373,7 +17390,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 307.97,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -17547,23 +17564,6 @@
       "drop_pct": null
     },
     {
-      "name": "ASUS ROG Delta II Auriculares Gaming Inalámbricos Bluetooth Multiplaforma",
-      "url": "https://www.pccomponentes.com/asus-rog-delta-ii-auriculares-gaming-inalambricos-bluetooth-multiplaforma",
-      "store": "PcComponentes",
-      "current_price": 197.82,
-      "original_price": 235.5,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10849053/1641-asus-rog-delta-ii-auriculares-gaming-inalambricos-bluetooth-multiplaforma.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        197.82
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Fuente Alimentación Fuente de Alimentacion Nox 750W Certificacion 80 PLUS Bronze Urano PRO extras cableado extralargo",
       "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-nox-750w-certificacion-80-plus-bronze-urano-pro-extras-cableado-extralargo",
       "store": "PcComponentes",
@@ -17574,23 +17574,6 @@
       "category": "Componentes",
       "price_history": [
         44.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Pokemon Pokopia SWITCH 2",
-      "url": "https://www.pccomponentes.com/pokemon-pokopia-switch-2",
-      "store": "PcComponentes",
-      "current_price": 66.99,
-      "original_price": 79.75,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11017012/1629-pokemon-pokopia-switch-2.jpg",
-      "category": "Otros",
-      "price_history": [
-        66.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18400,13 +18383,13 @@
       "name": "Portátil ASUS ExpertBook B3 B3605CCA-MB2216 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Intel Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 725.34,
-      "original_price": 863.5,
+      "current_price": 725.22,
+      "original_price": 863.36,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090451/1536-portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo-164746e0-e44c-4783-a75b-0c0d2373cb72.jpg",
       "category": "Portátiles",
       "price_history": [
-        725.34
+        725.22
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18570,13 +18553,30 @@
       "name": "Samsung Galaxy S26 5G 12GB Negro 256GB 6.3\" Versión Internacional",
       "url": "https://www.pccomponentes.com/samsung-galaxy-s26-5g-12gb-negro-256gb-6-3-version-internacional",
       "store": "PcComponentes",
-      "current_price": 717.47,
-      "original_price": 854.13,
+      "current_price": 717.36,
+      "original_price": 854.0,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1106/11063951/1199-samsung-galaxy-s26-5g-12gb-negro-256gb-63-pantalla-dynamic-amoled-19aa25a6-de7c-45e9-b80e-1fdcd4d80ebf.jpg",
       "category": "Móviles",
       "price_history": [
-        717.47
+        717.36
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet HONOR Pad X9a WiFi 11,5\" Gris 6GB 128GB Pantalla LCD",
+      "url": "https://www.pccomponentes.com/tablet-honor-pad-x9a-wifi-11-5-gris-6gb-128gb-pantalla-lcd",
+      "store": "PcComponentes",
+      "current_price": 169.9,
+      "original_price": 202.26,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10971379/1391-tablet-honor-pad-x9a-wifi-115-gris-6gb-128gb-pantalla-lcd-1337c8f7-1bdb-49f1-9bba-7d05eb32709f.jpg",
+      "category": "Otros",
+      "price_history": [
+        169.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18723,13 +18723,13 @@
       "name": "OPPO A6x 5G 6GB 256GB 6.75\" Violet Purple",
       "url": "https://www.pccomponentes.com/oppo-a6x-5g-6gb-256gb-6-75-violet-purple",
       "store": "PcComponentes",
-      "current_price": 200.26,
-      "original_price": 238.4,
+      "current_price": 215.43,
+      "original_price": 256.46,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11015193/1930-oppo-a6x-5g-6gb-256gb-675-violet-purple-review.jpg",
       "category": "Móviles",
       "price_history": [
-        200.26
+        215.43
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18975,6 +18975,23 @@
       "drop_pct": null
     },
     {
+      "name": "PC Sobremesa PC Racing Submariner Ryzen 5 5500 32GB 1TB SSD RTX 5060 Pantalla 24\"",
+      "url": "https://www.pccomponentes.com/pc-sobremesa-pc-racing-submariner-ryzen-5-5500-32gb-1tb-ssd-rtx-5060-pantalla-24",
+      "store": "PcComponentes",
+      "current_price": 1254.27,
+      "original_price": 1493.18,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10953946/1487-pc-sobremesa-pc-racing-submariner-ryzen-5-5500-32gb-1tb-ssd-rtx-5060-pantalla-24.jpg",
+      "category": "Componentes",
+      "price_history": [
+        1254.27
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil Asus ExpertBook B9 OLED B9403CVAR-PP1636 14\" Intel Core 5 120U 16GB 512GB SSD Intel Graphics",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b9-oled-b9403cvar-pp1636-14-intel-core-5-120u-16gb-512gb-ssd-intel-graphics",
       "store": "PcComponentes",
@@ -19046,13 +19063,13 @@
       "name": "Vivo V60 Lite 5G 12GB 512GB 6.77\" Rosa Pop",
       "url": "https://www.pccomponentes.com/vivo-v60-lite-5g-12gb-512gb-6-77-rosa-pop",
       "store": "PcComponentes",
-      "current_price": 308.06,
-      "original_price": 366.74,
+      "current_price": 308.01,
+      "original_price": 366.68,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10978243/1333-vivo-v60-lite-5g-12gb-512gb-677-rosa-pop-opiniones.jpg",
       "category": "Móviles",
       "price_history": [
-        308.06
+        308.01
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19301,13 +19318,13 @@
       "name": "Vivo V70 FE 5G 8GB 512GB 6.83\" Azul + Auriculares + Cargador 90W",
       "url": "https://www.pccomponentes.com/vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w",
       "store": "PcComponentes",
-      "current_price": 427.35,
-      "original_price": 508.75,
+      "current_price": 427.21,
+      "original_price": 508.58,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11046825/1275-vivo-v70-fe-5g-8gb-512gb-683-azul-auriculares-cargador-90w.jpg",
       "category": "Periféricos",
       "price_history": [
-        427.35
+        427.21
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19522,13 +19539,13 @@
       "name": "Portátil ASUS ExpertBook B5 B5605CCA 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 990.86,
-      "original_price": 1179.6,
+      "current_price": 990.69,
+      "original_price": 1179.39,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090457/1601-portatil-asus-expertbook-b5-b5605cca-16-intel-core-ultra-5-225h-16gb-512gb-ssd-arc-130t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        990.86
+        990.69
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19753,7 +19770,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 858.98,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19770,7 +19787,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 649.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19787,7 +19804,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 54.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19804,7 +19821,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19821,7 +19838,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 849.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19838,7 +19855,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19855,7 +19872,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 169.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19872,7 +19889,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 159.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19889,7 +19906,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 134.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19906,7 +19923,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 629.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -19923,7 +19940,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -20141,23 +20158,6 @@
       "category": "Portátiles",
       "price_history": [
         465.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 Plus Negro 128 GB",
-      "url": "https://www.pccomponentes.com/apple-iphone-16-plus-negro-128-gb",
-      "store": "PcComponentes",
-      "current_price": 939.0,
-      "original_price": 1104.71,
-      "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855036/1211-apple-iphone-16-plus-negro-128-gb-foto.jpg",
-      "category": "Móviles",
-      "price_history": [
-        939.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20464,23 +20464,6 @@
       "category": "Otros",
       "price_history": [
         80.66
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Logitech MX Anywhere 3S Ratón Inalámbrico Bluetooth Compacto Silencioso 8000 DPI Rosa",
-      "url": "https://www.pccomponentes.com/logitech-mx-anywhere-3s-raton-inalambrico-bluetooth-compacto-silencioso-8000-dpi-rosa",
-      "store": "PcComponentes",
-      "current_price": 75.99,
-      "original_price": 89.4,
-      "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10733408/1488-logitech-mx-anywhere-3s-raton-inalambrico-compacto-8000-dpi-rosa.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        75.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20858,7 +20841,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 54.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -20926,7 +20909,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1249.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -20943,7 +20926,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -20960,7 +20943,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 599.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -20977,7 +20960,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 59.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21028,7 +21011,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1149.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21045,7 +21028,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 299.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21093,23 +21076,6 @@
       "category": "Otros",
       "price_history": [
         114.95
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Router portátil TP-Link M7005 Wi-Fi 6 4G LTE 287 Mbps batería 12 h",
-      "url": "https://www.pccomponentes.com/router-portatil-tp-link-m7005-wi-fi-6-4g-lte-287-mbps-bateria-12-h",
-      "store": "PcComponentes",
-      "current_price": 42.99,
-      "original_price": 49.99,
-      "discount_pct": 14.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11022172/1491-router-portatil-tp-link-m7005-wi-fi-6-4g-lte-287-mbps-bateria-12-h.jpg",
-      "category": "Portátiles",
-      "price_history": [
-        42.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21712,23 +21678,6 @@
       "drop_pct": null
     },
     {
-      "name": "Refrigeración Líquida Einarex Vertex 360 RGB 360mm 3 Ventiladores RGB Espejo Infinito",
-      "url": "https://www.pccomponentes.com/refrigeracion-liquida-einarex-vertex-360-rgb-360mm-3-ventiladores-rgb-espejo-infinito",
-      "store": "PcComponentes",
-      "current_price": 84.99,
-      "original_price": 98.83,
-      "discount_pct": 14.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881499/1755-refrigeracion-liquida-einarex-vertex-360-rgb-360mm-3-ventiladores-rgb-espejo-infinito.jpg",
-      "category": "Componentes",
-      "price_history": [
-        84.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Woxter Stinger Station Sense Silla Gaming Ergonómica Tela Negra",
       "url": "https://www.pccomponentes.com/woxter-stinger-station-sense-silla-gaming-ergonomica-tela-negra",
       "store": "PcComponentes",
@@ -21844,7 +21793,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 344.47,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21861,7 +21810,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 64.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21878,7 +21827,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 190.88,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21895,7 +21844,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 399.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -21929,7 +21878,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 240.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -22477,6 +22426,23 @@
       "drop_pct": null
     },
     {
+      "name": "Epical-q Baentron Evo Intel Core Ultra 7 270k Plus, 32gb, 1tb Ssd Nvme, Rtx 5070 +  Windows 11 Pro",
+      "url": "https://www.pccomponentes.com/pc-epical-q-baentron-evo-intel-core-ultra-7-270k-plus-32gb-1tb-ssd-nvme-rtx-5070-plus-windows-11-pro",
+      "store": "PcComponentes",
+      "current_price": 2249.99,
+      "original_price": 2586.2,
+      "discount_pct": 13.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11123797/1543-epical-q-baentron-evo-intel-core-ultra-7-270k-plus-32gb-1tb-ssd-nvme-rtx-5070-windows-11-pro.jpg",
+      "category": "Componentes",
+      "price_history": [
+        2249.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Intel Core i3-12100 3.3 GHz",
       "url": "https://www.pccomponentes.com/procesador-intel-core-i3-12100-3-3-ghz",
       "store": "PcComponentes",
@@ -23004,23 +22970,6 @@
       "drop_pct": null
     },
     {
-      "name": "Ordenador Portátil Lenovo IdeaPad Slim 3, Ryzen 7 5825U, 16GB, 1TB SSD, FHD, 15,6 - 39,62 cm, W11 con Maletín y Ratón",
-      "url": "https://www.carrefour.es/ordenador-portatil-lenovo-ideapad-slim-3-ryzen-7-5825u-16gb-1tb-ssd-fhd-156-3962-cm-w11-con-maletin-y-raton/VC4A-30700409/p",
-      "store": "Carrefour",
-      "current_price": 660.37,
-      "original_price": 759.0,
-      "discount_pct": 12.99,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597459_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        660.37
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "EZVIZ HP2 Mirilla Inteligente Inalámbrica Plata",
       "url": "https://www.pccomponentes.com/ezviz-hp2-mirilla-inteligente-inalambrica-plata",
       "store": "PcComponentes",
@@ -23048,6 +22997,23 @@
       "category": "Componentes",
       "price_history": [
         45.73
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil Lenovo IdeaPad Slim 3, Ryzen 7 5825U, 16GB, 1TB SSD, FHD, 15,6 - 39,62 cm, W11 con Maletín y Ratón",
+      "url": "https://www.carrefour.es/ordenador-portatil-lenovo-ideapad-slim-3-ryzen-7-5825u-16gb-1tb-ssd-fhd-156-3962-cm-w11-con-maletin-y-raton/VC4A-30700409/p",
+      "store": "Carrefour",
+      "current_price": 660.37,
+      "original_price": 759.0,
+      "discount_pct": 12.99,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/597459_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        660.37
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23085,7 +23051,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 479.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23102,7 +23068,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23119,7 +23085,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23136,7 +23102,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 69.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23153,7 +23119,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 219.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23187,7 +23153,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 299.89,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23204,7 +23170,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 109.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -23871,23 +23837,6 @@
       "drop_pct": null
     },
     {
-      "name": "Epical-Q Galeunxer AMD Ryzen 5 9600X, 32GB, 1TB SSD NVMe, RX 9060XT 16GB + Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-epical-q-galeunxer-amd-ryzen-5-9600x-32gb-1tb-ssd-nvme-rx-9060xt-16gb-windows-11-pro",
-      "store": "PcComponentes",
-      "current_price": 1699.99,
-      "original_price": 1931.81,
-      "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11018820/1422-epical-q-galeunxer-amd-ryzen-5-9600x-32gb-1tb-ssd-nvme-rx-9060xt-16gb-windows-11-pro.jpg",
-      "category": "Componentes",
-      "price_history": [
-        1699.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Epical-Q Mortimer AMD Ryzen 5 5500/16GB/1TB SSD/RTX 4060",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-epical-q-mortimer-amd-ryzen-5-5500-16gb-1tb-ssd-rtx-4060",
       "store": "PcComponentes",
@@ -24122,7 +24071,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 184.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24139,7 +24088,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 749.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24153,23 +24102,6 @@
       "category": "TV y Audio",
       "price_history": [
         749.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 749.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Tarjeta de Memoria Intenso 32GB",
-      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
-      "store": "Carrefour",
-      "current_price": 12.7,
-      "original_price": 14.35,
-      "discount_pct": 11.5,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        12.7
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24190,7 +24122,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 799.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24207,7 +24139,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24224,7 +24156,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 39.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24241,7 +24173,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24258,7 +24190,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24292,7 +24224,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 149.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24309,7 +24241,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 369.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24326,7 +24258,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 79.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24343,7 +24275,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1199.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -24942,6 +24874,23 @@
       "drop_pct": null
     },
     {
+      "name": "Refrigeración Líquida NZXT Kraken Plus 360 360mm 3 Ventiladores TFT Display Negra",
+      "url": "https://www.pccomponentes.com/refrigeracion-liquida-nzxt-kraken-plus-360-360mm-3-ventiladores-tft-display-negra",
+      "store": "PcComponentes",
+      "current_price": 167.95,
+      "original_price": 188.71,
+      "discount_pct": 11.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10947281/1744-refrigeracion-liquida-nzxt-kraken-plus-360-360mm-3-ventiladores-tft-display-negra-comprar.jpg",
+      "category": "Componentes",
+      "price_history": [
+        167.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Sony Alpha 7 IV 33MP WiFi/Bluetooth + Objetivo Sony 28-70mm F3.5-5.6",
       "url": "https://www.pccomponentes.com/sony-alpha-7-iv-33mp-wifi-bluetooth-objetivo-sony-28-70mm-f35-56",
       "store": "PcComponentes",
@@ -24989,7 +24938,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 699.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25006,7 +24955,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 269.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25023,7 +24972,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 449.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25057,7 +25006,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1579.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25074,7 +25023,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1579.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25091,41 +25040,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 609.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando inalámbrico Arcade Stick para Neo Geo AES+ - Negro",
-      "url": "https://www.carrefour.es/mando-inalambrico-arcade-stick-para-neo-geo-aes-negro/VC4A-33587860/p",
-      "store": "Carrefour",
-      "current_price": 89.99,
-      "original_price": 99.99,
-      "discount_pct": 10.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721887_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        89.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 89.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Mando inalámbrico Gamepad para Neo-Geo AES+ - Negro",
-      "url": "https://www.carrefour.es/mando-inalambrico-gamepad-para-neo-geo-aes-negro/VC4A-33587858/p",
-      "store": "Carrefour",
-      "current_price": 44.99,
-      "original_price": 49.99,
-      "discount_pct": 10.0,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721858_00_1.jpg",
-      "category": "Gaming",
-      "price_history": [
-        44.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 44.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25156,23 +25071,6 @@
       "category": "Periféricos",
       "price_history": [
         179.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "HyperX Cloud III S Wireless Auriculares Gaming Inalámbricos Bluetooth / 2.4GHz Multiplataforma Negros",
-      "url": "https://www.pccomponentes.com/hyperx-cloud-iii-s-wireless-auriculares-gaming-inalambricos-bluetooth-2-4ghz-multiplataforma-negros",
-      "store": "PcComponentes",
-      "current_price": 133.98,
-      "original_price": 148.87,
-      "discount_pct": 10.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1090/10901061/1622-hyperx-cloud-iii-s-wireless-auriculares-gaming-inalambricos-bluetooth-24ghz-multiplataforma-negros.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        133.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25333,23 +25231,6 @@
       "drop_pct": null
     },
     {
-      "name": "Xiaomi Watch S5 Bluetooth GPS NFC 46mm Plata Correa Caucho 5ATM Pulsómetro",
-      "url": "https://www.pccomponentes.com/xiaomi-watch-s5-bluetooth-gps-nfc-46mm-plata-correa-caucho-5atm-pulsometro",
-      "store": "PcComponentes",
-      "current_price": 160.99,
-      "original_price": 178.88,
-      "discount_pct": 10.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1111/11115482/1183-xiaomi-watch-s5-bluetooth-gps-nfc-46mm-plata-correa-caucho-5atm-pulsometro.jpg",
-      "category": "Otros",
-      "price_history": [
-        160.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Logitech Signature Slim MK950 Combo Teclado + Ratón Inalámbrico Grafito",
       "url": "https://www.pccomponentes.com/logitech-signature-slim-mk950-combo-teclado-plus-raton-inalambrico-grafito",
       "store": "PcComponentes",
@@ -25479,23 +25360,6 @@
       "category": "Componentes",
       "price_history": [
         1799.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "MSI SPATIUM M560 2TB Disco SSD 10300MB/s NVMe PCIe 5.0 M.2 Gen5 3D NAND",
-      "url": "https://www.pccomponentes.com/disco-duro-msi-spatium-m560-2tb-disco-ssd-10300mb-s-nvme-pcie-5-0-m-2-gen5-3d-nand",
-      "store": "PcComponentes",
-      "current_price": 316.14,
-      "original_price": 351.27,
-      "discount_pct": 10.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867687/1474-msi-spatium-m560-2tb-disco-ssd-10300mb-s-nvme-pcie-50-m2-gen5-3d-nand.jpg",
-      "category": "Componentes",
-      "price_history": [
-        316.14
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25860,6 +25724,40 @@
       "drop_pct": null
     },
     {
+      "name": "Mando inalámbrico Arcade Stick para Neo Geo AES+ - Negro",
+      "url": "https://www.carrefour.es/mando-inalambrico-arcade-stick-para-neo-geo-aes-negro/VC4A-33587860/p",
+      "store": "Carrefour",
+      "current_price": 89.99,
+      "original_price": 99.99,
+      "discount_pct": 10.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721887_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        89.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Mando inalámbrico Gamepad para Neo-Geo AES+ - Negro",
+      "url": "https://www.carrefour.es/mando-inalambrico-gamepad-para-neo-geo-aes-negro/VC4A-33587858/p",
+      "store": "Carrefour",
+      "current_price": 44.99,
+      "original_price": 49.99,
+      "discount_pct": 10.0,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/721858_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        44.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Ratón Logitech inalámbrico 1000 DPI Dark Silver ambidiestro 5 botones rueda",
       "url": "https://www.pccomponentes.com/raton-logitech-inalambrico-1000-dpi-dark-silver-ambidiestro-5-botones-rueda",
       "store": "PcComponentes",
@@ -25907,8 +25805,8 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 298.53,
-      "drop_pct": 0.02
+      "prev_price": null,
+      "drop_pct": null
     },
     {
       "name": "Consola PlayStation 5 Digital 825GB - Blanco",
@@ -25924,7 +25822,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 545.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25941,7 +25839,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 499.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25958,7 +25856,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1618.85,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25975,7 +25873,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 129.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -25992,7 +25890,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26009,7 +25907,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 209.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26489,23 +26387,6 @@
       "drop_pct": null
     },
     {
-      "name": "Monitor Samsung ViewFinity S7 S70D 37\" UltraHD 4K 60Hz VA Plano HDR10 Tiempo de respuesta 5 ms",
-      "url": "https://www.pccomponentes.com/monitor-samsung-viewfinity-s7-s70d-37-ultrahd-4k-60hz-va-plano-hdr10-tiempo-de-respuesta-5-ms",
-      "store": "PcComponentes",
-      "current_price": 377.11,
-      "original_price": 414.41,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10991253/1487-monitor-samsung-viewfinity-s7-s70d-37-ultrahd-4k-60hz-va-plano-hdr10-tiempo-de-respuesta-5-ms-3270ac5d-5445-438d-91b4-b25f21c48091.jpg",
-      "category": "Monitores",
-      "price_history": [
-        377.11
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Motorola Moto G06 4G 4GB 64GB 6.88\" Azul",
       "url": "https://www.pccomponentes.com/motorola-moto-g06-4g-4gb-64gb-688-azul",
       "store": "PcComponentes",
@@ -26829,23 +26710,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smartwatch Google Pixel Watch 3 WiFi GPS NFC AMOLED 45 mm Negro con extras fitness",
-      "url": "https://www.pccomponentes.com/smartwatch-google-pixel-watch-3-wifi-gps-nfc-amoled-45-mm-negro-con-extras-fitness",
-      "store": "PcComponentes",
-      "current_price": 407.0,
-      "original_price": 447.25,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10951178/1336-smartwatch-google-pixel-watch-3-wifi-gps-nfc-amoled-45-mm-negro-con-extras-fitness.jpg",
-      "category": "Móviles",
-      "price_history": [
-        407.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Aspiradora trineo sin bolsa Taurus Homeland Cyclone Animal 800W Filtro HEPA Mini Turbo Brush",
       "url": "https://www.pccomponentes.com/aspiradora-trineo-sin-bolsa-taurus-homeland-cyclone-animal-800w-filtro-hepa-mini-turbo-brush",
       "store": "PcComponentes",
@@ -26876,7 +26740,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 755.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26893,7 +26757,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 729.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26927,7 +26791,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 449.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26944,7 +26808,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1405.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26961,7 +26825,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 839.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -26978,24 +26842,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 27.45,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 256GB SSD GPU 5 núcleos macOS Índigo",
-      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo",
-      "store": "PcComponentes",
-      "current_price": 729.0,
-      "original_price": 792.39,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026359/1489-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo.jpg",
-      "category": "Portátiles",
-      "price_history": [
-        729.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 729.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27012,7 +26859,24 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 549.0,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 256GB SSD GPU 5 núcleos macOS Índigo",
+      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo",
+      "store": "PcComponentes",
+      "current_price": 729.0,
+      "original_price": 792.39,
+      "discount_pct": 8.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026359/1489-apple-macbook-neo-13-apple-a18-pro-8gb-256gb-ssd-gpu-5-nucleos-macos-indigo.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        729.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27029,7 +26893,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 54.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27046,7 +26910,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 729.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27060,40 +26924,6 @@
       "category": "Portátiles",
       "price_history": [
         729.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 729.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Brother MFC-L2800DW Multifunción Láser Monocromo WiFi Dúplex Fax",
-      "url": "https://www.pccomponentes.com/brother-mfc-l2800dw-multifuncion-laser-monocromo-wifi-duplex-fax",
-      "store": "PcComponentes",
-      "current_price": 219.0,
-      "original_price": 238.04,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10795594/1791-brother-mfc-l2800dw-multifuncion-laser-monocromo-wifi-duplex-fax-opiniones.jpg",
-      "category": "Otros",
-      "price_history": [
-        219.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 219.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Auriculares Apple AirPods Max 2 inalámbricos Bluetooth con ANC USB-C Azules",
-      "url": "https://www.pccomponentes.com/apple-airpods-max-2-azul",
-      "store": "PcComponentes",
-      "current_price": 549.0,
-      "original_price": 596.74,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11031535/1328-auriculares-apple-airpods-max-2-inalambricos-bluetooth-con-anc-usb-c-azules.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        549.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27111,6 +26941,23 @@
       "category": "Monitores",
       "price_history": [
         189.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Brother MFC-L2800DW Multifunción Láser Monocromo WiFi Dúplex Fax",
+      "url": "https://www.pccomponentes.com/brother-mfc-l2800dw-multifuncion-laser-monocromo-wifi-duplex-fax",
+      "store": "PcComponentes",
+      "current_price": 219.0,
+      "original_price": 238.04,
+      "discount_pct": 8.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10795594/1791-brother-mfc-l2800dw-multifuncion-laser-monocromo-wifi-duplex-fax-opiniones.jpg",
+      "category": "Otros",
+      "price_history": [
+        219.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27543,6 +27390,40 @@
       "drop_pct": null
     },
     {
+      "name": "ELDEN RING TARNISHED EDITION SWITCH 2",
+      "url": "https://www.pccomponentes.com/elden-ring-tarnished-edition-switch-2",
+      "store": "PcComponentes",
+      "current_price": 74.99,
+      "original_price": 81.51,
+      "discount_pct": 8.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1110/11102868/1695-elden-ring-tarnished-edition-switch-2-caracteristicas.jpg",
+      "category": "Otros",
+      "price_history": [
+        74.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Elgato Stream Deck Neo Black Controlador moderno de videojuego para gamers - Teclas de acceso rápido",
+      "url": "https://www.pccomponentes.com/elgato-stream-deck-neo-black-controlador-moderno-de-videojuego-para-gamers-teclas-de-acceso-rapido",
+      "store": "PcComponentes",
+      "current_price": 91.98,
+      "original_price": 99.98,
+      "discount_pct": 8.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10948336/1794-elgato-stream-deck-neo-black-controlador-moderno-de-videojuego-para-gamers-teclas-de-acceso-rapido-opiniones.jpg",
+      "category": "Gaming",
+      "price_history": [
+        91.98
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Ratón HP 700 Inalámbrico Recargable RF Bluetooth 6000 DPI Negro 8 Botones",
       "url": "https://www.pccomponentes.com/raton-hp-700-inalambrico-recargable-rf-bluetooth-6000-dpi-negro-8-botones",
       "store": "PcComponentes",
@@ -27573,7 +27454,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 349.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27590,7 +27471,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27607,7 +27488,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27624,7 +27505,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27641,7 +27522,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27675,7 +27556,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 389.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27692,7 +27573,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 649.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27709,7 +27590,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 649.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27726,7 +27607,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27743,7 +27624,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 829.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27760,7 +27641,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 187.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27777,7 +27658,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.57,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27794,7 +27675,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 46.22,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -27842,23 +27723,6 @@
       "category": "Móviles",
       "price_history": [
         1199.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPad Pro 13\" WiFi 512GB Chip M5 con Vidrio Estándar Ultra Retina XDR Negro Espacial",
-      "url": "https://www.pccomponentes.com/apple-ipad-pro-13-wifi-512gb-chip-m5-con-vidrio-estandar-ultra-retina-xdr-negro-espacial",
-      "store": "PcComponentes",
-      "current_price": 1748.99,
-      "original_price": 1880.63,
-      "discount_pct": 7.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10966834/1767-apple-ipad-pro-13-wifi-512gb-12gb-m5-ultra-retina-xdr-negro-espacial-20bde209-cb94-424a-863f-dc6ae0ba9097.jpg",
-      "category": "Otros",
-      "price_history": [
-        1748.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28223,6 +28087,40 @@
       "drop_pct": null
     },
     {
+      "name": "Cámara IP TP-Link TC92 Kit 4K Visión Nocturna Exterior Detección IA Audio Bidireccional",
+      "url": "https://www.pccomponentes.com/camara-ip-tp-link-tc92-4k-vision-nocturna-exterior-deteccion-ia-audio-bidireccional",
+      "store": "PcComponentes",
+      "current_price": 129.99,
+      "original_price": 139.77,
+      "discount_pct": 7.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11021041/1292-camara-ip-tp-link-tc92-kit-4k-vision-nocturna-exterior-deteccion-ia-audio-bidireccional.jpg",
+      "category": "Otros",
+      "price_history": [
+        129.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Disco Duro Western Digital 12TB HDD 7200rpm Pro NAS 267MB/s Red Pro + 512MB Caché",
+      "url": "https://www.pccomponentes.com/disco-duro-western-digital-12tb-hdd-7200rpm-pro-nas-267mb-s-red-pro-plus-512mb-cache",
+      "store": "PcComponentes",
+      "current_price": 642.95,
+      "original_price": 691.34,
+      "discount_pct": 7.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890547/1829-disco-duro-western-digital-12tb-hdd-7200rpm-pro-nas-267mb-s-red-pro-512mb-cache.jpg",
+      "category": "Componentes",
+      "price_history": [
+        642.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Altavoces Creative Estéreo 2.0 USB-C Bluetooth 10W Blanco para PC y móvil",
       "url": "https://www.pccomponentes.com/altavoces-creative-estereo-2-0-usb-c-bluetooth-10w-blanco-para-pc-y-movil",
       "store": "PcComponentes",
@@ -28270,7 +28168,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 395.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -28287,7 +28185,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -28304,24 +28202,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 74.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPad, 11'' -  27,94 cms, Liquid Retina, Chip A16, 128 GB, Wifi, iPadOS 18 - Plata",
-      "url": "https://www.carrefour.es/apple-ipad-11-2794-cms-liquid-retina-chip-a16-128-gb-wifi-ipados-18-plata/VC4A-30097164/p",
-      "store": "Carrefour",
-      "current_price": 469.0,
-      "original_price": 499.0,
-      "discount_pct": 6.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/569320_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        469.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 469.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -28376,6 +28257,40 @@
       "drop_pct": null
     },
     {
+      "name": "Cougar Duoface RGB Cristal Templado USB 3.0 Negra",
+      "url": "https://www.pccomponentes.com/torre-pc-cougar-duoface-rgb-cristal-templado-usb-3-0-negra",
+      "store": "PcComponentes",
+      "current_price": 54.45,
+      "original_price": 57.93,
+      "discount_pct": 6.01,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1064/10642932/1694-cougar-duoface-rgb-cristal-templado-usb-30-negra.jpg",
+      "category": "Otros",
+      "price_history": [
+        54.45
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Apple iPad, 11'' -  27,94 cms, Liquid Retina, Chip A16, 128 GB, Wifi, iPadOS 18 - Plata",
+      "url": "https://www.carrefour.es/apple-ipad-11-2794-cms-liquid-retina-chip-a16-128-gb-wifi-ipados-18-plata/VC4A-30097164/p",
+      "store": "Carrefour",
+      "current_price": 469.0,
+      "original_price": 499.0,
+      "discount_pct": 6.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/569320_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        469.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Apple MacBook Air 13\" M5 16GB 512GB SSD GPU 10 núcleos macOS Medianoche",
       "url": "https://www.pccomponentes.com/portatil-apple-macbook-air-13-m5-16gb-512gb-ssd-gpu-10-nucleos-macos-medianoche",
       "store": "PcComponentes",
@@ -28389,7 +28304,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1439.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -28406,20 +28321,20 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 1439.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
-      "name": "Apple iPad 2025 11\" WiFi 128GB Plata",
-      "url": "https://www.pccomponentes.com/apple-ipad-2025-11-wifi-128gb-plata",
+      "name": "Apple iPad Pro 13\" WiFi 256GB Chip M5 con Vidrio Estándar Ultra Retina XDR Negro Espacial",
+      "url": "https://www.pccomponentes.com/apple-ipad-pro-13-wifi-256gb-chip-m5-con-vidrio-estandar-ultra-retina-xdr-negro-espacial",
       "store": "PcComponentes",
-      "current_price": 469.0,
-      "original_price": 498.94,
+      "current_price": 1539.0,
+      "original_price": 1637.23,
       "discount_pct": 6.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10872187/1775-apple-ipad-2025-11-wifi-128gb-plata.jpg",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10966832/1626-apple-ipad-pro-13-wifi-256gb-chip-m5-ultra-retina-xdr-negro-espacial.jpg",
       "category": "Otros",
       "price_history": [
-        469.0
+        1539.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28971,6 +28886,23 @@
       "drop_pct": null
     },
     {
+      "name": "Rivacase Borneo 7861 Mochila Gaming Eco para Portátil hasta 17.3\" Azul Oscuro",
+      "url": "https://www.pccomponentes.com/rivacase-borneo-7861-mochila-gaming-eco-para-portatil-hasta-17-3-azul-oscuro",
+      "store": "PcComponentes",
+      "current_price": 65.64,
+      "original_price": 69.83,
+      "discount_pct": 6.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1070/10707366/1853-rivacase-borneo-mochila-gaming-eco-para-portatil-hasta-173-azul-oscuro.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        65.64
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Toshiba Canvio Ready 2.5\" 1TB USB 3.1 Negro",
       "url": "https://www.pccomponentes.com/disco-duro-toshiba-canvio-ready-2-5-1tb-usb-3-1-negro",
       "store": "PcComponentes",
@@ -29103,7 +29035,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 356.81,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29120,7 +29052,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 201.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29137,24 +29069,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 16.03,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV OLED 55\" (139,7 cm) LG 55C54LA con IA, 4K UHD, 144 Hz, Procesador Inteligente a9 AI Processor, ",
-      "url": "https://www.carrefour.es/smart-tv-oled-55-1397-cm-lg-55c54la-con-ia-4k-uhd-144-hz-procesador-inteligente-a9-ai-processor/VC4A-30495020/p",
-      "store": "Carrefour",
-      "current_price": 949.0,
-      "original_price": 999.0,
-      "discount_pct": 5.01,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587621_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        949.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 949.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29192,6 +29107,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV OLED 55\" (139,7 cm) LG 55C54LA con IA, 4K UHD, 144 Hz, Procesador Inteligente a9 AI Processor, ",
+      "url": "https://www.carrefour.es/smart-tv-oled-55-1397-cm-lg-55c54la-con-ia-4k-uhd-144-hz-procesador-inteligente-a9-ai-processor/VC4A-30495020/p",
+      "store": "Carrefour",
+      "current_price": 949.0,
+      "original_price": 999.0,
+      "discount_pct": 5.01,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/587621_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        949.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "WD BLACK SN7100 1TB Disco SSD 7250MB/s NVMe PCIe 4.0 M.2 Gen4 TLC 3D NAND",
       "url": "https://www.pccomponentes.com/disco-duro-wd-black-sn7100-1tb-disco-ssd-7250mb-s-nvme-pcie-4-0-m-2-gen4-tlc-3d-nand",
       "store": "PcComponentes",
@@ -29205,7 +29137,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 180.95,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29222,7 +29154,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 2109.0,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29239,7 +29171,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 498.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29256,41 +29188,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 489.9,
-      "drop_pct": null
-    },
-    {
-      "name": "Steelseries Rival 3 Gen 2 Wireless + Bluetooth - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/steelseries-rival-3-gen-2-wireless-bluetooth-raton-gaming/v1ikxx",
-      "store": "GAME",
-      "current_price": 37.99,
-      "original_price": 39.99,
-      "discount_pct": 5.0,
-      "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IKXX.png",
-      "category": "Gaming",
-      "price_history": [
-        37.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 37.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Steelseries Aerox 3 USB C Optico 8500 DPI Ultralight - Raton Gaming",
-      "url": "https://www.game.es/accesorios/raton/pc-gaming/steelseries-aerox-3-usb-c-optico-8500-dpi-ultralight-raton-gaming/v1fkch",
-      "store": "GAME",
-      "current_price": 37.99,
-      "original_price": 39.99,
-      "discount_pct": 5.0,
-      "image_url": "https://media.game.es/COVERV2/3D_L/V1F/V1FKCH.png",
-      "category": "Gaming",
-      "price_history": [
-        37.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 37.99,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29736,6 +29634,40 @@
       "drop_pct": null
     },
     {
+      "name": "Steelseries Rival 3 Gen 2 Wireless + Bluetooth - Raton Gaming",
+      "url": "https://www.game.es/accesorios/raton/pc-gaming/steelseries-rival-3-gen-2-wireless-bluetooth-raton-gaming/v1ikxx",
+      "store": "GAME",
+      "current_price": 37.99,
+      "original_price": 39.99,
+      "discount_pct": 5.0,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IKXX.png",
+      "category": "Gaming",
+      "price_history": [
+        37.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Steelseries Aerox 3 USB C Optico 8500 DPI Ultralight - Raton Gaming",
+      "url": "https://www.game.es/accesorios/raton/pc-gaming/steelseries-aerox-3-usb-c-optico-8500-dpi-ultralight-raton-gaming/v1fkch",
+      "store": "GAME",
+      "current_price": 37.99,
+      "original_price": 39.99,
+      "discount_pct": 5.0,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V1F/V1FKCH.png",
+      "category": "Gaming",
+      "price_history": [
+        37.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Orbegozo DA 5525 Dispensador de agua 7 L Blanco",
       "url": "https://www.pccomponentes.com/orbegozo-da-5525-dispensador-de-agua-7-l-blanco",
       "store": "PcComponentes",
@@ -29804,6 +29736,23 @@
       "drop_pct": null
     },
     {
+      "name": "Tarjeta de Memoria Intenso 32GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
+      "store": "Carrefour",
+      "current_price": 12.71,
+      "original_price": 13.22,
+      "discount_pct": 3.86,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        12.71
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cartucho de Tinta HP 301 - Negro",
       "url": "https://www.carrefour.es/cartucho-de-tinta-hp-301-negro/VC4A-10654294/p",
       "store": "Carrefour",
@@ -29834,7 +29783,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 119.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29936,7 +29885,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 129.9,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -29953,7 +29902,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": 739.11,
+      "prev_price": null,
       "drop_pct": null
     },
     {
