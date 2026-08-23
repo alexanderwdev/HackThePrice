@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:04:58.144825+00:00",
+  "updated": "2026-08-23T13:27:35.240972+00:00",
   "total_products": 2010,
   "deals": [
     {
@@ -829,6 +829,23 @@
       "category": "TV y Audio",
       "price_history": [
         406.11
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Motorola Razr 50 Ultra 5G 12GB 512GB 6.9\" Melocotón",
+      "url": "https://www.pccomponentes.com/motorola-razr-50-ultra-5g-12gb-512gb-6-9-melocoton",
+      "store": "PcComponentes",
+      "current_price": 549.0,
+      "original_price": 1193.48,
+      "discount_pct": 54.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10843376/1235-motorola-razr-50-ultra-5g-12gb-512gb-69-melocoton-dee17db7-9478-43d1-a19d-a2774a7d372c.jpg",
+      "category": "Móviles",
+      "price_history": [
+        549.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -2172,23 +2189,6 @@
       "category": "Periféricos",
       "price_history": [
         49.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Lian-Li Lancool 216 RGB Cristal Templado USB 3.0 Negra",
-      "url": "https://www.pccomponentes.com/torre-pc-lian-li-lancool-216-rgb-cristal-templado-usb-3-0-negra",
-      "store": "PcComponentes",
-      "current_price": 83.05,
-      "original_price": 148.3,
-      "discount_pct": 44.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10663741/1925-lian-li-lancool-216-rgb-cristal-templado-usb-30-negra.jpg",
-      "category": "Otros",
-      "price_history": [
-        83.05
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3838,23 +3838,6 @@
       "category": "Periféricos",
       "price_history": [
         53.45
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
-      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
-      "store": "PcComponentes",
-      "current_price": 34.99,
-      "original_price": 57.36,
-      "discount_pct": 39.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6378,23 +6361,6 @@
       "drop_pct": null
     },
     {
-      "name": "Lavadora Bosch Serie 6 WGG254Z5ES 10 kg Carga Frontal 1400 rpm A Blanca Motor EcoSilence Pausa+Carga Higiene Plus",
-      "url": "https://www.pccomponentes.com/lavadora-bosch-serie-6-wgg254z5es-10-kg-carga-frontal-1400-rpm-a-blanca-motor-ecosilence-pausa-carga-higiene-plus",
-      "store": "PcComponentes",
-      "current_price": 515.0,
-      "original_price": 757.35,
-      "discount_pct": 32.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10955704/1160-lavadora-bosch-serie-6-wgg254z5es-10-kg-carga-frontal-1400-rpm-a-blanca-motor-ecosilence-pausa-carga-higiene-plus.jpg",
-      "category": "Hogar",
-      "price_history": [
-        515.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Apple iPhone 16 Pro Max 256GB Titanio Desierto Libre",
       "url": "https://www.pccomponentes.com/apple-iphone-16-pro-max-256gb-titanio-desierto-libre",
       "store": "PcComponentes",
@@ -6898,6 +6864,23 @@
       "category": "Otros",
       "price_history": [
         54.95
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Viewsonic TD2230 22\" LED IPS FullHD Táctil",
+      "url": "https://www.pccomponentes.com/viewsonic-td2230-22-led-ips-fullhd-tactil",
+      "store": "PcComponentes",
+      "current_price": 199.0,
+      "original_price": 288.41,
+      "discount_pct": 31.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/34/348139/1163-viewsonic-td2230-22-led-ips-fullhd-tactil.jpg",
+      "category": "Monitores",
+      "price_history": [
+        199.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9176,23 +9159,6 @@
       "category": "Otros",
       "price_history": [
         218.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "PcCom Ready Intel Core i7-14700KF / 32GB / 2TB SSD / RTX 5060 V4 / Windows 11 Home",
-      "url": "https://www.pccomponentes.com/pccom-ready-intel-core-i7-14700kf-32gb-2tb-ssd-rtx-5060-v4-windows-11-home",
-      "store": "PcComponentes",
-      "current_price": 1499.0,
-      "original_price": 2025.68,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1103/11038109/1454-pccom-ready-intel-core-i7-14700kf-32gb-2tb-ssd-rtx-5060-v4-windows-11-home.jpg",
-      "category": "Componentes",
-      "price_history": [
-        1499.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12073,23 +12039,6 @@
       "drop_pct": null
     },
     {
-      "name": "PcCom Imperial AMD Ryzen 7 5800X3D / 32GB / 2TB SSD / RTX 5070",
-      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-5800x3d-32gb-2tb-ssd-rtx-5070",
-      "store": "PcComponentes",
-      "current_price": 1729.0,
-      "original_price": 2216.67,
-      "discount_pct": 22.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1111/11118098/1644-pccom-imperial-amd-ryzen-7-5800x3d-32gb-2tb-ssd-rtx-5070-comprar.jpg",
-      "category": "Componentes",
-      "price_history": [
-        1729.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Portátil HP OmniBook 3 16-by0026ns 2K 16\" AMD Ryzen 7 160 Radeon 680M 16GB 1TB SSD FreeDOS",
       "url": "https://www.pccomponentes.com/portatil-hp-omnibook-3-16-by0026ns-2k-16-amd-ryzen-7-160-radeon-680m-16gb-1tb-ssd-freedos",
       "store": "PcComponentes",
@@ -12576,6 +12525,23 @@
       "category": "Otros",
       "price_history": [
         99.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
+      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
+      "store": "PcComponentes",
+      "current_price": 34.99,
+      "original_price": 44.86,
+      "discount_pct": 22.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -16969,16 +16935,16 @@
       "drop_pct": null
     },
     {
-      "name": "Tarjeta de Memoria Intenso 32GB",
-      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
+      "name": "Cartucho de Tinta HP 305 pack - Negro/Tricolor",
+      "url": "https://www.carrefour.es/cartucho-de-tinta-hp-305-pack-negro-tricolor/VC4A-27464223/p",
       "store": "Carrefour",
-      "current_price": 12.82,
-      "original_price": 15.38,
-      "discount_pct": 16.64,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
+      "current_price": 30.51,
+      "original_price": 36.61,
+      "discount_pct": 16.66,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/396191_00_1.jpg",
       "category": "Componentes",
       "price_history": [
-        12.82
+        30.51
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -19281,6 +19247,23 @@
       "drop_pct": null
     },
     {
+      "name": "Motorola Moto G75 5G 8GB 256GB 6.78\" Gris",
+      "url": "https://www.pccomponentes.com/motorola-moto-g75-5g-8gb-256gb-6-78-gris",
+      "store": "PcComponentes",
+      "current_price": 296.83,
+      "original_price": 353.37,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10876839/1615-motorola-moto-g75-5g-8gb-256gb-678-gris.jpg",
+      "category": "Móviles",
+      "price_history": [
+        296.83
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil Dell Pro 15 Essential PV15250 15,6\" Intel Core i7-1355U 16GB Intel UHD Graphics 1TB SSD Windows 11 Pro Pantalla antirreflejo",
       "url": "https://www.pccomponentes.com/portatil-dell-pro-15-essential-pv15250-156-intel-core-i7-1355u-16gb-intel-uhd-graphics-1tb-ssd-windows-11-pro-pantalla-antirreflejo",
       "store": "PcComponentes",
@@ -19342,6 +19325,23 @@
       "category": "Móviles",
       "price_history": [
         190.03
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tarjeta de Memoria Intenso 32GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
+      "store": "Carrefour",
+      "current_price": 12.81,
+      "original_price": 15.24,
+      "discount_pct": 15.94,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        12.81
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23616,23 +23616,6 @@
       "drop_pct": null
     },
     {
-      "name": "Epical-Q Galeunxer AMD Ryzen 5 9600X, 32GB, 1TB SSD NVMe, RX 9060XT 16GB + Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-epical-q-galeunxer-amd-ryzen-5-9600x-32gb-1tb-ssd-nvme-rx-9060xt-16gb-windows-11-pro",
-      "store": "PcComponentes",
-      "current_price": 1699.99,
-      "original_price": 1931.81,
-      "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11018820/1422-epical-q-galeunxer-amd-ryzen-5-9600x-32gb-1tb-ssd-nvme-rx-9060xt-16gb-windows-11-pro.jpg",
-      "category": "Componentes",
-      "price_history": [
-        1699.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Epical-Q Little Amont AMD Ryzen 5 4500/16GB/500GB SSD/RTX 3050",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-epical-q-little-amont-amd-ryzen-5-4500-16gb-500gb-ssd-rtx-3050",
       "store": "PcComponentes",
@@ -23735,6 +23718,23 @@
       "drop_pct": null
     },
     {
+      "name": "PC Sobremesa Epical-Q Fantor AMD Ryzen 7 5700X 32GB 1TB SSD RTX 5070Ti Windows 11 Pro",
+      "url": "https://www.pccomponentes.com/pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro",
+      "store": "PcComponentes",
+      "current_price": 2229.99,
+      "original_price": 2534.08,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1106/11067908/1807-pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro.jpg",
+      "category": "Componentes",
+      "price_history": [
+        2229.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PC Sobremesa Epical-Q Viorux Ryzen 7 7800X3D 32GB RAM 2TB SSD RTX 5070 WiFi 7 Windows 11 Pro",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-pc-sobremesa-epical-q-viorux-ryzen-7-7800x3d-32gb-ram-2tb-ssd-rtx-5070-wifi-7-windows-11-pro",
       "store": "PcComponentes",
@@ -23762,6 +23762,23 @@
       "category": "Gaming",
       "price_history": [
         174.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Samsung Galaxy S24 Plus 5G 12GB 6.7\" Gris Marble 256GB cámara triple",
+      "url": "https://www.pccomponentes.com/samsung-galaxy-s24-plus-5g-12gb-67-gris-marble-256gb-camara-triple",
+      "store": "PcComponentes",
+      "current_price": 609.99,
+      "original_price": 693.17,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10820663/1580-samsung-galaxy-s24-plus-5g-12gb-67-gris-marble-256gb-camara-triple.jpg",
+      "category": "Móviles",
+      "price_history": [
+        609.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24738,23 +24755,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
-      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
-      "store": "Carrefour",
-      "current_price": 298.41,
-      "original_price": 334.22,
-      "discount_pct": 10.71,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        298.41
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Tablet - Lenovo Tab, WIFI, 10.1\" WUXGA, 4GB RAM, 128GB, Gris",
       "url": "https://www.mediamarkt.es/es/product/_tablet-lenovo-tab-wifi-101-wuxga-4gb-ram-128gb-gris-1603846.html",
       "store": "MediaMarkt",
@@ -25367,6 +25367,23 @@
       "drop_pct": null
     },
     {
+      "name": "Fuente de Alimentación Cooler Master 1050W 80+ Gold MWE V2 ATX3.1 Extras Protección avanzada",
+      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-cooler-master-1050w-80-plus-gold-mwe-v2-atx3-1-extras-proteccion-avanzada",
+      "store": "PcComponentes",
+      "current_price": 133.62,
+      "original_price": 148.47,
+      "discount_pct": 10.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10888337/1475-fuente-de-alimentacion-cooler-master-1050w-80-gold-mwe-v2-atx31-extras-proteccion-avanzada.jpg",
+      "category": "Componentes",
+      "price_history": [
+        133.62
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor Samsung Odyssey G7 G75F 37\" 4K UHD 165Hz VA Curvo FreeSync Premium Pro HDR600 USB-C",
       "url": "https://www.pccomponentes.com/monitor-samsung-odyssey-g7-g75f-37-4k-uhd-165hz-va-curvo-freesync-premium-pro-hdr600-usb-c",
       "store": "PcComponentes",
@@ -25615,23 +25632,6 @@
       "category": "Monitores",
       "price_history": [
         208.13
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Robot limpiacristales Ecovacs WINBOT MINI 2 EU 3000 mAh",
-      "url": "https://www.pccomponentes.com/robot-limpiacristales-ecovacs-winbot-mini-2-eu-3000-mah",
-      "store": "PcComponentes",
-      "current_price": 269.0,
-      "original_price": 298.89,
-      "discount_pct": 10.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1105/11050113/187-robot-limpiacristales-ecovacs-winbot-mini-2-eu-3000-mah.jpg",
-      "category": "Otros",
-      "price_history": [
-        269.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -26404,23 +26404,6 @@
       "drop_pct": null
     },
     {
-      "name": "Motorola Moto G06 4G 4GB 64GB 6.88\" Verde",
-      "url": "https://www.pccomponentes.com/motorola-moto-g06-4g-4gb-64gb-6-88-verde",
-      "store": "PcComponentes",
-      "current_price": 99.0,
-      "original_price": 108.79,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10979056/1843-motorola-moto-g06-4g-4gb-64gb-688-verde.jpg",
-      "category": "Móviles",
-      "price_history": [
-        99.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Motorola Moto G86 Power 5G 8GB 512GB 6.67\" Lila",
       "url": "https://www.pccomponentes.com/motorola-moto-g86-power-5g-8gb-512gb-6-67-lila",
       "store": "PcComponentes",
@@ -26550,23 +26533,6 @@
       "category": "Otros",
       "price_history": [
         236.62
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Fuente de Alimentación Cooler Master 1050W 80+ Gold MWE V2 ATX3.1 Extras Protección avanzada",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-cooler-master-1050w-80-plus-gold-mwe-v2-atx3-1-extras-proteccion-avanzada",
-      "store": "PcComponentes",
-      "current_price": 133.68,
-      "original_price": 146.9,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10888337/1475-fuente-de-alimentacion-cooler-master-1050w-80-gold-mwe-v2-atx31-extras-proteccion-avanzada.jpg",
-      "category": "Componentes",
-      "price_history": [
-        133.68
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27801,13 +27767,13 @@
       "name": "Auriculares Poly inalámbricos Bluetooth 5.1 con Cancelación de Ruido y Micrófono Boom",
       "url": "https://www.pccomponentes.com/auriculares-poly-inalambricos-bluetooth-5-1-con-cancelacion-de-ruido-y-microfono-boom",
       "store": "PcComponentes",
-      "current_price": 150.76,
-      "original_price": 162.11,
+      "current_price": 150.7,
+      "original_price": 162.04,
       "discount_pct": 7.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890115/1808-auriculares-poly-inalambricos-bluetooth-51-con-cancelacion-de-ruido-y-microfono-boom.jpg",
       "category": "Periféricos",
       "price_history": [
-        150.76
+        150.7
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28988,23 +28954,6 @@
       "drop_pct": null
     },
     {
-      "name": "Rivacase Borneo 7861 Mochila Gaming Eco para Portátil hasta 17.3\" Azul Oscuro",
-      "url": "https://www.pccomponentes.com/rivacase-borneo-7861-mochila-gaming-eco-para-portatil-hasta-17-3-azul-oscuro",
-      "store": "PcComponentes",
-      "current_price": 65.64,
-      "original_price": 69.83,
-      "discount_pct": 6.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1070/10707366/1853-rivacase-borneo-mochila-gaming-eco-para-portatil-hasta-173-azul-oscuro.jpg",
-      "category": "Portátiles",
-      "price_history": [
-        65.64
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Xiaomi REDMI Note 15 4G 8GB 128GB 6.77\" Verde Bosque",
       "url": "https://www.pccomponentes.com/xiaomi-redmi-note-15-4g-8gb-128gb-677-verde-bosque",
       "store": "PcComponentes",
@@ -29746,6 +29695,23 @@
       "category": "Componentes",
       "price_history": [
         28.4
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
+      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
+      "store": "Carrefour",
+      "current_price": 298.42,
+      "original_price": 313.34,
+      "discount_pct": 4.76,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        298.42
       ],
       "history_days": 1,
       "is_lowest": true,
