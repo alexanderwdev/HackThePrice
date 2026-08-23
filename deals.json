@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:31:02.323725+00:00",
+  "updated": "2026-08-23T23:52:11.056685+00:00",
   "total_products": 2010,
   "deals": [
     {
@@ -2196,23 +2196,6 @@
       "drop_pct": null
     },
     {
-      "name": "Philips L'Or Barista Sublime Cafetera de Cápsulas Satín Blanca",
-      "url": "https://www.pccomponentes.com/philips-l-or-barista-sublime-cafetera-de-capsulas-satin-blanca",
-      "store": "PcComponentes",
-      "current_price": 66.99,
-      "original_price": 119.62,
-      "discount_pct": 44.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/75/754809/144-philips-lor-barista-sublime-cafetera-de-capsulas-satin-blanca.jpg",
-      "category": "Hogar",
-      "price_history": [
-        66.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Auriculares JBL Wave Flex 2 inalámbricos Bluetooth True Wireless con micrófono y Pure Bass negros",
       "url": "https://www.pccomponentes.com/auriculares-jbl-wave-flex-2-inalambricos-bluetooth-true-wireless-con-microfono-y-pure-bass-negros",
       "store": "PcComponentes",
@@ -2644,7 +2627,7 @@
       "current_price": 299.95,
       "original_price": 519.95,
       "discount_pct": 42.31,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1787526776",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1787529068",
       "category": "Portátiles",
       "price_history": [
         299.95
@@ -3709,23 +3692,6 @@
       "drop_pct": null
     },
     {
-      "name": "TV Samsung Crystal 4K AI LED TU65U8075HUXXC 65\" 4K UltraHD 50Hz Smart TV Tizen HDR10",
-      "url": "https://www.pccomponentes.com/tv-samsung-crystal-4k-ai-led-tu65u8075huxxc-65-4k-ultrahd-50hz-smart-tv-tizen-hdr10",
-      "store": "PcComponentes",
-      "current_price": 484.99,
-      "original_price": 795.07,
-      "discount_pct": 39.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1116/11164021/1421-tv-samsung-crystal-4k-ai-led-tu65u8075huxxc-65-4k-ultrahd-50hz-smart-tv-tizen-hdr10.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        484.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "LG QNED AI 43QNED80A6A 43\" QNED 4K Ultra HD HDR Smart TV WebOS",
       "url": "https://www.pccomponentes.com/lg-qned-ai-43qned80a6a-43-qned-4k-ultra-hd-hdr-smart-tv-webos",
       "store": "PcComponentes",
@@ -4712,6 +4678,23 @@
       "drop_pct": null
     },
     {
+      "name": "PcCom Imperial AMD Ryzen 7 5800X / 32GB / 2TB M.2 SSD / RTX 5070",
+      "url": "https://www.pccomponentes.com/pccom-imperial-amd-ryzen-7-5800x-32gb-2tb-m-2-ssd-rtx-5070",
+      "store": "PcComponentes",
+      "current_price": 1619.0,
+      "original_price": 2529.69,
+      "discount_pct": 36.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11027737/1437-pccom-imperial-amd-ryzen-7-5800x-32gb-2tb-m2-ssd-rtx-5070-comprar.jpg",
+      "category": "Componentes",
+      "price_history": [
+        1619.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Philips Evnia 32M2N8900/00 31.5\" QD-OLED UltraHD 4K 240Hz 0.03ms HDR 400",
       "url": "https://www.pccomponentes.com/monitor-philips-evnia-32m2n8900-00-31-5-qd-oled-ultrahd-4k-240hz-0-03ms-hdr-400",
       "store": "PcComponentes",
@@ -5062,6 +5045,23 @@
       "category": "Monitores",
       "price_history": [
         219.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "TV Samsung Crystal 4K AI LED TU65U8075HUXXC 65\" 4K UltraHD 50Hz Smart TV Tizen HDR10",
+      "url": "https://www.pccomponentes.com/tv-samsung-crystal-4k-ai-led-tu65u8075huxxc-65-4k-ultrahd-50hz-smart-tv-tizen-hdr10",
+      "store": "PcComponentes",
+      "current_price": 519.01,
+      "original_price": 798.48,
+      "discount_pct": 35.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1116/11164021/1421-tv-samsung-crystal-4k-ai-led-tu65u8075huxxc-65-4k-ultrahd-50hz-smart-tv-tizen-hdr10.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        519.01
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6021,6 +6021,23 @@
       "drop_pct": null
     },
     {
+      "name": "Owlotech Executive Mesa de Escritorio 100x60cm Negra",
+      "url": "https://www.pccomponentes.com/owlotech-executive-mesa-de-escritorio-100x60cm-negra",
+      "store": "PcComponentes",
+      "current_price": 59.99,
+      "original_price": 89.54,
+      "discount_pct": 33.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10813250/1179-owlotech-executive-mesa-de-escritorio-100x60cm-negra-review.jpg",
+      "category": "Otros",
+      "price_history": [
+        59.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nilait Watch Cometta ONE Smartwatch Outdoor AMOLED 1.43\" GPS Doble Frecuencia L1+L5 Gris",
       "url": "https://www.pccomponentes.com/nilait-watch-cometta-one-smartwatch-outdoor-amoled-1-43-gps-doble-frecuencia-l1-plus-l5-gris",
       "store": "PcComponentes",
@@ -6684,23 +6701,6 @@
       "drop_pct": null
     },
     {
-      "name": "Philips 65PUS7810 4K UHD QLED 65\" Smart TV Dolby Atmos Titan OS + TAB4000 Barra de Sonido",
-      "url": "https://www.pccomponentes.com/philips-65pus7810-4k-uhd-qled-65-smart-tv-dolby-atmos-titan-os-tab4000-barra-de-sonido",
-      "store": "PcComponentes",
-      "current_price": 469.0,
-      "original_price": 689.71,
-      "discount_pct": 32.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917676/1850-philips-65pus7810-4k-uhd-qled-65-smart-tv-dolby-atmos-titan-os-tab4000-barra-de-sonido.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        469.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Philips 55PUS7810 4K UHD QLED 139cm 55\" Smart TV Dolby Atmos Titan OS + TAB4000 Barra de Sonido",
       "url": "https://www.pccomponentes.com/philips-55pus7810-4k-uhd-qled-139cm-55-smart-tv-dolby-atmos-titan-os-tab4000-barra-de-sonido",
       "store": "PcComponentes",
@@ -7081,7 +7081,7 @@
       "current_price": 54.95,
       "original_price": 79.95,
       "discount_pct": 31.27,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1787526775",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1787529056",
       "category": "Tarjetas Gráficas",
       "price_history": [
         54.95
@@ -8659,13 +8659,13 @@
       "name": "Portátil Asus Vivobook Go 15 15.6\" AMD Ryzen 5 40 16GB 512GB SSD Radeon 610M Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 539.03,
-      "original_price": 748.65,
+      "current_price": 538.99,
+      "original_price": 748.6,
       "discount_pct": 28.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11016208/1416-portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        539.03
+        538.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9295,6 +9295,23 @@
       "category": "TV y Audio",
       "price_history": [
         549.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil HP OMEN Slim 16-an0068ns 16\" Intel Core Ultra 7 255H 24GB 1TB SSD RTX 5070 Windows 11 Home",
+      "url": "https://www.pccomponentes.com/portatil-hp-omen-slim-16-an0068ns-16-intel-core-ultra-7-255h-24gb-1tb-ssd-rtx-5070-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 1599.0,
+      "original_price": 2190.41,
+      "discount_pct": 27.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1115/11158456/1710-portatil-hp-omen-slim-16-an0068ns-16-intel-core-ultra-7-255h-24gb-1tb-ssd-rtx-5070-windows-11-home.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        1599.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12705,13 +12722,13 @@
       "name": "Ubiquiti UniFi UAP-AC-PRO Punto de Acceso Doble Banda PoE 2.4 GHz",
       "url": "https://www.pccomponentes.com/ubiquiti-unifi-uap-ac-pro-punto-de-acceso-doble-banda-poe-24-ghz",
       "store": "PcComponentes",
-      "current_price": 170.46,
-      "original_price": 218.54,
+      "current_price": 170.4,
+      "original_price": 218.46,
       "discount_pct": 22.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/11/114528/c1.jpg",
       "category": "Otros",
       "price_history": [
-        170.46
+        170.4
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14796,13 +14813,13 @@
       "name": "Ubiquiti U7 Pro Punto de Acceso Tri-Banda WiFi 7 BE5400",
       "url": "https://www.pccomponentes.com/ubiquiti-u7-pro-punto-de-acceso-tri-banda-wifi-7-be5400",
       "store": "PcComponentes",
-      "current_price": 214.46,
-      "original_price": 268.07,
+      "current_price": 214.4,
+      "original_price": 268.0,
       "discount_pct": 20.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10876583/1478-ubiquiti-u7-pro-punto-de-acceso-tri-banda-wifi-7-be5400-caracteristicas.jpg",
       "category": "Otros",
       "price_history": [
-        214.46
+        214.4
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18023,6 +18040,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
+      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
+      "store": "Carrefour",
+      "current_price": 1618.85,
+      "original_price": 1942.62,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1618.85
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Altavoz Portátil JBL Charge 6 - Morado",
       "url": "https://www.carrefour.es/altavoz-portatil-jbl-charge-6-morado/VC4A-30319335/p",
       "store": "Carrefour",
@@ -18101,6 +18135,23 @@
       "category": "Móviles",
       "price_history": [
         235.11
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Negro",
+      "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-negro/VC4A-31573271/p",
+      "store": "Carrefour",
+      "current_price": 301.15,
+      "original_price": 361.38,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643866_00_1.jpg",
+      "category": "Móviles",
+      "price_history": [
+        301.15
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21474,23 +21525,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV MiniLED 85\" (215,9 cm) TCL 85C6K Pro, con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX ,Dolby Atmos, DTS Virtual X",
-      "url": "https://www.carrefour.es/smart-tv-miniled-85-2159-cm-tcl-85c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-virtual-x/VC4A-33876577/p",
-      "store": "Carrefour",
-      "current_price": 1618.85,
-      "original_price": 1894.05,
-      "discount_pct": 14.53,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729932_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1618.85
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "TV Hisense 50\" (127 cm) 50E79Q con IA, QLED, 4K UHD con AI, 60 Hz, Smart TV, HDR, Quantum Dot, Dolby MS12, DTS X",
       "url": "https://www.carrefour.es/tv-hisense-50-127-cm-50e79q-con-ia-qled-4k-uhd-con-ai-60-hz-smart-tv-hdr-quantum-dot-dolby-ms12-dts-x/VC4A-30742147/p",
       "store": "Carrefour",
@@ -23565,23 +23599,6 @@
       "drop_pct": null
     },
     {
-      "name": "Epical-Q Pentux Pro AMD Ryzen 7 9700X/32GB/2TB SSD/RTX 5080",
-      "url": "https://www.pccomponentes.com/pc-epical-q-pentux-pro-amd-ryzen-7-9700x-32gb-2tb-ssd-rtx-5080",
-      "store": "PcComponentes",
-      "current_price": 3179.99,
-      "original_price": 3655.16,
-      "discount_pct": 13.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10868776/1315-epical-q-pentux-pro-amd-ryzen-9700x-32gb-2tb-ssd-rtx-5080.jpg",
-      "category": "Componentes",
-      "price_history": [
-        3179.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Epical-Q Press Evo Intel Core Ultra 9 285KF/128GB/4TB SSD/RTX 5080",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-epical-q-press-evo-intel-core-ultra-9-285kf-128gb-4tb-ssd-rtx-5080",
       "store": "PcComponentes",
@@ -24707,13 +24724,13 @@
       "name": "Logitech Keys-To-Go 2 para Apple Teclado Multidispositivo Inalámbrico Bluetooth Gris Pálido",
       "url": "https://www.pccomponentes.com/logitech-keys-to-go-2-para-apple-teclado-multidispositivo-inalambrico-bluetooth-gris-palido",
       "store": "PcComponentes",
-      "current_price": 69.99,
-      "original_price": 79.53,
+      "current_price": 69.8,
+      "original_price": 79.32,
       "discount_pct": 12.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10844826/149-logitech-keys-to-go-2-para-apple-teclado-multidispositivo-inalambrico-bluetooth-gris-palido.jpg",
       "category": "Periféricos",
       "price_history": [
-        69.99
+        69.8
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24738,16 +24755,16 @@
       "drop_pct": null
     },
     {
-      "name": "PC Sobremesa Epical-Q Fantor AMD Ryzen 7 5700X 32GB 1TB SSD RTX 5070Ti Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro",
+      "name": "PC Sobremesa Epical-Q Viorux Ryzen 7 7800X3D 32GB RAM 2TB SSD RTX 5070 WiFi 7 Windows 11 Pro",
+      "url": "https://www.pccomponentes.com/ordenador-sobremesa-pc-sobremesa-epical-q-viorux-ryzen-7-7800x3d-32gb-ram-2tb-ssd-rtx-5070-wifi-7-windows-11-pro",
       "store": "PcComponentes",
-      "current_price": 2229.99,
-      "original_price": 2534.08,
+      "current_price": 2559.99,
+      "original_price": 2909.08,
       "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1106/11067908/1807-pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro.jpg",
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10950297/1235-pc-sobremesa-epical-q-viorux-ryzen-7-7800x3d-32gb-ram-2tb-ssd-rtx-5070-wifi-7-windows-11-pro.jpg",
       "category": "Componentes",
       "price_history": [
-        2229.99
+        2559.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24816,6 +24833,23 @@
       "category": "TV y Audio",
       "price_history": [
         184.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tarjeta de Memoria Intenso 32GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
+      "store": "Carrefour",
+      "current_price": 12.75,
+      "original_price": 14.41,
+      "discount_pct": 11.52,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        12.75
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25207,6 +25241,23 @@
       "category": "Hogar",
       "price_history": [
         699.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Corberó CCVH17023NFX Congelador Vertical No Frost 204L E Acero Inoxidable",
+      "url": "https://www.pccomponentes.com/corbero-ccvh17023nfx-congelador-vertical-no-frost-204l-e-acero-inoxidable",
+      "store": "PcComponentes",
+      "current_price": 407.94,
+      "original_price": 458.36,
+      "discount_pct": 11.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10741221/1421-corbero-ccvh17023nfx-congelador-vertical-no-frost-204l-e-acero-inoxidable-mejor-precio.jpg",
+      "category": "Hogar",
+      "price_history": [
+        407.94
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25707,16 +25758,16 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
-      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
+      "name": "Smart TV MiniLED 75\" (190,5 cm) TCL 75C6K Pro con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX, Dolby Atmos, DTS X, DTS VIRTUAL X.",
+      "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-tcl-75c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-x-dts-virtual-x/VC4A-33915211/p",
       "store": "Carrefour",
-      "current_price": 298.47,
-      "original_price": 334.29,
-      "discount_pct": 10.72,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
+      "current_price": 1176.37,
+      "original_price": 1317.53,
+      "discount_pct": 10.71,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729931_00_1.jpg",
       "category": "TV y Audio",
       "price_history": [
-        298.47
+        1176.37
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -26523,23 +26574,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV MiniLED 75\" (190,5 cm) TCL 75C6K Pro con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR, Dolby Vision, IMAX, Dolby Atmos, DTS X, DTS VIRTUAL X.",
-      "url": "https://www.carrefour.es/smart-tv-miniled-75-1905-cm-tcl-75c6k-pro-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr-dolby-vision-imax-dolby-atmos-dts-x-dts-virtual-x/VC4A-33915211/p",
-      "store": "Carrefour",
-      "current_price": 1176.37,
-      "original_price": 1305.77,
-      "discount_pct": 9.91,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/729931_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1176.37
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Smart TV MiniLED 55\" (130,7 cm) Samsung TU55M73HAU, 4K UHD, 60 Hz, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
       "url": "https://www.carrefour.es/smart-tv-miniled-55-1307-cm-samsung-tu55m73hau-4k-uhd-60-hz-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-34119605/p",
       "store": "Carrefour",
@@ -26856,23 +26890,6 @@
       "category": "Portátiles",
       "price_history": [
         1288.61
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Corberó CCVH17023NFX Congelador Vertical No Frost 204L E Acero Inoxidable",
-      "url": "https://www.pccomponentes.com/corbero-ccvh17023nfx-congelador-vertical-no-frost-204l-e-acero-inoxidable",
-      "store": "PcComponentes",
-      "current_price": 396.0,
-      "original_price": 435.16,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10741221/1421-corbero-ccvh17023nfx-congelador-vertical-no-frost-204l-e-acero-inoxidable-mejor-precio.jpg",
-      "category": "Hogar",
-      "price_history": [
-        396.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27264,23 +27281,6 @@
       "category": "Portátiles",
       "price_history": [
         1188.45
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Videoportero EZVIZ HP7 Kit 2 Familias Wi-Fi 2K Control Remoto Pantalla 7\" RFID",
-      "url": "https://www.pccomponentes.com/videoportero-ezviz-hp7-kit-2-familias-wi-fi-2k-control-remoto-pantalla-7-rfid",
-      "store": "PcComponentes",
-      "current_price": 379.0,
-      "original_price": 416.48,
-      "discount_pct": 9.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10950894/1663-videoportero-ezviz-hp7-kit-2-familias-wi-fi-2k-control-remoto-pantalla-7-rfid.jpg",
-      "category": "Otros",
-      "price_history": [
-        379.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27985,23 +27985,6 @@
       "drop_pct": null
     },
     {
-      "name": "Caja ordenador Cougar CGR-2DA4W-V ATX RGB LCD Blanco vidrio templado",
-      "url": "https://www.pccomponentes.com/torre-pc-caja-ordenador-cougar-cgr-2da4w-v-atx-rgb-lcd-blanco-vidrio-templado",
-      "store": "PcComponentes",
-      "current_price": 182.82,
-      "original_price": 198.72,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11010558/198-caja-ordenador-cougar-cgr-2da4w-v-atx-rgb-lcd-blanco-vidrio-templado.jpg",
-      "category": "Otros",
-      "price_history": [
-        182.82
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Logitech G Pro X 60 Lightspeed Teclado Inalámbrico Gaming Mecánico RGB TKL Negro",
       "url": "https://www.pccomponentes.com/logitech-g-pro-x-60-lightspeed-teclado-inalambrico-gaming-mecanico-rgb-tkl-negro",
       "store": "PcComponentes",
@@ -28308,6 +28291,23 @@
       "drop_pct": null
     },
     {
+      "name": "Apple MacBook Neo 13\" Apple A18 Pro 8GB 512GB SSD GPU 5 núcleos macOS Touch ID Rosa Nube",
+      "url": "https://www.pccomponentes.com/portatil-apple-macbook-neo-13-apple-a18-pro-8gb-512gb-ssd-gpu-5-nucleos-macos-touch-id-rosa-nube",
+      "store": "PcComponentes",
+      "current_price": 829.0,
+      "original_price": 891.4,
+      "discount_pct": 7.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1102/11026362/1229-apple-macbook-neo-13-apple-a18-pro-8gb-512gb-ssd-gpu-5-nucleos-macos-touch-id-rosa-nube-f447d942-4c43-4d2b-9fe9-2f83d11c6e68.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        829.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil Lenovo IdeaPad Slim 3 15IRH10 15,3\" Intel Core i5-13420H 16GB 512GB SSD Windows 11",
       "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh10-153-intel-core-i5-13420h-16gb-512gb-ssd-windows-11",
       "store": "PcComponentes",
@@ -28498,13 +28498,13 @@
       "name": "Auriculares Poly inalámbricos Bluetooth 5.1 con Cancelación de Ruido y Micrófono Boom",
       "url": "https://www.pccomponentes.com/auriculares-poly-inalambricos-bluetooth-5-1-con-cancelacion-de-ruido-y-microfono-boom",
       "store": "PcComponentes",
-      "current_price": 149.14,
-      "original_price": 160.37,
+      "current_price": 149.02,
+      "original_price": 160.24,
       "discount_pct": 7.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890115/1808-auriculares-poly-inalambricos-bluetooth-51-con-cancelacion-de-ruido-y-microfono-boom.jpg",
       "category": "Periféricos",
       "price_history": [
-        149.14
+        149.02
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29498,23 +29498,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung Galaxy A17 5G 256GB + 8GB RAM - Negro",
-      "url": "https://www.carrefour.es/samsung-galaxy-a17-5g-256gb-8gb-ram-negro/VC4A-31573271/p",
-      "store": "Carrefour",
-      "current_price": 301.16,
-      "original_price": 319.23,
-      "discount_pct": 5.66,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/643866_00_1.jpg",
-      "category": "Móviles",
-      "price_history": [
-        301.16
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Cargador sin Cable Samsung 25 W - Negro",
       "url": "https://www.carrefour.es/cargador-sin-cable-samsung-25-w-negro/VC4A-26142451/p",
       "store": "Carrefour",
@@ -29824,13 +29807,13 @@
       "name": "SaveFamily SaveWatch Plus 2 4G GPS 1.85\" AMOLED Plata Verde IP68 Pulsómetro SOS Android",
       "url": "https://www.pccomponentes.com/savefamily-savewatch-plus-2-4g-gps-1-85-amoled-plata-verde-ip68-pulsometro-sos-android",
       "store": "PcComponentes",
-      "current_price": 121.3,
-      "original_price": 127.68,
+      "current_price": 121.18,
+      "original_price": 127.56,
       "discount_pct": 5.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11010500/1956-savefamily-savewatch-plus-2-4g-gps-185-amoled-plata-verde-ip68-pulsometro-sos-android-be999ce0-b514-4507-82f4-8f93d758c007.jpg",
       "category": "Otros",
       "price_history": [
-        121.3
+        121.18
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -30059,6 +30042,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
+      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
+      "store": "Carrefour",
+      "current_price": 298.42,
+      "original_price": 313.34,
+      "discount_pct": 4.76,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        298.42
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cartucho de Tinta HP 305 pack - Negro/Tricolor",
       "url": "https://www.carrefour.es/cartucho-de-tinta-hp-305-pack-negro-tricolor/VC4A-27464223/p",
       "store": "Carrefour",
@@ -30069,6 +30069,23 @@
       "category": "Componentes",
       "price_history": [
         30.46
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tarjeta de Memoria Intenso Micro SD 64GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-micro-sd-64gb/2002210667/p",
+      "store": "Carrefour",
+      "current_price": 16.46,
+      "original_price": 17.12,
+      "discount_pct": 3.86,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/955985_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        16.46
       ],
       "history_days": 1,
       "is_lowest": true,
