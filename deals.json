@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:33:35.957329+00:00",
+  "updated": "2026-08-23T14:55:05.243853+00:00",
   "total_products": 2010,
   "deals": [
     {
@@ -2576,7 +2576,7 @@
       "current_price": 299.95,
       "original_price": 519.95,
       "discount_pct": 42.31,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1787495528",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1787496821",
       "category": "Portátiles",
       "price_history": [
         299.95
@@ -4821,23 +4821,6 @@
       "original_price": 44.62,
       "discount_pct": 35.01,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10887447/145-honor-choice-watch-2i-smartwatch-185-amoled-spo2-ritmo-cardiaco-android-ios-blanco.jpg",
-      "category": "Móviles",
-      "price_history": [
-        29.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Honor Choice Watch 2i Smartwatch 1.85\" AMOLED 109 Deportes SpO2 Ritmo Cardíaco Android/iOS Negro",
-      "url": "https://www.pccomponentes.com/honor-choice-watch-2i-smartwatch-1-85-amoled-109-deportes-spo2-ritmo-cardiaco-android-ios-negro",
-      "store": "PcComponentes",
-      "current_price": 29.0,
-      "original_price": 44.62,
-      "discount_pct": 35.01,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877272/1129-honor-choice-watch-2i-smartwatch-185-amoled-109-deportes-spo2-ritmo-cardiaco-android-ios-negro.jpg",
       "category": "Móviles",
       "price_history": [
         29.0
@@ -7894,13 +7877,13 @@
       "name": "Portátil Asus Vivobook Go 15 15.6\" AMD Ryzen 5 40 16GB 512GB SSD Radeon 610M Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 539.59,
-      "original_price": 749.43,
+      "current_price": 539.41,
+      "original_price": 749.18,
       "discount_pct": 28.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11016208/1416-portatil-asus-vivobook-go-15-156-amd-ryzen-5-40-16gb-512gb-ssd-radeon-610m-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        539.59
+        539.41
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -7935,6 +7918,23 @@
       "category": "Portátiles",
       "price_history": [
         480.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monitor Philips 27M2N5901A/00 27\" IPS 4K UltraHD 160Hz Dual Mode Ambiglow HDR 400 Altavoces",
+      "url": "https://www.pccomponentes.com/monitor-philips-27m2n5901a-00-27-ips-4k-ultrahd-160hz-dual-mode-ambiglow-hdr-400-altavoces",
+      "store": "PcComponentes",
+      "current_price": 279.9,
+      "original_price": 388.75,
+      "discount_pct": 28.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10944384/1221-monitor-philips-27m2n5901a-00-27-ips-4k-ultrahd-160hz-dual-mode-ambiglow-hdr-400-altavoces.jpg",
+      "category": "Monitores",
+      "price_history": [
+        279.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -16561,6 +16561,23 @@
       "drop_pct": null
     },
     {
+      "name": "PC Sobremesa PC Racing Ryzen 7 5700X 32GB 1TB SSD RTX 5060 Windows 11 WiFi Bluetooth",
+      "url": "https://www.pccomponentes.com/pc-sobremesa-pc-racing-ryzen-7-5700x-32gb-1tb-ssd-rtx-5060-windows-11-wifi-bluetooth",
+      "store": "PcComponentes",
+      "current_price": 1278.01,
+      "original_price": 1539.77,
+      "discount_pct": 17.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1104/11042602/1747-pc-sobremesa-pc-racing-ryzen-7-5700x-32gb-1tb-ssd-rtx-5060-windows-11-wifi-bluetooth.jpg",
+      "category": "Componentes",
+      "price_history": [
+        1278.01
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Punto de Acceso Inalámbrico Omada EAP625GP-Wall Wi-Fi 6 Dual-Banda 1201 Mbit/s",
       "url": "https://www.pccomponentes.com/punto-de-acceso-inalambrico-omada-eap625gp-wall-wi-fi-6-dual-banda-1201-mbit-s",
       "store": "PcComponentes",
@@ -16673,23 +16690,6 @@
       "category": "TV y Audio",
       "price_history": [
         999.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV LED 50\" (127 cm) Samsung TU50U7025FK, 4K UHD, 50 Hz, Crystal Processor 4K AI, OTS Lite, Q-Symphony, Adaptive Sound",
-      "url": "https://www.carrefour.es/smart-tv-led-50-127-cm-samsung-tu50u7025fk-4k-uhd-50-hz-crystal-processor-4k-ai-ots-lite-q-symphony-adaptive-sound/VC4A-31091606/p",
-      "store": "Carrefour",
-      "current_price": 356.86,
-      "original_price": 428.23,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598156_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        356.86
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17703,13 +17703,13 @@
       "name": "Portátil Asus ExpertBook P1 PM1403CDA-S60405 14\" AMD Ryzen 5 150 16GB 512GB SSD Radeon 660M Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-p1-pm1403cda-s60405-14-amd-ryzen-5-150-16gb-512gb-ssd-radeon-660m-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 614.26,
-      "original_price": 731.26,
+      "current_price": 614.11,
+      "original_price": 731.08,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11128683/1251-portatil-asus-expertbook-p1-pm1403cda-s60405-14-amd-ryzen-5-150-16gb-512gb-ssd-radeon-660m-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        614.26
+        614.11
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17822,13 +17822,13 @@
       "name": "Portátil ASUS ExpertBook B3 B3605CCA-MB2216 16\" Intel Core Ultra 5 225H 16GB 512GB SSD Intel Arc 130T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 730.96,
-      "original_price": 870.19,
+      "current_price": 730.78,
+      "original_price": 869.98,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090451/1536-portatil-asus-expertbook-b3-b3605cca-mb2216-16-intel-core-ultra-5-225h-16gb-512gb-ssd-intel-arc-130t-sin-sistema-operativo-164746e0-e44c-4783-a75b-0c0d2373cb72.jpg",
       "category": "Portátiles",
       "price_history": [
-        730.96
+        730.78
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23650,23 +23650,6 @@
       "drop_pct": null
     },
     {
-      "name": "PC Sobremesa Epical-Q Fantor AMD Ryzen 7 5700X 32GB 1TB SSD RTX 5070Ti Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro",
-      "store": "PcComponentes",
-      "current_price": 2229.99,
-      "original_price": 2534.08,
-      "discount_pct": 12.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1106/11067908/1807-pc-sobremesa-epical-q-fantor-amd-ryzen-7-5700x-32gb-1tb-ssd-rtx-5070ti-windows-11-pro.jpg",
-      "category": "Componentes",
-      "price_history": [
-        2229.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "PC Sobremesa Epical-Q Viorux Ryzen 7 7800X3D 32GB RAM 2TB SSD RTX 5070 WiFi 7 Windows 11 Pro",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-pc-sobremesa-epical-q-viorux-ryzen-7-7800x3d-32gb-ram-2tb-ssd-rtx-5070-wifi-7-windows-11-pro",
       "store": "PcComponentes",
@@ -24663,23 +24646,6 @@
       "category": "Otros",
       "price_history": [
         44.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Tarjeta de Memoria Intenso 32GB",
-      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
-      "store": "Carrefour",
-      "current_price": 12.81,
-      "original_price": 14.35,
-      "discount_pct": 10.73,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        12.81
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27220,23 +27186,6 @@
       "drop_pct": null
     },
     {
-      "name": "Caja ordenador Cougar CGR-2DA4W-V ATX RGB LCD Blanco vidrio templado",
-      "url": "https://www.pccomponentes.com/torre-pc-caja-ordenador-cougar-cgr-2da4w-v-atx-rgb-lcd-blanco-vidrio-templado",
-      "store": "PcComponentes",
-      "current_price": 182.82,
-      "original_price": 198.72,
-      "discount_pct": 8.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11010558/198-caja-ordenador-cougar-cgr-2da4w-v-atx-rgb-lcd-blanco-vidrio-templado.jpg",
-      "category": "Otros",
-      "price_history": [
-        182.82
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "PC Racing D5 Gaming AMD Ryzen 7 9700X/32GB/2TB SSD/RTX 5070 + Windows 11",
       "url": "https://www.pccomponentes.com/pc-racing-d5-gaming-amd-ryzen-7-9700x-32gb-2tb-ssd-rtx-5070-plus-windows-11",
       "store": "PcComponentes",
@@ -27784,13 +27733,13 @@
       "name": "Auriculares Poly inalámbricos Bluetooth 5.1 con Cancelación de Ruido y Micrófono Boom",
       "url": "https://www.pccomponentes.com/auriculares-poly-inalambricos-bluetooth-5-1-con-cancelacion-de-ruido-y-microfono-boom",
       "store": "PcComponentes",
-      "current_price": 150.58,
-      "original_price": 161.91,
+      "current_price": 150.52,
+      "original_price": 161.85,
       "discount_pct": 7.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890115/1808-auriculares-poly-inalambricos-bluetooth-51-con-cancelacion-de-ruido-y-microfono-boom.jpg",
       "category": "Periféricos",
       "price_history": [
-        150.58
+        150.52
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28954,6 +28903,23 @@
       "drop_pct": null
     },
     {
+      "name": "Rivacase Borneo 7861 Mochila Gaming Eco para Portátil hasta 17.3\" Azul Oscuro",
+      "url": "https://www.pccomponentes.com/rivacase-borneo-7861-mochila-gaming-eco-para-portatil-hasta-17-3-azul-oscuro",
+      "store": "PcComponentes",
+      "current_price": 65.64,
+      "original_price": 69.83,
+      "discount_pct": 6.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1070/10707366/1853-rivacase-borneo-mochila-gaming-eco-para-portatil-hasta-173-azul-oscuro.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        65.64
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Xiaomi REDMI Note 15 4G 8GB 128GB 6.77\" Verde Bosque",
       "url": "https://www.pccomponentes.com/xiaomi-redmi-note-15-4g-8gb-128gb-677-verde-bosque",
       "store": "PcComponentes",
@@ -29049,6 +29015,23 @@
       "category": "Periféricos",
       "price_history": [
         55.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV LED 50\" (127 cm) Samsung TU50U7025FK, 4K UHD, 50 Hz, Crystal Processor 4K AI, OTS Lite, Q-Symphony, Adaptive Sound",
+      "url": "https://www.carrefour.es/smart-tv-led-50-127-cm-samsung-tu50u7025fk-4k-uhd-50-hz-crystal-processor-4k-ai-ots-lite-q-symphony-adaptive-sound/VC4A-31091606/p",
+      "store": "Carrefour",
+      "current_price": 356.81,
+      "original_price": 378.22,
+      "discount_pct": 5.66,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/598156_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        356.81
       ],
       "history_days": 1,
       "is_lowest": true,
