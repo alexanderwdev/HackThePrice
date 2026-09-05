@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:57:07.264514+00:00",
+  "updated": "2026-09-05T13:17:52.499091+00:00",
   "total_products": 2005,
   "deals": [
     {
@@ -9,7 +9,7 @@
       "current_price": 2.95,
       "original_price": 49.95,
       "discount_pct": 94.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -26,7 +26,7 @@
       "current_price": 7.95,
       "original_price": 99.95,
       "discount_pct": 92.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         7.95
@@ -43,7 +43,7 @@
       "current_price": 5.95,
       "original_price": 49.95,
       "discount_pct": 88.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         5.95
@@ -60,7 +60,7 @@
       "current_price": 0.95,
       "original_price": 7.95,
       "discount_pct": 88.05,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         0.95
@@ -77,7 +77,7 @@
       "current_price": 6.95,
       "original_price": 49.95,
       "discount_pct": 86.09,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         6.95
@@ -128,7 +128,7 @@
       "current_price": 1.95,
       "original_price": 7.95,
       "discount_pct": 75.47,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         1.95
@@ -213,7 +213,7 @@
       "current_price": 2.95,
       "original_price": 9.95,
       "discount_pct": 70.35,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -230,7 +230,7 @@
       "current_price": 59.95,
       "original_price": 199.95,
       "discount_pct": 70.02,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         59.95
@@ -264,7 +264,7 @@
       "current_price": 1.95,
       "original_price": 5.95,
       "discount_pct": 67.23,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         1.95
@@ -434,7 +434,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -451,7 +451,7 @@
       "current_price": 2.95,
       "original_price": 7.95,
       "discount_pct": 62.89,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         2.95
@@ -727,6 +727,23 @@
       "category": "TV y Audio",
       "price_history": [
         4587.02
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Refrigeración Líquida Antec Vortex 360 ARGB White 360mm 3 Ventiladores Iluminación LED",
+      "url": "https://www.pccomponentes.com/refrigeracion-liquida-antec-vortex-360-argb-white-360mm-3-ventiladores-iluminacion-led",
+      "store": "PcComponentes",
+      "current_price": 74.68,
+      "original_price": 177.81,
+      "discount_pct": 58.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1101/11016686/1998-refrigeracion-liquida-antec-vortex-360-argb-white-360mm-3-ventiladores-iluminacion-led-a78b2f7b-363d-4bde-9195-e017eb61c01d.jpg",
+      "category": "Componentes",
+      "price_history": [
+        74.68
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -1618,6 +1635,23 @@
       "drop_pct": null
     },
     {
+      "name": "Ratón SteelSeries Rival 3 Wireless Gen 2 gaming inalámbrico 18000DPI RGB 6 botones Aqua",
+      "url": "https://www.pccomponentes.com/raton-steelseries-rival-3-wireless-gen-2-gaming-inalambrico-18000dpi-rgb-6-botones-aqua",
+      "store": "PcComponentes",
+      "current_price": 31.4,
+      "original_price": 59.25,
+      "discount_pct": 47.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1094/10942415/186-raton-steelseries-rival-3-wireless-gen-2-gaming-inalambrico-18000dpi-rgb-6-botones-aqua.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        31.4
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
       "url": "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html",
       "store": "MediaMarkt",
@@ -1815,23 +1849,6 @@
       "category": "TV y Audio",
       "price_history": [
         324.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Logitech G403 Hero Ratón Gaming 25600DPI",
-      "url": "https://www.pccomponentes.com/logitech-g403-hero-raton-gaming-25600dpi",
-      "store": "PcComponentes",
-      "current_price": 37.99,
-      "original_price": 69.07,
-      "discount_pct": 45.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/25/250404/1684-logitech-g403-hero-raton-gaming-16000dpi-comprar.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        37.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -2349,23 +2366,6 @@
       "drop_pct": null
     },
     {
-      "name": "Samsung Galaxy Watch8 LTE 44mm con Galaxy AI Plateado",
-      "url": "https://www.pccomponentes.com/samsung-galaxy-watch8-lte-44mm-con-galaxy-ai-plateado",
-      "store": "PcComponentes",
-      "current_price": 262.93,
-      "original_price": 453.33,
-      "discount_pct": 42.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10924863/1514-samsung-galaxy-watch8-lte-44mm-con-galaxy-ai-plateado.jpg",
-      "category": "Móviles",
-      "price_history": [
-        262.93
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Nilait Prisma 43UD7004SWOS 43\" LED 4K WebOS + Harmony Sound bar Barra de sonido Bluetooth 2.0 30W",
       "url": "https://www.pccomponentes.com/nilait-prisma-43ud7004swos-43-led-4k-webos-harmony-sound-bar-barra-de-sonido-bluetooth-20-30w",
       "store": "PcComponentes",
@@ -2627,7 +2627,7 @@
       "current_price": 69.95,
       "original_price": 119.95,
       "discount_pct": 41.68,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         69.95
@@ -2644,7 +2644,7 @@
       "current_price": 122.95,
       "original_price": 209.95,
       "discount_pct": 41.44,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         122.95
@@ -2995,23 +2995,6 @@
       "drop_pct": null
     },
     {
-      "name": "MSI PRO MP245PG 23.8\" LED IPS FullHD 100Hz Altavoces Altura Ajustable Adaptive Sync",
-      "url": "https://www.pccomponentes.com/monitor-msi-pro-mp245pg-23-8-led-ips-fullhd-100hz-altavoces-altura-ajustable-adaptive-sync",
-      "store": "PcComponentes",
-      "current_price": 94.0,
-      "original_price": 156.67,
-      "discount_pct": 40.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10878498/1373-msi-pro-mp245pg-238-led-ips-fullhd-100hz-altavoces-altura-ajustable-adaptive-sync.jpg",
-      "category": "Monitores",
-      "price_history": [
-        94.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Corsair iCUE LINK TITAN 360 RX RGB Kit Refrigeración Líquida 360mm Blanca",
       "url": "https://www.pccomponentes.com/corsair-icue-link-titan-360-rx-rgb-kit-refrigeracion-liquida-360mm-blanca",
       "store": "PcComponentes",
@@ -3301,23 +3284,6 @@
       "drop_pct": null
     },
     {
-      "name": "MSI MAG PANO M100R PZ Cristal Templado USB 3.2 Negra",
-      "url": "https://www.pccomponentes.com/torre-pc-msi-mag-pano-m100r-pz-cristal-templado-usb-3-2-negra",
-      "store": "PcComponentes",
-      "current_price": 60.0,
-      "original_price": 98.36,
-      "discount_pct": 39.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10804770/1873-msi-mag-pano-m100r-pz-cristal-templado-usb-32-negra.jpg",
-      "category": "Otros",
-      "price_history": [
-        60.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Nilait Prisma 50UD7004SWOS 50\" LED UHD 4K Smart TV WEBOS +Nilait Harmony Sound bar Barra de sonido 2.0 60W blanca",
       "url": "https://www.pccomponentes.com/nilait-prisma-50ud7004swos-50-led-uhd-4k-smart-tv-webos-plus-nilait-harmony-sound-bar-barra-de-sonido-2-0-60w-blanca",
       "store": "PcComponentes",
@@ -3498,6 +3464,23 @@
       "category": "Periféricos",
       "price_history": [
         181.58
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
+      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
+      "store": "PcComponentes",
+      "current_price": 34.99,
+      "original_price": 57.36,
+      "discount_pct": 39.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -3970,7 +3953,7 @@
       "current_price": 4.95,
       "original_price": 7.95,
       "discount_pct": 37.74,
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1788611652",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1788614200",
       "category": "Outlet",
       "price_history": [
         4.95
@@ -4593,6 +4576,23 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet Samsung Galaxy Tab A11 Plus WiFi 11\" 8GB 256GB Gris",
+      "url": "https://www.pccomponentes.com/tablet-samsung-galaxy-tab-a11-plus-wifi-11-8gb-256gb-gris",
+      "store": "PcComponentes",
+      "current_price": 259.0,
+      "original_price": 404.69,
+      "discount_pct": 36.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10973528/1944-tablet-samsung-galaxy-tab-a11-plus-wifi-11-8gb-256gb-gris-foto.jpg",
+      "category": "Otros",
+      "price_history": [
+        259.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Robot Aspirador y Fregasuelos iRobot Roomba Plus 515 Combo con Autovaciado Navegación LiDAR 22.000 Pa",
       "url": "https://www.pccomponentes.com/robot-aspirador-y-fregasuelos-irobot-roomba-plus-515-combo-con-autovaciado-navegacion-lidar-22-000-pa",
       "store": "PcComponentes",
@@ -5198,23 +5198,6 @@
       "category": "Móviles",
       "price_history": [
         259.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Logitech Lift Ratón Inalámbrico Vertical para Diestros 4000 DPI Blanco",
-      "url": "https://www.pccomponentes.com/logitech-lift-raton-inalambrico-vertical-para-diestros-4000-dpi-blanco",
-      "store": "PcComponentes",
-      "current_price": 44.99,
-      "original_price": 69.22,
-      "discount_pct": 35.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1022/10221996/1666-logitech-lift-raton-inalambrico-vertical-para-diestros-4000-dpi-blanco.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        44.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6367,7 +6350,7 @@
       "current_price": 349.95,
       "original_price": 519.95,
       "discount_pct": 32.7,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1788611636",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1788613406",
       "category": "Portátiles",
       "price_history": [
         349.95
@@ -6633,6 +6616,23 @@
       "drop_pct": null
     },
     {
+      "name": "Woxter Rock'n'Roller ST Altavoz Trolley Bluetooth",
+      "url": "https://www.pccomponentes.com/woxter-rock-n-roller-st-altavoz-trolley-bluetooth",
+      "store": "PcComponentes",
+      "current_price": 114.99,
+      "original_price": 169.1,
+      "discount_pct": 32.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/15/158410/1968-woxter-rocknroller-st-altavoz-trolley-bluetooth-comprar.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        114.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Cocina de Gas HAEGER GC-02E.022A 2 Quemadores Encimera Gris",
       "url": "https://www.pccomponentes.com/cocina-de-gas-haeger-gc-02e-022a-2-quemadores-encimera-gris",
       "store": "PcComponentes",
@@ -6809,7 +6809,7 @@
       "current_price": 54.95,
       "original_price": 79.95,
       "discount_pct": 31.27,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1788612938",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1788614177",
       "category": "Tarjetas Gráficas",
       "price_history": [
         54.95
@@ -8775,23 +8775,6 @@
       "drop_pct": null
     },
     {
-      "name": "Fuente de Alimentación GIGABYTE 750W 80 PLUS Bronze P750BS Protección avanzada PCI-E 6+2 Pin x4",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-gigabyte-750w-80-plus-bronze-p750bs-proteccion-avanzada-pci-e-6-plus-2-pin-x4",
-      "store": "PcComponentes",
-      "current_price": 56.99,
-      "original_price": 79.15,
-      "discount_pct": 28.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10888355/1151-fuente-de-alimentacion-gigabyte-750w-80-plus-bronze-p750bs-proteccion-avanzada-pci-e-6-2-pin-x4.jpg",
-      "category": "Componentes",
-      "price_history": [
-        56.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "HP 720 Teclado Inalámbrico Recargable Ultrafino Modo Dual",
       "url": "https://www.pccomponentes.com/hp-720-teclado-inalambrico-recargable-ultrafino-modo-dual",
       "store": "PcComponentes",
@@ -8877,23 +8860,6 @@
       "drop_pct": null
     },
     {
-      "name": "LG 27TQ615S-PZ.AEU 27\" LED FullHD Smart TV",
-      "url": "https://www.pccomponentes.com/lg-27tq615s-pz-aeu-27-led-fullhd-smart-tv",
-      "store": "PcComponentes",
-      "current_price": 184.98,
-      "original_price": 256.92,
-      "discount_pct": 28.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10827812/1463-lg-27tq615s-pzaeu-27-led-fullhd-smart-tv.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        184.98
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "MSI FORCE GC300 WIRELESS Mando de Juego Inalámbrico Bluetooth para PC Blanco",
       "url": "https://www.pccomponentes.com/msi-force-gc300-wireless-mando-de-juego-inalambrico-bluetooth-para-pc-blanco",
       "store": "PcComponentes",
@@ -8931,13 +8897,13 @@
       "name": "Sennheiser HD600 Auriculares DJ Negros",
       "url": "https://www.pccomponentes.com/sennheiser-hd600-auriculares-dj-negros",
       "store": "PcComponentes",
-      "current_price": 287.0,
-      "original_price": 398.61,
+      "current_price": 286.42,
+      "original_price": 397.81,
       "discount_pct": 28.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1078/10789940/1506-sennheiser-hd600-auriculares-dj-negros.jpg",
       "category": "Periféricos",
       "price_history": [
-        287.0
+        286.42
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9448,23 +9414,6 @@
       "category": "Monitores",
       "price_history": [
         72.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Xiaomi REDMI Note 14 Pro 5G 8GB 256GB 6.67\" Verde Coral",
-      "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-pro-5g-8gb-256gb-6-67-verde-coral",
-      "store": "PcComponentes",
-      "current_price": 288.21,
-      "original_price": 394.81,
-      "discount_pct": 27.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867253/1647-xiaomi-redmi-note-14-pro-5g-8gb-256gb-667-verde-coral-0df18d23-1e15-45f0-bbdd-995b7a01c172.jpg",
-      "category": "Móviles",
-      "price_history": [
-        288.21
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -9999,23 +9948,6 @@
       "drop_pct": null
     },
     {
-      "name": "Fuente de alimentación be quiet! Pure Power 13 M 1000W ATX 80 Plus Gold modular silenciosa",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-be-quiet-pure-power-13-m-1000w-atx-80-plus-gold-modular-silenciosa",
-      "store": "PcComponentes",
-      "current_price": 124.99,
-      "original_price": 168.91,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10918083/189-fuente-de-alimentacion-be-quiet-pure-power-13-m-1000w-atx-80-plus-gold-modular-silenciosa.jpg",
-      "category": "Componentes",
-      "price_history": [
-        124.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Monitor MSI MAG 272QPW QD-OLED X28 26.5\" QHD 280Hz QD-OLED HDR400 True Black",
       "url": "https://www.pccomponentes.com/monitor-msi-mag-272qpw-qd-oled-x28-26-5-qhd-280hz-qd-oled-hdr400-true-black",
       "store": "PcComponentes",
@@ -10128,23 +10060,6 @@
       "category": "Otros",
       "price_history": [
         72.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Horno eléctrico Teka NEO HSB 6250 P FBK 71 litros Negro pirolítico con HydroClean",
-      "url": "https://www.pccomponentes.com/horno-electrico-teka-neo-hsb-6250-p-fbk-71-litros-negro-pirolitico-con-hydroclean",
-      "store": "PcComponentes",
-      "current_price": 367.82,
-      "original_price": 497.05,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10929675/1402-horno-electrico-teka-neo-hsb-6250-p-fbk-71-litros-negro-pirolitico-con-hydroclean.jpg",
-      "category": "Hogar",
-      "price_history": [
-        367.82
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -10485,23 +10400,6 @@
       "category": "Componentes",
       "price_history": [
         387.44
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "AOC 27B3CA2 27\" LED IPS FullHD 100Hz USB-C",
-      "url": "https://www.pccomponentes.com/monitor-aoc-27b3ca2-27-led-ips-fullhd-100hz-usb-c",
-      "store": "PcComponentes",
-      "current_price": 116.79,
-      "original_price": 157.82,
-      "discount_pct": 26.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10846946/1127-aoc-27b3ca2-27-led-ips-fullhd-100hz-usb-c-foto.jpg",
-      "category": "Monitores",
-      "price_history": [
-        116.79
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -11318,23 +11216,6 @@
       "category": "Otros",
       "price_history": [
         125.4
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Be quiet Power Zone 2 850W 80 PLUS Platinum Modular",
-      "url": "https://www.pccomponentes.com/fuente-alimentacion-be-quiet-power-zone-2-850w-80-plus-platinum-modular",
-      "store": "PcComponentes",
-      "current_price": 125.99,
-      "original_price": 167.99,
-      "discount_pct": 25.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870721/1815-be-quiet-power-zone-2-850w-80-plus-platinum-modular-foto.jpg",
-      "category": "Otros",
-      "price_history": [
-        125.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -12396,23 +12277,6 @@
       "drop_pct": null
     },
     {
-      "name": "Garmin Forerunner 165 Reloj Smartwatch 43mm GPS Negro",
-      "url": "https://www.pccomponentes.com/garmin-forerunner-165-reloj-smartwatch-43mm-gps-negro",
-      "store": "PcComponentes",
-      "current_price": 213.99,
-      "original_price": 277.91,
-      "discount_pct": 23.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1083/10831202/13-garmin-forerunner-165-reloj-smartwatch-43mm-gps-negro.jpg",
-      "category": "Móviles",
-      "price_history": [
-        213.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "PcCom Legend 5080 Intel Core Ultra 9 275HX/32GB/1TB SSD/RTX 5080/16\" QHD+ Windows 11 Home",
       "url": "https://www.pccomponentes.com/portatil-pccom-legend-5080-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16-qhd-windows-11-home",
       "store": "PcComponentes",
@@ -13365,23 +13229,6 @@
       "drop_pct": null
     },
     {
-      "name": "Monitor Samsung 27″ Full HD 100Hz IPS Eye Saver Flicker Free VESA HDMI",
-      "url": "https://www.pccomponentes.com/monitor-samsung-27-full-hd-100hz-ips-eye-saver-flicker-free-vesa-hdmi",
-      "store": "PcComponentes",
-      "current_price": 100.89,
-      "original_price": 129.35,
-      "discount_pct": 22.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10890190/1869-monitor-samsung-27-full-hd-100hz-ips-eye-saver-flicker-free-vesa-hdmi-a9fcc89a-f058-4f67-a544-6b1a50395cb5.jpg",
-      "category": "Monitores",
-      "price_history": [
-        100.89
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung Galaxy A36 5G 6,7\" 8GB 256GB Negro Versión Internacional",
       "url": "https://www.pccomponentes.com/samsung-galaxy-a36-5g-6-7-8gb-256gb-negro-version-internacional",
       "store": "PcComponentes",
@@ -13392,23 +13239,6 @@
       "category": "Móviles",
       "price_history": [
         308.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Teclado Asus Marshmallow KW100 inalámbrico ultrafino compacto con scissor keys",
-      "url": "https://www.pccomponentes.com/teclado-asus-marshmallow-kw100-inalambrico-ultrafino-scissor-keys-layout-es-compacto",
-      "store": "PcComponentes",
-      "current_price": 34.99,
-      "original_price": 44.86,
-      "discount_pct": 22.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917343/1800-teclado-asus-marshmallow-kw100-inalambrico-ultrafino-compacto-con-scissor-keys.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        34.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -13698,23 +13528,6 @@
       "category": "Componentes",
       "price_history": [
         3129.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Krom Kernel PRO TKL RGB Teclado Mecánico Inalámbrico Bluetooth Switch Outemu Red Negro",
-      "url": "https://www.pccomponentes.com/krom-kernel-pro-tkl-rgb-teclado-mecanico-inalambrico-bluetooth-switch-outemu-red-negro",
-      "store": "PcComponentes",
-      "current_price": 46.98,
-      "original_price": 59.47,
-      "discount_pct": 21.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10861444/1560-krom-kernel-pro-tkl-rgb-teclado-mecanico-inalambrico-bluetooth-switch-outemu-red-negro.jpg",
-      "category": "Periféricos",
-      "price_history": [
-        46.98
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -14157,6 +13970,23 @@
       "category": "Otros",
       "price_history": [
         55.38
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Ratón Logitech G502 X con cable 25600 DPI 13 botones programables + alfombrilla G240",
+      "url": "https://www.pccomponentes.com/raton-logitech-g502-x-con-cable-25600-dpi-13-botones-programables-alfombrilla-g240",
+      "store": "PcComponentes",
+      "current_price": 78.45,
+      "original_price": 99.3,
+      "discount_pct": 21.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10896009/1233-raton-logitech-g502-x-con-cable-25600-dpi-13-botones-programables-alfombrilla-g240.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        78.45
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -15388,23 +15218,6 @@
       "drop_pct": null
     },
     {
-      "name": "Impresora multifunción Epson EcoTank ET-3956 WiFi con depósitos rellenables y hasta 3 años de tinta",
-      "url": "https://www.pccomponentes.com/impresora-multifuncion-epson-ecotank-et-3956-wifi-con-depositos-rellenables-y-hasta-3-anos-de-tinta",
-      "store": "PcComponentes",
-      "current_price": 349.99,
-      "original_price": 432.09,
-      "discount_pct": 19.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10955695/1406-multifuncion-epson-ecotank-et-3956-inyeccion-de-tinta-color-wifi-ethernet-duplex-lcd-adf-foto.jpg",
-      "category": "Componentes",
-      "price_history": [
-        349.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Sony DualSense Edge PS5 + Indeca Base de Carga con Reloj Despertador RGB",
       "url": "https://www.pccomponentes.com/sony-dualsense-edge-ps5-plus-indeca-base-de-carga-con-reloj-despertador-rgb",
       "store": "PcComponentes",
@@ -15915,6 +15728,23 @@
       "drop_pct": null
     },
     {
+      "name": "Punto de Acceso Inalámbrico Omada AX3000 Dual-Band Wi-Fi 6 Escritorio",
+      "url": "https://www.pccomponentes.com/punto-de-acceso-inalambrico-omada-ax3000-dual-band-wi-fi-6-escritorio",
+      "store": "PcComponentes",
+      "current_price": 151.99,
+      "original_price": 187.64,
+      "discount_pct": 19.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11098489/1863-punto-de-acceso-inalambrico-omada-ax3000-dual-band-wi-fi-6-escritorio.jpg",
+      "category": "Otros",
+      "price_history": [
+        151.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Nox LITE030 USB 3.0 + Fuente de Alimentación 500W",
       "url": "https://www.pccomponentes.com/torre-pc-nox-lite030-usb-3-0-plus-fuente-de-alimentacion-500w",
       "store": "PcComponentes",
@@ -16204,23 +16034,6 @@
       "drop_pct": null
     },
     {
-      "name": "Monitor ASUS TUF Gaming VG27AQML5A 27\" Wide Quad HD 300Hz Fast IPS G-Sync FreeSync HDR400 Ajustable en Altura",
-      "url": "https://www.pccomponentes.com/monitor-asus-tuf-gaming-vg27aqml5a-27-wide-quad-hd-300hz-fast-ips-g-sync-freesync-hdr400-ajustable-en-altura",
-      "store": "PcComponentes",
-      "current_price": 269.0,
-      "original_price": 328.05,
-      "discount_pct": 18.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1093/10935948/1107-monitor-asus-tuf-gaming-vg27aqml5a-27-2560x1440-300hz-fast-ips-g-sync-freesync-hdr400.jpg",
-      "category": "Monitores",
-      "price_history": [
-        269.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Frigorífico Candy Fresco CNCQ2T518EW 279L Blanco Combi No Frost 1825mm Clase E",
       "url": "https://www.pccomponentes.com/frigorifico-candy-fresco-cncq2t518ew-279l-blanco-combi-no-frost-1825mm-clase-e",
       "store": "PcComponentes",
@@ -16418,23 +16231,6 @@
       "category": "Móviles",
       "price_history": [
         769.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Cámara deportiva Insta360 GO Ultra Creator Bundle 4K UHD WiFi Bluetooth Negra",
-      "url": "https://www.pccomponentes.com/camara-deportiva-insta360-go-ultra-creator-bundle-4k-uhd-wifi-bluetooth-negra",
-      "store": "PcComponentes",
-      "current_price": 389.0,
-      "original_price": 474.39,
-      "discount_pct": 18.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1097/10975245/127-camara-deportiva-insta360-go-ultra-creator-bundle-4k-uhd-wifi-bluetooth-negra-54f9c899-db18-401c-abd8-da9d5889ff8a.jpg",
-      "category": "Otros",
-      "price_history": [
-        389.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -16805,7 +16601,7 @@
       "current_price": 264.95,
       "original_price": 319.95,
       "discount_pct": 17.19,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037618_1.jpg?v=1788612938",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037618_1.jpg?v=1788614177",
       "category": "Tarjetas Gráficas",
       "price_history": [
         264.95
@@ -17479,6 +17275,23 @@
       "drop_pct": null
     },
     {
+      "name": "Punto de Acceso Inalámbrico Omada EAP625GP-Wall Wi-Fi 6 Dual-Banda 1201 Mbit/s",
+      "url": "https://www.pccomponentes.com/punto-de-acceso-inalambrico-omada-eap625gp-wall-wi-fi-6-dual-banda-1201-mbit-s",
+      "store": "PcComponentes",
+      "current_price": 146.99,
+      "original_price": 177.1,
+      "discount_pct": 17.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11098483/1424-punto-de-acceso-inalambrico-omada-eap625gp-wall-wi-fi-6-dual-banda-1201-mbit-s.jpg",
+      "category": "Otros",
+      "price_history": [
+        146.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV QLED 65\" (165,1 cm) Hisense 65E79S con IA, 4K UHD, 60 Hz, Dolby Vision, Dolby Vision IQ, HDR+, Dolby MS12, DTS X",
       "url": "https://www.carrefour.es/smart-tv-qled-65-1651-cm-hisense-65e79s-con-ia-4k-uhd-60-hz-dolby-vision-dolby-vision-iq-hdr-dolby-ms12-dts-x/VC4A-33762858/p",
       "store": "Carrefour",
@@ -17581,23 +17394,6 @@
       "drop_pct": null
     },
     {
-      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
-      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
-      "store": "Carrefour",
-      "current_price": 1553.09,
-      "original_price": 1863.71,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        1553.09
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Consola PlayStation 5 Digital 825GB - Blanco",
       "url": "https://www.carrefour.es/consola-playstation-5-digital-825gb-blanco/VC4A-31794178/p",
       "store": "Carrefour",
@@ -17672,7 +17468,7 @@
       "current_price": 249.95,
       "original_price": 299.95,
       "discount_pct": 16.67,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045191_1.jpg?v=1788612938",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045191_1.jpg?v=1788614177",
       "category": "Tarjetas Gráficas",
       "price_history": [
         249.95
@@ -17689,7 +17485,7 @@
       "current_price": 299.95,
       "original_price": 359.95,
       "discount_pct": 16.67,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019486_1.jpg?v=1788612938",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019486_1.jpg?v=1788614177",
       "category": "Tarjetas Gráficas",
       "price_history": [
         299.95
@@ -17723,7 +17519,7 @@
       "current_price": 379.95,
       "original_price": 454.95,
       "discount_pct": 16.49,
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030490_1.jpg?v=1788612938",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030490_1.jpg?v=1788614177",
       "category": "Tarjetas Gráficas",
       "price_history": [
         379.95
@@ -17768,33 +17564,16 @@
       "drop_pct": null
     },
     {
-      "name": "Lenovo Idea Tab Pro 12.7\" 3K 8/256GB WiFi Gris + Tab Pen Plus",
-      "url": "https://www.pccomponentes.com/lenovo-idea-tab-pro-12-7-3k-8-256gb-wifi-gris-plus-tab-pen-plus",
-      "store": "PcComponentes",
-      "current_price": 317.17,
-      "original_price": 377.58,
-      "discount_pct": 16.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867762/2507-lenovo-idea-tab-pro-127-3k-8-256gb-wifi-gris-tab-pen-plus-c71de19d-f37b-47e5-8936-eea105ebc033.jpg",
-      "category": "Otros",
-      "price_history": [
-        317.17
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Samsung Galaxy A57 5G 8GB 128GB 6,7\" Gris Versión Internacional",
       "url": "https://www.pccomponentes.com/samsung-galaxy-a57-5g-8gb-128gb-6-7-gris-version-internacional",
       "store": "PcComponentes",
-      "current_price": 338.43,
-      "original_price": 402.89,
+      "current_price": 338.32,
+      "original_price": 402.76,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1106/11060436/1252-samsung-galaxy-a57-5g-8gb-gris-128gb-67-super-amoled-1b01378e-fd57-4379-8791-f8095c188666.jpg",
       "category": "Móviles",
       "price_history": [
-        338.43
+        338.32
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17992,13 +17771,13 @@
       "name": "Portátil Asus Vivobook 16 D1607GA-MB086W 16\" AMD Ryzen AI 7 445 16GB 512GB SSD Radeon 840M Windows 11 Home",
       "url": "https://www.pccomponentes.com/portatil-asus-vivobook-16-d1607ga-mb086w-16-amd-ryzen-ai-7-445-16gb-512gb-ssd-radeon-840m-windows-11-home",
       "store": "PcComponentes",
-      "current_price": 704.32,
-      "original_price": 838.48,
+      "current_price": 704.15,
+      "original_price": 838.27,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1112/11128685/1628-portatil-asus-vivobook-16-d1607ga-mb086w-16-amd-ryzen-ai-7-445-16gb-512gb-ssd-radeon-840m-windows-11-home.jpg",
       "category": "Portátiles",
       "price_history": [
-        704.32
+        704.15
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -18638,13 +18417,13 @@
       "name": "Samsung Galaxy A17 LTE 4GB RAM 128GB Super AMOLED 6.7\" IP54 5000mAh Gris Versión Internacional",
       "url": "https://www.pccomponentes.com/samsung-galaxy-a17-lte-4gb-ram-128gb-super-amoled-67-ip54-5000mah-gris-version-importada-eu",
       "store": "PcComponentes",
-      "current_price": 165.46,
-      "original_price": 196.98,
+      "current_price": 165.25,
+      "original_price": 196.73,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1095/10959607/1164-samsung-galaxy-a17-lte-4gb-ram-128gb-super-amoled-67-ip54-5000mah-gris-version-importada-eu.jpg",
       "category": "Móviles",
       "price_history": [
-        165.46
+        165.25
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20355,13 +20134,13 @@
       "name": "Portátil ASUS ExpertBook B3 B3405CCA 14\" Intel Core Ultra 7 255H 16GB 512GB SSD Arc 140T Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-expertbook-b3-b3405cca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 860.27,
-      "original_price": 1024.13,
+      "current_price": 860.13,
+      "original_price": 1023.96,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11090452/1960-portatil-asus-expertbook-b3-b3405cca-14-intel-core-ultra-7-255h-16gb-512gb-ssd-arc-140t-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        860.27
+        860.13
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20848,13 +20627,13 @@
       "name": "Portátil ASUS Vivobook 15 X1504MA-BQ222 15,6\" Intel Core 7 350 8GB 512GB SSD Intel Graphics Sin Sistema Operativo",
       "url": "https://www.pccomponentes.com/portatil-asus-vivobook-15-x1504ma-bq222-15-6-intel-core-7-350-8gb-512gb-ssd-intel-graphics-sin-sistema-operativo",
       "store": "PcComponentes",
-      "current_price": 526.33,
-      "original_price": 626.58,
+      "current_price": 526.2,
+      "original_price": 626.43,
       "discount_pct": 16.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1109/11093441/1428-portatil-asus-vivobook-15-x1504ma-bq222-156-intel-core-7-350-8gb-512gb-ssd-intel-graphics-sin-sistema-operativo.jpg",
       "category": "Portátiles",
       "price_history": [
-        526.33
+        526.2
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -20872,6 +20651,23 @@
       "category": "Portátiles",
       "price_history": [
         1065.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil HP EliteBook 8 G1i 14 pulgadas Intel Core Ultra 5 226V 16GB RAM Intel Arc Graphics 512GB SSD Windows 11 Pro seguridad avanzada",
+      "url": "https://www.pccomponentes.com/portatil-hp-elitebook-8-g1i-14-pulgadas-intel-core-ultra-5-226v-16gb-ram-intel-arc-graphics-512gb-ssd-windows-11-pro-seguridad-avanzada",
+      "store": "PcComponentes",
+      "current_price": 1355.41,
+      "original_price": 1613.58,
+      "discount_pct": 16.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1105/11059087/1221-portatil-hp-elitebook-8-g1i-14-pulgadas-intel-core-ultra-5-226v-16gb-ram-intel-arc-graphics-512gb-ssd-windows-11-pro-seguridad-avanzada-1d5fd9ec-53ed-429c-b491-9b1a46929ec9.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        1355.41
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -21263,23 +21059,6 @@
       "category": "Componentes",
       "price_history": [
         409.0
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Apple iPhone 16 Plus 128GB Blanco",
-      "url": "https://www.pccomponentes.com/apple-iphone-16-plus-128gb-blanco",
-      "store": "PcComponentes",
-      "current_price": 939.0,
-      "original_price": 1104.71,
-      "discount_pct": 15.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855037/1122-apple-iphone-16-plus-128gb-blanco.jpg",
-      "category": "Móviles",
-      "price_history": [
-        939.0
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -22062,6 +21841,23 @@
       "category": "Monitores",
       "price_history": [
         229.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Salicru SLC-10000-TWIN PRO3 SAI Doble Conversión 10000VA 10000W",
+      "url": "https://www.pccomponentes.com/salicru-slc-10000-twin-pro3-sai-doble-conversion-10000va-10000w",
+      "store": "PcComponentes",
+      "current_price": 2593.9,
+      "original_price": 3016.16,
+      "discount_pct": 14.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10740459/1911-salicru-slc-10000-twin-pro3-sai-doble-conversion-10000va-10000w.jpg",
+      "category": "Otros",
+      "price_history": [
+        2593.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23242,6 +23038,23 @@
       "drop_pct": null
     },
     {
+      "name": "Epical-Q Pack Epic91 AMD Ryzen 5 4500/32GB/1TB SSD/RTX 3050 + Monitor 24\" FullHD 75Hz + Combo Gaming",
+      "url": "https://www.pccomponentes.com/pc-epical-q-pack-epic91-amd-ryzen-5-4500-32gb-1tb-ssd-rtx-3050-plus-monitor-24-fullhd-75hz-plus-combo-gaming",
+      "store": "PcComponentes",
+      "current_price": 1189.99,
+      "original_price": 1367.8,
+      "discount_pct": 13.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10862694/1725-epical-q-pack-epic91-amd-ryzen-5-4500-32gb-1tb-ssd-rtx-3050-monitor-24-fullhd-75hz-combo-gaming.jpg",
+      "category": "Monitores",
+      "price_history": [
+        1189.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "PC Racing Cosmo Gaming  AMD Ryzen 5 5500/16GB/1TB + 256GB SSD/RTX 3050 + Windows 11",
       "url": "https://www.pccomponentes.com/ordenador-sobremesa-pc-racing-cosmo-gaming-amd-ryzen-5-5500-16gb-1tb-256gb-ssd-rtx-3050-windows-11",
       "store": "PcComponentes",
@@ -23252,23 +23065,6 @@
       "category": "Componentes",
       "price_history": [
         867.84
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "PC Racing PC Gaming AMD Ryzen 5 5500, 16GB, 1TB, RTX 5060 + Windows 11 Pro",
-      "url": "https://www.pccomponentes.com/pc-racing-pc-gaming-amd-ryzen-5-5500-16gb-1tb-rtx-5060-windows-11-pro",
-      "store": "PcComponentes",
-      "current_price": 1077.94,
-      "original_price": 1239.01,
-      "discount_pct": 13.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1099/10995464/1546-pc-racing-pc-gaming-amd-ryzen-5-5500-16gb-1tb-rtx-5060-windows-11-pro.jpg",
-      "category": "Componentes",
-      "price_history": [
-        1077.94
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -23490,6 +23286,23 @@
       "category": "Gaming",
       "price_history": [
         219.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
+      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
+      "store": "Carrefour",
+      "current_price": 298.53,
+      "original_price": 340.32,
+      "discount_pct": 12.28,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        298.53
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -24092,6 +23905,23 @@
       "drop_pct": null
     },
     {
+      "name": "Protoarc Xk01tp Teclado Portátil Plegable En Tríptico",
+      "url": "https://www.pccomponentes.com/protoarc-xk01tp-teclado-portatil-plegable-en-triptico",
+      "store": "PcComponentes",
+      "current_price": 69.99,
+      "original_price": 79.53,
+      "discount_pct": 12.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1110/11104796/1584-protoarc-xk01tp-teclado-portatil-plegable-en-triptico-comprar.jpg",
+      "category": "Periféricos",
+      "price_history": [
+        69.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "MSI Versa 300 Wireless Bluetooth 5.3 y RF 2.4Ghz DPI 26000  Optico 8k Rgb Negro - Raton Gaming",
       "url": "https://www.game.es/accesorios/raton/pc-gaming/msi-versa-300-wireless-bluetooth-53-y-rf-24ghz-dpi-26000-optico-8k-rgb-negro-raton-gaming/237850",
       "store": "GAME",
@@ -24153,6 +23983,23 @@
       "category": "TV y Audio",
       "price_history": [
         529.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Smart TV LED 98\" (248,92 cm) Samsung TU98DU9005K, 4K-UHD, 100Hz, Procesador Crystal 4K, HDR10+",
+      "url": "https://www.carrefour.es/smart-tv-led-98-24892-cm-samsung-tu98du9005k-4k-uhd-100hz-procesador-crystal-4k-hdr10/VC4A-27388170/p",
+      "store": "Carrefour",
+      "current_price": 1553.09,
+      "original_price": 1754.99,
+      "discount_pct": 11.5,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/398205_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        1553.09
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -25367,23 +25214,6 @@
       "drop_pct": null
     },
     {
-      "name": "ASUS Prime B760M-A D4-CSM",
-      "url": "https://www.pccomponentes.com/asus-prime-b760m-a-d4-csm",
-      "store": "PcComponentes",
-      "current_price": 86.9,
-      "original_price": 96.56,
-      "discount_pct": 10.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10743226/1243-asus-prime-b760m-a-d4-csm.jpg",
-      "category": "Otros",
-      "price_history": [
-        86.9
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Apple MacBook Air 13\" Apple M5 16GB 512GB SSD GPU 10 núcleos mac OS Blanco Estrella + Cargador 35W + Regalo Belkin USB-C Multipuerto 6 en 1",
       "url": "https://www.pccomponentes.com/portatil-apple-macbook-air-13-apple-m5-16gb-512gb-ssd-gpu-10-nucleos-mac-os-blanco-estrella-plus-cargador-35w",
       "store": "PcComponentes",
@@ -26278,6 +26108,23 @@
       "category": "Gaming",
       "price_history": [
         44.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Qanba Sapphire Arcade Stick Leverless 18 Botones Personalizables PS5 PS4 PC",
+      "url": "https://www.pccomponentes.com/qanba-sapphire-arcade-stick-leverless-18-botones-personalizables-ps5-ps4-pc",
+      "store": "PcComponentes",
+      "current_price": 179.99,
+      "original_price": 199.99,
+      "discount_pct": 10.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1096/10969910/1898-qanba-sapphire-arcade-stick-leverless-18-botones-personalizables-ps5-ps4-pc.jpg",
+      "category": "Gaming",
+      "price_history": [
+        179.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -27186,6 +27033,40 @@
       "drop_pct": null
     },
     {
+      "name": "Portátil HP OmniBook 3 16-bu0077ns 16\" Intel Core 3 100U 8GB 512GB SSD Intel Graphics Windows 11 Home",
+      "url": "https://www.pccomponentes.com/portatil-hp-omnibook-3-16-bu0077ns-16-intel-core-3-100u-8gb-512gb-ssd-intel-graphics-windows-11-home",
+      "store": "PcComponentes",
+      "current_price": 500.86,
+      "original_price": 550.4,
+      "discount_pct": 9.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1105/11051632/1993-portatil-hp-omnibook-3-16-bu0077ns-16-intel-core-3-100u-8gb-512gb-ssd-intel-graphics-windows-11-home.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        500.86
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Portátil Lenovo V15 G4 ARP 15,6\" AMD Ryzen 5 150 16GB 512GB SSD Radeon 660M Sin Sistema Operativo",
+      "url": "https://www.pccomponentes.com/portatil-lenovo-v15-g4-arp-15-6-amd-ryzen-5-150-16gb-512gb-ssd-radeon-660m-sin-sistema-operativo",
+      "store": "PcComponentes",
+      "current_price": 515.17,
+      "original_price": 566.12,
+      "discount_pct": 9.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1114/11145443/1952-portatil-lenovo-v15-g4-arp-156-amd-ryzen-5-150-16gb-512gb-ssd-radeon-660m-sin-sistema-operativo-opiniones.jpg",
+      "category": "Portátiles",
+      "price_history": [
+        515.17
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Apple MacBook Neo (2026), 13\" Liquid Retina, Chip A18 Pro, CPU 6 núcleos + GPU 5 núcleos, 8GB RAM, 256GB SSD, Magic Keyboard, Índigo, Sin AC",
       "url": "https://www.mediamarkt.es/es/product/_apple-macbook-neo-2026-13-liquid-retina-chip-a18-pro-cpu-6-nucleos-gpu-5-nucleos-8gb-ram-256gb-ssd-magic-keyboard-indigo-sin-ac-1622435.html",
       "store": "MediaMarkt",
@@ -27264,6 +27145,23 @@
       "category": "Hogar",
       "price_history": [
         309.0
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "ASUS Prime B760M-A D4-CSM",
+      "url": "https://www.pccomponentes.com/asus-prime-b760m-a-d4-csm",
+      "store": "PcComponentes",
+      "current_price": 86.9,
+      "original_price": 94.46,
+      "discount_pct": 8.0,
+      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10743226/1243-asus-prime-b760m-a-d4-csm.jpg",
+      "category": "Otros",
+      "price_history": [
+        86.9
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -28464,13 +28362,13 @@
       "name": "Fujifilm Instax Mini Evo Cámara Instantánea Marrón",
       "url": "https://www.pccomponentes.com/fujifilm-instax-mini-evo-camara-instantanea-marron",
       "store": "PcComponentes",
-      "current_price": 210.03,
-      "original_price": 223.44,
+      "current_price": 210.02,
+      "original_price": 223.43,
       "discount_pct": 6.0,
       "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10746531/1742-fujifilm-instax-mini-evo-camara-instantanea-marron.jpg",
       "category": "Otros",
       "price_history": [
-        210.03
+        210.02
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -29209,23 +29107,6 @@
       "drop_pct": null
     },
     {
-      "name": "Trust Asto Barra de Sonido 6W Negra",
-      "url": "https://www.pccomponentes.com/trust-asto-barra-de-sonido-6w-negra",
-      "store": "PcComponentes",
-      "current_price": 37.99,
-      "original_price": 39.99,
-      "discount_pct": 5.0,
-      "image_url": "https://thumb.pccomponentes.com/w-150-150/articles/12/125915/9.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        37.99
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
       "name": "Ulefone Armor X16 4G 6GB 128GB 6.56\" Duna de arena",
       "url": "https://www.pccomponentes.com/ulefone-armor-x16-4g-6gb-128gb-656-duna-de-arena",
       "store": "PcComponentes",
@@ -29304,23 +29185,6 @@
       "category": "TV y Audio",
       "price_history": [
         22.02
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": null,
-      "drop_pct": null
-    },
-    {
-      "name": "Smart TV QLED 50\" (127 cm) Daewoo 50VB56QV, 4K UHD, 50 Hz, HDR10, Dolby audio",
-      "url": "https://www.carrefour.es/smart-tv-qled-50-127-cm-daewoo-50vb56qv-4k-uhd-50-hz-hdr10-dolby-audio/VC4A-34091038/p",
-      "store": "Carrefour",
-      "current_price": 298.54,
-      "original_price": 313.47,
-      "discount_pct": 4.76,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/714029_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        298.54
       ],
       "history_days": 1,
       "is_lowest": true,
