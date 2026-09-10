@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T21:08:50.620315+00:00",
-  "total_products": 1260,
+  "updated": "2026-09-10T21:29:43.442878+00:00",
+  "total_products": 1299,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack HDC 12 Nickel - Accesorio Racor",
@@ -632,6 +632,23 @@
       "drop_pct": null
     },
     {
+      "name": "Life Is Strange Collection Edition",
+      "url": "https://www.game.es/videojuegos/aventura-grafica/playstation-5/life-is-strange-collection-edition/248689",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 69.99,
+      "discount_pct": 57.15,
+      "image_url": "https://media.game.es/COVERV2/3D_L/248/248689.png",
+      "category": "Gaming",
+      "price_history": [
+        29.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "HyperX Cloud III S Auriculares Gaming Inalámbricos + Pulsefire Haste 2 Wireless Ratón Gaming 26000DPI",
       "url": "https://www.pccomponentes.com/hyperx-cloud-iii-s-auriculares-gaming-inalambricos-plus-pulsefire-haste-2-wireless-raton-gaming-26000dpi",
       "store": "PcComponentes",
@@ -697,6 +714,40 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 158.06,
+      "drop_pct": null
+    },
+    {
+      "name": "Figura DC Multiverse Batman Knightsend de 18 cm",
+      "url": "https://www.game.es/figuras/figura/merchandising/figura-dc-multiverse-batman-knightsend-de-18-cm/256636",
+      "store": "GAME",
+      "current_price": 12.99,
+      "original_price": 29.98,
+      "discount_pct": 56.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/256/256636.png",
+      "category": "Gaming",
+      "price_history": [
+        12.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Figura DC Retro Batman ´66 de 15 cm",
+      "url": "https://www.game.es/figuras/figura/merchandising/figura-dc-retro-batman-66-de-15-cm/256621",
+      "store": "GAME",
+      "current_price": 9.99,
+      "original_price": 22.99,
+      "discount_pct": 56.55,
+      "image_url": "https://media.game.es/COVERV2/3D_L/256/256621.png",
+      "category": "Gaming",
+      "price_history": [
+        9.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -989,6 +1040,23 @@
       "drop_pct": null
     },
     {
+      "name": "Figura DC Edicion Gold con comic Superman Page Punchers de 18 cm",
+      "url": "https://www.game.es/figuras/figura/merchandising/figura-dc-edicion-gold-con-comic-superman-page-punchers-de-18-cm/256635",
+      "store": "GAME",
+      "current_price": 19.99,
+      "original_price": 39.97,
+      "discount_pct": 49.99,
+      "image_url": "https://media.game.es/COVERV2/3D_L/256/256635.png",
+      "category": "Gaming",
+      "price_history": [
+        19.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "TABWEE T60 Pro, 256 GB, Gris, 13,4 \" HD+, 8 GB RAM, Unisoc T7280(Octa core), Tablet Android",
       "url": "https://www.mediamarkt.es/es/product/_tabwee-t60-pro-256-gb-gris-134-hd-8-gb-ram-unisoc-t7280octa-core-tablet-android-162499276.html",
       "store": "MediaMarkt",
@@ -1053,7 +1121,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 12.99,
       "drop_pct": null
     },
     {
@@ -1223,7 +1291,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 26.9,
       "drop_pct": null
     },
     {
@@ -1839,6 +1907,40 @@
       "drop_pct": null
     },
     {
+      "name": "Dragon Quest 1 y 2 HD Remake",
+      "url": "https://www.game.es/videojuegos/rol/playstation-5/dragon-quest-1-y-2-hd-remake/243654",
+      "store": "GAME",
+      "current_price": 39.99,
+      "original_price": 69.99,
+      "discount_pct": 42.86,
+      "image_url": "https://media.game.es/COVERV2/3D_L/243/243654.png",
+      "category": "Gaming",
+      "price_history": [
+        39.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Dragon Quest 1 y 2 HD Remake",
+      "url": "https://www.game.es/videojuegos/rol/nintendo-switch-2/dragon-quest-1-y-2-hd-remake/246543",
+      "store": "GAME",
+      "current_price": 39.99,
+      "original_price": 69.99,
+      "discount_pct": 42.86,
+      "image_url": "https://media.game.es/COVERV2/3D_L/246/246543.png",
+      "category": "Gaming",
+      "price_history": [
+        39.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "TABWEE T20, 256 GB, Gris, 10,1 \" HD+, 8 GB RAM, UMS9230 T606(Octa core), Tablet Android",
       "url": "https://www.mediamarkt.es/es/product/_tablet-tabwee-t20-gris-256-gb-101-hd-8-gb-ram-ums9230t606-android-154981254.html",
       "store": "MediaMarkt",
@@ -2244,6 +2346,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 479.0,
+      "drop_pct": null
+    },
+    {
+      "name": "EA Sports FC 26",
+      "url": "https://www.game.es/videojuegos/deportes/nintendo-switch-2/ea-sports-fc-26/248617",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 49.99,
+      "discount_pct": 40.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/248/248617.png",
+      "category": "Gaming",
+      "price_history": [
+        29.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -2890,6 +3009,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 749.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Final Fantasy XVI",
+      "url": "https://www.game.es/videojuegos/rol/playstation-5/final-fantasy-xvi/183238",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 39.99,
+      "discount_pct": 37.51,
+      "image_url": "https://media.game.es/COVERV2/3D_L/183/183238.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4113,7 +4249,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 19.9,
       "drop_pct": null
     },
     {
@@ -4144,6 +4280,23 @@
       "category": "TV y Audio",
       "price_history": [
         45.89
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Figura Q-Fig Marvel: Capitana Marvel",
+      "url": "https://www.game.es/figuras/figura/merchandising/figura-q-fig-marvel-capitana-marvel/172152",
+      "store": "GAME",
+      "current_price": 3.99,
+      "original_price": 5.99,
+      "discount_pct": 33.39,
+      "image_url": "https://media.game.es/COVERV2/3D_L/172/172152.png",
+      "category": "Gaming",
+      "price_history": [
+        3.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -4182,6 +4335,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 999.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Vehiculo + figura Star Wars Doorables (surtido)",
+      "url": "https://www.game.es/figuras/coleccionable/merchandising/vehiculo-figura-star-wars-doorables-surtido/243255",
+      "store": "GAME",
+      "current_price": 9.99,
+      "original_price": 14.99,
+      "discount_pct": 33.36,
+      "image_url": "https://media.game.es/COVERV2/3D_L/243/243255.png",
+      "category": "Gaming",
+      "price_history": [
+        9.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -4994,6 +5164,23 @@
       "category": "Móviles",
       "price_history": [
         234.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Kingston Technology SDCIT/16GBSP memoria flash 16GB MicroSDHC Clase 10 UHS-I",
+      "url": "https://www.game.es/almacenamiento/tarjeta-memoria/multi-plataforma/kingston-technology-sdcit-16gbsp-memoria-flash-16gb-microsdhc-clase-10-uhs-i/v0080c",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 21.99,
+      "discount_pct": 31.83,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V00/V0080C.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -6000,7 +6187,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 69.99,
       "drop_pct": null
     },
     {
@@ -6392,6 +6579,40 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 54.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Dragon Quest VII: Reimagined",
+      "url": "https://www.game.es/videojuegos/rol/nintendo-switch-2/dragon-quest-vii-reimagined/251071",
+      "store": "GAME",
+      "current_price": 49.99,
+      "original_price": 69.99,
+      "discount_pct": 28.58,
+      "image_url": "https://media.game.es/COVERV2/3D_L/251/251071.png",
+      "category": "Gaming",
+      "price_history": [
+        49.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Figura Dragon Ball Daima Piccolo con panel de fondo de 8 cm",
+      "url": "https://www.game.es/figuras/figura-banpresto/merchandising/figura-dragon-ball-daima-piccolo-con-panel-de-fondo-de-8-cm/239728",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 34.99,
+      "discount_pct": 28.58,
+      "image_url": "https://media.game.es/COVERV2/3D_L/239/239728.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -8129,6 +8350,74 @@
       "drop_pct": null
     },
     {
+      "name": "GAME KX3 Membrana TKL RGB Spanish Layout Negro - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kx3-membrana-tkl-rgb-spanish-layout-negro-teclado-gaming/220169",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 19.99,
+      "discount_pct": 25.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220169.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME HX3 Blanco PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hx3-blanco-pc-ps5-ps4-xbox-switch-auriculares-gaming/232606",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 19.99,
+      "discount_pct": 25.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232606.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME GP1W Wireless Black PC - Controller",
+      "url": "https://www.game.es/accesorios/controller/pc-gaming/game-gp1w-wireless-black-pc-controller/232607",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 19.99,
+      "discount_pct": 25.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232607.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME GP320 RGB USB PC - Controller",
+      "url": "https://www.game.es/accesorios/controller/pc-gaming/game-gp320-rgb-usb-pc-controller/194359",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 19.99,
+      "discount_pct": 25.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/194/194359.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Portátil Alurin Flex Advance AMD Ryzen 7-5825U 15.6\"/ 16GB/500GB/Windows 11 Home",
       "url": "https://www.pccomponentes.com/portatil-alurin-flex-advance-amd-ryzen-7-5825u-15-6-16gb-500gb-windows-11-home",
       "store": "PcComponentes",
@@ -8737,7 +9026,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 44.99,
       "drop_pct": null
     },
     {
@@ -9163,6 +9452,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 129.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Cougar Mossa Royal 150 Electrica Blanco - Mesa Gaming",
+      "url": "https://www.game.es/accesorios/mesa/pc-gaming/cougar-mossa-royal-150-electrica-blanco-mesa-gaming/v1hefa",
+      "store": "GAME",
+      "current_price": 259.99,
+      "original_price": 339.99,
+      "discount_pct": 23.53,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V1H/V1HEFA.png",
+      "category": "Gaming",
+      "price_history": [
+        259.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -10590,7 +10896,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 15.9,
       "drop_pct": null
     },
     {
@@ -10662,6 +10968,23 @@
       "drop_pct": null
     },
     {
+      "name": "Nave con figura Star Wars Ginivex Starfighter de 8 cm",
+      "url": "https://www.game.es/juguetes/replica/merchandising/nave-con-figura-star-wars-ginivex-starfighter-de-8-cm/254941",
+      "store": "GAME",
+      "current_price": 7.99,
+      "original_price": 9.99,
+      "discount_pct": 20.02,
+      "image_url": "https://media.game.es/COVERV2/3D_L/254/254941.png",
+      "category": "Gaming",
+      "price_history": [
+        7.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Power Bank Anker 20000 mAh 30W Negra",
       "url": "https://www.pccomponentes.com/anker-powerbank-20000-mah-30w-negra",
       "store": "PcComponentes",
@@ -10693,6 +11016,57 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 27.99,
+      "drop_pct": null
+    },
+    {
+      "name": "STAR WARS Dark Forces Remaster",
+      "url": "https://www.game.es/videojuegos/accion/playstation-5/star-wars-dark-forces-remaster/254923",
+      "store": "GAME",
+      "current_price": 19.99,
+      "original_price": 24.99,
+      "discount_pct": 20.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/254/254923.png",
+      "category": "Gaming",
+      "price_history": [
+        19.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Tomb Raider I-II-III Remastered",
+      "url": "https://www.game.es/videojuegos/aventura/playstation-5/tomb-raider-i-ii-iii-remastered/231391",
+      "store": "GAME",
+      "current_price": 19.99,
+      "original_price": 24.99,
+      "discount_pct": 20.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/231/231391.png",
+      "category": "Gaming",
+      "price_history": [
+        19.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME KX5 Mecanico TKL RGB Red Switch Spanish Layout Negro - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kx5-mecanico-tkl-rgb-red-switch-spanish-layout-negro-teclado-gaming/220172",
+      "store": "GAME",
+      "current_price": 19.99,
+      "original_price": 24.99,
+      "discount_pct": 20.01,
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220172.png",
+      "category": "Gaming",
+      "price_history": [
+        19.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -12430,6 +12804,40 @@
       "drop_pct": null
     },
     {
+      "name": "GAME HH-ST RGB Negro PC - PS5 - PS4 - Xbox - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hh-st-rgb-negro-pc-ps5-ps4-xbox-switch-auriculares-gaming/232337",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 17.99,
+      "discount_pct": 16.68,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232337.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME HH-ST RGB Blanco PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hh-st-rgb-blanco-pc-ps5-ps4-xbox-switch-auriculares-gaming/239001",
+      "store": "GAME",
+      "current_price": 14.99,
+      "original_price": 17.99,
+      "discount_pct": 16.68,
+      "image_url": "https://media.game.es/COVERV2/3D_L/239/239001.png",
+      "category": "Gaming",
+      "price_history": [
+        14.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV MiniLED 65\" (165,1 cm) Samsung TU65M73HAU, 4K UHD, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
       "url": "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-samsung-tu65m73hau-4k-uhd-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-34125744/p",
       "store": "Carrefour",
@@ -12668,6 +13076,91 @@
       "drop_pct": null
     },
     {
+      "name": "GAME KH-60B Mecanico mini 60% RGB Blue Switch Spanish Layout Blanco - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kh-60b-mecanico-mini-60-rgb-blue-switch-spanish-layout-blanco-teclado-gaming/232341",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 29.99,
+      "discount_pct": 16.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232341.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME KH-60B Mecanico mini 60% RGB Blue Switch Spanish Layout Negro - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kh-60b-mecanico-mini-60-rgb-blue-switch-spanish-layout-negro-teclado-gaming/232340",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 29.99,
+      "discount_pct": 16.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232340.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Monopoly Star Wars",
+      "url": "https://www.game.es/videojuegos/puzzle/nintendo-switch-2/monopoly-star-wars/259120",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 29.99,
+      "discount_pct": 16.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/259/259120.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME HX5 Auriculares Gaming RGB PC - PS5 - PS4 - XBOX - Switch - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hx5-auriculares-gaming-rgb-pc-ps5-ps4-xbox-switch-auriculares-gaming/220176",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 29.99,
+      "discount_pct": 16.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220176.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME GP322 Bluetooth RGB PC - Switch - Android - iOs - Controller",
+      "url": "https://www.game.es/accesorios/controller/pc-gaming/game-gp322-bluetooth-rgb-pc-switch-android-ios-controller/209564",
+      "store": "GAME",
+      "current_price": 24.99,
+      "original_price": 29.99,
+      "discount_pct": 16.67,
+      "image_url": "https://media.game.es/COVERV2/3D_L/209/209564.png",
+      "category": "Gaming",
+      "price_history": [
+        24.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Tomodachi Life una Vida de Ensueño para Switch",
       "url": "https://www.carrefour.es/tomodachi-life-una-vida-de-ensueno-para-switch/VC4A-32717435/p",
       "store": "Carrefour",
@@ -12681,7 +13174,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 56.65,
       "drop_pct": null
     },
     {
@@ -13926,6 +14419,23 @@
       "drop_pct": null
     },
     {
+      "name": "Figura Ichibansho Son Goku y Krillin training section de 13 cm",
+      "url": "https://www.game.es/figuras/figura-banpresto/merchandising/figura-ichibansho-son-goku-y-krillin-training-section-de-13-cm/237887",
+      "store": "GAME",
+      "current_price": 59.99,
+      "original_price": 70.99,
+      "discount_pct": 15.5,
+      "image_url": "https://media.game.es/COVERV2/3D_L/237/237887.png",
+      "category": "Gaming",
+      "price_history": [
+        59.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor - PEAQ PMO S225-VFC, 22\" Full-HD, 75 Hz, 6 ms, VA (Alineación Vertical), Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s225-vfc-22-full-hd-75-hz-6-ms-va-alineacion-vertical-negro-1602476.html",
       "store": "MediaMarkt",
@@ -13957,6 +14467,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 109.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Kingston Technology ValueRAM 8GB DDR3 1600MHz Module 1x8GB - Memoria RAM",
+      "url": "https://www.game.es/componentes/memoria/pc-gaming/kingston-technology-valueram-8gb-ddr3-1600mhz-module-1x8gb-memoria-ram/v0084z",
+      "store": "GAME",
+      "current_price": 49.99,
+      "original_price": 58.99,
+      "discount_pct": 15.26,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V00/V0084Z.png",
+      "category": "Gaming",
+      "price_history": [
+        49.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -14467,6 +14994,57 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 299.99,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME KH-60W Mecanico Wireless mini RGB Blue Switch Spanish Layout Negro  - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kh-60w-mecanico-wireless-mini-rgb-blue-switch-spanish-layout-negro-teclado-gaming/243770",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 34.99,
+      "discount_pct": 14.29,
+      "image_url": "https://media.game.es/COVERV2/3D_L/243/243770.png",
+      "category": "Gaming",
+      "price_history": [
+        29.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME KH-60W Mecanico Wireless mini RGB Blue Switch Spanish Layout Blanco - Teclado Gaming",
+      "url": "https://www.game.es/accesorios/teclado/pc-gaming/game-kh-60w-mecanico-wireless-mini-rgb-blue-switch-spanish-layout-blanco-teclado-gaming/243769",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 34.99,
+      "discount_pct": 14.29,
+      "image_url": "https://media.game.es/COVERV2/3D_L/243/243769.png",
+      "category": "Gaming",
+      "price_history": [
+        29.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME HX-WPRO Inalambricos Bluetooth Negro PC - PS5 - PS4 - XBOX - Switch - Movil - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hx-wpro-inalambricos-bluetooth-negro-pc-ps5-ps4-xbox-switch-movil-auriculares-gaming/220178",
+      "store": "GAME",
+      "current_price": 29.99,
+      "original_price": 34.99,
+      "discount_pct": 14.29,
+      "image_url": "https://media.game.es/COVERV2/3D_L/220/220178.png",
+      "category": "Gaming",
+      "price_history": [
+        29.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15163,6 +15741,23 @@
       ],
       "history_days": 1,
       "is_lowest": true,
+      "prev_price": 69.9,
+      "drop_pct": null
+    },
+    {
+      "name": "Figura Dragon Ball Daima Super Warrior Figures 8 de 5 cm",
+      "url": "https://www.game.es/figuras/coleccionable/merchandising/figura-dragon-ball-daima-super-warrior-figures-8-de-5-cm/246893",
+      "store": "GAME",
+      "current_price": 6.99,
+      "original_price": 7.99,
+      "discount_pct": 12.52,
+      "image_url": "https://media.game.es/COVERV2/3D_L/246/246893.png",
+      "category": "Gaming",
+      "price_history": [
+        6.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
       "prev_price": null,
       "drop_pct": null
     },
@@ -15232,6 +15827,23 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 69.99,
+      "drop_pct": null
+    },
+    {
+      "name": "GAME HH-BT RGB Wireless Bluetooth Negro PC - PS5 - PS4 - XBOX - Switch - Movil - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/game-hh-bt-rgb-wireless-bluetooth-negro-pc-ps5-ps4-xbox-switch-movil-auriculares-gaming/232338",
+      "store": "GAME",
+      "current_price": 34.99,
+      "original_price": 39.99,
+      "discount_pct": 12.5,
+      "image_url": "https://media.game.es/COVERV2/3D_L/232/232338.png",
+      "category": "Gaming",
+      "price_history": [
+        34.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
       "drop_pct": null
     },
     {
@@ -15592,6 +16204,23 @@
       "drop_pct": null
     },
     {
+      "name": "Figura con panel Dragon Ball Daima Supreme Kai de 13 cm",
+      "url": "https://www.game.es/figuras/figura-banpresto/merchandising/figura-con-panel-dragon-ball-daima-supreme-kai-de-13-cm/237882",
+      "store": "GAME",
+      "current_price": 21.99,
+      "original_price": 24.99,
+      "discount_pct": 12.0,
+      "image_url": "https://media.game.es/COVERV2/3D_L/237/237882.png",
+      "category": "Gaming",
+      "price_history": [
+        21.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Altavoz Inalámbrico Vieta Pro Party 110 VM-HW355BK - Negro",
       "url": "https://www.carrefour.es/altavoz-inalambrico-vieta-pro-party-110-vm-hw355bk-negro/VC4A-31091602/p",
       "store": "Carrefour",
@@ -15622,7 +16251,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 39.99,
       "drop_pct": null
     },
     {
@@ -15966,6 +16595,23 @@
       "drop_pct": null
     },
     {
+      "name": "ASUS TUF Gaming B760-Plus WIFI Intel B760 LGA 1700 ATX - Placa Base Gaming",
+      "url": "https://www.game.es/componentes/placa-base/pc-gaming/asus-tuf-gaming-b760-plus-wifi-intel-b760-lga-1700-atx-placa-base-gaming/v1h0hp",
+      "store": "GAME",
+      "current_price": 199.99,
+      "original_price": 223.99,
+      "discount_pct": 10.71,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V1H/V1H0HP.png",
+      "category": "Gaming",
+      "price_history": [
+        199.99
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB + 8GB RAM - Negro",
       "url": "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-negro/VC4A-32381779/p",
       "store": "Carrefour",
@@ -15976,6 +16622,23 @@
       "category": "Móviles",
       "price_history": [
         275.93
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "ASUS TUF Gaming VG279QE5A 27´´ - IPS - Full HD - 144Hz - Monitor Gaming",
+      "url": "https://www.game.es/accesorios/monitor/pc-gaming/asus-tuf-gaming-vg279qe5a-27-ips-full-hd-144hz-monitor-gaming/v1il4h",
+      "store": "GAME",
+      "current_price": 129.99,
+      "original_price": 144.99,
+      "discount_pct": 10.35,
+      "image_url": "https://media.game.es/COVERV2/3D_L/V1I/V1IL4H.png",
+      "category": "Gaming",
+      "price_history": [
+        129.99
       ],
       "history_days": 1,
       "is_lowest": true,
@@ -17815,7 +18478,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 34.59,
       "drop_pct": null
     },
     {
@@ -17866,7 +18529,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 464.0,
       "drop_pct": null
     },
     {
