@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:39:45.449387+00:00",
+  "updated": "2026-09-17T21:07:51.810759+00:00",
   "products": {
     "https://www.pccomponentes.com/portatil-alurin-flex-advance-amd-ryzen-7-6800-16gb-512gb-156-windows-home": {
       "name": "Portátil Alurin Flex Advance AMD Ryzen 7 6800/16GB/512GB/15.6\" Windows Home",
@@ -8378,7 +8378,7 @@
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176049090",
-      "price": 599.0,
+      "price": 649.0,
       "prev_price": 599.0,
       "original_price": 699,
       "history": [
@@ -8389,10 +8389,14 @@
         [
           "2026-09-16",
           599.0
+        ],
+        [
+          "2026-09-17",
+          649.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-wifi-only-11-25k-8gb-ram-256gb-incluye-teclado-y-pen-gris-1603849.html": {
       "name": "Tablet - Lenovo Idea Tab, Wifi Only, 11\" 2.5K , 8GB RAM, 256GB, Incluye Teclado y lápiz digital, Gris",
@@ -8410,10 +8414,14 @@
         [
           "2026-09-16",
           269.0
+        ],
+        [
+          "2026-09-17",
+          269.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-acer-sa243yp1bi-24-full-hd-144-hz-4-ms-ips-1x-vga-1x-hdmi-14-freesync-negro-1604093.html": {
       "name": "Monitor - Acer SA243YP1BI, 24\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
@@ -8431,27 +8439,35 @@
         [
           "2026-09-16",
           69.0
+        ],
+        [
+          "2026-09-17",
+          69.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_16-bu0025ns-c5-120u16512free-1618356.html": {
       "name": "Portátil - HP OmniBook 3 Laptop 16-bu0025ns, 16\" DCI 2K, Intel® Core™ 5 120U, 16GB RAM, 512GB SSD, UHD Graphics, Sin sistema operativo, Sin cargador",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181941206",
-      "price": 479.0,
+      "price": 719.0,
       "prev_price": 479.0,
       "original_price": 799,
       "history": [
         [
           "2026-09-15",
           479.0
+        ],
+        [
+          "2026-09-17",
+          719.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-15T23:32:08.693775+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-16-by0019ns-16-dci-2k-amd-ryzen-5-16-gb-ram-512-gb-ssd-radeon-610m-sin-sistema-operativo-azul-1618458.html": {
       "name": "Portátil - HP OmniBook 3 16-by0019ns, 16\" DCI 2K, AMD Ryzen™ 5 40, 16GB RAM, 512GB SSD, Radeon™ 610M, Sin sistema operativo, Sin cargador",
@@ -8479,7 +8495,7 @@
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_176049109",
-      "price": 649.0,
+      "price": 699.0,
       "prev_price": 649.0,
       "original_price": 799.99,
       "history": [
@@ -8490,17 +8506,21 @@
         [
           "2026-09-16",
           649.0
+        ],
+        [
+          "2026-09-17",
+          699.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-hp-omen-16-am0008ns-16-2k-intelr-coretm-7-240h-32gb-ram-1tb-ssd-geforce-rtxtm-5060-windows-11-home-negro-1598135.html": {
       "name": "Portátil gaming - HP OMEN 16-am0008ns, 16\" 2K, Intel® Core™ 7 240H, 32GB RAM, 1TB SSD, GeForce RTX™ 5060, Windows 11 Home, Negro",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158179429",
-      "price": 1199.0,
+      "price": 1299.0,
       "prev_price": 1199.0,
       "original_price": 1549,
       "history": [
@@ -8511,10 +8531,14 @@
         [
           "2026-09-16",
           1199.0
+        ],
+        [
+          "2026-09-17",
+          1299.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-acer-aspire-lite-15-al15-54p-5270-156-full-hd-intelr-coretm-ultra-5-115u-16gb-ram-512-gb-ssd-coretm-graphics-sin-sistema-operativo-1618465.html": {
       "name": "Portátil - Acer Aspire Lite 15 AL15-54P-5270, 15.6\" Full-HD, Intel® Core™ Ultra 5 115U, 16GB RAM, 512 GB SSD, Core™ Graphics, Sin SO, Sin cargador",
@@ -8532,10 +8556,14 @@
         [
           "2026-09-16",
           479.0
+        ],
+        [
+          "2026-09-17",
+          479.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-oled-m1605naq-sh051w-16-wuxga-amd-ryzen-5-150-16-gb-ram-512-gb-ssd-radeontm-660m-w11h-sin-cargador-1625041.html": {
       "name": "Portátil - ASUS Vivobook 16 OLED M1605NAQ-SH051W, 16\" WUXGA, AMD Ryzen 5 150, 16 GB RAM, 512 GB SSD, Radeon™ 660M, W11H, Sin cargador",
@@ -8553,10 +8581,14 @@
         [
           "2026-09-16",
           599.0
+        ],
+        [
+          "2026-09-17",
+          599.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-wifi-11-25k-8gb-ram-128gb-gris-incluye-lapiz-1603847.html": {
       "name": "Tablet - Lenovo Idea Tab, WIFI, 11\" 2.5K, 8GB RAM, 128GB, Gris, Incluye lápiz digital",
@@ -8595,10 +8627,14 @@
         [
           "2026-09-16",
           159.0
+        ],
+        [
+          "2026-09-17",
+          159.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s225-vfc-22-full-hd-75-hz-6-ms-va-alineacion-vertical-negro-1602476.html": {
       "name": "Monitor - PEAQ PMO S225-VFC, 22\" Full-HD, 75 Hz, 6 ms, VA (Alineación Vertical), Negro",
@@ -8616,17 +8652,21 @@
         [
           "2026-09-16",
           54.99
+        ],
+        [
+          "2026-09-17",
+          54.99
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-hp-omnibook-3-laptop-16-bu0024ns-16-dci-2k-intelr-coretm-3-100u-8-gb-ram-512-gb-ssd-uhd-graphics-sin-sistema-operativo-sin-cargador-1618355.html": {
       "name": "Portátil - HP OmniBook 3 Laptop 16-bu0024ns, 16 \" DCI 2K, Intel® Core™ 3 100U, 8 GB RAM, 512 GB SSD, UHD Graphics, Sin sistema operativo, Sin cargador",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181941120",
-      "price": 379.0,
+      "price": 549.0,
       "prev_price": 379.0,
       "original_price": 649,
       "history": [
@@ -8637,10 +8677,14 @@
         [
           "2026-09-16",
           379.0
+        ],
+        [
+          "2026-09-17",
+          549.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-wifi-11-25k-8gb-ram-256gb-gris-incluye-lapiz-1603848.html": {
       "name": "Tablet - Lenovo Idea Tab, WIFI, 11\" 2.5K, 8GB RAM, 256GB, Gris, Incluye Lápiz digital",
@@ -8679,17 +8723,21 @@
         [
           "2026-09-16",
           1199.0
+        ],
+        [
+          "2026-09-17",
+          1199.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-3-15irh10-153-full-hd-intelr-coretm-i5-13420h-16gb-ram-512gb-ssd-uhd-graphics-sin-so-sin-cargador-1623892.html": {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" Full-HD, Intel® Core™ i5-13420H, 16GB RAM, 512GB SSD, UHD Graphics, Sin SO, Sin cargador",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177097703",
-      "price": 529.0,
+      "price": 519.0,
       "prev_price": 529.0,
       "original_price": 699,
       "history": [
@@ -8700,10 +8748,14 @@
         [
           "2026-09-16",
           529.0
+        ],
+        [
+          "2026-09-17",
+          519.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-asus-v16-v3607vm-tk228-16-wuxga-intelr-coretm-7-240h-16-gb-ram-1-tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1621827.html": {
       "name": "Portátil gaming - ASUS V16 V3607VM-TK228, 16 \" WUXGA,  Intel® Core™ 7 240H, 16 GB RAM, 1 TB SSD, GeForce RTX™ 5060, Sin sistema operativo",
@@ -8721,17 +8773,21 @@
         [
           "2026-09-16",
           999.0
+        ],
+        [
+          "2026-09-17",
+          999.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-lenovo-idea-tab-pro-127-3k-8gb-ram-256gb-mediatek-dimensity-8300-android-gris-incluye-lapiz-digital-1592313.html": {
       "name": "Tablet - Lenovo Idea Tab Pro, 12.7\" 3K, 8GB RAM, 256GB, MediaTek Dimensity 8300, Android, Gris, Incluye lápiz digital",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157452879",
-      "price": 315.0,
+      "price": 329.0,
       "prev_price": 315.0,
       "original_price": 429,
       "history": [
@@ -8742,10 +8798,14 @@
         [
           "2026-09-16",
           315.0
+        ],
+        [
+          "2026-09-17",
+          329.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-legion-5-15iax10-151-oled-intel-coretm-ultra-7-255hx-13-tops-32gb-ram-1tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1617988.html": {
       "name": "Portátil gaming - Lenovo Legion 5 15IAX10, 15.1\" OLED, Intel® Core™ Ultra 7 255HX, 13 TOPS, 32GB RAM, 1TB SSD, GeForce RTX™ 5060, Sin SO",
@@ -8780,10 +8840,14 @@
         [
           "2026-09-16",
           179.0
+        ],
+        [
+          "2026-09-17",
+          179.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html": {
       "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
@@ -8801,17 +8865,21 @@
         [
           "2026-09-16",
           64.99
+        ],
+        [
+          "2026-09-17",
+          64.99
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-deskjet-2921-impresion-copia-escaner-wi-fi-hp-instant-ink-gris-1608553.html": {
       "name": "Impresora multifunción tinta – HP DeskJet 2921, Impresión, Copia, Escáner, Wi-Fi, HP Instant Ink, Gris",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179518689",
-      "price": 44.99,
+      "price": 49.0,
       "prev_price": 44.99,
       "original_price": 64.9,
       "history": [
@@ -8822,10 +8890,14 @@
         [
           "2026-09-16",
           44.99
+        ],
+        [
+          "2026-09-17",
+          49.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-msi-pro-mp275pg-27-full-hd-100-hz-4-ms-ips-adaptive-sync-altura-ajustable-hdr-negro-1591311.html": {
       "name": "Monitor - MSI PRO MP275PG, 27\" Full-HD, 100 Hz, 4 ms, IPS, Adaptive Sync, Altavoces integrados, Altura ajustable, HDR, Negro",
@@ -8874,7 +8946,7 @@
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177671110",
-      "price": 579.0,
+      "price": 569.0,
       "prev_price": 579.0,
       "original_price": 699,
       "history": [
@@ -8885,10 +8957,14 @@
         [
           "2026-09-16",
           579.0
+        ],
+        [
+          "2026-09-17",
+          569.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-acer-aspire-lite-15-al15-48p-r6r1-156-full-hd-amd-ryzentm-7-5825u-8gb-ram-512gb-ssd-radeontm-onboard-graphics-sin-so-sin-cargador-1624376.html": {
       "name": "Portátil - Acer Aspire Lite 15 AL15-48P-R6R1, 15.6\" Full-HD, AMD Ryzen™ 7 5825U, 8GB RAM, 512GB SSD, Radeon™ Onboard Graphics, Sin SO, Sin cargador",
@@ -8897,7 +8973,7 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175436752",
       "price": 379.0,
       "prev_price": 379.0,
-      "original_price": 409,
+      "original_price": 699,
       "history": [
         [
           "2026-09-15",
@@ -8906,10 +8982,14 @@
         [
           "2026-09-16",
           379.0
+        ],
+        [
+          "2026-09-17",
+          379.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-multifuncion-epson-expression-home-xp-2200-inyeccion-de-tinta-27-ppm-5760-x-1440-wifi-a4-negro-1540423.html": {
       "name": "Impresora multifunción tinta - Epson Expression Home XP-2200, Impresión doble cara, Color, WiFi, A4, Negro",
@@ -8927,10 +9007,14 @@
         [
           "2026-09-16",
           54.99
+        ],
+        [
+          "2026-09-17",
+          54.99
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-tabwee-t20-gris-256-gb-101-hd-8-gb-ram-ums9230t606-android-154981254.html": {
       "name": "TABWEE T20, 256 GB, Gris, 10,1 \" HD+, 8 GB RAM, UMS9230 T606(Octa core), Tablet Android",
@@ -8948,17 +9032,21 @@
         [
           "2026-09-16",
           115.0
+        ],
+        [
+          "2026-09-17",
+          115.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-smart-tank-6006-wi-fi-direct-usb-impresion-a-doble-cara-1611848.html": {
       "name": "Impresora multifunción tinta – HP Smart Tank 6006, Wi-Fi Direct, USB, Impresión a doble cara",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168870195",
-      "price": 189.0,
+      "price": 199.0,
       "prev_price": 189.0,
       "original_price": 249.9,
       "history": [
@@ -8969,10 +9057,14 @@
         [
           "2026-09-16",
           189.0
+        ],
+        [
+          "2026-09-17",
+          199.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-epson-ecotank-et-1810-33-ppm-15-ppm-5760-x-1440-ppp-epson-dye-ink-negro-1520117.html": {
       "name": "Impresora tinta - Epson EcoTank ET-1810, Color, WiFi, Tinta recargable",
@@ -8990,10 +9082,14 @@
         [
           "2026-09-16",
           139.0
+        ],
+        [
+          "2026-09-17",
+          139.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-lenovo-l27h-4a-27-qhd-100-hz-6-ms-ips-1x-usb-c-4-usb-a-2x-hdmir-21-tmds-1x-dp-14-altavoces-incluidos-gris-1605623.html": {
       "name": "Monitor - Lenovo L27h-4A, 27\" QHD, 100 Hz, 6 ms, IPS, 1x USB-C, 4 USB-A, 2x HDMI® 2.1 TMDS, 1x DP 1.4, Altavoces integrados, Altura ajustable",
@@ -9011,10 +9107,14 @@
         [
           "2026-09-16",
           169.0
+        ],
+        [
+          "2026-09-17",
+          169.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-27g411a-b-27-full-hd-144-hz-5-ms-ips-hdr10-morado-grisaceo-1607404.html": {
       "name": "Monitor gaming - LG 27G411A-B, 27\" Full-HD, 144 Hz, 1 ms, IPS, HDR10, Morado Grisáceo",
@@ -9053,10 +9153,14 @@
         [
           "2026-09-16",
           579.0
+        ],
+        [
+          "2026-09-17",
+          579.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-tabwee-w90-gris-256-gb-11-hd-8-gb-ram-ums9230et615-android-154981595.html": {
       "name": "TABWEE W90, 256 GB, Gris, 11 \" HD+, 8 GB RAM, Unisoc T615(Octa core), Tablet Android",
@@ -9074,17 +9178,21 @@
         [
           "2026-09-16",
           115.0
+        ],
+        [
+          "2026-09-17",
+          115.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-lenovo-l24d-4c-238-full-hd-144-hz-1-ms-ips-freesync-docking-usb-c-ajustable-altura-altavoces-incorporados-1624333.html": {
       "name": "Monitor - Lenovo L24D-4C, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, FreeSync, Docking USB-C, Ajustable altura, Altavoces integrados",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173589844",
-      "price": 119.0,
+      "price": 129.0,
       "prev_price": 119.0,
       "original_price": 189.99,
       "history": [
@@ -9095,10 +9203,14 @@
         [
           "2026-09-16",
           119.0
+        ],
+        [
+          "2026-09-17",
+          129.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-lenovo-yoga-slim-7-14ill10-copilot-pc-14-wqxga-intelr-evotm-edition-coretm-ultra-7-258v-32gb-ram-1tb-ssd-arctm-onboard-graphics-w11-1595699.html": {
       "name": "Portátil - Lenovo Yoga Slim 7 14ILL10  Copilot+ PC, 14\" WQXGA+ OLED, Intel® Evo™ Core™ Ultra 7 258V, 47 TOPS, 32GB RAM, 1TB SSD, Arc™ Graphics, W11",
@@ -9126,7 +9238,7 @@
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_157358887",
-      "price": 999.0,
+      "price": 1199.0,
       "prev_price": 999.0,
       "original_price": 1499,
       "history": [
@@ -9137,10 +9249,14 @@
         [
           "2026-09-16",
           999.0
+        ],
+        [
+          "2026-09-17",
+          1199.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-asus-vivobook-16-f1607ca-mb301-16-wuxga-intelr-coretm-ultra-7-255h-16-gb-ram-512-gb-ssd-arctm-140v-sso-sin-cargador-1621828.html": {
       "name": "Portátil - ASUS Vivobook 16 F1607CA-MB301, 16 \" WUXGA, Intel® Core™ Ultra 7 255H, 16 GB RAM, 512 GB SSD, Arc™ 140V, SSO, Sin cargador",
@@ -9158,10 +9274,14 @@
         [
           "2026-09-16",
           699.0
+        ],
+        [
+          "2026-09-17",
+          699.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-wi-fi-11-wqhd-8-gb-ram-256-gb-mediatek-g100-ultra-verde-menta-1599562.html": {
       "name": "Tablet - Xiaomi Redmi Pad 2, WI-FI, 11\" WQHD, 8 GB RAM, 256 GB, MediaTek G100-Ultra, Verde menta",
@@ -9248,7 +9368,7 @@
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170944093",
-      "price": 105.0,
+      "price": 109.0,
       "prev_price": 105.0,
       "original_price": 209,
       "history": [
@@ -9259,10 +9379,14 @@
         [
           "2026-09-16",
           105.0
+        ],
+        [
+          "2026-09-17",
+          109.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-gigabyte-a16-cvh-16-full-hd-intelr-coretm-i7-13620h-32-gb-ram-1-tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1609073.html": {
       "name": "Portátil gaming - Gigabyte A16 CVH, 16\" Full-HD, Intel® Core™ i7-13620H, 32 GB RAM, 1 TB SSD, GeForce RTX™ 5060, Sin sistema operativo",
@@ -9301,10 +9425,14 @@
         [
           "2026-09-16",
           599.0
+        ],
+        [
+          "2026-09-17",
+          599.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-multifuncion-tinta-canon-pixma-ts6550i-wifi-pantalla-oled-de-142-doble-cara-blanco-1612488.html": {
       "name": "Impresora multifunción tinta - Canon PIXMA TS6550i, WiFi, Pantalla OLED de 1.42\", Doble Cara, Blanco",
@@ -9322,10 +9450,14 @@
         [
           "2026-09-16",
           59.0
+        ],
+        [
+          "2026-09-17",
+          59.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-gaming-lenovo-legion-25-10-245-full-hd-320hz-05-ms-ips-2x-hdmir-21-tmds-1x-dp-14-amd-freesynctm-premium-ajustable-altura-1605629.html": {
       "name": "Monitor gaming - Lenovo Legion 25-10, 24.5\" Full-HD, 320Hz 0.5 ms, IPS, 2x HDMI®2.1 TMDS,1x DP 1.4, AMD FreeSync™ Premium, Ajustable altura",
@@ -9343,10 +9475,14 @@
         [
           "2026-09-16",
           119.0
+        ],
+        [
+          "2026-09-17",
+          119.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-asus-tuf-gaming-f16-fx608jmi-tu271-16-wuxga-intelr-coretm-i7-14650hx-16-gb-ram-512-gb-ssd-geforce-rtxtm-5060-sso-1621833.html": {
       "name": "Portátil gaming - ASUS TUF Gaming F16 FX608JMI-TU271, 16 \" WUXGA, Intel® Core™ i7-14650HX, 16 GB RAM, 512 GB SSD, GeForce RTX™ 5060, SSO",
@@ -9355,7 +9491,7 @@
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173495895",
       "price": 1099.0,
       "prev_price": 1099.0,
-      "original_price": 1249,
+      "original_price": 1649,
       "history": [
         [
           "2026-09-15",
@@ -9364,10 +9500,14 @@
         [
           "2026-09-16",
           1099.0
+        ],
+        [
+          "2026-09-17",
+          1099.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-gaming-msi-mag-272f-27-full-hd-200-hz-05-ms-gtg-ips-amd-freesynctm-premium-hdr-ready-1591321.html": {
       "name": "Monitor gaming - MSI MAG 272F, 27\" Full-HD, 200 Hz, 0.5 ms GtG, IPS, AMD FreeSync™ Premium, HDR Ready",
@@ -9406,10 +9546,14 @@
         [
           "2026-09-16",
           94.0
+        ],
+        [
+          "2026-09-17",
+          94.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-lg-27us500-w-27-uhd-4k-5-ms-60-hz-hdmi-blanco-1583699.html": {
       "name": "Monitor - LG UltraFine™ 27US500-W, 27\" UHD 4K, 60 Hz, 5 ms, IPS, 2 HDMI, Blanco",
@@ -9448,17 +9592,21 @@
         [
           "2026-09-16",
           59.0
+        ],
+        [
+          "2026-09-17",
+          59.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-acer-nitro-v-15-anv15-52-934a-156-full-hd-intelr-coretm-i9-13900h-16gb-ram-1-tb-ssd-geforce-rtxtm-5050-sin-sistema-operativo-1607288.html": {
       "name": "Portátil gaming - Acer Nitro V 15 ANV15-52-934A, 15.6\" Full-HD, Intel® Core™ i9-13900H, 16GB RAM, 1 TB SSD, GeForce RTX™ 5050, Sin sistema operativo",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163967373",
-      "price": 999.0,
+      "price": 1049.0,
       "prev_price": 999.0,
       "original_price": 1199,
       "history": [
@@ -9469,10 +9617,14 @@
         [
           "2026-09-16",
           999.0
+        ],
+        [
+          "2026-09-17",
+          1049.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-tcl-tab-11-gen2-gris-256gb-11-full-hd-nxtvision-6gb-ram-mtk-helio-g80-mt8786-android-1586418.html": {
       "name": "Tablet - TCL TAB 11 Gen2, 11\" Full HD+, 6 GB RAM, 256 GB, Gris",
@@ -9490,10 +9642,14 @@
         [
           "2026-09-16",
           149.0
+        ],
+        [
+          "2026-09-17",
+          149.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-ultrageartm-32g600a-b-315-qhd-180-hz-1-ms-va-curvo-1000r-2x-hdmi-amd-freesynctm-1607406.html": {
       "name": "Monitor gaming - LG UltraGear™ 32G600A-B, 31.5\" QHD, 180 Hz, 1 ms, VA curvo 1000R, 2x HDMI, AMD FreeSync™",
@@ -9511,10 +9667,14 @@
         [
           "2026-09-16",
           179.0
+        ],
+        [
+          "2026-09-17",
+          179.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_portatil-gaming-asus-tuf-gaming-fx608jpr-qt026-16-wqxga-intelr-coretm-i7-14650hx-16-gb-ram-1-tb-ssd-geforce-rtxtm-5070-sin-sistema-operativo-1621832.html": {
       "name": "Portátil gaming - ASUS TUF Gaming FX608JPR-QT026, 16\" WQXGA, Intel® Core™ i7-14650HX, 16 GB RAM, 1 TB SSD, GeForce RTX™ 5070, Sin sistema operativo",
@@ -9532,10 +9692,14 @@
         [
           "2026-09-16",
           1399.0
+        ],
+        [
+          "2026-09-17",
+          1399.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tabwee-t60-pro-256-gb-gris-134-hd-8-gb-ram-unisoc-t7280octa-core-tablet-android-162499276.html": {
       "name": "TABWEE T60 Pro, 256 GB, Gris, 13,4 \" HD+, 8 GB RAM, Unisoc T7280(Octa core), Tablet Android",
@@ -9553,19 +9717,23 @@
         [
           "2026-09-16",
           183.0
+        ],
+        [
+          "2026-09-17",
+          183.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_samsung-sm-x130nzaaeub-64-gb-gris-87-wqxga-4-gb-ram-mediatek-mt8781-tablet-android-162756360.html": {
       "name": "SAMSUNG TAB A11 8,7P/4 RAM/64GB/GRAY, 64 GB, Gris, 8,7 \" WXGA+, 4 GB RAM, MediaTek MT8781, Tablet Android",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179205487",
-      "price": 144.41,
+      "price": 151.15,
       "prev_price": 144.41,
-      "original_price": 173.29,
+      "original_price": 181.38,
       "history": [
         [
           "2026-09-15",
@@ -9574,17 +9742,21 @@
         [
           "2026-09-16",
           144.41
+        ],
+        [
+          "2026-09-17",
+          151.15
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_monitor-gaming-lg-ultrageartm-27g610a-b-27-qhd-200-hz-1ms-ips-hdr10altura-ajustable-morado-grisaceo-1607405.html": {
       "name": "Monitor gaming - LG UltraGear™ 27G610A-B, 27\" QHD, 200 Hz, 1ms, IPS, HDR10,Altura Ajustable, Morado Grisáceo",
       "store": "MediaMarkt",
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164594344",
-      "price": 169.0,
+      "price": 159.0,
       "prev_price": 169.0,
       "original_price": 219,
       "history": [
@@ -9595,10 +9767,14 @@
         [
           "2026-09-16",
           169.0
+        ],
+        [
+          "2026-09-17",
+          159.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_pc-gaming-beastcom-q5-or-pro-gaming-amd-ryzentm-7-5700x-32-gb-ram-1-tb-ssd-geforce-rtxtm-5060-ti-windows-11-home-blanco-176855495.html": {
       "name": "PC Gaming - BEASTCOM Q5 | Pro Gaming, AMD Ryzen™ 7 5700X, 32 GB RAM, 1 TB SSD, GeForce RTX™ 5060 Ti, Windows 11 Home, Blanco",
@@ -9616,10 +9792,14 @@
         [
           "2026-09-16",
           1309.0
+        ],
+        [
+          "2026-09-17",
+          1309.0
         ]
       ],
       "first_seen": "2026-09-15T20:52:26.014885+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.carrefour.es/smart-tv-qled-65-1651-cm-daewo-65dm55qv-4k-uhd-60hz-hdr10-hlg-dolby-vision-smart-tv-dolby-audio/VC4A-31750560/p": {
       "name": "Smart TV QLED 65\" (165,1 cm) Daewo 65DM55QV, 4K UHD, 60Hz, HDR10, HLG, Dolby Vision, Smart TV, Dolby Audio",
@@ -10645,10 +10825,14 @@
         [
           "2026-09-16",
           239.99
+        ],
+        [
+          "2026-09-17",
+          239.99
         ]
       ],
       "first_seen": "2026-09-15T20:56:09.844578+00:00",
-      "last_seen": "2026-09-16T23:38:19.768326+00:00"
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
     },
     "https://www.game.es/accesorios/raton/pc-gaming/razer-basilisk-v3-x-hyperspeed-bluetooth-optico-18000-dpi-raton-gaming/v1h2si": {
       "name": "Razer Basilisk V3 X HyperSpeed Bluetooth Optico 18000 DPI - Raton Gaming",
@@ -10666,33 +10850,41 @@
         [
           "2026-09-16",
           49.99
+        ],
+        [
+          "2026-09-17",
+          49.99
         ]
       ],
       "first_seen": "2026-09-15T20:56:09.844578+00:00",
-      "last_seen": "2026-09-16T23:38:19.768326+00:00"
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
     },
     "https://www.game.es/accesorios/volante/pc-gaming/logitech-g29-driving-force-auriculares-g435-pc-ps5-ps4-ps3-licencia-playstation-volante/238383": {
       "name": "Logitech G29 Driving Force + Auriculares G435 PC - PS5 - PS4 - PS3 - Licencia PlayStation - Volante",
       "store": "GAME",
       "category": "Gaming",
       "image_url": "https://media.game.es/COVERV2/3D_L/238/238383.png",
-      "price": 219.99,
+      "price": 199.99,
       "prev_price": 219.99,
-      "original_price": 250.99,
+      "original_price": 219.99,
       "history": [
         [
           "2026-09-15",
           219.99
+        ],
+        [
+          "2026-09-17",
+          199.99
         ]
       ],
       "first_seen": "2026-09-15T20:56:09.844578+00:00",
-      "last_seen": "2026-09-15T23:34:55.049487+00:00"
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
     },
     "https://www.coolmod.com/asus-dual-geforce-rtx-3050-v2-oc-edition-8gb-gddr6/": {
       "name": "Asus Dual GeForce RTX 3050 V2 OC Edition 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030490_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030490_1.jpg?v=1789679194",
       "price": 379.95,
       "prev_price": 379.95,
       "original_price": 454.95,
@@ -10704,16 +10896,20 @@
         [
           "2026-09-16",
           379.95
+        ],
+        [
+          "2026-09-17",
+          379.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-gaming-geforce-rtx-3050-solo-6gb-gddr6/": {
       "name": "Zotac Gaming GeForce RTX 3050 SOLO 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045191_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045191_1.jpg?v=1789679199",
       "price": 289.95,
       "prev_price": 289.95,
       "original_price": null,
@@ -10725,16 +10921,20 @@
         [
           "2026-09-16",
           289.95
+        ],
+        [
+          "2026-09-17",
+          289.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/inno3d-geforce-rtx-3050-twin-x2-8gb-gddr6/": {
       "name": "INNO3D GeForce RTX 3050 TWIN X2 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019486_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019486_1.jpg?v=1789679194",
       "price": 299.95,
       "prev_price": 299.95,
       "original_price": 359.95,
@@ -10746,16 +10946,20 @@
         [
           "2026-09-16",
           299.95
+        ],
+        [
+          "2026-09-17",
+          299.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/inno3d-geforce-rtx-3050-6gb-twin-x2-v2-6gb-gddr6/": {
       "name": "INNO3D GeForce RTX 3050 6GB TWIN X2 V2 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037618_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037618_1.jpg?v=1789679194",
       "price": 264.95,
       "prev_price": 264.95,
       "original_price": 319.95,
@@ -10767,16 +10971,20 @@
         [
           "2026-09-16",
           264.95
+        ],
+        [
+          "2026-09-17",
+          264.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-gt-710-sl-evo-brk-2gb-gddr5/": {
       "name": "Asus GeForce GT 710 SL EVO BRK 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044211_1.jpg?v=1789679194",
       "price": 54.95,
       "prev_price": 54.95,
       "original_price": 79.95,
@@ -10788,16 +10996,20 @@
         [
           "2026-09-16",
           54.95
+        ],
+        [
+          "2026-09-17",
+          54.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asrock-intel-arc-a380-challenger-itx-6gb-gddr6/": {
       "name": "ASRock Intel Arc A380 Challenger ITX 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-026320_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-026320_1.jpg?v=1789679199",
       "price": 253.95,
       "prev_price": 253.95,
       "original_price": null,
@@ -10809,16 +11021,20 @@
         [
           "2026-09-16",
           253.95
+        ],
+        [
+          "2026-09-17",
+          253.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/biostar-geforce-210-1gb-ddr3/": {
       "name": "Biostar GeForce 210 1GB DDR3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034621_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-034621_1.jpg?v=1789679194",
       "price": 35.95,
       "prev_price": 35.95,
       "original_price": 39.95,
@@ -10830,19 +11046,23 @@
         [
           "2026-09-16",
           35.95
+        ],
+        [
+          "2026-09-17",
+          35.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/msi-geforce-rtx-3050-ventus-2x-oc-6gb-gddr6/": {
       "name": "MSI GeForce RTX 3050 VENTUS 2X OC 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1789601908",
-      "price": 281.95,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041729_1.jpg?v=1789679194",
+      "price": 299.95,
       "prev_price": 281.95,
-      "original_price": null,
+      "original_price": 379.95,
       "history": [
         [
           "2026-09-15",
@@ -10851,16 +11071,20 @@
         [
           "2026-09-16",
           281.95
+        ],
+        [
+          "2026-09-17",
+          299.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-perfil-bajo-8gb-gddr6-dlss4/": {
       "name": "Zotac Gaming GeForce RTX 5050 Perfil Bajo 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046465_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046465_1.jpg?v=1789679194",
       "price": 434.95,
       "prev_price": 434.95,
       "original_price": null,
@@ -10872,16 +11096,20 @@
         [
           "2026-09-16",
           434.95
+        ],
+        [
+          "2026-09-17",
+          434.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-twin-edge-oc-white-edition-8gb-gddr6/": {
       "name": "Zotac Gaming GeForce RTX 5050 Twin Edge OC White Edition 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045192_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045192_1.jpg?v=1789679194",
       "price": 440.95,
       "prev_price": 440.95,
       "original_price": null,
@@ -10893,16 +11121,20 @@
         [
           "2026-09-16",
           440.95
+        ],
+        [
+          "2026-09-17",
+          440.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/msi-geforce-gt-1030-2ghd4-lp-oc-2gb-ddr4-tarjeta-grafica/": {
       "name": "MSI GeForce GT 1030 2GHD4 LP OC 2GB GDDR4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/msi-geforce-gt-1030-2ghd4-lp-oc-2gb-ddr4-tarjeta-grafica-001.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/msi-geforce-gt-1030-2ghd4-lp-oc-2gb-ddr4-tarjeta-grafica-001.jpg?v=1789679194",
       "price": 86.95,
       "prev_price": 86.95,
       "original_price": null,
@@ -10914,16 +11146,20 @@
         [
           "2026-09-16",
           86.95
+        ],
+        [
+          "2026-09-17",
+          86.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/msi-geforce-gt-710-2gd3h-lp-2gb-gddr3-tarjeta-grafica/": {
       "name": "MSI GeForce GT 710 2GD3H LP 2GB GDDR3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/msi-geforce-gt-710-2gb-gddr3-954mhz-tarjeta-grafica-001.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/msi-geforce-gt-710-2gb-gddr3-954mhz-tarjeta-grafica-001.jpg?v=1789679194",
       "price": 59.96,
       "prev_price": 59.96,
       "original_price": null,
@@ -10935,16 +11171,20 @@
         [
           "2026-09-16",
           59.96
+        ],
+        [
+          "2026-09-17",
+          59.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-gt-1030-2g-low-profile-2gb-gddr5-tarjeta-grafica/": {
       "name": "Asus GeForce GT 1030 2G Low Profile 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/asus-geforce-gt-1030-2g-low-profile-2gb-gddr5-tarjeta-grafica-001.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/asus-geforce-gt-1030-2g-low-profile-2gb-gddr5-tarjeta-grafica-001.jpg?v=1789679194",
       "price": 96.95,
       "prev_price": 96.95,
       "original_price": null,
@@ -10956,17 +11196,21 @@
         [
           "2026-09-16",
           96.95
+        ],
+        [
+          "2026-09-17",
+          96.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-amd-radeon-rx-9060-xt-gaming-16gb-gddr6/": {
       "name": "Gigabyte AMD Radeon RX 9060 XT Gaming OC 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-039218_1.jpg?v=1789601908",
-      "price": 478.95,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-039218_1.jpg?v=1789679199",
+      "price": 516.95,
       "prev_price": 478.95,
       "original_price": null,
       "history": [
@@ -10977,16 +11221,20 @@
         [
           "2026-09-16",
           478.95
+        ],
+        [
+          "2026-09-17",
+          516.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-gt-730-sl-2gb-gddr5/": {
       "name": "Asus GeForce GT 730 SL 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019874_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019874_1.jpg?v=1789679194",
       "price": 73.96,
       "prev_price": 73.96,
       "original_price": null,
@@ -10998,16 +11246,20 @@
         [
           "2026-09-16",
           73.96
+        ],
+        [
+          "2026-09-17",
+          73.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-twin-edge-oc-8gb-gddr6-dlss4/": {
       "name": "Zotac Gaming GeForce RTX 5050 Twin Edge OC 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046460_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046460_1.jpg?v=1789679194",
       "price": 434.95,
       "prev_price": 434.95,
       "original_price": null,
@@ -11019,16 +11271,20 @@
         [
           "2026-09-16",
           434.95
+        ],
+        [
+          "2026-09-17",
+          434.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-radeon-rx-7600-oc-8gb-gddr6/": {
       "name": "Gigabyte Radeon RX 7600 OC 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-032485_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-032485_1.jpg?v=1789679194",
       "price": 440.95,
       "prev_price": 440.95,
       "original_price": null,
@@ -11040,16 +11296,20 @@
         [
           "2026-09-16",
           440.95
+        ],
+        [
+          "2026-09-17",
+          440.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gainward-geforce-rtx-5050-pegasus-8gb-gddr6-dlss4/": {
       "name": "Gainward GeForce RTX 5050 Pegasus 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046430_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046430_1.jpg?v=1789679194",
       "price": 393.95,
       "prev_price": 393.95,
       "original_price": null,
@@ -11061,16 +11321,20 @@
         [
           "2026-09-16",
           393.95
+        ],
+        [
+          "2026-09-17",
+          393.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-5050-d6-8gb-gddr6-dlss4/": {
       "name": "Gigabyte GeForce RTX 5050 D6 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046450_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046450_1.jpg?v=1789679194",
       "price": 429.95,
       "prev_price": 429.95,
       "original_price": null,
@@ -11082,16 +11346,20 @@
         [
           "2026-09-16",
           429.95
+        ],
+        [
+          "2026-09-17",
+          429.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-gt-730-2gb-gddr5/": {
       "name": "Asus GeForce GT 730 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019653_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-019653_1.jpg?v=1789679194",
       "price": 75.95,
       "prev_price": 75.95,
       "original_price": null,
@@ -11103,16 +11371,20 @@
         [
           "2026-09-16",
           75.95
+        ],
+        [
+          "2026-09-17",
+          75.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-geforce-gt-1030-low-profile-2gb-gddr5/": {
       "name": "Zotac GeForce GT 1030 Low Profile 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017415_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-017415_1.jpg?v=1789679194",
       "price": 84.95,
       "prev_price": 84.95,
       "original_price": null,
@@ -11124,16 +11396,20 @@
         [
           "2026-09-16",
           84.95
+        ],
+        [
+          "2026-09-17",
+          84.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/msi-geforce-gt-1030-4gd4-lp-oc-4gb-ddr4/": {
       "name": "MSI GeForce GT 1030 4GD4 LP OC 4GB DDR4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041728_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041728_1.jpg?v=1789679194",
       "price": 117.95,
       "prev_price": 117.95,
       "original_price": null,
@@ -11145,16 +11421,20 @@
         [
           "2026-09-16",
           117.95
+        ],
+        [
+          "2026-09-17",
+          117.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-3050-windforce-oc-v2-8gb-gddr6/": {
       "name": "Gigabyte GeForce RTX 3050 Windforce OC v2 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029737_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029737_1.jpg?v=1789679194",
       "price": 373.95,
       "prev_price": 373.95,
       "original_price": null,
@@ -11166,16 +11446,20 @@
         [
           "2026-09-16",
           373.95
+        ],
+        [
+          "2026-09-17",
+          373.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-gt-1030-2gb-gddr5-tarjeta-grafica/": {
       "name": "Asus GeForce GT 1030 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/asus-geforce-gt-1030-2gb-gddr5-tarjeta-grafica-001.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/asus-geforce-gt-1030-2gb-gddr5-tarjeta-grafica-001.jpg?v=1789679194",
       "price": 84.95,
       "prev_price": 84.95,
       "original_price": null,
@@ -11187,16 +11471,20 @@
         [
           "2026-09-16",
           84.95
+        ],
+        [
+          "2026-09-17",
+          84.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/pny-geforce-rtx-5050-dual-fan-8gb-gddr6-dlss4/": {
       "name": "PNY GeForce RTX 5050 Dual Fan 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046453_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046453_1.jpg?v=1789679194",
       "price": 398.95,
       "prev_price": 398.95,
       "original_price": null,
@@ -11208,16 +11496,20 @@
         [
           "2026-09-16",
           398.95
+        ],
+        [
+          "2026-09-17",
+          398.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-3050-windforce-oc-v2-6gb-gddr6-dlss3/": {
       "name": "Gigabyte GeForce RTX 3050 WindForce OC V2 6GB GDDR6 DLSS3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037767_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-037767_1.jpg?v=1789679199",
       "price": 275.95,
       "prev_price": 275.95,
       "original_price": null,
@@ -11229,16 +11521,20 @@
         [
           "2026-09-16",
           275.95
+        ],
+        [
+          "2026-09-17",
+          275.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-geforce-gt-710-2gb-gddr3/": {
       "name": "Zotac GeForce GT 710 2GB GDDR3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031324_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031324_1.jpg?v=1789679199",
       "price": 60.95,
       "prev_price": 60.95,
       "original_price": null,
@@ -11250,16 +11546,20 @@
         [
           "2026-09-16",
           60.95
+        ],
+        [
+          "2026-09-17",
+          60.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-5050-windforce-oc-8gb-gddr6-dlss4/": {
       "name": "Gigabyte GeForce RTX 5050 WindForce OC 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040419_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040419_1.jpg?v=1789679199",
       "price": 441.95,
       "prev_price": 441.95,
       "original_price": null,
@@ -11271,16 +11571,20 @@
         [
           "2026-09-16",
           441.95
+        ],
+        [
+          "2026-09-17",
+          441.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4-tarjeta-grafica/": {
       "name": "Gigabyte GeForce GT 1030 Low Profile D4 2GB GDDR4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4-tarjeta-grafica-001.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4-tarjeta-grafica-001.jpg?v=1789679199",
       "price": 115.95,
       "prev_price": 115.95,
       "original_price": null,
@@ -11292,10 +11596,14 @@
         [
           "2026-09-16",
           115.95
+        ],
+        [
+          "2026-09-17",
+          115.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/nvidia-quadro-rtx-a400-4gb-gddr6-bulk/": {
       "name": "NVIDIA Quadro RTX A400 4GB GDDR6 Bulk",
@@ -11322,7 +11630,7 @@
       "name": "Asus Dual GeForce RTX 5050 OC 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040309_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040309_1.jpg?v=1789679194",
       "price": 446.95,
       "prev_price": 446.95,
       "original_price": null,
@@ -11334,16 +11642,20 @@
         [
           "2026-09-16",
           446.95
+        ],
+        [
+          "2026-09-17",
+          446.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-5050-oc-low-profile-8gb-gddr6-dlss4/": {
       "name": "Gigabyte GeForce RTX 5050 OC Low Profile 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040420_1.jpg?v=1789601908",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-040420_1.jpg?v=1789679199",
       "price": 461.95,
       "prev_price": 461.95,
       "original_price": null,
@@ -11355,10 +11667,14 @@
         [
           "2026-09-16",
           461.95
+        ],
+        [
+          "2026-09-17",
+          461.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-rtx-5050-gaming-oc-8gb-gddr6-dlss4/": {
       "name": "Gigabyte GeForce RTX 5050 Gaming OC 8GB GDDR6 DLSS4",
@@ -11385,7 +11701,7 @@
       "name": "Zotac Gaming GeForce RTX 3050 ECO 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030489_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-030489_1.jpg?v=1789679199",
       "price": 368.95,
       "prev_price": 368.95,
       "original_price": null,
@@ -11397,16 +11713,20 @@
         [
           "2026-09-16",
           368.95
+        ],
+        [
+          "2026-09-17",
+          368.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gigabyte-geforce-gt-710-2gb-gddr3-tarjeta-grafica/": {
       "name": "Gigabyte GeForce GT 710 2GB GDDR3 - Tarjeta Gráfica",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/gigabyte-geforce-gt-710-2gb-gddr3-tarjeta-grafica-001.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/gigabyte-geforce-gt-710-2gb-gddr3-tarjeta-grafica-001.jpg?v=1789679199",
       "price": 63.95,
       "prev_price": 63.95,
       "original_price": null,
@@ -11418,16 +11738,20 @@
         [
           "2026-09-16",
           63.95
+        ],
+        [
+          "2026-09-17",
+          63.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gainward-geforce-rtx-3050-pegasus-6gb-gddr6/": {
       "name": "Gainward GeForce RTX 3050 Pegasus 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046431_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046431_1.jpg?v=1789679199",
       "price": 263.95,
       "prev_price": 263.95,
       "original_price": null,
@@ -11439,16 +11763,20 @@
         [
           "2026-09-16",
           263.95
+        ],
+        [
+          "2026-09-17",
+          263.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-gaming-geforce-rtx-5050-twin-edge-8gb-gddr6-dlss4/": {
       "name": "Zotac Gaming GeForce RTX 5050 Twin Edge 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046461_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046461_1.jpg?v=1789679199",
       "price": 418.95,
       "prev_price": 418.95,
       "original_price": null,
@@ -11460,17 +11788,21 @@
         [
           "2026-09-16",
           418.95
+        ],
+        [
+          "2026-09-17",
+          418.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-dual-geforce-rtx-3050-6gb-gddr6/": {
       "name": "Asus Dual GeForce RTX 3050 OC 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031408_1.jpg?v=1789601912",
-      "price": 303.95,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031408_1.jpg?v=1789679194",
+      "price": 301.96,
       "prev_price": 303.95,
       "original_price": null,
       "history": [
@@ -11481,16 +11813,20 @@
         [
           "2026-09-16",
           303.95
+        ],
+        [
+          "2026-09-17",
+          301.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/gainward-geforce-rtx-5050-ghost-8gb-gddr6-dlss4/": {
       "name": "Gainward GeForce RTX 5050 Ghost 8GB GDDR6 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046426_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046426_1.jpg?v=1789679199",
       "price": 412.95,
       "prev_price": 412.95,
       "original_price": null,
@@ -11502,16 +11838,20 @@
         [
           "2026-09-16",
           412.95
+        ],
+        [
+          "2026-09-17",
+          412.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/zotac-geforce-gt-730-zone-edition-4gb-gddr3/": {
       "name": "Zotac GeForce GT 730 Zone Edition 4GB GDDR3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-020934_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-020934_1.jpg?v=1789679199",
       "price": 104.96,
       "prev_price": 104.96,
       "original_price": null,
@@ -11523,16 +11863,20 @@
         [
           "2026-09-16",
           104.96
+        ],
+        [
+          "2026-09-17",
+          104.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/inno3d-geforce-gt-1030-lp-2gb-gddr5/": {
       "name": "INNO3D GeForce GT 1030 LP 2GB GDDR5",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-028206_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-028206_1.jpg?v=1789679199",
       "price": 85.95,
       "prev_price": 85.95,
       "original_price": null,
@@ -11544,10 +11888,14 @@
         [
           "2026-09-16",
           85.95
+        ],
+        [
+          "2026-09-17",
+          85.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/pny-nvidia-quadro-rtx-a400-4gb-gddr6-bulk/": {
       "name": "PNY NVIDIA Quadro RTX A400 4GB GDDR6 Bulk",
@@ -11574,7 +11922,7 @@
       "name": "Zotac Gaming GeForce RTX 5060 Twin Edge OC 8GB GDDR7 DLSS4",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045512_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045512_1.jpg?v=1789679199",
       "price": 480.95,
       "prev_price": 480.95,
       "original_price": null,
@@ -11586,16 +11934,20 @@
         [
           "2026-09-16",
           480.95
+        ],
+        [
+          "2026-09-17",
+          480.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/msi-geforce-rtx-3050-ventus-2x-xs-oc-white-8gb-gddr6/": {
       "name": "MSI GeForce RTX 3050 VENTUS 2X XS OC WHITE 8GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041730_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041730_1.jpg?v=1789679199",
       "price": 357.95,
       "prev_price": 357.95,
       "original_price": null,
@@ -11607,16 +11959,20 @@
         [
           "2026-09-16",
           357.95
+        ],
+        [
+          "2026-09-17",
+          357.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-geforce-rtx-3050-lp-brk-oc-6gb-gddr6/": {
       "name": "Asus GeForce RTX 3050 LP BRK OC 6GB GDDR6",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-032544_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-032544_1.jpg?v=1789679199",
       "price": 311.95,
       "prev_price": 311.95,
       "original_price": null,
@@ -11628,16 +11984,20 @@
         [
           "2026-09-16",
           311.95
+        ],
+        [
+          "2026-09-17",
+          311.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/inno3d-geforce-gt-730-lp-2gb-sddr3/": {
       "name": "INNO3D GeForce GT 710 LP 2GB SDDR3",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-028207_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-028207_1.jpg?v=1789679199",
       "price": 56.95,
       "prev_price": 56.95,
       "original_price": null,
@@ -11649,16 +12009,20 @@
         [
           "2026-09-16",
           56.95
+        ],
+        [
+          "2026-09-17",
+          56.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/thermal-grizzly-wireview-medidor-temperatura-gpu-1x12vhpwr-reversed/": {
       "name": "Thermal Grizzly WireView Medidor Temperatura GPU 1x12VHPWR Reversed",
       "store": "Coolmod",
       "category": "Tarjetas Gráficas",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-043485_1.jpg?v=1789601912",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-043485_1.jpg?v=1789679199",
       "price": 49.95,
       "prev_price": 49.95,
       "original_price": null,
@@ -11670,10 +12034,14 @@
         [
           "2026-09-16",
           49.95
+        ],
+        [
+          "2026-09-17",
+          49.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-dual-geforce-rtx-5060-8gb-oc-gddr7-dlss4/": {
       "name": "Asus Dual GeForce RTX 5060 8GB OC GDDR7 DLSS4",
@@ -11713,7 +12081,7 @@
       "name": "Razer Core X V2 Negra (Estación Gráfica GPU Externa)",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-038141_1.jpg?v=1789679203",
       "price": 349.95,
       "prev_price": 349.95,
       "original_price": 519.95,
@@ -11725,16 +12093,20 @@
         [
           "2026-09-16",
           349.95
+        ],
+        [
+          "2026-09-17",
+          349.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00jusp-i5-13420h-8gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW00JUSP i5-13420H 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047301_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047301_1.jpg?v=1789679203",
       "price": 546.4,
       "prev_price": 546.4,
       "original_price": 606.4,
@@ -11746,16 +12118,20 @@
         [
           "2026-09-16",
           546.4
+        ],
+        [
+          "2026-09-17",
+          546.4
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g4-arp-83uu002ksp-ryzen-5-150-16gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G4 ARP 83UU002KSP Ryzen 5 150 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047305_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047305_1.jpg?v=1789679203",
       "price": 540.95,
       "prev_price": 540.95,
       "original_price": null,
@@ -11767,16 +12143,20 @@
         [
           "2026-09-16",
           540.95
+        ],
+        [
+          "2026-09-17",
+          540.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq221-core-7-350-16gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ221 Core 7 350 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048116_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048116_1.jpg?v=1789679203",
       "price": 640.95,
       "prev_price": 640.95,
       "original_price": null,
@@ -11788,16 +12168,20 @@
         [
           "2026-09-16",
           640.95
+        ],
+        [
+          "2026-09-17",
+          640.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq058-intel-core-5-320-16gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ058 Intel Core 5 320 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048338_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048338_1.jpg?v=1789679203",
       "price": 571.95,
       "prev_price": 571.95,
       "original_price": null,
@@ -11809,10 +12193,14 @@
         [
           "2026-09-16",
           571.95
+        ],
+        [
+          "2026-09-17",
+          571.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504va-bq4623-core-5-120u-16gb-1tb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504VA-BQ4623 Core 5-120U 16GB 1TB 15.6 FreeDOS",
@@ -11839,7 +12227,7 @@
       "name": "Asus Vivobook Go 15 E1504FA-BQ4442 AMD Ryzen 5 40 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048119_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048119_1.jpg?v=1789679203",
       "price": 394.94,
       "prev_price": 394.94,
       "original_price": null,
@@ -11851,16 +12239,20 @@
         [
           "2026-09-16",
           394.94
+        ],
+        [
+          "2026-09-17",
+          394.94
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00jrsp-i3-1315u-8gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G5 IRL 83GW00JRSP i3-1315U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046894_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046894_1.jpg?v=1789679203",
       "price": 499.95,
       "prev_price": 499.95,
       "original_price": null,
@@ -11872,16 +12264,20 @@
         [
           "2026-09-16",
           499.95
+        ],
+        [
+          "2026-09-17",
+          499.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g4-amn-r5-7520u-16gb-512gb-15-6-fhd-freedos/": {
       "name": "Lenovo V15 G4 AMN R5-7520U 16GB 512GB 15.6 FHD FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045379_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045379_1.jpg?v=1789679203",
       "price": 689.95,
       "prev_price": 689.95,
       "original_price": null,
@@ -11893,16 +12289,20 @@
         [
           "2026-09-16",
           689.95
+        ],
+        [
+          "2026-09-17",
+          689.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-250r-g9-core-3-100u-8gb-256gb-15-6-w11p/": {
       "name": "HP 250R G9 Core 3-100U 8GB 256GB 15.6 W11P",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045078_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045078_1.jpg?v=1789679203",
       "price": 685.95,
       "prev_price": 685.95,
       "original_price": null,
@@ -11914,16 +12314,20 @@
         [
           "2026-09-16",
           685.95
+        ],
+        [
+          "2026-09-17",
+          685.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504va-bq4104-intel-core-5-120u-8gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504VA-BQ4104 Intel Core 5 120U 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048945_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048945_1.jpg?v=1789679203",
       "price": 492.95,
       "prev_price": 492.95,
       "original_price": null,
@@ -11935,16 +12339,20 @@
         [
           "2026-09-16",
           492.95
+        ],
+        [
+          "2026-09-17",
+          492.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-250r-g10-core-5-120u-8gb-512gb-15-6-w11p/": {
       "name": "HP 250R G10 Core 5 -120U 8GB 512GB 15.6 W11P",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045073_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045073_1.jpg?v=1789679203",
       "price": 669.95,
       "prev_price": 669.95,
       "original_price": null,
@@ -11956,16 +12364,20 @@
         [
           "2026-09-16",
           669.95
+        ],
+        [
+          "2026-09-17",
+          669.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq173w-core-5-320-16gb-512gb-15-6-w11h/": {
       "name": "Asus Vivobook 15 X1504MA-BQ173W Core 5 320 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048115_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048115_1.jpg?v=1789679203",
       "price": 660.95,
       "prev_price": 660.95,
       "original_price": null,
@@ -11977,16 +12389,20 @@
         [
           "2026-09-16",
           660.95
+        ],
+        [
+          "2026-09-17",
+          660.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00jpsp-i3-1315u-8gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW00JPSP i3-1315U 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047300_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047300_1.jpg?v=1789679203",
       "price": 447.95,
       "prev_price": 447.95,
       "original_price": null,
@@ -11998,16 +12414,20 @@
         [
           "2026-09-16",
           447.95
+        ],
+        [
+          "2026-09-17",
+          447.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00m1sp-core-5-210h-16gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW00M1SP Core 5 210H 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047304_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047304_1.jpg?v=1789679203",
       "price": 589.95,
       "prev_price": 589.95,
       "original_price": null,
@@ -12019,16 +12439,20 @@
         [
           "2026-09-16",
           589.95
+        ],
+        [
+          "2026-09-17",
+          589.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v14-g5-irl-83gu007rsp-i5-13420h-8gb-512gb-14-w11h/": {
       "name": "Lenovo V14 G5 IRL 83GU007RSP i5-13420H 8GB 512GB 14 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046898_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046898_1.jpg?v=1789679203",
       "price": 596.95,
       "prev_price": 596.95,
       "original_price": null,
@@ -12040,16 +12464,20 @@
         [
           "2026-09-16",
           596.95
+        ],
+        [
+          "2026-09-17",
+          596.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v14-83gu00dxsp-intel-core-5-210h-8gb-512gb-14-freedos/": {
       "name": "Lenovo V14 83GU00DXSP Intel Core 5 210H 8GB 512GB 14 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048407_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048407_1.jpg?v=1789679203",
       "price": 527.95,
       "prev_price": 527.95,
       "original_price": null,
@@ -12061,16 +12489,20 @@
         [
           "2026-09-16",
           527.95
+        ],
+        [
+          "2026-09-17",
+          527.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504va-bq4105-core-5-120u-16gb-512gb-15-6-freedos/": {
       "name": "Asus VivoBook 15 X1504VA-BQ4105 Core 5-120U 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045262_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045262_1.jpg?v=1789679203",
       "price": 542.95,
       "prev_price": 542.95,
       "original_price": null,
@@ -12082,16 +12514,20 @@
         [
           "2026-09-16",
           542.95
+        ],
+        [
+          "2026-09-17",
+          542.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v14-g5-irl-83gu00casp-i5-13420h-16gb-512gb-14-w11h/": {
       "name": "Lenovo V14 G5 IRL 83GU00CASP i5-13420H 16GB 512GB 14 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046893_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046893_1.jpg?v=1789679207",
       "price": 652.95,
       "prev_price": 652.95,
       "original_price": null,
@@ -12103,16 +12539,20 @@
         [
           "2026-09-16",
           652.95
+        ],
+        [
+          "2026-09-17",
+          652.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-omnibook-3-laptop-ai-14-ht0014nsx-intel-core-ultra-5-225u-8gb-512gb-14-2k-w11h/": {
       "name": "HP OmniBook 3 Laptop AI 14-ht0014nsx Intel Core Ultra 5 225U 8GB 512GB 14 2K W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048255_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048255_1.jpg?v=1789679203",
       "price": 593.95,
       "prev_price": 593.95,
       "original_price": null,
@@ -12124,16 +12564,20 @@
         [
           "2026-09-16",
           593.95
+        ],
+        [
+          "2026-09-17",
+          593.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-14-x1404ma-eb061-intel-core-7-350-16gb-512gb-14-freedos/": {
       "name": "Asus Vivobook 14 X1404MA-EB061 Intel Core 7 350 16GB 512GB 14 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048224_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048224_1.jpg?v=1789679203",
       "price": 684.94,
       "prev_price": 684.94,
       "original_price": null,
@@ -12145,16 +12589,20 @@
         [
           "2026-09-16",
           684.94
+        ],
+        [
+          "2026-09-17",
+          684.94
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dell-pro-15-essential-pv15250-i5-1334u-8gb-512gb-15-6-w11p/": {
       "name": "Dell Pro 15 Essential PV15250 i5-1334U 8GB 512GB 15.6 W11P",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045682_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045682_1.jpg?v=1789679203",
       "price": 595.95,
       "prev_price": 595.95,
       "original_price": null,
@@ -12166,16 +12614,20 @@
         [
           "2026-09-16",
           595.95
+        ],
+        [
+          "2026-09-17",
+          595.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw007wsp-i3-1315u-8gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW007WSP i3-1315U 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044357_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044357_1.jpg?v=1789679203",
       "price": 540.95,
       "prev_price": 540.95,
       "original_price": null,
@@ -12187,16 +12639,20 @@
         [
           "2026-09-16",
           540.95
+        ],
+        [
+          "2026-09-17",
+          540.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00jnsp-i3-1315u-16gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW00JNSP i3-1315U 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047299_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047299_1.jpg?v=1789679203",
       "price": 502.95,
       "prev_price": 502.95,
       "original_price": null,
@@ -12208,16 +12664,20 @@
         [
           "2026-09-16",
           502.95
+        ],
+        [
+          "2026-09-17",
+          502.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-go-15-l1504fa-bq4683w-amd-ryzen-5-40-16gb-512gb-15-6-w11h/": {
       "name": "Asus Vivobook Go 15 L1504FA-BQ4683W AMD Ryzen 5 40 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048229_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048229_1.jpg?v=1789679203",
       "price": 624.95,
       "prev_price": 624.95,
       "original_price": null,
@@ -12229,16 +12689,20 @@
         [
           "2026-09-16",
           624.95
+        ],
+        [
+          "2026-09-17",
+          624.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g4-abp-82yy0067sp-r5-5625u-8gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G4 ABP 82YY0067SP R5-5625U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046897_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046897_1.jpg?v=1789679207",
       "price": 477.95,
       "prev_price": 477.95,
       "original_price": null,
@@ -12250,16 +12714,20 @@
         [
           "2026-09-16",
           477.95
+        ],
+        [
+          "2026-09-17",
+          477.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw008usp-i5-13420h-8gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G5 IRL 83GW008USP i5-13420H 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045585_1.jpg?v=1789601916",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045585_1.jpg?v=1789679211",
       "price": 544.95,
       "prev_price": 544.95,
       "original_price": null,
@@ -12271,16 +12739,20 @@
         [
           "2026-09-16",
           544.95
+        ],
+        [
+          "2026-09-17",
+          544.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-16-x1607ca-mb059-copilot-pc-intel-core-ultra-5-225h-16gb-512gb-16-freedos/": {
       "name": "Asus Vivobook 16 X1607CA-MB059 Copilot+ PC Intel Core Ultra 5 225H 16GB 512GB 16 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048335_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048335_1.jpg?v=1789679207",
       "price": 640.95,
       "prev_price": 640.95,
       "original_price": null,
@@ -12292,16 +12764,20 @@
         [
           "2026-09-16",
           640.95
+        ],
+        [
+          "2026-09-17",
+          640.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-omnibook-3-laptop-ai-14-ht0016nsx-intel-core-ultra-5-225u-8gb-512gb-14-2k-freedos/": {
       "name": "HP OmniBook 3 Laptop AI 14-ht0016nsx Intel Core Ultra 5 225U 8GB 512GB 14 2K FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048257_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048257_1.jpg?v=1789679207",
       "price": 494.95,
       "prev_price": 494.95,
       "original_price": null,
@@ -12313,16 +12789,20 @@
         [
           "2026-09-16",
           494.95
+        ],
+        [
+          "2026-09-17",
+          494.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq475-intel-core-3-304-8gb-256gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ475 Intel Core 3 304 8GB 256GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048334_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048334_1.jpg?v=1789679207",
       "price": 413.95,
       "prev_price": 413.95,
       "original_price": null,
@@ -12334,16 +12814,20 @@
         [
           "2026-09-16",
           413.95
+        ],
+        [
+          "2026-09-17",
+          413.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-br1104fta-ns0090xa-n150-8gb-128gb-11-6-w11p/": {
       "name": "Asus BR1104FTA-NS0090XA N150 8GB 128GB 11.6 W11P",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041786_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-041786_1.jpg?v=1789679207",
       "price": 485.95,
       "prev_price": 485.95,
       "original_price": null,
@@ -12355,16 +12839,20 @@
         [
           "2026-09-16",
           485.95
+        ],
+        [
+          "2026-09-17",
+          485.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/acer-aspire-lite-15-al15-54p-53ua-intel-core-u5-115u-16gb-512gb-15-6-w11h/": {
       "name": "Acer Aspire Lite 15 AL15-54P-53UA Intel Core U5-115U 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048190_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048190_1.jpg?v=1789679207",
       "price": 681.96,
       "prev_price": 681.96,
       "original_price": null,
@@ -12376,16 +12864,20 @@
         [
           "2026-09-16",
           681.96
+        ],
+        [
+          "2026-09-17",
+          681.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-go-15-e1504fa-bq2871-amd-ryzen-5-40-16gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook Go 15 E1504FA-BQ2871 AMD Ryzen 5 40 16GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048232_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048232_1.jpg?v=1789679207",
       "price": 552.95,
       "prev_price": 552.95,
       "original_price": null,
@@ -12397,16 +12889,20 @@
         [
           "2026-09-16",
           552.95
+        ],
+        [
+          "2026-09-17",
+          552.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-d1502xa-bq066w-amd-ryzen-7-7840hs-8gb-512gb-15-6-w11h/": {
       "name": "Asus Vivobook 15 D1502XA-BQ066W AMD Ryzen 7 7840HS 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048225_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048225_1.jpg?v=1789679207",
       "price": 576.95,
       "prev_price": 576.95,
       "original_price": null,
@@ -12418,16 +12914,20 @@
         [
           "2026-09-16",
           576.95
+        ],
+        [
+          "2026-09-17",
+          576.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq222-intel-core-7-350-8gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ222 Intel Core 7 350 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048226_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048226_1.jpg?v=1789679207",
       "price": 542.95,
       "prev_price": 542.95,
       "original_price": null,
@@ -12439,16 +12939,20 @@
         [
           "2026-09-16",
           542.95
+        ],
+        [
+          "2026-09-17",
+          542.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-omnibook-3-laptop-ai-14-ht0017nsx-intel-core-ultra-5-225u-8gb-256gb-14-2k-freedos/": {
       "name": "HP OmniBook 3 Laptop AI 14-ht0017nsx Intel Core Ultra 5 225U 8GB 256GB 14 2K FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048258_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048258_1.jpg?v=1789679207",
       "price": 504.95,
       "prev_price": 504.95,
       "original_price": null,
@@ -12460,16 +12964,20 @@
         [
           "2026-09-16",
           504.95
+        ],
+        [
+          "2026-09-17",
+          504.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/acer-aspire-go-15-ag15-72p-56t4-core-5-120u-16gb-1tb-15-6-freedos/": {
       "name": "Acer Aspire Go 15 AG15-72P-56T4 Core 5 120U 16GB 1TB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047239_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047239_1.jpg?v=1789679207",
       "price": 595.95,
       "prev_price": 595.95,
       "original_price": null,
@@ -12481,16 +12989,20 @@
         [
           "2026-09-16",
           595.95
+        ],
+        [
+          "2026-09-17",
+          595.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-chromebook-plus-cx34-cx3402cva-pq1339-intel-core-3-100u-8gb-256gb-14-chrome-os/": {
       "name": "Asus ChromeBook Plus CX34 CX3402CVA-PQ1339 Intel Core 3 100U 8GB 256GB 14 Chrome OS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048445_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048445_1.jpg?v=1789679207",
       "price": 394.94,
       "prev_price": 394.94,
       "original_price": null,
@@ -12502,16 +13014,20 @@
         [
           "2026-09-16",
           394.94
+        ],
+        [
+          "2026-09-17",
+          394.94
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-16-oled-d1605naq-sh165w-amd-ryzen-5-150-16gb-512gb-16-oled-w11h/": {
       "name": "Asus Vivobook 16 OLED D1605NAQ-SH165W AMD Ryzen 5 150 16GB 512GB 16 OLED W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046579_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-046579_1.jpg?v=1789679211",
       "price": 621.95,
       "prev_price": 621.95,
       "original_price": null,
@@ -12523,16 +13039,20 @@
         [
           "2026-09-16",
           621.95
+        ],
+        [
+          "2026-09-17",
+          621.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq224-core-5-320-8gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ224 Core 5 320 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048113_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048113_1.jpg?v=1789679207",
       "price": 492.95,
       "prev_price": 492.95,
       "original_price": null,
@@ -12544,16 +13064,20 @@
         [
           "2026-09-16",
           492.95
+        ],
+        [
+          "2026-09-17",
+          492.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw0085sp-i3-1315u-8gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G5 IRL 83GW0085SP i3-1315U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044358_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044358_1.jpg?v=1789679207",
       "price": 505.95,
       "prev_price": 505.95,
       "original_price": null,
@@ -12565,16 +13089,20 @@
         [
           "2026-09-16",
           505.95
+        ],
+        [
+          "2026-09-17",
+          505.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g4-abp-82yy0068sp-ryzen-5-5625u-8gb-512gb-15-6-freedos/": {
       "name": "Lenovo V15 G4 ABP 82YY0068SP Ryzen 5 5625U 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047302_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047302_1.jpg?v=1789679207",
       "price": 466.95,
       "prev_price": 466.95,
       "original_price": null,
@@ -12586,16 +13114,20 @@
         [
           "2026-09-16",
           466.95
+        ],
+        [
+          "2026-09-17",
+          466.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-chromebook-cm14-flip-cl1402fm2a-ec0286-mediatek-kompanio-520-8gb-128gb-14-chrome-os/": {
       "name": "Asus ChromeBook CM14 Flip CL1402FM2A-EC0286 MediaTek Kompanio 520 8GB 128GB 14 Chrome OS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048447_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048447_1.jpg?v=1789679207",
       "price": 387.95,
       "prev_price": 387.95,
       "original_price": null,
@@ -12607,16 +13139,20 @@
         [
           "2026-09-16",
           387.95
+        ],
+        [
+          "2026-09-17",
+          387.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq014w-core-5-320-8gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 X1504MA-BQ014W Core 5 320 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048114_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048114_1.jpg?v=1789679207",
       "price": 541.95,
       "prev_price": 541.95,
       "original_price": null,
@@ -12628,16 +13164,20 @@
         [
           "2026-09-16",
           541.95
+        ],
+        [
+          "2026-09-17",
+          541.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-d1502xa-bq027-amd-ryzen-7-7840hs-8gb-512gb-15-6-freedos/": {
       "name": "Asus Vivobook 15 D1502XA-BQ027 AMD Ryzen 7 7840HS 8GB 512GB 15.6 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048469_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048469_1.jpg?v=1789679207",
       "price": 511.95,
       "prev_price": 511.95,
       "original_price": null,
@@ -12649,16 +13189,20 @@
         [
           "2026-09-16",
           511.95
+        ],
+        [
+          "2026-09-17",
+          511.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dell-pro-15-essential-pv15250-i7-1355u-16gb-512gb-15-6-w11h/": {
       "name": "Dell Pro 15 Essential PV15250 i7-1355U 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044366_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044366_1.jpg?v=1789679207",
       "price": 725.95,
       "prev_price": 725.95,
       "original_price": null,
@@ -12670,16 +13214,20 @@
         [
           "2026-09-16",
           725.95
+        ],
+        [
+          "2026-09-17",
+          725.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw00jssp-intel-core-i5-13420h-16gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G5 IRL 83GW00JSSP Intel Core i5-13420H 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048410_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048410_1.jpg?v=1789679207",
       "price": 711.95,
       "prev_price": 711.95,
       "original_price": null,
@@ -12691,16 +13239,20 @@
         [
           "2026-09-16",
           711.95
+        ],
+        [
+          "2026-09-17",
+          711.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-15-x1504ma-bq015w-intel-core-7-350-8gb-512gb-15-6-w11h/": {
       "name": "Asus Vivobook 15 X1504MA-BQ015W Intel Core 7 350 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048227_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048227_1.jpg?v=1789679207",
       "price": 611.95,
       "prev_price": 611.95,
       "original_price": null,
@@ -12712,16 +13264,20 @@
         [
           "2026-09-16",
           611.95
+        ],
+        [
+          "2026-09-17",
+          611.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/acer-aspire-lite-15-al15-48p-r8we-amd-ryzen-7-5825u-8gb-512gb-15-6-w11h/": {
       "name": "Acer Aspire Lite 15 AL15-48P-R8WE AMD Ryzen 7 5825U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048185_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048185_1.jpg?v=1789679211",
       "price": 547.95,
       "prev_price": 547.95,
       "original_price": null,
@@ -12733,16 +13289,20 @@
         [
           "2026-09-16",
           547.95
+        ],
+        [
+          "2026-09-17",
+          547.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lg-gram-book-15u50t-g-aa56b-i5-1334u-16gb-512gb-15-6-w11h/": {
       "name": "LG Gram Book 15U50T-G.AA56B i5-1334U 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047203_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-047203_1.jpg?v=1789679211",
       "price": 723.96,
       "prev_price": 723.96,
       "original_price": null,
@@ -12754,16 +13314,20 @@
         [
           "2026-09-16",
           723.96
+        ],
+        [
+          "2026-09-17",
+          723.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-chromebook-cm14-flip-cl1402fm2a-ec0224-mediatek-kompanio-520-8gb-128gb-14-chrome-os/": {
       "name": "Asus ChromeBook CM14 Flip CL1402FM2A-EC0224 MediaTek Kompanio 520 8GB 128GB 14 Chrome OS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048446_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048446_1.jpg?v=1789679211",
       "price": 443.95,
       "prev_price": 443.95,
       "original_price": null,
@@ -12775,16 +13339,20 @@
         [
           "2026-09-16",
           443.95
+        ],
+        [
+          "2026-09-17",
+          443.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/acer-extensa-15-exo15-51-51ah-u5-115u-8gb-512gb-15-6-w11p/": {
       "name": "Acer Extensa 15 EXO15-51-51AH U5-115U 8GB 512GB 15.6 W11P",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048178_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048178_1.jpg?v=1789679211",
       "price": 705.95,
       "prev_price": 705.95,
       "original_price": null,
@@ -12796,16 +13364,20 @@
         [
           "2026-09-16",
           705.95
+        ],
+        [
+          "2026-09-17",
+          705.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/hp-omnibook-3-laptop-ai-14-ht0015nsx-intel-core-ultra-5-225u-8gb-256gb-14-2k-w11h/": {
       "name": "HP OmniBook 3 Laptop AI 14-ht0015nsx Intel Core Ultra 5 225U 8GB 256GB 14 2K W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048256_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048256_1.jpg?v=1789679211",
       "price": 617.95,
       "prev_price": 617.95,
       "original_price": null,
@@ -12817,16 +13389,20 @@
         [
           "2026-09-16",
           617.95
+        ],
+        [
+          "2026-09-17",
+          617.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/acer-aspire-lite-15-al15-46p-r64g-amd-ryzen-3-5400u-8gb-256gb-15-6-w11h/": {
       "name": "Acer Aspire Lite 15 AL15-46P-R64G AMD Ryzen 3 5400U 8GB 256GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048182_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048182_1.jpg?v=1789679211",
       "price": 455.95,
       "prev_price": 455.95,
       "original_price": null,
@@ -12838,16 +13414,20 @@
         [
           "2026-09-16",
           455.95
+        ],
+        [
+          "2026-09-17",
+          455.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-go-15-e1504fa-bq5080w-amd-ryzen-5-7520u-8gb-512gb-15-6-w11h/": {
       "name": "Asus Vivobook Go 15 E1504FA-BQ5080W AMD Ryzen 5 7520U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048231_1.jpg?v=1789601921",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048231_1.jpg?v=1789679207",
       "price": 492.95,
       "prev_price": 492.95,
       "original_price": null,
@@ -12859,16 +13439,20 @@
         [
           "2026-09-16",
           492.95
+        ],
+        [
+          "2026-09-17",
+          492.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v14-83gu006ysp-i5-13420h-8gb-512gb-14-fhd-freedos/": {
       "name": "Lenovo V14 83GU006YSP i5-13420H 8GB 512GB 14 FHD FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045984_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045984_1.jpg?v=1789679211",
       "price": 518.94,
       "prev_price": 518.94,
       "original_price": null,
@@ -12880,16 +13464,20 @@
         [
           "2026-09-16",
           518.94
+        ],
+        [
+          "2026-09-17",
+          518.94
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-vivobook-14-x1404ma-eb313-intel-core-5-320-8gb-512gb-14-freedos/": {
       "name": "Asus Vivobook 14 X1404MA-EB313 Intel Core 5 320 8GB 512GB 14 FreeDOS",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048222_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048222_1.jpg?v=1789679211",
       "price": 531.95,
       "prev_price": 531.95,
       "original_price": null,
@@ -12901,17 +13489,21 @@
         [
           "2026-09-16",
           531.95
+        ],
+        [
+          "2026-09-17",
+          531.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw008csp-i5-13420h-16gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G5 IRL 83GW008CSP i5-13420H 16GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045365_1.jpg?v=1789601925",
-      "price": 693.95,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045365_1.jpg?v=1789679207",
+      "price": 692.95,
       "prev_price": 693.95,
       "original_price": null,
       "history": [
@@ -12922,17 +13514,21 @@
         [
           "2026-09-16",
           693.95
+        ],
+        [
+          "2026-09-17",
+          692.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lenovo-v15-g5-irl-83gw008tsp-i5-13420h-8gb-512gb-15-6-w11h/": {
       "name": "Lenovo V15 G5 IRL 83GW008TSP i5-13420H 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045582_1.jpg?v=1789601925",
-      "price": 579.95,
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-045582_1.jpg?v=1789679203",
+      "price": 689.95,
       "prev_price": 579.95,
       "original_price": null,
       "history": [
@@ -12943,16 +13539,20 @@
         [
           "2026-09-16",
           579.95
+        ],
+        [
+          "2026-09-17",
+          689.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dell-pro-15-essential-pv15250-i5-1334u-8gb-512gb-15-6-w11h/": {
       "name": "Dell Pro 15 Essential PV15250 i5-1334U 8GB 512GB 15.6 W11H",
       "store": "Coolmod",
       "category": "Portátiles",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044364_1.jpg?v=1789601925",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-044364_1.jpg?v=1789679207",
       "price": 505.95,
       "prev_price": 505.95,
       "original_price": null,
@@ -12964,16 +13564,20 @@
         [
           "2026-09-16",
           505.95
+        ],
+        [
+          "2026-09-17",
+          505.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/nano-cable-latiguillo-categoria-6-utp-rj45-0-25m-gris/": {
       "name": "Nanocable Latiguillo Categoria 6 UTP RJ45 0.25M Gris",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-022213_1.jpg?v=1789679218",
       "price": 1.95,
       "prev_price": 1.95,
       "original_price": 5.95,
@@ -12985,16 +13589,20 @@
         [
           "2026-09-16",
           1.95
+        ],
+        [
+          "2026-09-17",
+          1.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi/": {
       "name": "Nanocable Conversor DP a HDMI Negro 5m",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conversor-dp-a-hdmi-negro-5m-cable-hdmi-001.jpg?v=1789679218",
       "price": 9.95,
       "prev_price": 9.95,
       "original_price": null,
@@ -13006,16 +13614,20 @@
         [
           "2026-09-16",
           9.95
+        ],
+        [
+          "2026-09-17",
+          9.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dicota-slim-case-13-14-1-negro/": {
       "name": "Dicota Slim Case 13 - 14.1 Negro",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033211_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033211_1.jpg?v=1789679218",
       "price": 9.95,
       "prev_price": 9.95,
       "original_price": null,
@@ -13027,16 +13639,20 @@
         [
           "2026-09-16",
           9.95
+        ],
+        [
+          "2026-09-17",
+          9.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate/": {
       "name": "EKWB EK-Quantum Vector FE RTX 3070 Nickel",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/ekwb-ek-quantum-vector-fe-rtx-3070-nickel-backplate-001.jpg?v=1789679218",
       "price": 7.95,
       "prev_price": 7.95,
       "original_price": 99.95,
@@ -13048,16 +13664,20 @@
         [
           "2026-09-16",
           7.95
+        ],
+        [
+          "2026-09-17",
+          7.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/thermal-grizzly-hydronaut-1-gr-pasta-tarmica/": {
       "name": "Thermal Grizzly Hydronaut 1 gr - Pasta Térmica",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/thermal-grizzly-hydronaut-1-gr-pasta-termica-001.jpg?v=1789679218",
       "price": 4.95,
       "prev_price": 4.95,
       "original_price": 7.95,
@@ -13069,16 +13689,20 @@
         [
           "2026-09-16",
           4.95
+        ],
+        [
+          "2026-09-17",
+          4.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/keychron-q5-iso-es-rgb-hot-swappable-switch-gateron-g-pro-brown/": {
       "name": "Keychron Q5 ISO-ES RGB Hot-Swappable Switch Gateron G Pro Brown",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031412_1.jpg?v=1789679218",
       "price": 69.95,
       "prev_price": 69.95,
       "original_price": 119.95,
@@ -13090,16 +13714,20 @@
         [
           "2026-09-16",
           69.95
+        ],
+        [
+          "2026-09-17",
+          69.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-negro-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack HDC 14 Negro - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016488_1.jpg?v=1789679218",
       "price": 6.95,
       "prev_price": 6.95,
       "original_price": 49.95,
@@ -13111,16 +13739,20 @@
         [
           "2026-09-16",
           6.95
+        ],
+        [
+          "2026-09-17",
+          6.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-12-nickel-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack HDC 12 Nickel - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016480_1.jpg?v=1789679218",
       "price": 2.95,
       "prev_price": 2.95,
       "original_price": 49.95,
@@ -13132,16 +13764,20 @@
         [
           "2026-09-16",
           2.95
+        ],
+        [
+          "2026-09-17",
+          2.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-stc-13-negro-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Negro - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016467_1.jpg?v=1789679218",
       "price": 5.95,
       "prev_price": 5.95,
       "original_price": 49.95,
@@ -13153,16 +13789,20 @@
         [
           "2026-09-16",
           5.95
+        ],
+        [
+          "2026-09-17",
+          5.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/deepcool-morpheus-digital-mesh-blanco/": {
       "name": "DeepCool Morpheus Digital Mesh Blanco",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-029698_1.jpg?v=1789679218",
       "price": 122.95,
       "prev_price": 122.95,
       "original_price": 209.95,
@@ -13174,16 +13814,20 @@
         [
           "2026-09-16",
           122.95
+        ],
+        [
+          "2026-09-17",
+          122.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-htc-classic-14mm-nickel-racor/": {
       "name": "EKWB EK-HTC Classic 14mm Nickel - Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008295_1.jpg?v=1789679218",
       "price": 1.95,
       "prev_price": 1.95,
       "original_price": 7.95,
@@ -13195,16 +13839,20 @@
         [
           "2026-09-16",
           1.95
+        ],
+        [
+          "2026-09-17",
+          1.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-htc-12-color-rings-pack-10pcs-niquel-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque HTC-12 Color Rings Pack 10pcs Niquel - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-008679_1.jpg?v=1789679218",
       "price": 2.95,
       "prev_price": 2.95,
       "original_price": 9.95,
@@ -13216,16 +13864,20 @@
         [
           "2026-09-16",
           2.95
+        ],
+        [
+          "2026-09-17",
+          2.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-hdc-14-azul-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack HDC 14 Azul - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016490_1.jpg?v=1789679218",
       "price": 2.95,
       "prev_price": 2.95,
       "original_price": 7.95,
@@ -13237,16 +13889,20 @@
         [
           "2026-09-16",
           2.95
+        ],
+        [
+          "2026-09-17",
+          2.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-stc-16-nickel-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack STC 16 Nickel - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016473_1.jpg?v=1789679218",
       "price": 2.95,
       "prev_price": 2.95,
       "original_price": 7.95,
@@ -13258,16 +13914,20 @@
         [
           "2026-09-16",
           2.95
+        ],
+        [
+          "2026-09-17",
+          2.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/ekwb-ek-quantum-torque-pack-stc-13-nickel-accesorio-racor/": {
       "name": "EKWB EK-Quantum Torque Pack STC 13 Nickel - Accesorio Racor",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-016466_1.jpg?v=1789679218",
       "price": 0.95,
       "prev_price": 0.95,
       "original_price": 7.95,
@@ -13279,16 +13939,20 @@
         [
           "2026-09-16",
           0.95
+        ],
+        [
+          "2026-09-17",
+          0.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/lian-li-sup01-argb-blanco/": {
       "name": "Lian Li SUP01 ARGB Blanco",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-036002_1.jpg?v=1789679218",
       "price": 59.95,
       "prev_price": 59.95,
       "original_price": 199.95,
@@ -13300,16 +13964,20 @@
         [
           "2026-09-16",
           59.95
+        ],
+        [
+          "2026-09-17",
+          59.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/nano-cable-conexian-hdmi-alta-velocidad-hec-con-repetidor-a-m-a-m-negro-25m-cable-hdmi/": {
       "name": "Nano Cable Conexión HDMI Alta Velocidad / HEC Con Repetidor A/M-A/M Negro 25m",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conexion-hdmi-alta-velocidad-hec-con-repetidor-a-m-a-m-negro-25m-cable-hdmi-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/nano-cable-conexion-hdmi-alta-velocidad-hec-con-repetidor-a-m-a-m-negro-25m-cable-hdmi-001.jpg?v=1789679218",
       "price": 45.96,
       "prev_price": 45.96,
       "original_price": null,
@@ -13321,16 +13989,20 @@
         [
           "2026-09-16",
           45.96
+        ],
+        [
+          "2026-09-17",
+          45.96
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dicota-slim-eco-base-13-14-1-negro/": {
       "name": "Dicota Slim Eco Base 13 - 14.1 Negro",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033206_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033206_1.jpg?v=1789679218",
       "price": 19.95,
       "prev_price": 19.95,
       "original_price": null,
@@ -13342,16 +14014,20 @@
         [
           "2026-09-16",
           19.95
+        ],
+        [
+          "2026-09-17",
+          19.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/dicota-base-xx-13-15-6-negro/": {
       "name": "Dicota Base XX 13 - 15.6 Negro",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033245_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-033245_1.jpg?v=1789679218",
       "price": 15.95,
       "prev_price": 15.95,
       "original_price": null,
@@ -13363,16 +14039,20 @@
         [
           "2026-09-16",
           15.95
+        ],
+        [
+          "2026-09-17",
+          15.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/keychron-q10-iso-es-rgb-hot-swappable-switch-gateron-mechanical-g-pro-red/": {
       "name": "Keychron Q10 ISO-ES RGB Hot-Swappable Switch Gateron Mechanical G Pro Red",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031641_1.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-031641_1.jpg?v=1789679218",
       "price": 179.95,
       "prev_price": 179.95,
       "original_price": null,
@@ -13384,16 +14064,20 @@
         [
           "2026-09-16",
           179.95
+        ],
+        [
+          "2026-09-17",
+          179.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/asus-asmb8-ikvm-accesorio-placa-base/": {
       "name": "Asus ASMB8-iKVM - Accesorio Placa Base",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/asus-asmb8-ikvm-accesorio-placa-base-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/asus-asmb8-ikvm-accesorio-placa-base-001.jpg?v=1789679218",
       "price": 27.95,
       "prev_price": 27.95,
       "original_price": null,
@@ -13405,16 +14089,20 @@
         [
           "2026-09-16",
           27.95
+        ],
+        [
+          "2026-09-17",
+          27.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.coolmod.com/bitspower-no-chafan-rigido-laton-16mm-ad-300mm-rojo-tubo/": {
       "name": "Bitspower No Chafán Rigído Latón 16MM AD 300mm Rojo - Tubo",
       "store": "Coolmod",
       "category": "Outlet",
-      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1789601932",
+      "image_url": "https://www.coolmod.com/images/product/normal/bitspower-no-chafan-rigado-latan-16mm-ad-300mm-rojo-tubo_65060-001.jpg?v=1789679218",
       "price": 7.95,
       "prev_price": 7.95,
       "original_price": null,
@@ -13426,10 +14114,14 @@
         [
           "2026-09-16",
           7.95
+        ],
+        [
+          "2026-09-17",
+          7.95
         ]
       ],
       "first_seen": "2026-09-15T20:56:32.739549+00:00",
-      "last_seen": "2026-09-16T23:38:51.118205+00:00"
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     },
     "https://www.pccomponentes.com/torre-pc-forgeon-tiberium-evo-torre-atx-argb-usb-c-cristal-templado-negra": {
       "name": "Forgeon Tiberium EVO Torre ATX ARGB USB-C Cristal Templado Negra",
@@ -13807,16 +14499,20 @@
       "category": "Informática",
       "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_155497849",
       "price": 1399.0,
-      "prev_price": null,
+      "prev_price": 1399.0,
       "original_price": 1649,
       "history": [
         [
           "2026-09-15",
           1399.0
+        ],
+        [
+          "2026-09-17",
+          1399.0
         ]
       ],
       "first_seen": "2026-09-15T23:32:08.693775+00:00",
-      "last_seen": "2026-09-15T23:32:08.693775+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.carrefour.es/smart-tv-miniled-65-1651-cm-tcl-65p8l-con-ia-4k-uhd-144-hz-hdr10-hlg-hdr10-dolby-vision-dolby-atmos-dtsx-dts-virtual-x/VC4A-33876634/p": {
       "name": "Smart TV MiniLED 65\" (165,1 cm) TCL 65P8L con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR10, Dolby Vision, Dolby Atmos, DTS:X, DTS Virtual X",
@@ -15342,10 +16038,14 @@
         [
           "2026-09-16",
           649.0
+        ],
+        [
+          "2026-09-17",
+          649.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-playstation-5-estandar-e-1tb-blanco/VC4A-31794263/p": {
       "name": "Consola PlayStation 5 Estándar E 1TB - Blanco",
@@ -15363,10 +16063,14 @@
         [
           "2026-09-16",
           649.0
+        ],
+        [
+          "2026-09-17",
+          649.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-playstation-5-digital-825gb-blanco/VC4A-31794178/p": {
       "name": "Consola PlayStation 5 Digital 825GB - Blanco",
@@ -15384,10 +16088,14 @@
         [
           "2026-09-16",
           599.0
+        ],
+        [
+          "2026-09-17",
+          599.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/wrc-generations-para-ps4/VC4A-20159982/p": {
       "name": "WRC Generations para PS4",
@@ -15405,10 +16113,14 @@
         [
           "2026-09-16",
           9.99
+        ],
+        [
+          "2026-09-17",
+          9.99
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/auriculares-gaming-krom-kopa-pro-para-ps5-ps4-switch-y-pc/VC4A-23229578/p": {
       "name": "Auriculares Gaming Krom Kopa Pro para PS5, PS4, Switch y PC",
@@ -15426,10 +16138,14 @@
         [
           "2026-09-16",
           15.9
+        ],
+        [
+          "2026-09-17",
+          15.9
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-nintendo-switch-2-256-gb/VC4A-30300787/p": {
       "name": "Consola Nintendo Switch 2 256 GB",
@@ -15447,10 +16163,14 @@
         [
           "2026-09-16",
           469.0
+        ],
+        [
+          "2026-09-17",
+          469.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/the-blood-of-dawnwalker-day-1-edition-para-ps5/VC4A-33641505/p": {
       "name": "The Blood of Dawnwalker Day 1 Edition para PS5",
@@ -15468,19 +16188,23 @@
         [
           "2026-09-16",
           61.37
+        ],
+        [
+          "2026-09-17",
+          61.37
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/auriculares-gaming-razer-kraken-x-lite/VC4A-13837121/p": {
       "name": "Auriculares Gaming Razer Kraken X Lite",
       "store": "Carrefour",
       "category": "Gaming",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654485_00_1.jpg",
-      "price": 34.59,
+      "price": 36.51,
       "prev_price": 34.59,
-      "original_price": 36.67,
+      "original_price": null,
       "history": [
         [
           "2026-09-15",
@@ -15489,10 +16213,14 @@
         [
           "2026-09-16",
           34.59
+        ],
+        [
+          "2026-09-17",
+          36.51
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/wrc-generations-para-ps5/VC4A-20160000/p": {
       "name": "WRC Generations para PS5",
@@ -15510,19 +16238,23 @@
         [
           "2026-09-16",
           12.99
+        ],
+        [
+          "2026-09-17",
+          12.99
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/orbitals-para-switch-2/VC4A-33947747/p": {
       "name": "Orbitals para Switch 2",
       "store": "Carrefour",
       "category": "Gaming",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/747051_00_1.jpg",
-      "price": 49.99,
+      "price": 48.48,
       "prev_price": 49.99,
-      "original_price": null,
+      "original_price": 58.18,
       "history": [
         [
           "2026-09-15",
@@ -15531,10 +16263,14 @@
         [
           "2026-09-16",
           49.99
+        ],
+        [
+          "2026-09-17",
+          48.48
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-playstation-5-pro-v2-2tb/VC4A-31761813/p": {
       "name": "Consola PlayStation 5 Pro V2 2TB",
@@ -15552,10 +16288,14 @@
         [
           "2026-09-16",
           899.0
+        ],
+        [
+          "2026-09-17",
+          899.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-nintendo-switch-2-btr-256-gb/VC4A-34339970/p": {
       "name": "Consola Nintendo Switch 2 BTR 256 GB",
@@ -15573,10 +16313,14 @@
         [
           "2026-09-16",
           463.41
+        ],
+        [
+          "2026-09-17",
+          463.41
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/mando-inalambrico-krom-krystal-para-switch-2-switch-pc-blanco/VC4A-31588236/p": {
       "name": "Mando Inalámbrico krom Krystal para Switch 2, Switch, PC - Blanco",
@@ -15594,10 +16338,14 @@
         [
           "2026-09-16",
           19.9
+        ],
+        [
+          "2026-09-17",
+          19.9
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tomodachi-life-una-vida-de-ensueno-para-switch/VC4A-32717435/p": {
       "name": "Tomodachi Life una Vida de Ensueño para Switch",
@@ -15615,10 +16363,14 @@
         [
           "2026-09-16",
           50.99
+        ],
+        [
+          "2026-09-17",
+          50.99
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/pokemon-pokopia-para-nintendo-switch-2/VC4A-32057275/p": {
       "name": "Pokemon Pokopia  para Nintendo Switch 2",
@@ -15636,10 +16388,14 @@
         [
           "2026-09-16",
           69.9
+        ],
+        [
+          "2026-09-17",
+          69.9
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-nintendo-switch-2-256-gb-pokemon-pokopia/VC4A-34004506/p": {
       "name": "Consola Nintendo Switch 2, 256 GB + Pokémon Pokopia",
@@ -15657,10 +16413,14 @@
         [
           "2026-09-16",
           509.0
+        ],
+        [
+          "2026-09-17",
+          509.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/metal-gear-solid-master-collection-vol-2-day-one-edition-para-ps5/VC4A-32930542/p": {
       "name": "Metal Gear Solid: Master Collection Vol. 2 Day One Edition para PS5",
@@ -15678,17 +16438,21 @@
         [
           "2026-09-16",
           42.99
+        ],
+        [
+          "2026-09-17",
+          42.99
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/auricular-turtle-beach-con-cable-compatible-con-nintendo-switch-y-nintendo-switch-2-airlite-fit-rojo-y-azul/VC4A-31454979/p": {
       "name": "Auricular Turtle Beach con cable compatible con Nintendo Switch y Nintendo Switch 2 Airlite Fit Rojo y Azul",
       "store": "Carrefour",
       "category": "Gaming",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/654362_00_1.jpg",
-      "price": 12.86,
+      "price": 13.64,
       "prev_price": 12.86,
       "original_price": 24.99,
       "history": [
@@ -15699,10 +16463,14 @@
         [
           "2026-09-16",
           12.86
+        ],
+        [
+          "2026-09-17",
+          13.64
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/unidad-de-disco-para-consolas-playstation-5-edicion-digital-cfi-2000-slim/VC4A-25866952/p": {
       "name": "Unidad de Disco para Consolas PlayStation 5 Edición Digital  CFI-2000 Slim",
@@ -15720,10 +16488,14 @@
         [
           "2026-09-16",
           79.99
+        ],
+        [
+          "2026-09-17",
+          79.99
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/consola-playstation-5-estandar-e-1tb-2-mando-dualsense-blanco/VC4A-32254502/p": {
       "name": "Consola PlayStation 5 Estandar E 1TB + 2º Mando DualSense Blanco",
@@ -15741,10 +16513,14 @@
         [
           "2026-09-16",
           699.0
+        ],
+        [
+          "2026-09-17",
+          699.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/auriculares-gaming-logitech-g321-para-pc-ps4-ps5-switch-negro/VC4A-31468692/p": {
       "name": "Auriculares Gaming Logitech G321 para PC, Ps4, Ps5, Switch Negro",
@@ -15762,10 +16538,14 @@
         [
           "2026-09-16",
           48.88
+        ],
+        [
+          "2026-09-17",
+          48.88
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/onimusha-way-of-the-sword-para-ps5/VC4A-33936424/p": {
       "name": "Onimusha Way Of The Sword para Ps5",
@@ -15783,10 +16563,14 @@
         [
           "2026-09-16",
           69.9
+        ],
+        [
+          "2026-09-17",
+          69.9
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/ghost-of-yotei-para-ps5/VC4A-30495730/p": {
       "name": "Ghost of Yotei para PS5",
@@ -15825,10 +16609,14 @@
         [
           "2026-09-16",
           649.0
+        ],
+        [
+          "2026-09-17",
+          649.0
         ]
       ],
       "first_seen": "2026-09-15T23:33:57.014594+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.pccomponentes.com/tablet-lenovo-idea-tab-wifi-11-8gb-128gb-gris-stylus-pen": {
       "name": "Tablet Lenovo Idea Tab WiFi 11\" 8GB 128GB Gris Stylus Pen",
@@ -16624,10 +17412,14 @@
         [
           "2026-09-16",
           849.0
+        ],
+        [
+          "2026-09-17",
+          849.0
         ]
       ],
       "first_seen": "2026-09-16T19:11:07.935781+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_tablet-xiaomi-redmi-pad-2-hyperos-97-2k-crystal-clear-4gb-ram-64gb-gran-bateria-de-7600-mah-graphite-gray-1628498.html": {
       "name": "Tablet - Xiaomi REDMI Pad 2, HyperOS, 9.7\" 2K Crystal Clear, 4GB RAM, 64GB, Gran Batería de 7600 mAh, Graphite Gray",
@@ -16658,10 +17450,14 @@
         [
           "2026-09-16",
           175.0
+        ],
+        [
+          "2026-09-17",
+          175.0
         ]
       ],
       "first_seen": "2026-09-16T19:11:07.935781+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-m140w-laserjet-wi-fi-direct®-tecnologia-hp-auto-onauto-off-hp-smart-blanco-1564831.html": {
       "name": "Impresora multifunción láser - HP M140w LaserJet, Wi-Fi Direct®, Tecnología HP Auto-On/Auto-Off, HP Smart, Blanco",
@@ -16692,10 +17488,14 @@
         [
           "2026-09-16",
           1349.0
+        ],
+        [
+          "2026-09-17",
+          1349.0
         ]
       ],
       "first_seen": "2026-09-16T19:11:07.935781+00:00",
-      "last_seen": "2026-09-16T23:36:47.245459+00:00"
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
     },
     "https://www.carrefour.es/auriculares-bluetooth-inalambrico-vieta-pro-vhp-tw91bk-negro/VC4A-28418855/p": {
       "name": "Auriculares Bluetooth Inalámbrico Vieta Pro VHP-TW91BK - Negro",
@@ -16726,10 +17526,14 @@
         [
           "2026-09-16",
           12.99
+        ],
+        [
+          "2026-09-17",
+          12.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-note-15-256gb-8gb-ram-negro/VC4A-32381778/p": {
       "name": "Móvil Xiaomi Redmi Note 15 256GB + 8GB RAM - Negro",
@@ -16737,33 +17541,41 @@
       "category": "Móviles",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682202_00_1.jpg",
       "price": 227.0,
-      "prev_price": 219.0,
+      "prev_price": 227.0,
       "original_price": 249.0,
       "history": [
         [
           "2026-09-16",
           219.0
+        ],
+        [
+          "2026-09-17",
+          227.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-negro/VC4A-32381779/p": {
       "name": "Móvil Xiaomi Redmi Note 15 Pro 5G 256GB + 8GB RAM - Negro",
       "store": "Carrefour",
       "category": "Móviles",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682206_00_1.jpg",
-      "price": 297.05,
-      "prev_price": 297.06,
-      "original_price": 356.46,
+      "price": 298.01,
+      "prev_price": 297.05,
+      "original_price": 357.61,
       "history": [
         [
           "2026-09-16",
           297.05
+        ],
+        [
+          "2026-09-17",
+          298.01
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-15c-256gb-4gb-ram-negro/VC4A-31399146/p": {
       "name": "Móvil Xiaomi Redmi 15C 256GB + 4GB RAM - Negro",
@@ -16772,15 +17584,19 @@
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645230_00_1.jpg",
       "price": 133.96,
       "prev_price": 133.96,
-      "original_price": 150.0,
+      "original_price": 149.0,
       "history": [
         [
           "2026-09-16",
           133.96
+        ],
+        [
+          "2026-09-17",
+          133.96
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-15c-128gb-4gb-ram-negro/VC4A-34105001/p": {
       "name": "Móvil Xiaomi Redmi 15C 128GB + 4GB RAM - Negro",
@@ -16794,10 +17610,14 @@
         [
           "2026-09-16",
           119.0
+        ],
+        [
+          "2026-09-17",
+          119.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cable-belklin-usb-c-a-usb-a/VC4A-15672259/p": {
       "name": "Cable Belklin USB-C a USB-A",
@@ -16811,27 +17631,35 @@
         [
           "2026-09-16",
           9.95
+        ],
+        [
+          "2026-09-17",
+          9.95
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-note-15-pro-256gb-8gb-ram-negro/VC4A-32381780/p": {
       "name": "Móvil Xiaomi Redmi Note 15 Pro 256GB + 8GB RAM - Negro",
       "store": "Carrefour",
       "category": "Móviles",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682200_00_1.jpg",
-      "price": 269.61,
+      "price": 269.59,
       "prev_price": 269.61,
-      "original_price": 323.53,
+      "original_price": 323.51,
       "history": [
         [
           "2026-09-16",
           269.61
+        ],
+        [
+          "2026-09-17",
+          269.59
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/base-de-carga-inalambrico-belkin-wia001vfbk-10w-negro/VC4A-26505363/p": {
       "name": "Base de Carga Inalámbrico Belkin WIA001VFBK 10W - Negro",
@@ -16845,10 +17673,14 @@
         [
           "2026-09-16",
           7.99
+        ],
+        [
+          "2026-09-17",
+          7.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-iphone-15-128gb-5g-negro/VC4A-24304250/p": {
       "name": "Apple iPhone 15 128GB 5G - Negro",
@@ -16862,10 +17694,14 @@
         [
           "2026-09-16",
           639.0
+        ],
+        [
+          "2026-09-17",
+          639.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-note-15-5g-256gb-8gb-ram-negro/VC4A-32395353/p": {
       "name": "Móvil Xiaomi Redmi Note 15 5G 256GB + 8GB RAM - Negro",
@@ -16879,10 +17715,14 @@
         [
           "2026-09-16",
           250.44
+        ],
+        [
+          "2026-09-17",
+          250.44
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-oppo-a6-256-gb-6gb-ram-azul-marino-incluye-cargador-45w-y-auriculares/VC4A-33279432/p": {
       "name": "Móvil Oppo A6 256 GB + 6GB RAM - Azul marino, Incluye Cargador 45W y Auriculares",
@@ -16896,10 +17736,14 @@
         [
           "2026-09-16",
           229.0
+        ],
+        [
+          "2026-09-17",
+          229.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cargador-universal-de-pared-belklin-usb-a-blanco/VC4A-18909394/p": {
       "name": "Cargador Universal de Pared Belklin USB A - Blanco",
@@ -16913,10 +17757,14 @@
         [
           "2026-09-16",
           17.99
+        ],
+        [
+          "2026-09-17",
+          17.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cable-lightning-usb-a-belkin-boost-charge-blanco/VC4A-19498384/p": {
       "name": "Cable Lightning USB-A Belkin Boost Charge - Blanco",
@@ -16930,10 +17778,14 @@
         [
           "2026-09-16",
           11.89
+        ],
+        [
+          "2026-09-17",
+          11.89
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/smartband-xiaomi-band-10-negro/VC4A-30972829/p": {
       "name": "Smartband Xiaomi Band 10 - Negro",
@@ -16947,10 +17799,14 @@
         [
           "2026-09-16",
           42.9
+        ],
+        [
+          "2026-09-17",
+          42.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-oppo-a6x-128gb-4gb-ram-morado/VC4A-32912302/p": {
       "name": "Móvil Oppo A6X 128GB + 4GB RAM - Morado",
@@ -16964,10 +17820,14 @@
         [
           "2026-09-16",
           138.55
+        ],
+        [
+          "2026-09-17",
+          139.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-oppo-a6k-256gb-4gb-ram-negro/VC4A-33175637/p": {
       "name": "Móvil Oppo A6K 256GB + 4GB RAM - Negro",
@@ -16981,27 +17841,35 @@
         [
           "2026-09-16",
           169.0
+        ],
+        [
+          "2026-09-17",
+          169.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-xiaomi-redmi-a5-128-gb-4gb-ram-azul/VC4A-33162732/p": {
       "name": "Móvil Xiaomi Redmi A5 128 GB + 4GB RAM - Azul",
       "store": "Carrefour",
       "category": "Móviles",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705206_00_1.jpg",
-      "price": 109.0,
+      "price": 129.0,
       "prev_price": 109.0,
-      "original_price": 129.0,
+      "original_price": null,
       "history": [
         [
           "2026-09-16",
           109.0
+        ],
+        [
+          "2026-09-17",
+          129.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-iphone-15-128gb-5g-azul/VC4A-24296622/p": {
       "name": "Apple iPhone 15 128GB 5G - Azul",
@@ -17015,27 +17883,35 @@
         [
           "2026-09-16",
           639.0
+        ],
+        [
+          "2026-09-17",
+          639.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-iphone-17-pro-256gb-63-pantalla-super-retina-xdr-chip-a19-pro-plata/VC4A-31500042/p": {
       "name": "Apple iPhone 17 Pro, 256GB, 6.3\" Pantalla Super Retina XDR, Chip A19 Pro - Plata",
       "store": "Carrefour",
       "category": "Móviles",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/658633_00_1.jpg",
-      "price": 1178.0,
+      "price": 1175.99,
       "prev_price": 1178.0,
-      "original_price": 1399.0,
+      "original_price": 1506.25,
       "history": [
         [
           "2026-09-16",
           1178.0
+        ],
+        [
+          "2026-09-17",
+          1175.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cargador-de-pared-belkin-usb-c-30-w/VC4A-20419030/p": {
       "name": "Cargador de Pared Belkin USB-C 30 W",
@@ -17049,10 +17925,14 @@
         [
           "2026-09-16",
           12.99
+        ],
+        [
+          "2026-09-17",
+          12.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/samsung-galaxy-a36-5g-256gb-8gb-ram-negro/VC4A-29956579/p": {
       "name": "Samsung Galaxy A36 5G 256GB + 8GB RAM - Negro",
@@ -17066,10 +17946,14 @@
         [
           "2026-09-16",
           298.0
+        ],
+        [
+          "2026-09-17",
+          298.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-iphone-17-pro-max-256gb-69-pantalla-super-retina-xdr-chip-a19-pro-plata/VC4A-31500594/p": {
       "name": "Apple iPhone 17 Pro Max, 256GB, 6.9\" Pantalla Super Retina XDR, Chip A19 Pro - Plata",
@@ -17083,10 +17967,14 @@
         [
           "2026-09-16",
           1299.0
+        ],
+        [
+          "2026-09-17",
+          1299.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/movil-oppo-reno-15f-5g-256gb-8gb-ram-negro/VC4A-33744994/p": {
       "name": "Móvil Oppo Reno 15F 5G 256GB + 8GB RAM - Negro",
@@ -17100,10 +17988,14 @@
         [
           "2026-09-16",
           319.99
+        ],
+        [
+          "2026-09-17",
+          319.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tablet-lenovo-tab-mediatek-helio-g85-4gb-ram-128gb-101-2565-cm-android-14/VC4A-31657424/p": {
       "name": "Tablet Lenovo Tab MediaTek Helio G85, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 14",
@@ -17117,10 +18009,14 @@
         [
           "2026-09-16",
           139.95
+        ],
+        [
+          "2026-09-17",
+          139.95
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-305-negro/VC4A-11324643/p": {
       "name": "Cartucho de Tinta HP 305 - Negro",
@@ -17134,10 +18030,14 @@
         [
           "2026-09-16",
           16.9
+        ],
+        [
+          "2026-09-17",
+          16.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-305-pack-negro-tricolor/VC4A-27464223/p": {
       "name": "Cartucho de Tinta HP 305 pack - Negro/Tricolor",
@@ -17151,10 +18051,14 @@
         [
           "2026-09-16",
           32.9
+        ],
+        [
+          "2026-09-17",
+          32.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-305xl-negro/VC4A-11324593/p": {
       "name": "Cartucho de Tinta HP 305XL - Negro",
@@ -17168,10 +18072,14 @@
         [
           "2026-09-16",
           30.9
+        ],
+        [
+          "2026-09-17",
+          30.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/memoria-usb-lexar-jumpdrive-32gb-usb-20/VC4A-33129899/p": {
       "name": "Memoria USB Lexar Jumpdrive 32GB USB 2.0",
@@ -17185,10 +18093,14 @@
         [
           "2026-09-16",
           5.49
+        ],
+        [
+          "2026-09-17",
+          5.49
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2923e-inyeccion-de-tinta-wifi-color-55-ppm-3-meses-instant-ink-hp/VC4A-33279425/p": {
       "name": "Impresora Multifunción HP DeskJet 2923E, Inyección de Tinta, Wifi, Color, 5,5 ppm, 3 Meses Instant Ink HP+",
@@ -17202,10 +18114,14 @@
         [
           "2026-09-16",
           45.0
+        ],
+        [
+          "2026-09-17",
+          45.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-ipad-11-2794-cms-liquid-retina-chip-a16-128-gb-wifi-ipados-18-plata/VC4A-30097164/p": {
       "name": "Apple iPad, 11'' -  27,94 cms, Liquid Retina, Chip A16, 128 GB, Wifi, iPadOS 18 - Plata",
@@ -17219,10 +18135,14 @@
         [
           "2026-09-16",
           469.0
+        ],
+        [
+          "2026-09-17",
+          469.0
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-305-3ym60aeabe-tricolor/VC4A-11324594/p": {
       "name": "Cartucho de Tinta HP 305 3YM60AE#ABE - Tricolor",
@@ -17236,27 +18156,35 @@
         [
           "2026-09-16",
           16.9
+        ],
+        [
+          "2026-09-17",
+          16.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tarjeta-de-memoria-verbatim-micro-sd-premium-32gb/2003921035/p": {
       "name": "Tarjeta de Memoria Verbatim Micro SD Premium 32GB",
       "store": "Carrefour",
       "category": "Componentes",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/961768_00_1.jpg",
-      "price": 13.91,
+      "price": 14.61,
       "prev_price": 13.91,
-      "original_price": 14.33,
+      "original_price": 17.53,
       "history": [
         [
           "2026-09-16",
           13.91
+        ],
+        [
+          "2026-09-17",
+          14.61
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-301-negro/VC4A-10654294/p": {
       "name": "Cartucho de Tinta HP 301 - Negro",
@@ -17270,10 +18198,14 @@
         [
           "2026-09-16",
           27.9
+        ],
+        [
+          "2026-09-17",
+          27.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-128gb-11-2794-cm-android-15-con-lenovo-tab-pen/VC4A-31928411/p": {
       "name": "Tablet Lenovo Idea Tab MediaTek Dimensity 6300, 8GB RAM, 128GB, 11\" - 27,94 cm, Android 15 con Lenovo Tab Pen",
@@ -17287,10 +18219,14 @@
         [
           "2026-09-16",
           181.29
+        ],
+        [
+          "2026-09-17",
+          181.29
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-304-negro/VC4A-10654449/p": {
       "name": "Cartucho de Tinta HP 304 - Negro",
@@ -17304,10 +18240,14 @@
         [
           "2026-09-16",
           20.9
+        ],
+        [
+          "2026-09-17",
+          20.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-302-negro/VC4A-10654419/p": {
       "name": "Cartucho de Tinta HP 302 - Negro",
@@ -17321,10 +18261,14 @@
         [
           "2026-09-16",
           25.9
+        ],
+        [
+          "2026-09-17",
+          25.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/camara-wi-fi-rotatoria-tp-link-tc70-blanco/VC4A-19160485/p": {
       "name": "Cámara Wi-fi Rotatoria TP Link Tc70 - Blanco",
@@ -17338,10 +18282,14 @@
         [
           "2026-09-16",
           19.9
+        ],
+        [
+          "2026-09-17",
+          19.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cargador-ngs-gan65w-c-usbc-has-negro/VC4A-33420092/p": {
       "name": "Cargador NGS GAN65W-C USBC HAS - Negro",
@@ -17355,10 +18303,14 @@
         [
           "2026-09-16",
           19.9
+        ],
+        [
+          "2026-09-17",
+          19.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/raton-inalambrico-ngs-fogpro-negro/VC4A-27082564/p": {
       "name": "Ratón Inalámbrico NGS FogPro - Negro",
@@ -17372,10 +18324,14 @@
         [
           "2026-09-16",
           4.99
+        ],
+        [
+          "2026-09-17",
+          4.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/ordenador-portatil-acer-aspire-3-a315-44p-ryzen-7-5700u-16gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-27968729/p": {
       "name": "Ordenador Portátil Acer ASPIRE 3 A315-44P, Ryzen 7 5700U, 16GB, 512GB SSD, FHD, 15.6\" - 39,62 cm, W11",
@@ -17389,10 +18345,14 @@
         [
           "2026-09-16",
           569.46
+        ],
+        [
+          "2026-09-17",
+          569.46
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-305xl-tricolor/VC4A-11324595/p": {
       "name": "Cartucho de Tinta HP 305XL - Tricolor",
@@ -17406,10 +18366,14 @@
         [
           "2026-09-16",
           28.9
+        ],
+        [
+          "2026-09-17",
+          28.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/apple-earpods-lightning-blanco/VC4A-29246321/p": {
       "name": "Apple Earpods Lightning - Blanco",
@@ -17423,10 +18387,14 @@
         [
           "2026-09-16",
           20.29
+        ],
+        [
+          "2026-09-17",
+          20.29
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/ordenador-portatil-lenovo-ideapad-slim-3-15arp10-ryzen-7-170-16gb-1tb-ssd-wuxga-153-3886-cm-w11-home-con-mochila-y-raton/VC4A-34091035/p": {
       "name": "Ordenador Portátil Lenovo IdeaPad Slim 3 15ARP10, Ryzen 7  170, 16GB, 1TB SSD, WUXGA, 15,3\" - 38,86 cm W11 Home con Mochila y Ratón",
@@ -17440,10 +18408,14 @@
         [
           "2026-09-16",
           698.39
+        ],
+        [
+          "2026-09-17",
+          698.39
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/cartucho-de-tinta-hp-308e-6110-negro/VC4A-33724446/p": {
       "name": "Cartucho de Tinta HP 308e 6110 - Negro",
@@ -17457,10 +18429,14 @@
         [
           "2026-09-16",
           22.99
+        ],
+        [
+          "2026-09-17",
+          22.99
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tablet-tcl-11-gen2-mtk-helio-g80-mt8786-6gb-ram-6gb-extension-ram-256gb-109-2768-cm-wifi-android-14-gris/VC4A-28105714/p": {
       "name": "Tablet TCL 11 Gen2, MTK Helio G80 (MT8786), 6GB RAM (+6GB Extensión RAM), 256GB, 10.9\" - 27.68 cm, WIFI, Android 14 - Gris",
@@ -17474,27 +18450,35 @@
         [
           "2026-09-16",
           145.4
+        ],
+        [
+          "2026-09-17",
+          145.4
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/pack-3-usb-sandisk-cruzer-blade-flash-drive-32b/VC4A-8055387/p": {
       "name": "Pack 3 USB Sandisk Cruzer Blade Flash Drive 32B",
       "store": "Carrefour",
       "category": "Componentes",
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/334554_00_1.jpg",
-      "price": 33.36,
-      "prev_price": 32.95,
-      "original_price": null,
+      "price": 34.9,
+      "prev_price": 33.36,
+      "original_price": 41.88,
       "history": [
         [
           "2026-09-16",
           32.95
+        ],
+        [
+          "2026-09-17",
+          34.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p": {
       "name": "Tarjeta de Memoria Intenso 32GB",
@@ -17525,10 +18509,14 @@
         [
           "2026-09-16",
           9.9
+        ],
+        [
+          "2026-09-17",
+          9.9
         ]
       ],
       "first_seen": "2026-09-16T19:12:58.907628+00:00",
-      "last_seen": "2026-09-16T23:37:37.503577+00:00"
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
     },
     "https://www.carrefour.es/tv-hisense-65-164-cm-65e7q-pro-con-ia-qled-4k-uhd-144hz-smart-tv-hdr-dolby-ms12-quantum-dot/VC4A-30685811/p": {
       "name": "TV Hisense 65\" (164 cm) 65E7Q PRO Con IA, QLED, 4K UHD, 144Hz, Smart TV,  HDR, Dolby MS12, Quantum Dot",
@@ -17546,6 +18534,312 @@
       ],
       "first_seen": "2026-09-16T23:37:37.503577+00:00",
       "last_seen": "2026-09-16T23:37:37.503577+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_monitor-acer-pm161qb1bmiuux-portatil-156-full-hd-60-hz-4-ms-ips-adaptive-sync-altavoces-incorporados-negro-1594031.html": {
+      "name": "Monitor portátil - Acer PM161QB1BMIUUX, 15.6\" Full-HD, 60 Hz, 4 ms, IPS, Adaptive Sync, Altavoces integrados, Negro",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160314246",
+      "price": 99.0,
+      "prev_price": null,
+      "original_price": 119,
+      "history": [
+        [
+          "2026-09-17",
+          99.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_apple-ipad-air-2026-128-gb-gris-espacial-11-liquid-retina-wifi-chip-m4-9-gpu-1622086.html": {
+      "name": "Apple iPad Air (2026), 128 GB, Gris Espacial, 11\" Liquid Retina, WIFI, Chip M4, 9 GPU",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172158809",
+      "price": 699.0,
+      "prev_price": null,
+      "original_price": 799,
+      "history": [
+        [
+          "2026-09-17",
+          699.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_monitor-acer-sa273p1bi-27-full-hd-144-hz-4-ms-ips-1x-vga-1x-hdmi-14-freesync-negro-1604094.html": {
+      "name": "Monitor - Acer SA273P1BI, 27\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159184815",
+      "price": 89.0,
+      "prev_price": null,
+      "original_price": 119,
+      "history": [
+        [
+          "2026-09-17",
+          89.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_portatil-gaming-lenovo-legion-pro-5-16iax10-16-wqxga-oled-intelr-coretm-ultra-7-255hx-32gb-ram-1tb-ssd-geforce-rtxtm-5070-sin-sistema-operativo-1617991.html": {
+      "name": "Portátil gaming - Lenovo Legion Pro 5 16IAX10, 16\" WQXGA OLED, Intel® Core™ Ultra 7 255HX, 32GB RAM, 1TB SSD, GeForce RTX™ 5070, Sin sistema operativo",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172383727",
+      "price": 1849.0,
+      "prev_price": null,
+      "original_price": 2299,
+      "history": [
+        [
+          "2026-09-17",
+          1849.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_apple-ipad-air-2026-128-gb-purpura-11-liquid-retina-wifi-chip-m4-9-gpu-1622089.html": {
+      "name": "Apple iPad Air (2026), 128 GB, Púrpura, 11\" Liquid Retina, WIFI, Chip M4, 9 GPU",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172158639",
+      "price": 699.0,
+      "prev_price": null,
+      "original_price": 799,
+      "history": [
+        [
+          "2026-09-17",
+          699.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_apple-ipad-air-2026-128-gb-blanco-11-liquid-retina-wifi-chip-m4-9-gpu-1622088.html": {
+      "name": "Apple iPad Air (2026), 128 GB, Blanco, 11\" Liquid Retina, WIFI, Chip M4, 9 GPU",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172158638",
+      "price": 699.0,
+      "prev_price": null,
+      "original_price": 799,
+      "history": [
+        [
+          "2026-09-17",
+          699.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-envy-6122e-hp-wi-fi-fax-movil-impresion-fotografica-a-doble-cara-automatica-blanco-1587274.html": {
+      "name": "Impresora multifunción tinta - HP Envy 6122e, Serie 6020, HP+, Wi-Fi, Fax móvil, Impresión fotográfica a doble cara automática, Instant Ink, Blanco",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179518728",
+      "price": 69.0,
+      "prev_price": null,
+      "original_price": 94.9,
+      "history": [
+        [
+          "2026-09-17",
+          69.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_monitor-gaming-acer-nitro-kg243yx1bmipx-27-full-hd-200-hz-1-ms-ips-freesync-premium-altavoces-integrados-negro-1593876.html": {
+      "name": "Monitor gaming - Acer Nitro KG273X1BMIPX, 27\" Full-HD, 200 Hz, 1 ms, IPS, FreeSync Premium, Altavoces integrados, Negro",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_150311796",
+      "price": 109.0,
+      "prev_price": null,
+      "original_price": 159,
+      "history": [
+        [
+          "2026-09-17",
+          109.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_tablet-honor-pad-x9a-115-qhd-6-gb-ram-128-gb-qualcommr-snapdragonr-685-6nm-android-15-magic-os-90-8300-mah-gris-espacial-1608839.html": {
+      "name": "Tablet - Honor Pad X9a, 11.5\" QHD+, 6 GB RAM, 128 GB, Qualcomm® Snapdragon® 685 (6nm), Android 15 – Magic OS 9.0, 8300 mAh, Gris espacial",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_164862542",
+      "price": 159.0,
+      "prev_price": null,
+      "original_price": 249,
+      "history": [
+        [
+          "2026-09-17",
+          159.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_apple-ipad-air-2026-128-gb-azul-11-liquid-retina-wifi-chip-m4-9-gpu-1622087.html": {
+      "name": "Apple iPad Air (2026), 128 GB, Azul, 11\" Liquid Retina, WIFI, Chip M4, 9 GPU",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172158810",
+      "price": 699.0,
+      "prev_price": null,
+      "original_price": 799,
+      "history": [
+        [
+          "2026-09-17",
+          699.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-smart-tank-5107-inyeccion-de-tinta-termica-escaner-wi-fi-hp-smart-12-ppm-blanco-1550971.html": {
+      "name": "Impresora multifunción tinta - HP Smart Tank 5107, Smart Tank 5106 y 5108, Color, Con depósito de tinta recargable, Wi-Fi, Blanco",
+      "store": "MediaMarkt",
+      "category": "Informática",
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168870606",
+      "price": 159.0,
+      "prev_price": null,
+      "original_price": 199.9,
+      "history": [
+        [
+          "2026-09-17",
+          159.0
+        ]
+      ],
+      "first_seen": "2026-09-17T21:02:19.312076+00:00",
+      "last_seen": "2026-09-17T21:02:19.312076+00:00"
+    },
+    "https://www.carrefour.es/marvel-lobezno-para-ps5/VC4A-33872012/p": {
+      "name": "Marvel Lobezno para PS5",
+      "store": "Carrefour",
+      "category": "Gaming",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/742612_00_1.jpg",
+      "price": 69.9,
+      "prev_price": null,
+      "original_price": 79.99,
+      "history": [
+        [
+          "2026-09-17",
+          69.9
+        ]
+      ],
+      "first_seen": "2026-09-17T21:05:26.472564+00:00",
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
+    },
+    "https://www.carrefour.es/ordenador-portatil-acer-chromebook-314-cboa314-1h-c8hs-celeron-n4500-4gb-64gb-emmc-fhd-14-3556-cm-chromeos/VC4A-30109915/p": {
+      "name": "Ordenador Portátil  Acer Chromebook 314 CBOA314-1H-C8HS, Celeron N4500, 4GB, 64GB eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
+      "store": "Carrefour",
+      "category": "Componentes",
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/555006_00_1.jpg",
+      "price": 197.53,
+      "prev_price": null,
+      "original_price": 279.0,
+      "history": [
+        [
+          "2026-09-17",
+          197.53
+        ]
+      ],
+      "first_seen": "2026-09-17T21:05:26.472564+00:00",
+      "last_seen": "2026-09-17T21:05:26.472564+00:00"
+    },
+    "https://www.game.es/accesorios/auriculares/pc-gaming/logitech-g321-lightspeed-wireless-bluetooth-blanco-pc-ps5-ps4-switch-movil-auriculares-gaming/252244": {
+      "name": "Logitech G321 Lightspeed Wireless Bluetooth Blanco PC - PS5 - PS4 - Switch - Movil - Auriculares Gaming",
+      "store": "GAME",
+      "category": "Gaming",
+      "image_url": "https://media.game.es/COVERV2/3D_L/252/252244.png",
+      "price": 34.99,
+      "prev_price": null,
+      "original_price": 37.99,
+      "history": [
+        [
+          "2026-09-17",
+          34.99
+        ]
+      ],
+      "first_seen": "2026-09-17T21:06:22.855700+00:00",
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
+    },
+    "https://www.game.es/accesorios/volante/pc-gaming/logitech-g29-driving-force-pc-ps5-ps4-ps3-licencia-playstation-volante/115279": {
+      "name": "Logitech G29 Driving Force PC - PS5 - PS4 - PS3 - Licencia PlayStation - Volante",
+      "store": "GAME",
+      "category": "Gaming",
+      "image_url": "https://media.game.es/COVERV2/3D_L/115/115279.png",
+      "price": 189.99,
+      "prev_price": null,
+      "original_price": 204.99,
+      "history": [
+        [
+          "2026-09-17",
+          189.99
+        ]
+      ],
+      "first_seen": "2026-09-17T21:06:22.855700+00:00",
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
+    },
+    "https://www.game.es/accesorios/auriculares/pc-gaming/logitech-g321-lightspeed-wireless-bluetooth-negro-pc-ps5-ps4-switch-movil-auriculares-gaming/252243": {
+      "name": "Logitech G321 Lightspeed Wireless Bluetooth Negro PC - PS5 - PS4 - Switch - Movil - Auriculares Gaming",
+      "store": "GAME",
+      "category": "Gaming",
+      "image_url": "https://media.game.es/COVERV2/3D_L/252/252243.png",
+      "price": 34.99,
+      "prev_price": null,
+      "original_price": 37.99,
+      "history": [
+        [
+          "2026-09-17",
+          34.99
+        ]
+      ],
+      "first_seen": "2026-09-17T21:06:22.855700+00:00",
+      "last_seen": "2026-09-17T21:06:22.855700+00:00"
+    },
+    "https://www.coolmod.com/asrock-amd-radeon-rx-7600-challenger-oc-8gb-gddr6/": {
+      "name": "ASRock AMD Radeon RX 7600 Challenger OC 8GB GDDR6",
+      "store": "Coolmod",
+      "category": "Tarjetas Gráficas",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-026789_1.jpg?v=1789679194",
+      "price": 357.95,
+      "prev_price": null,
+      "original_price": null,
+      "history": [
+        [
+          "2026-09-17",
+          357.95
+        ]
+      ],
+      "first_seen": "2026-09-17T21:06:57.255759+00:00",
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
+    },
+    "https://www.coolmod.com/razer-core-x-v2-negra-estacion-grafica-gpu-externa/": {
+      "name": "Razer Core X V2 Negra (Estación Gráfica GPU Externa) -",
+      "store": "Coolmod",
+      "category": "Portátiles",
+      "image_url": "https://www.coolmod.com/images/product/normal/PROD-048929_1.jpg?v=1789679203",
+      "price": 369.95,
+      "prev_price": null,
+      "original_price": null,
+      "history": [
+        [
+          "2026-09-17",
+          369.95
+        ]
+      ],
+      "first_seen": "2026-09-17T21:06:57.255759+00:00",
+      "last_seen": "2026-09-17T21:06:57.255759+00:00"
     }
   }
 }
