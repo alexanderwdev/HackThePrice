@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:05:51.707300+00:00",
+  "updated": "2026-09-17T22:24:23.640714+00:00",
   "total_products": 969,
   "deals": [
     {
@@ -2724,7 +2724,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 197.53,
       "drop_pct": null
     },
     {
@@ -2875,8 +2875,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 449.0,
-      "drop_pct": 20.04
+      "prev_price": 359.0,
+      "drop_pct": null
     },
     {
       "name": "Origial Cool&Freeze SBS Frigorífico Americano con Dispensador No Frost E Acero Inoxidable",
@@ -3377,8 +3377,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 369.0,
-      "drop_pct": 18.97
+      "prev_price": 299.0,
+      "drop_pct": null
     },
     {
       "name": "Smart TV MiniLED 65\" (165,1 cm) TCL 65P8L con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR10, Dolby Vision, Dolby Atmos, DTS:X, DTS Virtual X",
@@ -3712,6 +3712,24 @@
       "history_days": 3,
       "is_lowest": false,
       "prev_price": 49.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tablet Lenovo Idea Tab MediaTek Dimensity 6300, 8GB RAM, 128GB, 11\" - 27,94 cm, Android 15 con Lenovo Tab Pen",
+      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-128gb-11-2794-cm-android-15-con-lenovo-tab-pen/VC4A-31928411/p",
+      "store": "Carrefour",
+      "current_price": 189.0,
+      "original_price": 249.0,
+      "discount_pct": 24.1,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/667179_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        181.29,
+        181.29
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 181.29,
       "drop_pct": null
     },
     {
@@ -4526,8 +4544,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 136.94,
-      "drop_pct": 13.1
+      "prev_price": 119.0,
+      "drop_pct": null
     },
     {
       "name": "Smart TV Xiaomi Box - Negro",
@@ -5264,6 +5282,25 @@
       "drop_pct": null
     },
     {
+      "name": "SAMSUNG TAB A11 8,7P/4 RAM/64GB/GRAY, 64 GB, Gris, 8,7 \" WXGA+, 4 GB RAM, MediaTek MT8781, Tablet Android",
+      "url": "https://www.mediamarkt.es/es/product/_samsung-sm-x130nzaaeub-64-gb-gris-87-wqxga-4-gb-ram-mediatek-mt8781-tablet-android-162756360.html",
+      "store": "MediaMarkt",
+      "current_price": 151.15,
+      "original_price": 181.38,
+      "discount_pct": 16.67,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179205487",
+      "category": "Informática",
+      "price_history": [
+        144.41,
+        144.41,
+        151.1
+      ],
+      "history_days": 3,
+      "is_lowest": false,
+      "prev_price": 151.1,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV QLED 55\" (139,7 cm) Hisense 55E79S con IA , 4K UHD, 60 Hz",
       "url": "https://www.carrefour.es/smart-tv-qled-55-1397-cm-hisense-55e79s-con-ia-4k-uhd-60-hz/VC4A-33162776/p",
       "store": "Carrefour",
@@ -5432,24 +5469,6 @@
       "drop_pct": null
     },
     {
-      "name": "Tablet Lenovo Idea Tab MediaTek Dimensity 6300, 8GB RAM, 128GB, 11\" - 27,94 cm, Android 15 con Lenovo Tab Pen",
-      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-128gb-11-2794-cm-android-15-con-lenovo-tab-pen/VC4A-31928411/p",
-      "store": "Carrefour",
-      "current_price": 181.29,
-      "original_price": 217.55,
-      "discount_pct": 16.67,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/667179_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        181.29,
-        181.29
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 181.29,
-      "drop_pct": null
-    },
-    {
       "name": "Pack 3 USB Sandisk Cruzer Blade Flash Drive 32B",
       "url": "https://www.carrefour.es/pack-3-usb-sandisk-cruzer-blade-flash-drive-32b/VC4A-8055387/p",
       "store": "Carrefour",
@@ -5464,7 +5483,7 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 33.36,
+      "prev_price": 34.9,
       "drop_pct": null
     },
     {
@@ -5489,9 +5508,9 @@
       "name": "Tarjeta de Memoria Verbatim Micro SD Premium 32GB",
       "url": "https://www.carrefour.es/tarjeta-de-memoria-verbatim-micro-sd-premium-32gb/2003921035/p",
       "store": "Carrefour",
-      "current_price": 14.61,
-      "original_price": 17.53,
-      "discount_pct": 16.66,
+      "current_price": 14.67,
+      "original_price": 17.6,
+      "discount_pct": 16.65,
       "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/961768_00_1.jpg",
       "category": "Componentes",
       "price_history": [
@@ -5500,7 +5519,7 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 13.91,
+      "prev_price": 14.61,
       "drop_pct": null
     },
     {
@@ -6302,24 +6321,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 463.41,
-      "drop_pct": null
-    },
-    {
-      "name": "Tablet TCL 11 Gen2, MTK Helio G80 (MT8786), 6GB RAM (+6GB Extensión RAM), 256GB, 10.9\" - 27.68 cm, WIFI, Android 14 - Gris",
-      "url": "https://www.carrefour.es/tablet-tcl-11-gen2-mtk-helio-g80-mt8786-6gb-ram-6gb-extension-ram-256gb-109-2768-cm-wifi-android-14-gris/VC4A-28105714/p",
-      "store": "Carrefour",
-      "current_price": 145.4,
-      "original_price": 167.21,
-      "discount_pct": 13.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/471518_00_1.jpg",
-      "category": "Componentes",
-      "price_history": [
-        145.4,
-        145.4
-      ],
-      "history_days": 2,
-      "is_lowest": true,
-      "prev_price": 145.4,
       "drop_pct": null
     },
     {
@@ -7464,25 +7465,6 @@
       "is_lowest": true,
       "prev_price": 106.95,
       "drop_pct": null
-    },
-    {
-      "name": "SAMSUNG TAB A11 8,7P/4 RAM/64GB/GRAY, 64 GB, Gris, 8,7 \" WXGA+, 4 GB RAM, MediaTek MT8781, Tablet Android",
-      "url": "https://www.mediamarkt.es/es/product/_samsung-sm-x130nzaaeub-64-gb-gris-87-wqxga-4-gb-ram-mediatek-mt8781-tablet-android-162756360.html",
-      "store": "MediaMarkt",
-      "current_price": 151.1,
-      "original_price": 160.17,
-      "discount_pct": 5.66,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179205487",
-      "category": "Informática",
-      "price_history": [
-        144.41,
-        144.41,
-        151.1
-      ],
-      "history_days": 3,
-      "is_lowest": false,
-      "prev_price": 151.15,
-      "drop_pct": 0.03
     },
     {
       "name": "Smart TV QNED evo 50\" (127 cm) LG 50QNED8EB3F con IA, 4K MiniLED, 60 Hz, Procesador Inteligente a7 AI Processor 4K Gen9, Dolby Digital Plus, AI Sound Pro",
