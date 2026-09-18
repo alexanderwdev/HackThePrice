@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T20:03:08.815424+00:00",
+  "updated": "2026-09-18T20:23:06.750673+00:00",
   "total_products": 1002,
   "deals": [
     {
@@ -1143,7 +1143,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 129.0,
       "drop_pct": null
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 949.0,
       "drop_pct": null
     },
     {
@@ -1801,7 +1801,7 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 439.0,
+      "prev_price": 679.0,
       "drop_pct": null
     },
     {
@@ -2116,6 +2116,25 @@
       "drop_pct": null
     },
     {
+      "name": "Logitech G29 Driving Force + Auriculares G435 PC - PS5 - PS4 - PS3 - Licencia PlayStation - Volante",
+      "url": "https://www.game.es/accesorios/volante/pc-gaming/logitech-g29-driving-force-auriculares-g435-pc-ps5-ps4-ps3-licencia-playstation-volante/238383",
+      "store": "GAME",
+      "current_price": 199.99,
+      "original_price": 219.99,
+      "discount_pct": 9.09,
+      "image_url": "https://media.game.es/COVERV2/3D_L/238/238383.png",
+      "category": "Gaming",
+      "price_history": [
+        219.99,
+        199.99,
+        199.99
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 199.99,
+      "drop_pct": null
+    },
+    {
       "name": "StarTech.com Cable de Red Ethernet Snagless Sin Enganches Cat 6 Cat6 Gigabit 15m - Negro",
       "url": "https://www.game.es/cables-adaptadores/fibra-optica/pc-gaming/startechcom-cable-de-red-ethernet-snagless-sin-enganches-cat-6-cat6-gigabit-15m-negro/v018ss",
       "store": "GAME",
@@ -2151,6 +2170,24 @@
       "drop_pct": null
     },
     {
+      "name": "Logitech G321 Lightspeed Wireless Bluetooth Negro PC - PS5 - PS4 - Switch - Movil - Auriculares Gaming",
+      "url": "https://www.game.es/accesorios/auriculares/pc-gaming/logitech-g321-lightspeed-wireless-bluetooth-negro-pc-ps5-ps4-switch-movil-auriculares-gaming/252243",
+      "store": "GAME",
+      "current_price": 34.99,
+      "original_price": 37.99,
+      "discount_pct": 7.9,
+      "image_url": "https://media.game.es/COVERV2/3D_L/252/252243.png",
+      "category": "Gaming",
+      "price_history": [
+        34.99,
+        34.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 34.99,
+      "drop_pct": null
+    },
+    {
       "name": "Figura Bitty POP Town DC Comics Superman Fortaleza de la Soledad",
       "url": "https://www.game.es/figuras/funko-pop/merchandising/figura-bitty-pop-town-dc-comics-superman-fortaleza-de-la-soledad/v1ijfq",
       "store": "GAME",
@@ -2165,6 +2202,24 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": null,
+      "drop_pct": null
+    },
+    {
+      "name": "Logitech G29 Driving Force PC - PS5 - PS4 - PS3 - Licencia PlayStation - Volante",
+      "url": "https://www.game.es/accesorios/volante/pc-gaming/logitech-g29-driving-force-pc-ps5-ps4-ps3-licencia-playstation-volante/115279",
+      "store": "GAME",
+      "current_price": 189.99,
+      "original_price": 204.99,
+      "discount_pct": 7.32,
+      "image_url": "https://media.game.es/COVERV2/3D_L/115/115279.png",
+      "category": "Gaming",
+      "price_history": [
+        189.99,
+        189.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 189.99,
       "drop_pct": null
     },
     {
@@ -2254,7 +2309,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 1989.0,
       "drop_pct": null
     }
   ]
