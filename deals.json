@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T22:01:56.595175+00:00",
-  "total_products": 615,
+  "updated": "2026-09-24T22:19:56.640531+00:00",
+  "total_products": 617,
   "deals": [
     {
       "name": "EKWB EK-Quantum Torque Pack HDC 12 Nickel - Accesorio Racor",
@@ -282,6 +282,25 @@
       "drop_pct": null
     },
     {
+      "name": "Marvel's Spider-Man 2 para PS5",
+      "url": "https://www.carrefour.es/marvels-spider-man-2-para-ps5/VC4A-23010912/p",
+      "store": "Carrefour",
+      "current_price": 36.9,
+      "original_price": 69.99,
+      "discount_pct": 47.28,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/255002_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        69.99,
+        69.99,
+        36.9
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 69.99,
+      "drop_pct": 47.28
+    },
+    {
       "name": "Pack PC gaming - BEASTCOM Q3 Essential Gaming, AMD Ryzen™ 5 3400G, 16 GB RAM, 512 GB SSD, Radeon™ RX Vega 11, Windows 11 Home, Monitor 24 \" Full-HD, Negro",
       "url": "https://www.mediamarkt.es/es/product/_pack-pc-gaming-q3-essential-gaming-beastcom-negro-143520593.html",
       "store": "MediaMarkt",
@@ -502,6 +521,43 @@
       "drop_pct": null
     },
     {
+      "name": "Ratón HP 100 - Negro",
+      "url": "https://www.carrefour.es/raton-hp-100-negro/VC4A-14040923/p",
+      "store": "Carrefour",
+      "current_price": 5.99,
+      "original_price": 9.9,
+      "discount_pct": 39.49,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/676573_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        5.99,
+        5.99
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 5.99,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora láser - HP LaserJet M207dw, Impresión doble cara, Monocromo, Wi-Fi",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-laser-hp-laserjet-m207dw-panel-de-control-con-led-usb-wi-fi-impresion-doble-cara-automatica-blanco-1583581.html",
+      "store": "MediaMarkt",
+      "current_price": 94.0,
+      "original_price": 154.9,
+      "discount_pct": 39.32,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146974678",
+      "category": "Informática",
+      "price_history": [
+        94.0,
+        94.0,
+        94.0
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 94.0,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV QLED 43\" (109,22 cm) Samsung TQ43Q7FAAU con IA, , 4K UHD, 50 Hz, HDR, OTS Lite, Q-Symphony, Adaptive Sound",
       "url": "https://www.carrefour.es/smart-tv-qled-43-10922-cm-samsung-tq43q7faau-con-ia-4k-uhd-50-hz-hdr-ots-lite-q-symphony-adaptive-sound/VC4A-30789096/p",
       "store": "Carrefour",
@@ -590,6 +646,24 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 399.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora Multifunción HP Smart Tank 5106 AIO, Inyección de tinta térmica, Wifi, Color, 12ppm, Hasta 3 años de tinta incluida",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-smart-tank-5106-aio-inyeccion-de-tinta-termica-wifi-color-12ppm-hasta-3-anos-de-tinta-incluida/VC4A-22680579/p",
+      "store": "Carrefour",
+      "current_price": 159.0,
+      "original_price": 249.9,
+      "discount_pct": 36.37,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/190086_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        159.0,
+        159.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 159.0,
       "drop_pct": null
     },
     {
@@ -751,6 +825,24 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 59.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Tarjeta de Memoria Intenso Micro SD 64GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-micro-sd-64gb/2002210667/p",
+      "store": "Carrefour",
+      "current_price": 9.9,
+      "original_price": 14.9,
+      "discount_pct": 33.56,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/955985_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        9.9,
+        9.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 9.9,
       "drop_pct": null
     },
     {
@@ -933,6 +1025,24 @@
       "is_lowest": true,
       "prev_price": 109.0,
       "drop_pct": null
+    },
+    {
+      "name": "Saros para PS5",
+      "url": "https://www.carrefour.es/saros-para-ps5/VC4A-32579905/p",
+      "store": "Carrefour",
+      "current_price": 54.9,
+      "original_price": 79.99,
+      "discount_pct": 31.37,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/682405_00_1.jpg",
+      "category": "Gaming",
+      "price_history": [
+        61.99,
+        54.9
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 61.99,
+      "drop_pct": 11.44
     },
     {
       "name": "Asus GeForce GT 710 SL EVO BRK 2GB GDDR5",
@@ -1130,6 +1240,24 @@
       "drop_pct": null
     },
     {
+      "name": "Impresora Multifunción HP Envy 6130E, Inyección de Tinta Térmica, Wifi, Color, Hasta 10 ppm, 3 Meses Instant Ink con HP+",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-envy-6130e-inyeccion-de-tinta-termica-wifi-color-hasta-10-ppm-3-meses-instant-ink-con-hp/VC4A-29604371/p",
+      "store": "Carrefour",
+      "current_price": 69.0,
+      "original_price": 95.0,
+      "discount_pct": 27.37,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/537720_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        69.0,
+        69.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 69.0,
+      "drop_pct": null
+    },
+    {
       "name": "Impresora multifunción tinta - HP Envy 6122e, Serie 6020, HP+, Wi-Fi, Fax móvil, Impresión fotográfica a doble cara automática, Instant Ink, Blanco",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-envy-6122e-hp-wi-fi-fax-movil-impresion-fotografica-a-doble-cara-automatica-blanco-1587274.html",
       "store": "MediaMarkt",
@@ -1147,6 +1275,24 @@
       "is_lowest": true,
       "prev_price": 69.0,
       "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil  Acer Chromebook 314 CBOA314-1H-C8HS, Celeron N4500, 4GB, 64GB eMMC, FHD, 14\" - 35,56 cm, ChromeOS",
+      "url": "https://www.carrefour.es/ordenador-portatil-acer-chromebook-314-cboa314-1h-c8hs-celeron-n4500-4gb-64gb-emmc-fhd-14-3556-cm-chromeos/VC4A-30109915/p",
+      "store": "Carrefour",
+      "current_price": 203.15,
+      "original_price": 279.0,
+      "discount_pct": 27.19,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/555006_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        229.0,
+        203.15
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 229.0,
+      "drop_pct": 11.29
     },
     {
       "name": "Smart TV QLED 55\" (139,7 cm) Xiaomi L55MB-APEU con IA, 4K UHD, 120Hz, Dolby Audio, DTS-X, DTS Virtual: X support",
@@ -1342,6 +1488,24 @@
       "drop_pct": null
     },
     {
+      "name": "Impresora Multifunción HP DeskJet 2923E, Inyección de Tinta, Wifi, Color, 5,5 ppm, 3 Meses Instant Ink HP+",
+      "url": "https://www.carrefour.es/impresora-multifuncion-hp-deskjet-2923e-inyeccion-de-tinta-wifi-color-55-ppm-3-meses-instant-ink-hp/VC4A-33279425/p",
+      "store": "Carrefour",
+      "current_price": 45.0,
+      "original_price": 59.9,
+      "discount_pct": 24.87,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706409_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        45.0,
+        45.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 45.0,
+      "drop_pct": null
+    },
+    {
       "name": "Impresora multifunción tinta – HP DeskJet 2921, Impresión, Copia, Escáner, Wi-Fi, HP Instant Ink, Gris",
       "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-deskjet-2921-impresion-copia-escaner-wi-fi-hp-instant-ink-gris-1608553.html",
       "store": "MediaMarkt",
@@ -1429,6 +1593,25 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 329.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Impresora multifunción láser - HP LaserJet Pro 3302sdw, Wi-Fi, Impresión a doble cara, Pantalla táctil CGD, Wolf Pro Security, Gris",
+      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-laserjet-pro-3302sdw-laser-wi-fi-impresion-a-doble-cara-pantalla-tactil-cgd-wolf-pro-security-gris-1574431.html",
+      "store": "MediaMarkt",
+      "current_price": 284.0,
+      "original_price": 369.9,
+      "discount_pct": 23.22,
+      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_140259060",
+      "category": "Informática",
+      "price_history": [
+        284.0,
+        284.0,
+        284.0
+      ],
+      "history_days": 3,
+      "is_lowest": true,
+      "prev_price": 284.0,
       "drop_pct": null
     },
     {
@@ -1853,6 +2036,23 @@
       "drop_pct": null
     },
     {
+      "name": "Ordenador Portátil Acer Aspire Go 15, Ryzen 7 5825U, 16GB, 512GB SSD, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-go-15-ryzen-7-5825u-16gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-31541384/p",
+      "store": "Carrefour",
+      "current_price": 560.15,
+      "original_price": 699.0,
+      "discount_pct": 19.86,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/424606_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        560.15
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": null,
+      "drop_pct": null
+    },
+    {
       "name": "Smart TV LED 32'' (81,28 cm) Hisense 32A4S, HD, 60 Hz, Procesador NT72690, Dolby MS12",
       "url": "https://www.carrefour.es/smart-tv-led-32-8128-cm-hisense-32a4s-hd-60-hz-procesador-nt72690-dolby-ms12/VC4A-33279498/p",
       "store": "Carrefour",
@@ -2047,6 +2247,24 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet Lenovo  IDea Tab, MediaTek Dimensity 6300, 8Gb Ram ,256 Gb, 11'', Pen, Android™ 15,",
+      "url": "https://www.carrefour.es/tablet-lenovo-idea-tab-mediatek-dimensity-6300-8gb-ram-256-gb-11-pen-android-15/VC4A-31455792/p",
+      "store": "Carrefour",
+      "current_price": 215.81,
+      "original_price": 258.97,
+      "discount_pct": 16.67,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/645087_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        219.0,
+        215.81
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 219.0,
+      "drop_pct": 1.46
+    },
+    {
       "name": "Razer Basilisk V3 X HyperSpeed Bluetooth Optico 18000 DPI - Raton Gaming",
       "url": "https://www.game.es/accesorios/raton/pc-gaming/razer-basilisk-v3-x-hyperspeed-bluetooth-optico-18000-dpi-raton-gaming/v1h2si",
       "store": "GAME",
@@ -2118,8 +2336,8 @@
       ],
       "history_days": 3,
       "is_lowest": true,
-      "prev_price": 464.0,
-      "drop_pct": 4.22
+      "prev_price": 444.42,
+      "drop_pct": null
     },
     {
       "name": "Memory Card para Neo-Geo AES+ - Negro",
@@ -2154,7 +2372,7 @@
       ],
       "history_days": 1,
       "is_lowest": false,
-      "prev_price": 198.84,
+      "prev_price": 198.89,
       "drop_pct": null
     },
     {
@@ -2226,6 +2444,24 @@
       "drop_pct": null
     },
     {
+      "name": "Tarjeta de Memoria Intenso 32GB",
+      "url": "https://www.carrefour.es/tarjeta-de-memoria-intenso-32gb/366909250/p",
+      "store": "Carrefour",
+      "current_price": 11.51,
+      "original_price": 13.81,
+      "discount_pct": 16.65,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/892433_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        11.46,
+        11.51
+      ],
+      "history_days": 2,
+      "is_lowest": false,
+      "prev_price": 11.46,
+      "drop_pct": null
+    },
+    {
       "name": "Asus Dual GeForce RTX 3050 V2 OC Edition 8GB GDDR6",
       "url": "https://www.coolmod.com/asus-dual-geforce-rtx-3050-v2-oc-edition-8gb-gddr6/",
       "store": "Coolmod",
@@ -2260,6 +2496,24 @@
       "is_lowest": true,
       "prev_price": 779.0,
       "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil Acer Aspire 3 A315-44P, Ryzen 7 5700U, 32GB, 512GB SSD, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-acer-aspire-3-a315-44p-ryzen-7-5700u-32gb-512gb-ssd-fhd-156-3962-cm-w11/VC4A-29898119/p",
+      "store": "Carrefour",
+      "current_price": 670.65,
+      "original_price": 799.0,
+      "discount_pct": 16.06,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/548518_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        819.0,
+        670.65
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 819.0,
+      "drop_pct": 18.11
     },
     {
       "name": "Smart TV MiniLED 55'' (139,7 cm) TCL 55P8L con IA, 4K UHD, 144 Hz, HDR10+, HLG, HDR10, Dolby Vision, Dolby Atmos, DTS:X, DTS VIRTUAL:X.",
@@ -2391,6 +2645,42 @@
       "drop_pct": null
     },
     {
+      "name": "Ordenador Portátil Asus Vivobook F1504VA-BQ127W, i5 120U, 16GB, 1TB SSD, FHD, 15,6\" - 39,62 cm, W11",
+      "url": "https://www.carrefour.es/ordenador-portatil-asus-vivobook-f1504va-bq127w-i5-120u-16gb-1tb-ssd-fhd-156-3962-cm-w11/VC4A-31279540/p",
+      "store": "Carrefour",
+      "current_price": 629.0,
+      "original_price": 739.0,
+      "discount_pct": 14.88,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/629278_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        629.0,
+        629.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 629.0,
+      "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil Lenovo IdeaPad Slim 3 15ARP10, Ryzen 7  170, 16GB, 1TB SSD, WUXGA, 15,3\" - 38,86 cm W11 Home con Mochila y Ratón",
+      "url": "https://www.carrefour.es/ordenador-portatil-lenovo-ideapad-slim-3-15arp10-ryzen-7-170-16gb-1tb-ssd-wuxga-153-3886-cm-w11-home-con-mochila-y-raton/VC4A-34091035/p",
+      "store": "Carrefour",
+      "current_price": 699.0,
+      "original_price": 819.0,
+      "discount_pct": 14.65,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/726504_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        879.0,
+        699.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 879.0,
+      "drop_pct": 20.48
+    },
+    {
       "name": "Portátil gaming - Acer Nitro V 16S ANV16S-71-755L, 16\" WQXGA, Intel® Core™ 7 240H, 32GB RAM, 1 TB SSD, GeForce RTX™ 5060, Sin sistema operativo",
       "url": "https://www.mediamarkt.es/es/product/_portatil-gaming-acer-nitro-v-16s-anv16s-71-755l-16-wqxga-intelr-coretm-7-240h-32gb-ram-1-tb-ssd-geforce-rtxtm-5060-sin-sistema-operativo-1607290.html",
       "store": "MediaMarkt",
@@ -2405,25 +2695,6 @@
       "history_days": 1,
       "is_lowest": true,
       "prev_price": 1249.0,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora láser - HP LaserJet M207dw, Impresión doble cara, Monocromo, Wi-Fi",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-laser-hp-laserjet-m207dw-panel-de-control-con-led-usb-wi-fi-impresion-doble-cara-automatica-blanco-1583581.html",
-      "store": "MediaMarkt",
-      "current_price": 94.0,
-      "original_price": 109.0,
-      "discount_pct": 13.76,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146974678",
-      "category": "Informática",
-      "price_history": [
-        94.0,
-        94.0,
-        94.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 94.0,
       "drop_pct": null
     },
     {
@@ -2463,6 +2734,24 @@
       "drop_pct": null
     },
     {
+      "name": "Tablet TCL Tab 10L GEN4 Mediatek MT8786, 4GB RAM, 128GB, 10,1\" - 25,65 cm, Android 15",
+      "url": "https://www.carrefour.es/tablet-tcl-tab-10l-gen4-mediatek-mt8786-4gb-ram-128gb-101-2565-cm-android-15/VC4A-31657427/p",
+      "store": "Carrefour",
+      "current_price": 129.0,
+      "original_price": 149.0,
+      "discount_pct": 13.42,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/653625_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        129.0,
+        129.0
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 129.0,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor - PEAQ PMO S245-VFC, 24\" Full-HD, 120 Hz, 6 ms, VA, FreeSync, Negro",
       "url": "https://www.mediamarkt.es/es/product/_monitor-peaq-pmo-s245-vfc-24-full-hd-120-hz-6-ms-va-freesync-negro-1601784.html",
       "store": "MediaMarkt",
@@ -2480,23 +2769,6 @@
       "is_lowest": true,
       "prev_price": 64.99,
       "drop_pct": null
-    },
-    {
-      "name": "Smart TV LED 32\" (81,28 cm) Samsung TU32H5005FK, HD, 50 Hz, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
-      "url": "https://www.carrefour.es/smart-tv-led-32-8128-cm-samsung-tu32h5005fk-hd-50-hz-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-33349585/p",
-      "store": "Carrefour",
-      "current_price": 237.94,
-      "original_price": 273.63,
-      "discount_pct": 13.04,
-      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706424_00_1.jpg",
-      "category": "TV y Audio",
-      "price_history": [
-        237.94
-      ],
-      "history_days": 1,
-      "is_lowest": true,
-      "prev_price": 237.95,
-      "drop_pct": 0.0
     },
     {
       "name": "Tablet - Lenovo Idea Tab, Wifi Only, 11\" 2.5K , 8GB RAM, 256GB, Incluye Teclado y lápiz digital, Gris",
@@ -2776,25 +3048,6 @@
       "history_days": 3,
       "is_lowest": true,
       "prev_price": 239.99,
-      "drop_pct": null
-    },
-    {
-      "name": "Impresora multifunción láser - HP LaserJet Pro 3302sdw, Wi-Fi, Impresión a doble cara, Pantalla táctil CGD, Wolf Pro Security, Gris",
-      "url": "https://www.mediamarkt.es/es/product/_impresora-multifuncion-hp-laserjet-pro-3302sdw-laser-wi-fi-impresion-a-doble-cara-pantalla-tactil-cgd-wolf-pro-security-gris-1574431.html",
-      "store": "MediaMarkt",
-      "current_price": 284.0,
-      "original_price": 319.0,
-      "discount_pct": 10.97,
-      "image_url": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_140259060",
-      "category": "Informática",
-      "price_history": [
-        284.0,
-        284.0,
-        284.0
-      ],
-      "history_days": 3,
-      "is_lowest": true,
-      "prev_price": 284.0,
       "drop_pct": null
     },
     {
@@ -3082,6 +3335,23 @@
       "drop_pct": null
     },
     {
+      "name": "Smart TV LED 32\" (81,28 cm) Samsung TU32H5005FK, HD, 50 Hz, OTS Lite, Q-Symphony, Audio Pre-selection Descriptor",
+      "url": "https://www.carrefour.es/smart-tv-led-32-8128-cm-samsung-tu32h5005fk-hd-50-hz-ots-lite-q-symphony-audio-pre-selection-descriptor/VC4A-33349585/p",
+      "store": "Carrefour",
+      "current_price": 237.95,
+      "original_price": 261.0,
+      "discount_pct": 8.83,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/706424_00_1.jpg",
+      "category": "TV y Audio",
+      "price_history": [
+        237.94
+      ],
+      "history_days": 1,
+      "is_lowest": true,
+      "prev_price": 237.94,
+      "drop_pct": null
+    },
+    {
       "name": "Monitor LED 24\" (60,96 cm) LG 24TQ510S, HD, Smart TV, Dolby Audio",
       "url": "https://www.carrefour.es/monitor-led-24-6096-cm-lg-24tq510s-hd-smart-tv-dolby-audio/VC4A-18448471/p",
       "store": "Carrefour",
@@ -3205,6 +3475,24 @@
       "is_lowest": true,
       "prev_price": 649.0,
       "drop_pct": null
+    },
+    {
+      "name": "Ordenador Portátil HP 250 G7 I3-10110U 8GB, 256GB SSD, Full HD 15,4\", W11 Pro, Reacondicionado Grado A",
+      "url": "https://www.carrefour.es/ordenador-portatil-hp-250-g7-i3-10110u-8gb-256gb-ssd-full-hd-154-w11-pro-reacondicionado-grado-a/VC4A-33279428/p",
+      "store": "Carrefour",
+      "current_price": 373.36,
+      "original_price": 399.5,
+      "discount_pct": 6.54,
+      "image_url": "https://static.carrefour.es/hd_350x_/crs/cdn_static/catalog/hd/705626_00_1.jpg",
+      "category": "Componentes",
+      "price_history": [
+        462.99,
+        373.36
+      ],
+      "history_days": 2,
+      "is_lowest": true,
+      "prev_price": 462.99,
+      "drop_pct": 19.36
     },
     {
       "name": "Tablet - TCL TAB 11 Gen2, 11\" Full HD+, 6 GB RAM, 256 GB, Gris",
