@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:36:43.187856+00:00",
+  "updated": "2026-10-07T20:55:11.929152+00:00",
   "total_products": 1039,
   "deals": [
     {
@@ -368,7 +368,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 35.99,
       "drop_pct": null
     },
     {
@@ -385,7 +385,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.99,
       "drop_pct": null
     },
     {
@@ -466,7 +466,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 19.99,
       "drop_pct": null
     },
     {
@@ -483,7 +483,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 19.99,
       "drop_pct": null
     },
     {
@@ -731,7 +731,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.99,
       "drop_pct": null
     },
     {
@@ -916,8 +916,8 @@
       ],
       "history_days": 15,
       "is_lowest": false,
-      "prev_price": 589.0,
-      "drop_pct": 15.28
+      "prev_price": 499.0,
+      "drop_pct": null
     },
     {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" Full-HD, Intel® Core™ i5-13420H, 16GB RAM, 512GB SSD, UHD Graphics, Sin SO, Sin cargador",
@@ -1072,7 +1072,7 @@
       ],
       "history_days": 14,
       "is_lowest": false,
-      "prev_price": 489.0,
+      "prev_price": 499.0,
       "drop_pct": null
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 49.99,
       "drop_pct": null
     },
     {
@@ -1165,8 +1165,8 @@
       ],
       "history_days": 8,
       "is_lowest": false,
-      "prev_price": 1569.0,
-      "drop_pct": 10.83
+      "prev_price": 1399.0,
+      "drop_pct": null
     },
     {
       "name": "Gigabyte GeForce RTX 3050 WindForce OC V2 6GB GDDR6 DLSS3",
@@ -1229,8 +1229,8 @@
       ],
       "history_days": 16,
       "is_lowest": false,
-      "prev_price": 1289.0,
-      "drop_pct": 6.98
+      "prev_price": 1199.0,
+      "drop_pct": null
     },
     {
       "name": "Monitor - Lenovo L24D-4C, 23.8\" Full-HD, 144 Hz, 1 ms, IPS, FreeSync, Docking USB-C, Ajustable altura, Altavoces integrados",
@@ -1303,8 +1303,8 @@
       ],
       "history_days": 5,
       "is_lowest": false,
-      "prev_price": 74.99,
-      "drop_pct": 1.32
+      "prev_price": 74.0,
+      "drop_pct": null
     },
     {
       "name": "Monitor - Acer SA273P1BI, 27\" Full-HD, 144 Hz, 4 ms, IPS,  1x VGA, 1x HDMI 1.4, FreeSync, Negro",
@@ -1378,7 +1378,7 @@
       ],
       "history_days": 4,
       "is_lowest": false,
-      "prev_price": 659.0,
+      "prev_price": 699.0,
       "drop_pct": null
     },
     {
@@ -1545,7 +1545,7 @@
       ],
       "history_days": 16,
       "is_lowest": false,
-      "prev_price": 197.99,
+      "prev_price": 199.0,
       "drop_pct": null
     },
     {
@@ -1764,7 +1764,7 @@
       ],
       "history_days": 2,
       "is_lowest": false,
-      "prev_price": 335.0,
+      "prev_price": 449.0,
       "drop_pct": null
     },
     {
@@ -1792,8 +1792,8 @@
       ],
       "history_days": 12,
       "is_lowest": false,
-      "prev_price": 1179.0,
-      "drop_pct": 15.27
+      "prev_price": 999.0,
+      "drop_pct": null
     },
     {
       "name": "Asus Vivobook Go 15 E1504FA-BQ5080W AMD Ryzen 5 7520U 8GB 512GB 15.6 W11H",
@@ -1859,7 +1859,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 24.99,
       "drop_pct": null
     },
     {
@@ -1955,8 +1955,8 @@
       ],
       "history_days": 16,
       "is_lowest": false,
-      "prev_price": 62.9,
-      "drop_pct": 12.72
+      "prev_price": 54.9,
+      "drop_pct": null
     },
     {
       "name": "Monitor - PEAQ PMO S275-VFC, 27\" Full-HD, 75 Hz, 6 ms, VA, FreeSync, Negro",
@@ -1983,8 +1983,8 @@
       ],
       "history_days": 12,
       "is_lowest": false,
-      "prev_price": 89.9,
-      "drop_pct": 5.56
+      "prev_price": 84.9,
+      "drop_pct": null
     },
     {
       "name": "Portátil - ASUS Vivobook 16 F1607CA-MB301, 16 \" WUXGA, Intel® Core™ Ultra 7 255H, 16 GB RAM, 512 GB SSD, Arc™ 140V, SSO, Sin cargador",
@@ -2065,8 +2065,8 @@
       ],
       "history_days": 16,
       "is_lowest": false,
-      "prev_price": 74.9,
-      "drop_pct": 13.35
+      "prev_price": 64.9,
+      "drop_pct": null
     },
     {
       "name": "Tablet - Xiaomi Redmi Pad 2 Pro, Wifi, 12.1\" WQHD, 6 GB RAM, 128 GB, Qualcomm Snapdragon® 7s Gen 4, Gray",
@@ -2091,8 +2091,8 @@
       ],
       "history_days": 10,
       "is_lowest": false,
-      "prev_price": 269.0,
-      "drop_pct": 3.72
+      "prev_price": 259.0,
+      "drop_pct": null
     },
     {
       "name": "Tablet - Samsung Galaxy Tab S10 FE, 10.9\" WUXGA+, 8 GB RAM, 128 GB, Gris, Con S Pen",
@@ -2123,7 +2123,7 @@
       ],
       "history_days": 16,
       "is_lowest": false,
-      "prev_price": 415.0,
+      "prev_price": 549.0,
       "drop_pct": null
     },
     {
@@ -2179,7 +2179,7 @@
       ],
       "history_days": 8,
       "is_lowest": false,
-      "prev_price": 197.52,
+      "prev_price": 239.0,
       "drop_pct": null
     },
     {
@@ -2470,8 +2470,8 @@
       ],
       "history_days": 11,
       "is_lowest": false,
-      "prev_price": 1429.0,
-      "drop_pct": 2.1
+      "prev_price": 1399.0,
+      "drop_pct": null
     },
     {
       "name": "Portátil - HP OmniBook 3 16-by0021ns, 16\" 2K OLED, AMD Ryzen™ 7 160, 16 GB RAM, 512 GB SSD, Radeon™ 680M, Windows 11 Home, Sin cargador",
@@ -2489,8 +2489,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 899.0,
-      "drop_pct": 5.56
+      "prev_price": 849.0,
+      "drop_pct": null
     },
     {
       "name": "Apple iPad Air (2026), 128 GB, Púrpura, 11\" Liquid Retina, WIFI, Chip M4, 9 GPU",
@@ -2514,7 +2514,7 @@
       ],
       "history_days": 9,
       "is_lowest": false,
-      "prev_price": 709.0,
+      "prev_price": 759.0,
       "drop_pct": null
     },
     {
@@ -2533,8 +2533,8 @@
       ],
       "history_days": 3,
       "is_lowest": false,
-      "prev_price": 129.9,
-      "drop_pct": 0.69
+      "prev_price": 129.0,
+      "drop_pct": null
     },
     {
       "name": "Portátil - Lenovo IdeaPad Slim 3 15IRH10, 15.3\" WUXGA, Intel® Core™ i5-13420H, 16GB, 512GB SSD, UHD Graphics, Windows 11 Home, Sin cargador",
@@ -2564,8 +2564,8 @@
       ],
       "history_days": 15,
       "is_lowest": false,
-      "prev_price": 699.0,
-      "drop_pct": 4.29
+      "prev_price": 669.0,
+      "drop_pct": null
     },
     {
       "name": "Apple MacBook Neo (2026), 13\" Liquid Retina, Chip A18Pro, CPU 6 núcleos + GPU 5 núcleos, 8GB RAM, 512GB SSD, Magic Keyboard TouchID, Rosa nube, Sin AC",
@@ -2581,7 +2581,7 @@
       ],
       "history_days": 1,
       "is_lowest": true,
-      "prev_price": null,
+      "prev_price": 869.0,
       "drop_pct": null
     }
   ]
